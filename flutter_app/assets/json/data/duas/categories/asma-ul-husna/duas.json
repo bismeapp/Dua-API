@@ -1,0 +1,43 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "asma-ul-husna",
+  "count": 1,
+  "duas": [
+    {
+      "id": "ah-1",
+      "category_id": "asma-ul-husna",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Introduction to Asma ul Husna",
+        "ar": "مقدمة أسماء الله الحسنى",
+        "ur": "اسماء اللہ الحسنی کا تعارف",
+        "fr": "Introduction aux 99 Noms",
+        "tr": "Esmaü'l-Hüsna'ya Giriş",
+        "id": "Pengantar Asmaul Husna",
+        "bn": "আসমাউল হুসনার পরিচিতি",
+        "ms": "Pengenalan Asmaul Husna",
+        "ta": "அஸ்மாவுல் ஹுஸ்னா அறிமுகம்",
+        "ml": "അൽ-അസ്മാഉൽ ഹുസ്നാ അവതാരം"
+      },
+      "arabic": "وَلِلَّهِ الأَسْمَاءُ الْحُسْنَى فَادْعُوهُ بِهَا",
+      "translation": {
+        "en": "And to Allah belong the best names, so invoke Him by them.",
+        "ar": "ولله الأسماء الحسنى فادعوه بها",
+        "ur": "اور اللہ کے لیے بہترین نام ہیں، پس ان سے اسے پکارو۔",
+        "fr": "Et à Allah appartiennent les plus beaux noms, invoquez-Le donc par eux.",
+        "tr": "En güzel isimler Allah'ındır, O'na bunlarla dua edin.",
+        "id": "Dan hanya milik Allah nama-nama yang terbaik, maka bermohonlah kepada-Nya dengan menyebut nama-nama itu.",
+        "bn": "আর আল্লাহর জন্য সুন্দরতম নামসমূহ, সুতরাং তাঁকে সেই নামে আহ্বান করো।",
+        "ms": "Dan bagi Allah nama-nama yang terbaik, maka berdoalah kepada-Nya dengan nama-nama itu.",
+        "ta": "அழகிய பெயர்கள் அல்லாஹ்வுக்கே உரியவை, எனவே அவற்றைக் கொண்டு அவனை அழையுங்கள்.",
+        "ml": "സുന്ദരമായ നാമങ്ങൾ അല്ലാഹുവിനുടേതാണ്, അതിനാൽ അവ ഉപയോഗിച്ച് അവനോട് പ്രാർത്ഥിക്കുക."
+      },
+      "reference": {
+        "source": "Quran",
+        "reference_text": "Quran 7:180"
+      },
+      "repetition_count": 1
+    }
+  ]
+}

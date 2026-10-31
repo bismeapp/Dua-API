@@ -1,0 +1,43 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "asma-ul-anbiya",
+  "count": 1,
+  "duas": [
+    {
+      "id": "aa-1",
+      "category_id": "asma-ul-anbiya",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "25 Prophets Mentioned in Quran",
+        "ar": "25 نبي مذكور في القرآن",
+        "ur": "قرآن میں ذکر 25 انبیاء",
+        "fr": "25 Prophètes mentionnés dans le Coran",
+        "tr": "Kur'an'da Bahsedilen 25 Peygamber",
+        "id": "25 Nabi Disebutkan dalam Al-Quran",
+        "bn": "কুরআনে উল্লেখিত ২৫ নবী",
+        "ms": "25 Nabi Disebut dalam Al-Quran",
+        "ta": "குர்ஆனில் குறிப்பிடப்பட்ட 25 நபிமார்கள்",
+        "ml": "ഖുർആനിൽ പരാമർശിച്ച 25 നബിമാർ"
+      },
+      "arabic": "آدَمُ، نُوحٌ، إِبْرَاهِيمُ، مُوسَى، عِيسَى، مُحَمَّدٌ (صلى الله عليه وسلم)",
+      "translation": {
+        "en": "Adam, Noah, Abraham, Moses, Jesus, Muhammad (peace be upon them all)",
+        "ar": "آدم، نوح، إبراهيم، موسى، عيسى، محمد (صلى الله عليهم)",
+        "ur": "آدم، نوح، ابراہیم، موسیٰ، عیسیٰ، محمد ﷺ (سب پر سلامتی ہو)",
+        "fr": "Adam, Noé, Abraham, Moïse, Jésus, Muhammad (que la paix soit sur eux tous)",
+        "tr": "Âdem, Nuh, İbrahim, Musa, İsa, Muhammed (hepsine selam olsun)",
+        "id": "Adam, Nuh, Ibrahim, Musa, Isa, Muhammad (semoga keselamatan atas mereka semua)",
+        "bn": "আদম, নূহ, ইব্রাহীম, মূসা, ঈসা, মুহাম্মদ (সবাইকে সালাম)",
+        "ms": "Adam, Nuh, Ibrahim, Musa, Isa, Muhammad (selawat ke atas mereka semua)",
+        "ta": "ஆதம், நூஹ், இப்ராஹீம், மூஸா, ஈஸா, முஹம்மது (அவர்கள் அனைவர் மீதும் சாந்தி)",
+        "ml": "ആദം, നൂഹ്, ഇബ്രാഹീം, മൂസാ, ഈസാ, മുഹമ്മദ് (അവരെല്ലാവരുടെയും മേൽ സമാധാനമുണ്ടാകട്ടെ)"
+      },
+      "reference": {
+        "source": "Quran",
+        "reference_text": "Quran"
+      },
+      "repetition_count": 1
+    }
+  ]
+}

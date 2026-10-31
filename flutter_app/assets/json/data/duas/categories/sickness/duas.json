@@ -1,0 +1,79 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "sickness",
+  "count": 2,
+  "duas": [
+    {
+      "id": "sck-1",
+      "category_id": "sickness",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Visiting the Sick",
+        "ar": "زيارة المريض",
+        "ur": "بیمار کی عیادت",
+        "fr": "Visiter les Malades",
+        "tr": "Hasta Ziyareti",
+        "id": "Menjenguk Orang Sakit",
+        "bn": "অসুস্থ ব্যক্তির দেখা",
+        "ms": "Melawat Orang Sakit",
+        "ta": "நோயாளியை சந்திக்கும்போது",
+        "ml": "രോഗിയെ സന്ദർശിക്കുമ്പോൾ"
+      },
+      "arabic": "لاَ بَأْسَ، طَهُورٌ إِنْ شَاءَ اللهُ",
+      "translation": {
+        "en": "No worry, it is a purification, if Allah wills.",
+        "ar": "لا بأس، طهور إن شاء الله",
+        "ur": "کوئی بات نہیں، انشاءاللہ یہ گناہوں کی پاکیزگی ہے۔",
+        "fr": "Pas de souci, c'est une purification, si Allah veut.",
+        "tr": "Endişe etme; Allah dilerse bu bir arınmadır.",
+        "id": "Tidak apa-apa, itu adalah penyucian, jika Allah menghendaki.",
+        "bn": "চিন্তা নেই, আল্লাহ চাইলে এটি পবিত্রতা।",
+        "ms": "Tidak apa-apa, itu adalah penyucian, jika Allah menghendaki.",
+        "ta": "கவலைப்படாதீர்கள், அல்லாஹ் நாடினால் இது பரிசுத்தமாக்கலாகும்.",
+        "ml": "വിഷമമില്ല, അല്ലാഹു ഉദ്ദേശിക്കുമ്പോൾ ഇത് ശുദ്ധീകരണമാണ്."
+      },
+      "reference": {
+        "source": "Bukhari",
+        "reference_text": "Bukhari 4/55"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "sck-2",
+      "category_id": "sickness",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "Dua for Patients’ Recovery",
+        "ta": "நோயாளிகள் குணமடைவதற்கான துஆ",
+        "ml": "രോഗികൾക്ക് രോഗമുക്തിക്കുള്ള ദുആ",
+        "ar": "دعاء لشفاء المرضى",
+        "ur": "مریضوں کی شفا کی دعا",
+        "fr": "Invocation pour la guérison des malades",
+        "tr": "Hastaların şifası için dua",
+        "id": "Doa untuk kesembuhan orang sakit",
+        "bn": "রোগীদের সুস্থতার দোয়া",
+        "ms": "Doa untuk kesembuhan pesakit"
+      },
+      "arabic": "اللَّهُمَّ رَبَّ النَّاسِ، أَذْهِبِ الْبَأْسَ، اشْفِ أَنْتَ الشَّافِي، لاَ شِفَاءَ إِلاَّ شِفَاؤُكَ، شِفَاءً لاَ يُغَادِرُ سَقَمًا",
+      "translation": {
+        "en": "O Allah, Lord of the people, remove the suffering, heal — You are the Healer. There is no healing except Your healing, a healing that leaves no illness behind.",
+        "ar": "اللهم رب الناس أذهب البأس اشف أنت الشافي لا شفاء إلا شفاؤك شفاء لا يغادر سقما",
+        "ur": "اے اللہ! لوگوں کے رب! تکلیف دور فرما، شفا دے تو ہی شفا دینے والا ہے، تیری شفا کے سوا کوئی شفا نہیں، ایسی شفا جو کوئی بیماری باقی نہ رکھے۔",
+        "fr": "Ô Allah, Seigneur des gens, éloigne la souffrance, guéris — Tu es le Guérisseur. Il n'y a de guérison que Ta guérison, une guérison qui ne laisse aucune maladie.",
+        "tr": "Allah'ım! İnsanların Rabbi! Acıyı gider, şifa ver — Şifa veren Sensin. Senin şifandan başka şifa yoktur, öyle bir şifa ki hiçbir hastalık bırakmaz.",
+        "id": "Ya Allah, Tuhan manusia, hilangkanlah penderitaan, sembuhkanlah — Engkaulah Yang Maha Penyembuh. Tiada kesembuhan kecuali kesembuhan-Mu, kesembuhan yang tidak meninggalkan penyakit.",
+        "bn": "হে আল্লাহ, মানুষের রব, কষ্ট দূর করো, আরোগ্য দাও — তুমিই আরোগ্যদাতা। তোমার আরোগ্য ছাড়া কোনো আরোগ্য নেই, এমন আরোগ্য যা কোনো রোগ বাকী রাখে না।",
+        "ms": "Ya Allah, Tuhan manusia, hilangkanlah penderitaan, sembuhkanlah — Engkaulah Yang Maha Penyembuh. Tiada kesembuhan kecuali kesembuhan-Mu, kesembuhan yang tidak meninggalkan penyakit.",
+        "ta": "இறைவா! மனிதர்களின் இறைவா! துன்பத்தை நீக்குவாயாக, குணமளிப்பாயாக - நீரே குணமளிப்பவர். உமது குணமளித்தலைத் தவிர வேறு குணமளித்தல் இல்லை, எந்த நோயையும் விட்டுச்செல்லாத குணமளித்தல்.",
+        "ml": "അല്ലാഹുവേ, മനുഷ്യരുടെ രക്ഷിതാവേ, ദുരിതം നീക്കണമേ, സുഖപ്പെടുത്തണമേ — നീയാണ് സുഖപ്പെടുത്തുന്നവൻ. നിന്റെ സുഖപ്പെടുത്തലല്ലാതെ മറ്റൊരു സുഖപ്പെടുത്തലില്ല, ഒരു രോഗവും ബാക്കിയാക്കാത്ത സുഖപ്പെടുത്തൽ."
+      },
+      "reference": {
+        "source": "Bukhari",
+        "reference_text": "Bukhari 5/145, Muslim 4/1702"
+      },
+      "repetition_count": 1
+    }
+  ]
+}

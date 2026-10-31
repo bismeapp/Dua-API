@@ -1,0 +1,29 @@
+{
+  "id": "dua-general",
+  "name": {
+    "en": "General Good",
+    "ar": "الخير العام",
+    "ur": "عمومی خیر",
+    "fr": "Bien Général",
+    "tr": "Genel Hayır",
+    "id": "Kebaikan Umum",
+    "bn": "সাধারণ কল্যাণ",
+    "ms": "Kebaikan Umum",
+    "ta": "பொது நன்மை",
+    "ml": "പൊതു നന്മ"
+  },
+  "description": {
+    "en": "Category of duas: General Good"
+  },
+  "parent_id": null,
+  "order": 17,
+  "theme": {
+    "color": "fuchsia",
+    "gradient": "from-fuchsia-400 to-pink-500",
+    "bg": "bg-fuchsia-50",
+    "border": "border-fuchsia-200",
+    "text": "text-fuchsia-700"
+  },
+  "item_count": 4,
+  "data_file": "duas.json"
+}

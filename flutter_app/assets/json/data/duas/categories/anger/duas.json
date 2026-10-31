@@ -1,0 +1,43 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "anger",
+  "count": 1,
+  "duas": [
+    {
+      "id": "ang-1",
+      "category_id": "anger",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "When Angry",
+        "ar": "عند الغضب",
+        "ur": "غصے کے وقت",
+        "fr": "En Colère",
+        "tr": "Öfkelendiğinde",
+        "id": "Saat Marah",
+        "bn": "রাগান্বিত হলে",
+        "ms": "Ketika Marah",
+        "ta": "கோபம் வரும்போது",
+        "ml": "കോപം വരുമ്പോൾ"
+      },
+      "arabic": "أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+      "translation": {
+        "en": "I seek refuge in Allah from Satan the outcast.",
+        "ar": "أعوذ بالله من الشيطان الرجيم",
+        "ur": "میں شیطان مردود سے اللہ کی پناہ مانگتا ہوں۔",
+        "fr": "Je cherche refuge auprès d'Allah contre Satan le maudit.",
+        "tr": "Kovulmuş şeytandan Allah'a sığınırım.",
+        "id": "Aku berlindung kepada Allah dari setan yang terkutuk.",
+        "bn": "আমি অভিশপ্ত শয়তান থেকে আল্লাহর আশ্রয় চাই।",
+        "ms": "Aku berlindung kepada Allah dari syaitan yang terkutuk.",
+        "ta": "விரட்டப்பட்ட ஷைத்தானிடமிருந்து அல்லாஹ்விடம் புகலளிக்கிறேன்.",
+        "ml": "ശപിക്കപ്പെട്ട ഷൈത്താനിൽനിന്ന് അല്ലാഹുവിനോട് അഭയം തേടുന്നു."
+      },
+      "reference": {
+        "source": "Bukhari",
+        "reference_text": "Bukhari 4/81, Muslim 4/2015"
+      },
+      "repetition_count": 1
+    }
+  ]
+}

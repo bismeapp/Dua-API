@@ -1,0 +1,39 @@
+{
+    "schema_version":  "3.0.0",
+    "category_id":  "laylatul-qadr",
+    "count":  1,
+    "duas":  [
+                 {
+                     "id":  "lq-1",
+                     "category_id":  "laylatul-qadr",
+                     "subcategory_id":  null,
+                     "order":  1,
+                     "title":  {
+                                   "en":  "Dua for Laylatul Qadr",
+                                   "ar":  "دعاء ليلة القدر",
+                                   "ur":  "شب قدر کی دعا",
+                                   "fr":  "Doua de la Nuit du Destin",
+                                   "tr":  "Kadir Gecesi Duası",
+                                   "id":  "Doa Lailatul Qadar",
+                                   "bn":  "লাইলাতুল কদরের দোয়া",
+                                   "ms":  "Doa Lailatul Qadar",
+                                   "ta":  "லைலத்துல் கத்ர் துஆ",
+                                   "ml":  "ലൈലത്തുൽ ഖദ്ർ ദുആ"
+                               },
+                     "arabic":  "اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+                     "translation":  {
+                                         "en":  "O Allah, You are the One who pardons, You love to pardon, so pardon me.",
+                                         "ar":  "اللهم إنك عفو تحب العفو فاعف عني",
+                                         "ur":  "اے اللہ! تو درگزر کرنے والا ہے، درگزر کو پسند کرتا ہے، پس مجھے درگزر فرما۔",
+                                         "fr":  "Ô Allah, Tu es Celui qui pardonne, Tu aimes pardonner, alors pardonne-moi.",
+                                         "tr":  "Allah\u0027ım! Sen affedicisin, affetmeyi seversin, beni de affet.",
+                                         "id":  "Ya Allah, sesungguhnya Engkau Maha Pemaaf, Engkau menyukai maaf, maka maafkanlah aku.",
+                                         "bn":  "হে আল্লাহ, তুমি ক্ষমাশীল, তুমি ক্ষমা করতে ভালোবাসো, সুতরাং আমাকে ক্ষমা করো।",
+                                         "ms":  "Ya Allah, sesungguhnya Engkau Maha Pemaaf, Engkau menyukai kemaafan, maka maafkanlah aku.",
+                                         "ta":  "இறைவா! நீர் மன்னிப்பவர், மன்னிப்பதை விரும்புபவர், எனவே என்னை மன்னிப்பாயாக.",
+                                         "ml":  "അല്ലാഹുവേ, നീ പൊറുക്കുന്നവനാണ്, പൊറുക്കുന്നതിനെ സ്നേഹിക്കുന്നു, അതിനാൽ എന്നെ പൊറുക്കണമേ."
+                                     },
+                     "repetition_count":  1
+                 }
+             ]
+}

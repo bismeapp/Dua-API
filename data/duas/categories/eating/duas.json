@@ -1,0 +1,151 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "eating",
+  "count": 4,
+  "duas": [
+    {
+      "id": "eat-1",
+      "category_id": "eating",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Before Eating",
+        "ar": "قبل الطعام",
+        "ur": "کھانے سے پہلے",
+        "fr": "Avant de Manger",
+        "tr": "Yemekten Önce",
+        "id": "Sebelum Makan",
+        "bn": "খাওয়ার আগে",
+        "ms": "Sebelum Makan",
+        "ta": "உணவுக்கு முன்",
+        "ml": "ഭക്ഷണത്തിന് മുമ്പ്"
+      },
+      "arabic": "بِسْمِ اللهِ",
+      "translation": {
+        "en": "In the name of Allah.",
+        "ar": "بسم الله",
+        "ur": "اللہ کے نام سے",
+        "fr": "Au nom d'Allah.",
+        "tr": "Allah'ın adıyla.",
+        "id": "Dengan nama Allah.",
+        "bn": "আল্লাহর নামে।",
+        "ms": "Dengan nama Allah.",
+        "ta": "அல்லாஹ்வின் பெயரால்.",
+        "ml": "അല്ലാഹുവിന്റെ നാമത്തിൽ."
+      },
+      "reference": {
+        "source": "Abu",
+        "reference_text": "Abu Dawud 3/347"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "eat-2",
+      "category_id": "eating",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "If One Forgets to Say Bismillah",
+        "ar": "إذا نسي التسمية",
+        "ur": "اگر بسم اللہ کہنا بھول جائے",
+        "fr": "Si l'on oublie de dire Bismillah",
+        "tr": "Bismillah demeyi unutursa",
+        "id": "Jika Lupa Membaca Bismillah",
+        "bn": "যদি বিসমিল্লাহ বলতে ভুলে যায়",
+        "ms": "Jika Terlupa Membaca Bismillah",
+        "ta": "பிஸ்மில்லாஹ் சொல்ல மறந்துவிட்டால்",
+        "ml": "ബിസ്മില്ലാഹ് പറയാൻ മറന്നാൽ"
+      },
+      "arabic": "بِسْمِ اللهِ أَوَّلَهُ وَآخِرَهُ",
+      "translation": {
+        "en": "In the name of Allah at the beginning and at the end.",
+        "ar": "بسم الله أوله وآخره",
+        "ur": "اللہ کے نام سے شروع میں اور آخر میں",
+        "fr": "Au nom d'Allah au début et à la fin.",
+        "tr": "Allah'ın adıyla başında ve sonunda.",
+        "id": "Dengan nama Allah di awal dan di akhir.",
+        "bn": "আল্লাহর নামে শুরুতে এবং শেষে।",
+        "ms": "Dengan nama Allah di awal dan di akhir.",
+        "ta": "ஆரம்பத்திலும் இறுதியிலும் அல்லாஹ்வின் பெயரால்.",
+        "ml": "ആരംഭത്തിലും അവസാനത്തിലും അല്ലാഹുവിന്റെ നാമത്തിൽ."
+      },
+      "reference": {
+        "source": "Abu",
+        "reference_text": "Abu Dawud 3/347, Tirmidhi 4/288"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "eat-3",
+      "category_id": "eating",
+      "subcategory_id": null,
+      "order": 3,
+      "title": {
+        "en": "After Eating",
+        "ar": "بعد الطعام",
+        "ur": "کھانے کے بعد",
+        "fr": "Après le Repas",
+        "tr": "Yemekten Sonra",
+        "id": "Sesudah Makan",
+        "bn": "খাওয়ার পরে",
+        "ms": "Selepas Makan",
+        "ta": "உணவுக்கு பின்",
+        "ml": "ഭക്ഷണത്തിന് ശേഷം"
+      },
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَٰذَا، وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلاَ قُوَّةٍ",
+      "translation": {
+        "en": "All praise is for Allah who fed me this and provided it for me without any might or power from myself.",
+        "ar": "الحمد لله الذي أطعمني هذا ورزقنيه من غير حول مني ولا قوة",
+        "ur": "تمام تعریفیں اللہ کے لیے ہیں جس نے مجھے یہ کھانا کھلایا اور اسے میرے لیے رزق بنایا بغیر میرے کسی طاقت اور زور کے۔",
+        "fr": "Toute louange est pour Allah qui m'a nourri ceci et me l'a fourni sans aucune force ni puissance de ma part.",
+        "tr": "Bana bunu yediren ve benim hiçbir gücüm ve kuvvetim olmaksızın bana rızık olarak veren Allah'a hamdolsun.",
+        "id": "Segala puji bagi Allah yang telah memberiku makan ini dan memberinya rezeki kepadaku tanpa daya dan kekuatan dariku.",
+        "bn": "সমস্ত প্রশংসা আল্লাহর যিনি আমাকে এটি খাওয়িয়েছেন এবং আমার কোনো শক্তি ও ক্ষমতা ছাড়াই আমাকে এটি রিযিক দিয়েছেন।",
+        "ms": "Segala puji bagi Allah yang telah memberiku makan ini dan memberinya rezeki kepadaku tanpa daya dan kekuatan dariku.",
+        "ta": "என் எந்த சக்தியும் வலிமையும் இல்லாமல் இதை எனக்கு உணவளித்தும், எனக்கு அருளியும் அல்லாஹ்வுக்கே எல்லா புகழும்.",
+        "ml": "എന്റെ യാതൊരു ശക്തിയും കഴിവും കൂടാതെ ഇത് എന്നെ ഭക്ഷിപ്പിക്കുകയും എനിക്ക് ഉപജീവനം നൽകുകയും ചെയ്ത അല്ലാഹുവിന് എല്ലാ സ്തുതിയും."
+      },
+      "reference": {
+        "source": "Abu",
+        "reference_text": "Abu Dawud 4/189, Tirmidhi 5/507"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "eat-4",
+      "category_id": "eating",
+      "subcategory_id": null,
+      "order": 4,
+      "title": {
+        "en": "Dua for the Host",
+        "ar": "دعاء لصاحب الطعام",
+        "ur": "میزبان کے لیے دعا",
+        "fr": "Doua pour l'Hôte",
+        "tr": "Ev Sahibi İçin Dua",
+        "id": "Doa untuk Tuan Rumah",
+        "bn": "মেজবানের জন্য দোয়া",
+        "ms": "Doa untuk Tuan Rumah",
+        "ta": "விருந்தோம்பியவருக்கான துஆ",
+        "ml": "ആതിഥേയനുള്ള ദുആ"
+      },
+      "arabic": "اللَّهُمَّ بَارِكْ لَهُمْ فِيمَا رَزَقْتَهُمْ، وَاغْفِرْ لَهُمْ وَارْحَمْهُمْ",
+      "translation": {
+        "en": "O Allah, bless them in what You have provided for them, forgive them and have mercy on them.",
+        "ar": "اللهم بارك لهم فيما رزقتهم واغفر لهم وارحمهم",
+        "ur": "اے اللہ! ان کو جو رزق دیا ہے اس میں برکت عطا فرما اور ان کو بخش دے اور ان پر رحم فرما۔",
+        "fr": "Ô Allah, bénis-les dans ce que Tu leur as fourni, pardonne-leur et aie pitié d'eux.",
+        "tr": "Allah'ım! Onlara verdiğin rızıkta bereket ver, onları bağışla ve onlara merhamet et.",
+        "id": "Ya Allah, berkahilah mereka dalam apa yang telah Engkau berikan kepada mereka, ampunilah mereka dan rahmatilah mereka.",
+        "bn": "হে আল্লাহ, তুমি তাদের যা রিযিক দিয়েছ তাতে বরকত দাও, তাদের ক্ষমা করো এবং তাদের প্রতি রহমত করো।",
+        "ms": "Ya Allah, berkatilah mereka dalam apa yang telah Engkau berikan kepada mereka, ampunilah mereka dan rahmatilah mereka.",
+        "ta": "இறைவா! நீர் அவர்களுக்கு அளித்த உபஜீவனத்தில் அவர்களுக்கு அருள்புரிவாயாக, அவர்களை மன்னிப்பாயாக, அவர்கள் மீது கருணை காட்டுவாயாக.",
+        "ml": "അല്ലാഹുവേ, നീ അവർക്ക് നൽകിയ ഉപജീവനത്തിൽ അവർക്ക് അനുഗ്രഹം നൽകണമേ, അവരെ പൊറുക്കണമേ, അവരോട് കരുണ കാണിക്കണമേ."
+      },
+      "reference": {
+        "source": "Muslim",
+        "reference_text": "Muslim 3/1615"
+      },
+      "repetition_count": 1
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "clothes-appearance",
+  "count": 2,
+  "duas": [
+    {
+      "id": "ca-1",
+      "category_id": "clothes-appearance",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Wearing New Clothes",
+        "ar": "لبس الثوب الجديد",
+        "ur": "نیا کپڑا پہنتے وقت",
+        "fr": "Porter des Vêtements Neufs",
+        "tr": "Yeni Kıyafet Giyerken",
+        "id": "Memakai Pakaian Baru",
+        "bn": "নতুন জামা পরার সময়",
+        "ms": "Memakai Pakaian Baru",
+        "ta": "புதிய ஆடை அணியும்போது",
+        "ml": "പുതിയ വസ്ത്രം ധരിക്കുമ്പോൾ"
+      },
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي كَسَانِي هَٰذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلاَ قُوَّةٍ",
+      "translation": {
+        "en": "All praise is for Allah who has clothed me with this and provided it for me without any might or power from myself.",
+        "ar": "الحمد لله الذي كساني هذا ورزقنيه من غير حول مني ولا قوة",
+        "ur": "تمام تعریفیں اللہ کے لیے ہیں جس نے مجھے یہ پہنایا اور اسے میرے لیے رزق بنایا بغیر میرے کسی طاقت اور زور کے۔",
+        "fr": "Toute louange est pour Allah qui m'a vêtu de ceci et me l'a fourni sans aucune force ni puissance de ma part.",
+        "tr": "Bana bunu giydiren ve benim hiçbir gücüm ve kuvvetim olmaksızın bana rızık olarak veren Allah'a hamdolsun.",
+        "id": "Segala puji bagi Allah yang telah memakaikanku ini dan memberinya rezeki kepadaku tanpa daya dan kekuatan dariku.",
+        "bn": "সমস্ত প্রশংসা আল্লাহর যিনি আমাকে এটি পরিয়েছেন এবং আমার কোনো শক্তি ও ক্ষমতা ছাড়াই আমাকে এটি রিযিক দিয়েছেন।",
+        "ms": "Segala puji bagi Allah yang telah memakaikanku ini dan memberinya rezeki kepadaku tanpa daya dan kekuatan dariku.",
+        "ta": "என் எந்த சக்தியும் வலிமையும் இல்லாமல் இதை எனக்கு அணியச் செய்து, எனக்கு அருளிய அல்லாஹ்வுக்கே எல்லா புகழும்.",
+        "ml": "എന്റെ യാതൊരു ശക്തിയും കഴിവും കൂടാതെ ഇത് എന്നെ ധരിപ്പിക്കുകയും എനിക്ക് ഉപജീവനം നൽകുകയും ചെയ്ത അല്ലാഹുവിന് എല്ലാ സ്തുതിയും."
+      },
+      "reference": {
+        "source": "Abu",
+        "reference_text": "Abu Dawud 4/41, Tirmidhi 5/503"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "ca-2",
+      "category_id": "clothes-appearance",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "Looking in the Mirror",
+        "ar": "النظر في المرآة",
+        "ur": "آئینے میں دیکھتے وقت",
+        "fr": "Se Regarder dans le Miroir",
+        "tr": "Aynaya Bakarken",
+        "id": "Berkaca",
+        "bn": "আয়নায় দেখার সময়",
+        "ms": "Melihat di Cermin",
+        "ta": "கண்ணாடியை பார்க்கும்போது",
+        "ml": "കണ്ണാടിയിൽ നോക്കുമ്പോൾ"
+      },
+      "arabic": "اللَّهُمَّ أَنْتَ حَسَّنْتَ خَلْقِي فَحَسِّنْ خُلُقِي",
+      "translation": {
+        "en": "O Allah, just as You have made my outward appearance beautiful, make my character beautiful too.",
+        "ar": "اللهم أنت حسنت خلقي فحسن خلقي",
+        "ur": "اے اللہ! جیسا تو نے میری صورت کو خوبصورت بنایا ہے میرے اخلاق کو بھی خوبصورت بنا دے۔",
+        "fr": "Ô Allah, tout comme Tu as embelli mon apparence extérieure, embellis aussi mon caractère.",
+        "tr": "Allah'ım! Dış görünüşümü güzel kıldığın gibi, ahlakımı da güzel kıl.",
+        "id": "Ya Allah, sebagaimana Engkau telah memperindah rupaku, perindah pula akhlakku.",
+        "bn": "হে আল্লাহ, তুমি যেমন আমার বাহ্যিক রূপকে সুন্দর করেছ, তেমনি আমার চরিত্রকেও সুন্দর করো।",
+        "ms": "Ya Allah, sebagaimana Engkau telah memperindahkan rupaku, perindahkan pula akhlakku.",
+        "ta": "இறைவா! நீர் என் வெளித்தோற்றத்தை அழகாக்கியது போல், என் ஒழுக்கத்தையும் அழகாக்குவாயாக.",
+        "ml": "അല്ലാഹുവേ, നീ എന്റെ ബാഹ്യരൂപം സുന്ദരമാക്കിയതുപോലെ എന്റെ സ്വഭാവവും സുന്ദരമാക്കണമേ."
+      },
+      "reference": {
+        "source": "Ahmad",
+        "reference_text": "Ahmad 2/175"
+      },
+      "repetition_count": 1
+    }
+  ]
+}

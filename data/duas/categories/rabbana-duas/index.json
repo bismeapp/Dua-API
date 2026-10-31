@@ -1,0 +1,38 @@
+{
+  "schema_version": "3.0.0",
+  "collection_id": "duas",
+  "title": {
+    "en": "40 Rabbana Duas",
+    "ta": "40 ரப்பனா துஆக்கள்",
+    "ml": "40 റബ്ബനാ ദുആകൾ",
+    "ar": "أربعون دعاءً من أدعية ربنا",
+    "ur": "40 ربنا کی دعائیں",
+    "fr": "40 invocations Rabbana",
+    "tr": "40 Rabbana duası",
+    "id": "40 Doa Rabbana",
+    "bn": "৪০টি রব্বানা দোয়া",
+    "ms": "40 Doa Rabbana"
+  },
+  "description": {
+    "en": "Forty Quranic supplications beginning with Rabbana (Our Lord).",
+    "ta": "ரப்பனா (எங்கள் இறைவா) என்று தொடங்கும் நாற்பது குர்ஆன் துஆக்கள்.",
+    "ml": "റബ്ബനാ (ഞങ്ങളുടെ രക്ഷിതാവേ) എന്ന് തുടങ്ങുന്ന നാൽപ്പത് ഖുർആൻ പ്രാർഥനകൾ.",
+    "ar": "أربعون دعاءً قرآنيًا تبدأ بقول ربنا.",
+    "ur": "ربنا (اے ہمارے رب) سے شروع ہونے والی قرآن کی چالیس دعائیں۔",
+    "fr": "Quarante invocations coraniques commençant par Rabbana (Notre Seigneur).",
+    "tr": "Rabbana (Rabbimiz) ile başlayan kırk Kur'an duası.",
+    "id": "Empat puluh doa Al-Qur'an yang dimulai dengan Rabbana (Wahai Tuhan kami).",
+    "bn": "রব্বানা (হে আমাদের রব) দিয়ে শুরু হওয়া কুরআনের চল্লিশটি দোয়া।",
+    "ms": "Empat puluh doa al-Quran yang bermula dengan Rabbana (Wahai Tuhan kami)."
+  },
+  "total_records": 40,
+  "languages": [
+    "ar",
+    "en"
+  ],
+  "files": {
+    "metadata": "metadata.json",
+    "duas": "duas.json"
+  },
+  "category_id": "rabbana-duas"
+}

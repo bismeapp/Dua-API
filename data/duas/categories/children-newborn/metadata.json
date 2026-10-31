@@ -1,0 +1,38 @@
+{
+  "id": "children-newborn",
+  "name": {
+    "en": "Family & Children",
+    "ta": "குடும்பங்கள் மற்றும் குழந்தைகள்",
+    "ml": "കുടുംബങ്ങളും കുട്ടികളും",
+    "ar": "الأسرة والأطفال",
+    "ur": "خاندان اور بچے",
+    "fr": "Familles et enfants",
+    "tr": "Aile ve çocuklar",
+    "id": "Keluarga dan Anak-anak",
+    "bn": "পরিবার ও শিশুরা",
+    "ms": "Keluarga dan Kanak-kanak"
+  },
+  "description": {
+    "en": "Duas for families and children",
+    "ta": "குடும்பங்கள் மற்றும் குழந்தைகளுக்கான துஆக்கள்",
+    "ml": "കുടുംബങ്ങൾക്കും കുട്ടികൾക്കുമുള്ള ദുആകൾ",
+    "ar": "أدعية للأسرة والأطفال",
+    "ur": "خاندان اور بچوں کے لیے دعائیں",
+    "fr": "Invocations pour les familles et les enfants",
+    "tr": "Aileler ve çocuklar için dualar",
+    "id": "Doa untuk keluarga dan anak-anak",
+    "bn": "পরিবার ও শিশুদের জন্য দোয়া",
+    "ms": "Doa untuk keluarga dan kanak-kanak"
+  },
+  "parent_id": null,
+  "order": 30,
+  "theme": {
+    "color": "pink",
+    "gradient": "from-pink-400 to-rose-500",
+    "bg": "bg-pink-50",
+    "border": "border-pink-200",
+    "text": "text-pink-700"
+  },
+  "item_count": 22,
+  "data_file": "duas.json"
+}

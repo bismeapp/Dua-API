@@ -1,0 +1,29 @@
+{
+  "id": "anger",
+  "name": {
+    "en": "Anger & Calm",
+    "ar": "الغضب والهدوء",
+    "ur": "غصہ اور سکون",
+    "fr": "Colère et Calme",
+    "tr": "Öfke ve Sakinlik",
+    "id": "Marah dan Ketenangan",
+    "bn": "রাগ ও শান্তি",
+    "ms": "Marah dan Ketenangan",
+    "ta": "கோபம் மற்றும் அமைதி",
+    "ml": "കോപവും ശാന്തിയും"
+  },
+  "description": {
+    "en": "Category of duas: Anger & Calm"
+  },
+  "parent_id": null,
+  "order": 15,
+  "theme": {
+    "color": "orange",
+    "gradient": "from-orange-400 to-red-500",
+    "bg": "bg-orange-50",
+    "border": "border-orange-200",
+    "text": "text-orange-700"
+  },
+  "item_count": 1,
+  "data_file": "duas.json"
+}

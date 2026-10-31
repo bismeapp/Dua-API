@@ -1,0 +1,326 @@
+{
+    "schema_version":  "3.0.0",
+    "collection_id":  "duas",
+    "title":  {
+                  "en":  "Situation-based Duas",
+                  "ta":  "நிலைமைக்கேற்பான துஆக்கள்"
+              },
+    "description":  {
+                        "en":  "The collection is organized into 39 categories.",
+                        "ta":  "இந்தத் தொகுப்பு 39 வகைகளாக ஒழுங்கமைக்கப்பட்டுள்ளது."
+                    },
+    "total_categories":  39,
+    "total_records":  509,
+    "languages":  [
+                      "en",
+                      "ta",
+                      "ml",
+                      "ar",
+                      "ur",
+                      "fr",
+                      "tr",
+                      "id",
+                      "bn",
+                      "ms"
+                  ],
+    "categories":  [
+                       {
+                           "id":  "morning-evening",
+                           "order":  1,
+                           "item_count":  4,
+                           "metadata_file":  "data/duas/categories/morning-evening/metadata.json",
+                           "data_file":  "data/duas/categories/morning-evening/duas.json"
+                       },
+                       {
+                           "id":  "eating",
+                           "order":  2,
+                           "item_count":  4,
+                           "metadata_file":  "data/duas/categories/eating/metadata.json",
+                           "data_file":  "data/duas/categories/eating/duas.json"
+                       },
+                       {
+                           "id":  "sleep-wake",
+                           "order":  3,
+                           "item_count":  3,
+                           "metadata_file":  "data/duas/categories/sleep-wake/metadata.json",
+                           "data_file":  "data/duas/categories/sleep-wake/duas.json"
+                       },
+                       {
+                           "id":  "mosque",
+                           "order":  4,
+                           "item_count":  2,
+                           "metadata_file":  "data/duas/categories/mosque/metadata.json",
+                           "data_file":  "data/duas/categories/mosque/duas.json"
+                       },
+                       {
+                           "id":  "home",
+                           "order":  5,
+                           "item_count":  3,
+                           "metadata_file":  "data/duas/categories/home/metadata.json",
+                           "data_file":  "data/duas/categories/home/duas.json"
+                       },
+                       {
+                           "id":  "bathroom",
+                           "order":  6,
+                           "item_count":  2,
+                           "metadata_file":  "data/duas/categories/bathroom/metadata.json",
+                           "data_file":  "data/duas/categories/bathroom/duas.json"
+                       },
+                       {
+                           "id":  "travel",
+                           "order":  7,
+                           "item_count":  7,
+                           "metadata_file":  "data/duas/categories/travel/metadata.json",
+                           "data_file":  "data/duas/categories/travel/duas.json"
+                       },
+                       {
+                           "id":  "hardship",
+                           "order":  8,
+                           "item_count":  5,
+                           "metadata_file":  "data/duas/categories/hardship/metadata.json",
+                           "data_file":  "data/duas/categories/hardship/duas.json"
+                       },
+                       {
+                           "id":  "forgiveness",
+                           "order":  9,
+                           "item_count":  3,
+                           "metadata_file":  "data/duas/categories/forgiveness/metadata.json",
+                           "data_file":  "data/duas/categories/forgiveness/duas.json"
+                       },
+                       {
+                           "id":  "protection",
+                           "order":  10,
+                           "item_count":  12,
+                           "metadata_file":  "data/duas/categories/protection/metadata.json",
+                           "data_file":  "data/duas/categories/protection/duas.json"
+                       },
+                       {
+                           "id":  "knowledge",
+                           "order":  12,
+                           "item_count":  5,
+                           "metadata_file":  "data/duas/categories/knowledge/metadata.json",
+                           "data_file":  "data/duas/categories/knowledge/duas.json"
+                       },
+                       {
+                           "id":  "sickness",
+                           "order":  13,
+                           "item_count":  2,
+                           "metadata_file":  "data/duas/categories/sickness/metadata.json",
+                           "data_file":  "data/duas/categories/sickness/duas.json",
+                           "name":  {
+                                        "en":  "Dua for Recovery from Illness",
+                                        "ta":  "நோயிலிருந்து குணமடைவதற்கான துஆ",
+                                        "ml":  "രോഗശാന്തിക്കുള്ള ദുആ",
+                                        "ar":  "دعاء للتعافي من المرض",
+                                        "ur":  "بیماری سے شفا یابی کی دعا",
+                                        "fr":  "Invocation pour la guérison de la maladie",
+                                        "tr":  "Hastalıktan şifa bulma duası",
+                                        "id":  "Doa untuk kesembuhan dari penyakit",
+                                        "bn":  "অসুস্থতা থেকে সুস্থতার দোয়া",
+                                        "ms":  "Doa untuk sembuh daripada penyakit"
+                                    }
+                       },
+                       {
+                           "id":  "rain",
+                           "order":  14,
+                           "item_count":  2,
+                           "metadata_file":  "data/duas/categories/rain/metadata.json",
+                           "data_file":  "data/duas/categories/rain/duas.json"
+                       },
+                       {
+                           "id":  "anger",
+                           "order":  15,
+                           "item_count":  1,
+                           "metadata_file":  "data/duas/categories/anger/metadata.json",
+                           "data_file":  "data/duas/categories/anger/duas.json"
+                       },
+                       {
+                           "id":  "friday",
+                           "order":  16,
+                           "item_count":  3,
+                           "metadata_file":  "data/duas/categories/friday/metadata.json",
+                           "data_file":  "data/duas/categories/friday/duas.json",
+                           "name":  {
+                                        "en":  "Friday (Jummah)",
+                                        "ta":  "வெள்ளிக்கிழமை (ஜும்ஆ)",
+                                        "ml":  "വെള്ളിയാഴ്ച (ജുമുഅ)",
+                                        "ar":  "يوم الجمعة",
+                                        "ur":  "جمعہ",
+                                        "fr":  "Vendredi (Jummah)",
+                                        "tr":  "Cuma",
+                                        "id":  "Hari Jumat",
+                                        "bn":  "জুমার দিন",
+                                        "ms":  "Hari Jumaat"
+                                    }
+                       },
+                       {
+                           "id":  "dua-general",
+                           "order":  17,
+                           "item_count":  4,
+                           "metadata_file":  "data/duas/categories/dua-general/metadata.json",
+                           "data_file":  "data/duas/categories/dua-general/duas.json"
+                       },
+                       {
+                           "id":  "death-funeral",
+                           "order":  18,
+                           "item_count":  8,
+                           "metadata_file":  "data/duas/categories/death-funeral/metadata.json",
+                           "data_file":  "data/duas/categories/death-funeral/duas.json"
+                       },
+                       {
+                           "id":  "salawat",
+                           "order":  19,
+                           "item_count":  10,
+                           "metadata_file":  "data/duas/categories/salawat/metadata.json",
+                           "data_file":  "data/duas/categories/salawat/duas.json"
+                       },
+                       {
+                           "id":  "asma-ul-husna",
+                           "order":  20,
+                           "item_count":  1,
+                           "metadata_file":  "data/duas/categories/asma-ul-husna/metadata.json",
+                           "data_file":  "data/duas/categories/asma-ul-husna/duas.json"
+                       },
+                       {
+                           "id":  "asma-ul-anbiya",
+                           "order":  21,
+                           "item_count":  1,
+                           "metadata_file":  "data/duas/categories/asma-ul-anbiya/metadata.json",
+                           "data_file":  "data/duas/categories/asma-ul-anbiya/duas.json"
+                       },
+                       {
+                           "id":  "wudu-adhan",
+                           "order":  22,
+                           "item_count":  3,
+                           "metadata_file":  "data/duas/categories/wudu-adhan/metadata.json",
+                           "data_file":  "data/duas/categories/wudu-adhan/duas.json"
+                       },
+                       {
+                           "id":  "asma-un-nabi",
+                           "parent_id":  null,
+                           "order":  22,
+                           "item_count":  201,
+                           "metadata_file":  "data/duas/categories/asma-un-nabi/metadata.json",
+                           "data_file":  "data/duas/categories/asma-un-nabi/duas.json"
+                       },
+                       {
+                           "id":  "prayer-duas",
+                           "order":  23,
+                           "item_count":  9,
+                           "metadata_file":  "data/duas/categories/prayer-duas/metadata.json",
+                           "data_file":  "data/duas/categories/prayer-duas/duas.json"
+                       },
+                       {
+                           "id":  "istikhara",
+                           "order":  24,
+                           "item_count":  1,
+                           "metadata_file":  "data/duas/categories/istikhara/metadata.json",
+                           "data_file":  "data/duas/categories/istikhara/duas.json"
+                       },
+                       {
+                           "id":  "nightmare",
+                           "order":  25,
+                           "item_count":  2,
+                           "metadata_file":  "data/duas/categories/nightmare/metadata.json",
+                           "data_file":  "data/duas/categories/nightmare/duas.json"
+                       },
+                       {
+                           "id":  "evil-eye",
+                           "order":  26,
+                           "item_count":  1,
+                           "metadata_file":  "data/duas/categories/evil-eye/metadata.json",
+                           "data_file":  "data/duas/categories/evil-eye/duas.json"
+                       },
+                       {
+                           "id":  "fasting",
+                           "order":  27,
+                           "item_count":  4,
+                           "metadata_file":  "data/duas/categories/fasting/metadata.json",
+                           "data_file":  "data/duas/categories/fasting/duas.json"
+                       },
+                       {
+                           "id":  "hajj-umrah",
+                           "order":  28,
+                           "item_count":  57,
+                           "metadata_file":  "data/duas/categories/hajj-umrah/metadata.json",
+                           "data_file":  "data/duas/categories/hajj-umrah/duas.json"
+                       },
+                       {
+                           "id":  "debt-poverty",
+                           "order":  29,
+                           "item_count":  6,
+                           "metadata_file":  "data/duas/categories/debt-poverty/metadata.json",
+                           "data_file":  "data/duas/categories/debt-poverty/duas.json"
+                       },
+                       {
+                           "id":  "children-newborn",
+                           "order":  30,
+                           "item_count":  22,
+                           "metadata_file":  "data/duas/categories/children-newborn/metadata.json",
+                           "data_file":  "data/duas/categories/children-newborn/duas.json"
+                       },
+                       {
+                           "id":  "clothes-appearance",
+                           "order":  32,
+                           "item_count":  2,
+                           "metadata_file":  "data/duas/categories/clothes-appearance/metadata.json",
+                           "data_file":  "data/duas/categories/clothes-appearance/duas.json"
+                       },
+                       {
+                           "id":  "market-business",
+                           "order":  33,
+                           "item_count":  3,
+                           "metadata_file":  "data/duas/categories/market-business/metadata.json",
+                           "data_file":  "data/duas/categories/market-business/duas.json"
+                       },
+                       {
+                           "id":  "good-character",
+                           "order":  34,
+                           "item_count":  2,
+                           "metadata_file":  "data/duas/categories/good-character/metadata.json",
+                           "data_file":  "data/duas/categories/good-character/duas.json"
+                       },
+                       {
+                           "id":  "ummah",
+                           "order":  35,
+                           "item_count":  1,
+                           "metadata_file":  "data/duas/categories/ummah/metadata.json",
+                           "data_file":  "data/duas/categories/ummah/duas.json"
+                       },
+                       {
+                           "id":  "Others",
+                           "order":  36,
+                           "item_count":  2,
+                           "metadata_file":  "data/duas/categories/Others/metadata.json",
+                           "data_file":  "data/duas/categories/Others/duas.json"
+                       },
+                       {
+                           "id":  "qaseedah-burdah",
+                           "order":  37,
+                           "item_count":  67,
+                           "metadata_file":  "data/duas/categories/qaseedah-burdah/metadata.json",
+                           "data_file":  "data/duas/categories/qaseedah-burdah/duas.json"
+                       },
+                       {
+                           "id":  "hereafter",
+                           "order":  38,
+                           "item_count":  3,
+                           "metadata_file":  "data/duas/categories/hereafter/metadata.json",
+                           "data_file":  "data/duas/categories/hereafter/duas.json"
+                       },
+                       {
+                           "id":  "rabbana-duas",
+                           "order":  38,
+                           "item_count":  40,
+                           "metadata_file":  "data/duas/categories/rabbana-duas/metadata.json",
+                           "data_file":  "data/duas/categories/rabbana-duas/duas.json"
+                       },
+                       {
+                           "id":  "laylatul-qadr",
+                           "order":  39,
+                           "item_count":  1,
+                           "metadata_file":  "data/duas/categories/laylatul-qadr/metadata.json",
+                           "data_file":  "data/duas/categories/laylatul-qadr/duas.json"
+                       }
+                   ]
+}

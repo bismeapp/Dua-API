@@ -1,0 +1,115 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "wudu-adhan",
+  "count": 3,
+  "duas": [
+    {
+      "id": "wa-1",
+      "category_id": "wudu-adhan",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Before Wudu",
+        "ar": "قبل الوضوء",
+        "ur": "وضو سے پہلے",
+        "fr": "Avant les Ablutions",
+        "tr": "Abdestten Önce",
+        "id": "Sebelum Wudhu",
+        "bn": "অজুর আগে",
+        "ms": "Sebelum Wuduk",
+        "ta": "உளூ செய்வதற்கு முன்",
+        "ml": "വുദൂഅിന് മുമ്പ്"
+      },
+      "arabic": "بِسْمِ اللهِ",
+      "translation": {
+        "en": "In the name of Allah.",
+        "ar": "بسم الله",
+        "ur": "اللہ کے نام سے",
+        "fr": "Au nom d'Allah.",
+        "tr": "Allah'ın adıyla.",
+        "id": "Dengan nama Allah.",
+        "bn": "আল্লাহর নামে।",
+        "ms": "Dengan nama Allah.",
+        "ta": "அல்லாஹ்வின் பெயரால்.",
+        "ml": "അല്ലാഹുവിന്റെ നാമത്തിൽ."
+      },
+      "reference": {
+        "source": "Abu",
+        "reference_text": "Abu Dawud 1/66"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "wa-2",
+      "category_id": "wudu-adhan",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "After Wudu",
+        "ar": "بعد الوضوء",
+        "ur": "وضو کے بعد",
+        "fr": "Après les Ablutions",
+        "tr": "Abdestten Sonra",
+        "id": "Setelah Wudhu",
+        "bn": "অজুর পরে",
+        "ms": "Selepas Wuduk",
+        "ta": "உளூ செய்த பின்",
+        "ml": "വുദൂഅിന് ശേഷം"
+      },
+      "arabic": "أَشْهَدُ أَنْ لاَ إِلَٰهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ، اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ",
+      "translation": {
+        "en": "I bear witness that there is no god but Allah alone, without partner, and I bear witness that Muhammad is His servant and Messenger. O Allah, make me among those who repent and make me among those who purify themselves.",
+        "ar": "أشهد أن لا إله إلا الله وحده لا شريك له وأشهد أن محمدا عبده ورسوله، اللهم اجعلني من التوابين واجعلني من المتطهرين",
+        "ur": "میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اور میں گواہی دیتا ہوں کہ محمد ﷺ اس کے بندے اور رسول ہیں۔ اے اللہ! مجھے توبہ کرنے والوں میں سے کر اور مجھے پاکیزگی اختیار کرنے والوں میں سے کر۔",
+        "fr": "Je témoigne qu'il n'y a de dieu qu'Allah seul, sans associé, et je témoigne que Muhammad est Son serviteur et Messager. Ô Allah, fais-moi parmi ceux qui se repentent et fais-moi parmi ceux qui se purifient.",
+        "tr": "Şehadet ederim ki Allah'tan başka ilah yoktur, O tektir, ortağı yoktur ve şehadet ederim ki Muhammed O'nun kulu ve elçisidir. Allah'ım! Beni tövbe edenlerden kıl ve beni temizlenenlerden kıl.",
+        "id": "Aku bersaksi bahwa tiada tuhan selain Allah Yang Maha Esa, tiada sekutu bagi-Nya, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya. Ya Allah, jadikanlah aku termasuk orang-orang yang bertaubat dan jadikanlah aku termasuk orang-orang yang menyucikan diri.",
+        "bn": "আমি সাক্ষ্য দিচ্ছি যে আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি একক, তাঁর কোনো শরীক নেই, এবং আমি সাক্ষ্য দিচ্ছি যে মুহাম্মদ তাঁর বান্দা ও রাসূল। হে আল্লাহ, আমাকে তওবাকারীদের অন্তর্ভুক্ত করো এবং আমাকে পবিত্রতা অর্জনকারীদের অন্তর্ভুক্ত করো।",
+        "ms": "Aku bersaksi bahawa tiada Tuhan selain Allah Yang Maha Esa, tiada sekutu bagi-Nya, dan aku bersaksi bahawa Muhammad adalah hamba dan utusan-Nya. Ya Allah, jadikanlah aku termasuk orang-orang yang bertaubat dan jadikanlah aku termasuk orang-orang yang menyucikan diri.",
+        "ta": "அல்லாஹ் தவிர வணக்கத்திற்குரியவர் இல்லை, அவன் ஒற்றையானவன், அவனுக்கு இணையில்லை என்பதையும், முஹம்மது (ஸல்) அவனது அடிமை மற்றும் தூதர் என்பதையும் நான் சான்று கூறுகிறேன். இறைவா! என்னை பாவமன்னிப்பு தேடுபவர்களில் சேர்ப்பாயாக, என்னை தூய்மையாவர்களில் சேர்ப்பாயாக.",
+        "ml": "അല്ലാഹു അല്ലാതെ ആരാധനയർഹനായ ദൈവമില്ല, അവൻ ഒറ്റവനാണ്, അവന് പങ്കാളികളില്ല എന്നും മുഹമ്മദ് അവന്റെ ദാസനും ദൂതനുമാണ് എന്നും ഞാൻ സാക്ഷ്യം വഹിക്കുന്നു. അല്ലാഹുവേ, പശ്ചാത്തപിക്കുന്നവരിൽ എന്നെ ഉൾപ്പെടുത്തണമേ, ശുദ്ധീകരിക്കുന്നവരിൽ എന്നെ ഉൾപ്പെടുത്തണമേ."
+      },
+      "reference": {
+        "source": "Muslim",
+        "reference_text": "Muslim 1/209, Tirmidhi 1/78"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "wa-4",
+      "category_id": "wudu-adhan",
+      "subcategory_id": null,
+      "order": 4,
+      "title": {
+        "en": "After Adhan",
+        "ar": "بعد الأذان",
+        "ur": "اذان کے بعد",
+        "fr": "Après l'Appel",
+        "tr": "Ezandan Sonra",
+        "id": "Setelah Adzan",
+        "bn": "আযানের পরে",
+        "ms": "Selepas Azan",
+        "ta": "அதான் கூறிய பின்",
+        "ml": "അദാനിന് ശേഷം"
+      },
+      "arabic": "اللَّهُمَّ رَبَّ هَٰذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلاَةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ",
+      "translation": {
+        "en": "O Allah, Lord of this perfect call and established prayer, grant Muhammad the intercession and favor, and raise him to the praised position that You have promised him.",
+        "ar": "اللهم رب هذه الدعوة التامة والصلاة القائمة آت محمدا الوسيلة والفضيلة وابعثه مقاما محمودا الذي وعدته",
+        "ur": "اے اللہ! اس مکمل دعوت اور قائم ہونے والی نماز کے رب! محمد ﷺ کو وسیلہ اور فضیلت عطا فرما اور انہیں مقامِ محمود میں مبعوث فرما جس کا تو نے ان سے وعدہ کیا ہے۔",
+        "fr": "Ô Allah, Seigneur de cet appel parfait et de la prière établie, accorde à Muhammad l'intercession et la faveur, et élève-le à la position louée que Tu lui as promise.",
+        "tr": "Allah'ım! Bu mükemmel çağrının ve kılınacak namazın Rabbi! Muhammed'e vesile ve fazilet ver ve ona vaat ettiğin makamm-ı mahmuda gönder.",
+        "id": "Ya Allah, Tuhan panggilan yang sempurna dan shalat yang didirikan ini, berilah Muhammad wasilah dan keutamaan, dan bangkitkanlah dia di tempat yang terpuji yang telah Engkau janjikan.",
+        "bn": "হে আল্লাহ, এই পূর্ণাঙ্গ আহ্বান এবং প্রতিষ্ঠিত নামাজের রব! মুহাম্মদ ﷺ কে ওসীলা ও ফযীলত দান করো এবং তাকে সেই প্রশংসিত মাকামে উত্থিত করো যা তুমি তার সাথে ওয়াদা করেছ।",
+        "ms": "Ya Allah, Tuhan panggilan yang sempurna dan solat yang didirikan ini, berilah Muhammad wasilah dan keutamaan, dan bangkitkanlah dia di tempat yang terpuji yang telah Engkau janjikan.",
+        "ta": "இறைவா! இந்த முழுமையான அழைப்பின் மற்றும் நிறுவப்படும் தொழுகையின் இறைவா! முஹம்மது (ஸல்) அவர்களுக்கு வஸீலாவையும் ஃபளீலாவையும் அளிப்பாயாக, நீர் அவருக்கு வாக்களித்த புகழ்பெற்ற இடத்தில் அவரை எழுப்புவாயாக.",
+        "ml": "അല്ലാഹുവേ, ഈ പൂർണമായ വിളിയുടെയും സ്ഥാപിക്കപ്പെട്ട നമസ്കാരത്തിന്റെയും രക്ഷിതാവേ, മുഹമ്മദിന് വസീലയും ഫളീലയും നൽകണമേ, നീ അവന് വാഗ്ദാനം ചെയ്ത സ്തുത്യമായ സ്ഥാനത്ത് അവനെ ഉയർത്തണമേ."
+      },
+      "reference": {
+        "source": "Bukhari",
+        "reference_text": "Bukhari 1/210"
+      },
+      "repetition_count": 1
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "bathroom",
+  "count": 2,
+  "duas": [
+    {
+      "id": "bth-1",
+      "category_id": "bathroom",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Before Entering Bathroom",
+        "ar": "قبل دخول الخلاء",
+        "ur": "بیت الخلا میں داخل ہونے سے پہلے",
+        "fr": "Avant d'Entrer aux Toilettes",
+        "tr": "Tuvaletten Önce",
+        "id": "Sebelum Masuk Kamar Mandi",
+        "bn": "বাথরুমে প্রবেশের আগে",
+        "ms": "Sebelum Masuk Tandas",
+        "ta": "கழிப்பறைக்குள் நுழையும் முன்",
+        "ml": "ശൗചാലയത്തിൽ പ്രവേശിക്കുന്നതിന് മുമ്പ്"
+      },
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+      "translation": {
+        "en": "O Allah, I seek refuge in You from the male and female evil jinn.",
+        "ta": "இறைவா! ஆண் மற்றும் பெண் தீய ஜின்களின் தீமையிலிருந்து உம்மிடம் புகலிடம் தேடுகிறேன்.",
+        "ml": "അല്ലാഹുവേ, ദുഷ്ടരായ ആൺ-പെൺ ജിന്നുകളിൽ നിന്ന് ഞാൻ നിന്നോട് അഭയം തേടുന്നു.",
+        "ar": "اللهم إني أعوذ بك من الخبث والخبائث.",
+        "ur": "اے اللہ! میں نر اور مادہ خبیث جنوں سے تیری پناہ مانگتا ہوں۔",
+        "fr": "Ô Allah, je cherche refuge auprès de Toi contre les djinns mâles et femelles malfaisants.",
+        "tr": "Allah’ım, erkek ve dişi kötü cinlerden Sana sığınırım.",
+        "id": "Ya Allah, aku berlindung kepada-Mu dari jin jahat laki-laki dan perempuan.",
+        "bn": "হে আল্লাহ, আমি পুরুষ ও নারী দুষ্ট জিনের অনিষ্ট থেকে তোমার আশ্রয় চাই।",
+        "ms": "Ya Allah, aku berlindung kepada-Mu daripada jin jahat lelaki dan perempuan."
+      },
+      "reference": {
+        "source": "Bukhari",
+        "reference_text": "Bukhari 1/45, Muslim 1/283"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "bth-2",
+      "category_id": "bathroom",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "After Leaving the Bathroom",
+        "ta": "கழிப்பறையிலிருந்து வெளியே வந்த பின் ஓதும் துஆ",
+        "ml": "ശൗചാലയത്തിൽ നിന്ന് പുറത്തുവന്ന ശേഷം ചൊല്ലുന്ന ദുആ",
+        "ar": "دعاء الخروج من الخلاء",
+        "ur": "بیت الخلا سے نکلنے کے بعد کی دعا",
+        "fr": "Invocation après être sorti des toilettes",
+        "tr": "Tuvaletten çıktıktan sonra okunacak dua",
+        "id": "Doa setelah keluar dari kamar mandi",
+        "bn": "শৌচাগার থেকে বের হওয়ার পরের দোয়া",
+        "ms": "Doa selepas keluar dari tandas"
+      },
+      "arabic": "غُفْرَانَكَ الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنِّي الأَذَى وَعَافَانِي",
+      "transliteration": "Ghufranaka, al-hamdu lillahi alladhi adh-haba anni al-adha wa afani.",
+      "translation": {
+        "en": "I seek Your forgiveness. All praise is for Allah who removed harm from me and granted me well-being.",
+        "ta": "உன்னிடம் மன்னிப்புக் கோருகிறேன். எனக்கு ஏற்பட்ட அசௌகரியத்தை நீக்கி, நலத்தை வழங்கிய அல்லாஹ்வுக்கே எல்லாப் புகழும்.",
+        "ml": "ഞാൻ നിന്നോട് പാപമോചനം തേടുന്നു. എന്നിൽ നിന്നുള്ള ഉപദ്രവം നീക്കി സുഖവും ക്ഷേമവും നൽകിയ അല്ലാഹുവിനാണ് എല്ലാ സ്തുതിയും.",
+        "ar": "أستغفرك. الحمد لله الذي أذهب عني الأذى وعافاني.",
+        "ur": "میں تجھ سے بخشش مانگتا ہوں۔ سب تعریف اللہ کے لیے ہے جس نے مجھ سے تکلیف دور کی اور مجھے عافیت عطا فرمائی۔",
+        "fr": "Je Te demande pardon. Toute louange appartient à Allah, qui m’a débarrassé de ce qui m’incommodait et m’a accordé le bien-être.",
+        "tr": "Senden bağışlanma dilerim. Benden sıkıntıyı gideren ve bana sağlık veren Allah’a hamd olsun.",
+        "id": "Aku memohon ampun kepada-Mu. Segala puji bagi Allah yang telah menghilangkan gangguan dariku dan menganugerahkan kesehatan kepadaku.",
+        "bn": "আমি তোমার কাছে ক্ষমা প্রার্থনা করছি। সমস্ত প্রশংসা আল্লাহর, যিনি আমার কষ্ট দূর করেছেন এবং আমাকে সুস্থতা দিয়েছেন।",
+        "ms": "Aku memohon keampunan-Mu. Segala puji bagi Allah yang telah menghilangkan kesusahan daripadaku dan mengurniakan kesejahteraan kepadaku."
+      },
+      "reference": {
+        "source": "Sunan Abi Dawud; Sunan Ibn Majah",
+        "reference_text": "Sunan Abi Dawud 30 (Sahih according to al-Albani) reports “Ghufranak.” The added praise clause is separately reported in Sunan Ibn Majah 301 (Da’if, Darussalam)."
+      },
+      "repetition_count": 1
+    }
+  ]
+}

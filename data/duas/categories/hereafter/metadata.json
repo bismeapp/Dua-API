@@ -1,0 +1,38 @@
+{
+  "id": "hereafter",
+  "name": {
+    "en": "Hereafter",
+    "ta": "மறுமை",
+    "ml": "പരലോകം",
+    "ar": "الآخرة",
+    "ur": "آخرت",
+    "fr": "L’au-delà",
+    "tr": "Ahiret",
+    "id": "Akhirat",
+    "bn": "আখিরাত",
+    "ms": "Akhirat"
+  },
+  "description": {
+    "en": "Duas concerning the Hereafter and life after death.",
+    "ta": "மறுமை மற்றும் மரணத்திற்குப் பிந்தைய வாழ்வைப் பற்றிய துஆக்கள்.",
+    "ml": "പരലോകത്തെയും മരണാനന്തര ജീവിതത്തെയും കുറിച്ചുള്ള ദുആകൾ.",
+    "ar": "أدعية تتعلق بالآخرة والحياة بعد الموت.",
+    "ur": "آخرت اور مرنے کے بعد کی زندگی سے متعلق دعائیں۔",
+    "fr": "Invocations concernant l’au-delà et la vie après la mort.",
+    "tr": "Ahiret ve ölümden sonraki hayatla ilgili dualar.",
+    "id": "Doa tentang akhirat dan kehidupan setelah kematian.",
+    "bn": "আখিরাত ও মৃত্যুর পরের জীবন সম্পর্কিত দোয়া।",
+    "ms": "Doa berkaitan akhirat dan kehidupan selepas mati."
+  },
+  "parent_id": null,
+  "order": 41,
+  "theme": {
+    "color": "gray",
+    "gradient": "from-gray-400 to-slate-600",
+    "bg": "bg-gray-50",
+    "border": "border-gray-200",
+    "text": "text-gray-700"
+  },
+  "item_count": 3,
+  "data_file": "duas.json"
+}

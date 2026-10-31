@@ -1,0 +1,442 @@
+{
+    "api_version":  "3.0.0",
+    "description":  "Multilingual Islamic duas and devotional texts, with source references shown where available.",
+    "base_url":  "/api/v1",
+    "documentation":  "https://github.com/Rizna001/FLUTTER-FRIENDLY-DUA-2/blob/main/API.md",
+    "endpoints":  {
+                      "all_duas":  "/api/v1/duas.json",
+                      "api_index":  "/api/v1/index.json",
+                      "rabbana_duas":  "/api/v1/rabbana-duas.json"
+                  },
+    "total_categories":  39,
+    "total_duas":  509,
+    "supported_languages":  [
+                                {
+                                    "code":  "en",
+                                    "name":  "English",
+                                    "flag":  "🇬🇧"
+                                },
+                                {
+                                    "code":  "ta",
+                                    "name":  "தமிழ்",
+                                    "flag":  "🇮🇳"
+                                },
+                                {
+                                    "code":  "ml",
+                                    "name":  "മലയാളം",
+                                    "flag":  "🇮🇳"
+                                },
+                                {
+                                    "code":  "ar",
+                                    "name":  "العربية",
+                                    "flag":  "🇸🇦"
+                                },
+                                {
+                                    "code":  "ur",
+                                    "name":  "اردو",
+                                    "flag":  "🇵🇰"
+                                },
+                                {
+                                    "code":  "fr",
+                                    "name":  "Français",
+                                    "flag":  "🇫🇷"
+                                },
+                                {
+                                    "code":  "tr",
+                                    "name":  "Türkçe",
+                                    "flag":  "🇹🇷"
+                                },
+                                {
+                                    "code":  "id",
+                                    "name":  "Bahasa Indonesia",
+                                    "flag":  "🇮🇩"
+                                },
+                                {
+                                    "code":  "bn",
+                                    "name":  "বাংলা",
+                                    "flag":  "🇧🇩"
+                                },
+                                {
+                                    "code":  "ms",
+                                    "name":  "Bahasa Melayu",
+                                    "flag":  "🇲🇾"
+                                }
+                            ],
+    "categories":  [
+                       {
+                           "id":  "morning-evening",
+                           "name":  {
+                                        "en":  "Morning \u0026 Evening"
+                                    },
+                           "duas_count":  4
+                       },
+                       {
+                           "id":  "eating",
+                           "name":  {
+                                        "en":  "Before \u0026 After Eating"
+                                    },
+                           "duas_count":  4
+                       },
+                       {
+                           "id":  "sleep-wake",
+                           "name":  {
+                                        "en":  "Sleep \u0026 Waking Up"
+                                    },
+                           "duas_count":  3
+                       },
+                       {
+                           "id":  "mosque",
+                           "name":  {
+                                        "en":  "Mosque"
+                                    },
+                           "duas_count":  2
+                       },
+                       {
+                           "id":  "home",
+                           "name":  {
+                                        "en":  "Home"
+                                    },
+                           "duas_count":  3
+                       },
+                       {
+                           "id":  "bathroom",
+                           "name":  {
+                                        "en":  "Bathroom"
+                                    },
+                           "duas_count":  2
+                       },
+                       {
+                           "id":  "travel",
+                           "name":  {
+                                        "en":  "Travel"
+                                    },
+                           "duas_count":  7
+                       },
+                       {
+                           "id":  "hardship",
+                           "name":  {
+                                        "en":  "Hardship \u0026 Distress"
+                                    },
+                           "duas_count":  5
+                       },
+                       {
+                           "id":  "forgiveness",
+                           "name":  {
+                                        "en":  "Forgiveness \u0026 Repentance"
+                                    },
+                           "duas_count":  3
+                       },
+                       {
+                           "id":  "protection",
+                           "name":  {
+                                        "en":  "Protection"
+                                    },
+                           "duas_count":  12
+                       },
+                       {
+                           "id":  "knowledge",
+                           "name":  {
+                                        "en":  "Knowledge \u0026 Study"
+                                    },
+                           "duas_count":  5
+                       },
+                       {
+                           "id":  "sickness",
+                           "name":  {
+                                        "en":  "Dua for Recovery from Illness",
+                                        "ta":  "நோயிலிருந்து குணமடைவதற்கான துஆ",
+                                        "ml":  "രോഗശാന്തിക്കുള്ള ദുആ",
+                                        "ar":  "دعاء للتعافي من المرض",
+                                        "ur":  "بیماری سے شفا یابی کی دعا",
+                                        "fr":  "Invocation pour la guérison de la maladie",
+                                        "tr":  "Hastalıktan şifa bulma duası",
+                                        "id":  "Doa untuk kesembuhan dari penyakit",
+                                        "bn":  "অসুস্থতা থেকে সুস্থতার দোয়া",
+                                        "ms":  "Doa untuk sembuh daripada penyakit"
+                                    },
+                           "duas_count":  2
+                       },
+                       {
+                           "id":  "rain",
+                           "name":  {
+                                        "en":  "Rain \u0026 Weather"
+                                    },
+                           "duas_count":  2
+                       },
+                       {
+                           "id":  "anger",
+                           "name":  {
+                                        "en":  "Anger \u0026 Calm"
+                                    },
+                           "duas_count":  1
+                       },
+                       {
+                           "id":  "friday",
+                           "name":  {
+                                        "en":  "Friday (Jummah)",
+                                        "ta":  "வெள்ளிக்கிழமை (ஜும்ஆ)",
+                                        "ml":  "വെള്ളിയാഴ്ച (ജുമുഅ)",
+                                        "ar":  "يوم الجمعة",
+                                        "ur":  "جمعہ",
+                                        "fr":  "Vendredi (Jummah)",
+                                        "tr":  "Cuma",
+                                        "id":  "Hari Jumat",
+                                        "bn":  "জুমার দিন",
+                                        "ms":  "Hari Jumaat"
+                                    },
+                           "duas_count":  3
+                       },
+                       {
+                           "id":  "dua-general",
+                           "name":  {
+                                        "en":  "General Good"
+                                    },
+                           "duas_count":  4
+                       },
+                       {
+                           "id":  "death-funeral",
+                           "name":  {
+                                        "en":  "Death \u0026 Funeral"
+                                    },
+                           "duas_count":  8
+                       },
+                       {
+                           "id":  "salawat",
+                           "name":  {
+                                        "en":  "Salawat upon the Prophet"
+                                    },
+                           "duas_count":  10
+                       },
+                       {
+                           "id":  "asma-ul-husna",
+                           "name":  {
+                                        "en":  "99 Names of Allah (Asma ul Husna)"
+                                    },
+                           "duas_count":  1
+                       },
+                       {
+                           "id":  "asma-ul-anbiya",
+                           "name":  {
+                                        "en":  "Names of the Prophets (Asma ul Anbiya)",
+                                        "ta":  "நபிமார்களின் பெயர்கள் (Asma ul Anbiya)",
+                                        "ml":  "പ്രവാചകന്മാരുടെ പേരുകൾ (Asma ul Anbiya)",
+                                        "ar":  "أسماء الأنبياء (Asma ul Anbiya)",
+                                        "ur":  "انبیاء کے نام (Asma ul Anbiya)",
+                                        "fr":  "Noms des prophètes (Asma ul Anbiya)",
+                                        "tr":  "Peygamberlerin İsimleri (Asma ul Anbiya)",
+                                        "id":  "Nama para Nabi (Asma ul Anbiya)",
+                                        "bn":  "নবীদের নাম (Asma ul Anbiya)",
+                                        "ms":  "Nama-nama Nabi (Asma ul Anbiya)"
+                                    },
+                           "duas_count":  1
+                       },
+                       {
+                           "id":  "wudu-adhan",
+                           "name":  {
+                                        "en":  "Wudu \u0026 Adhan"
+                                    },
+                           "duas_count":  3
+                       },
+                       {
+                           "id":  "asma-un-nabi",
+                           "name":  {
+                                        "en":  "Asma un Nabi",
+                                        "ta":  "நபிகள் நாயகத்தின் திருப்பெயர்கள்",
+                                        "ml":  "പ്രവാചകൻ മുഹമ്മദ് നബിയുടെ നാമങ്ങൾ",
+                                        "ar":  "أسماء النبي محمد ﷺ",
+                                        "ur":  "نبی محمد ﷺ کے اسمائے مبارکہ",
+                                        "fr":  "Les noms du Prophète Muhammad ﷺ",
+                                        "tr":  "Peygamber Muhammed ﷺ’in İsimleri",
+                                        "id":  "Nama-nama Nabi Muhammad ﷺ",
+                                        "bn":  "নবী মুহাম্মদ ﷺ-এর নামসমূহ",
+                                        "ms":  "Nama-nama Nabi Muhammad ﷺ"
+                                    },
+                           "duas_count":  201
+                       },
+                       {
+                           "id":  "prayer-duas",
+                           "duas_count":  9,
+                           "name":  {
+                                        "en":  "Prayer Duas",
+                                        "ta":  "தொழுகை துஆக்கள்",
+                                        "ml":  "നമസ്കാര ദുആകൾ",
+                                        "ar":  "أدعية الصلاة",
+                                        "ur":  "نماز کی دعائیں",
+                                        "fr":  "Invocations liées à la prière",
+                                        "tr":  "Namaz Duaları",
+                                        "id":  "Doa Salat",
+                                        "bn":  "নামাজের দোয়া",
+                                        "ms":  "Doa Solat"
+                                    }
+                       },
+                       {
+                           "id":  "istikhara",
+                           "name":  {
+                                        "en":  "Istikhara (Seeking Guidance)"
+                                    },
+                           "duas_count":  1
+                       },
+                       {
+                           "id":  "nightmare",
+                           "name":  {
+                                        "en":  "Nightmare \u0026 Bad Dreams"
+                                    },
+                           "duas_count":  2
+                       },
+                       {
+                           "id":  "evil-eye",
+                           "name":  {
+                                        "en":  "Protection from Evil Eye"
+                                    },
+                           "duas_count":  1
+                       },
+                       {
+                           "id":  "fasting",
+                           "name":  {
+                                        "en":  "Fasting \u0026 Ramadan"
+                                    },
+                           "duas_count":  4
+                       },
+                       {
+                           "id":  "hajj-umrah",
+                           "name":  {
+                                        "en":  "Hajj \u0026 Umrah"
+                                    },
+                           "duas_count":  57
+                       },
+                       {
+                           "id":  "debt-poverty",
+                           "name":  {
+                                        "en":  "Debt \u0026 Poverty"
+                                    },
+                           "duas_count":  6
+                       },
+                       {
+                           "id":  "children-newborn",
+                           "name":  {
+                                        "en":  "Family \u0026 Children",
+                                        "ta":  "குடும்பங்கள் மற்றும் குழந்தைகள்",
+                                        "ml":  "കുടുംബങ്ങളും കുട്ടികളും",
+                                        "ar":  "الأسرة والأطفال",
+                                        "ur":  "خاندان اور بچے",
+                                        "fr":  "Familles et enfants",
+                                        "tr":  "Aile ve çocuklar",
+                                        "id":  "Keluarga dan Anak-anak",
+                                        "bn":  "পরিবার ও শিশুরা",
+                                        "ms":  "Keluarga dan Kanak-kanak"
+                                    },
+                           "duas_count":  22
+                       },
+                       {
+                           "id":  "clothes-appearance",
+                           "name":  {
+                                        "en":  "Clothes \u0026 Appearance"
+                                    },
+                           "duas_count":  2
+                       },
+                       {
+                           "id":  "market-business",
+                           "name":  {
+                                        "en":  "Market \u0026 Business"
+                                    },
+                           "duas_count":  3
+                       },
+                       {
+                           "id":  "good-character",
+                           "name":  {
+                                        "en":  "Good Character"
+                                    },
+                           "duas_count":  2
+                       },
+                       {
+                           "id":  "ummah",
+                           "name":  {
+                                        "en":  "For the Ummah"
+                                    },
+                           "duas_count":  1
+                       },
+                       {
+                           "id":  "Others",
+                           "name":  {
+                                        "en":  "Others"
+                                    },
+                           "duas_count":  2
+                       },
+                       {
+                           "id":  "qaseedah-burdah",
+                           "name":  {
+                                        "en":  "Qaseedah Burdhah",
+                                        "ar":  "قصيدة البردة"
+                                    },
+                           "duas_count":  67
+                       },
+                       {
+                           "id":  "hereafter",
+                           "duas_count":  3,
+                           "name":  {
+                                        "en":  "Hereafter",
+                                        "ta":  "மறுமை",
+                                        "ml":  "പരലോകം",
+                                        "ar":  "الآخرة",
+                                        "ur":  "آخرت",
+                                        "fr":  "L’au-delà",
+                                        "tr":  "Ahiret",
+                                        "id":  "Akhirat",
+                                        "bn":  "আখিরাত",
+                                        "ms":  "Akhirat"
+                                    }
+                       },
+                       {
+                           "id":  "rabbana-duas",
+                           "name":  {
+                                        "en":  "40 Rabbana Duas",
+                                        "ta":  "40 ரப்பனா துஆக்கள்",
+                                        "ml":  "40 റബ്ബനാ ദുആകൾ",
+                                        "ar":  "أربعون دعاءً من أدعية ربنا",
+                                        "ur":  "40 ربنا کی دعائیں",
+                                        "fr":  "40 invocations Rabbana",
+                                        "tr":  "40 Rabbana duası",
+                                        "id":  "40 Doa Rabbana",
+                                        "bn":  "৪০টি রব্বানা দোয়া",
+                                        "ms":  "40 Doa Rabbana"
+                                    },
+                           "duas_count":  40
+                       },
+                       {
+                           "id":  "laylatul-qadr",
+                           "name":  {
+                                        "en":  "Laylatul Qadr (Night of Power)",
+                                        "ar":  "ليلة القدر"
+                                    },
+                           "duas_count":  1
+                       }
+                   ],
+    "sources":  [
+                    "Sahih al-Bukhari",
+                    "Sahih Muslim",
+                    "Sunan Abu Dawud",
+                    "Jami\u0027 at-Tirmidhi",
+                    "Sunan an-Nasa\u0027i",
+                    "Sunan Ibn Majah",
+                    "The Noble Quran",
+                    "Musnad Ahmad",
+                    "Al-Adab Al-Mufrad"
+                ],
+    "usage":  {
+                  "description":  "This API provides authentic Islamic duas organized by situation with translations in multiple languages.",
+                  "authentication":  "None required - public API",
+                  "rate_limit":  "No rate limit for static JSON files",
+                  "cors":  "Enabled - can be accessed from any domain",
+                  "caching":  "Recommended to cache for 24 hours"
+              },
+    "examples":  {
+                     "javascript":  "fetch(\u0027/api/v1/duas.json\u0027).then(res =\u003e res.json()).then(data =\u003e console.log(data))",
+                     "python":  "import requests; data = requests.get(\u0027/api/v1/duas.json\u0027).json()",
+                     "curl":  "curl https://rizna001.github.io/islamic-duas-collection/api/v1/duas.json"
+                 },
+    "license":  "MIT",
+    "repository":  "https://github.com/Rizna001/FLUTTER-FRIENDLY-DUA-2",
+    "issues":  "https://github.com/Rizna001/FLUTTER-FRIENDLY-DUA-2/issues",
+    "contributing":  "https://github.com/Rizna001/FLUTTER-FRIENDLY-DUA-2/blob/main/CONTRIBUTING.md",
+    "rabbana_duas_count":  40
+}

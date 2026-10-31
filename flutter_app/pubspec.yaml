@@ -1,0 +1,61 @@
+name: dua_data_consumer
+description: A Flutter app for browsing categorized duas.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/json/ASSET_MAP.json
+    - assets/json/data/asma-ul-anbiya/
+    - assets/json/data/asma-ul-husna/
+    - assets/json/data/duas/
+    - assets/json/data/duas/categories/
+    - assets/json/data/duas/categories/anger/
+    - assets/json/data/duas/categories/asma-ul-anbiya/
+    - assets/json/data/duas/categories/asma-ul-husna/
+    - assets/json/data/duas/categories/bathroom/
+    - assets/json/data/duas/categories/children-newborn/
+    - assets/json/data/duas/categories/clothes-appearance/
+    - assets/json/data/duas/categories/death-funeral/
+    - assets/json/data/duas/categories/debt-poverty/
+    - assets/json/data/duas/categories/dua-general/
+    - assets/json/data/duas/categories/Others/
+    - assets/json/data/duas/categories/eating/
+    - assets/json/data/duas/categories/evil-eye/
+    - assets/json/data/duas/categories/fasting/
+    - assets/json/data/duas/categories/forgiveness/
+    - assets/json/data/duas/categories/friday/
+    - assets/json/data/duas/categories/good-character/
+    - assets/json/data/duas/categories/hajj-umrah/
+    - assets/json/data/duas/categories/hardship/
+    - assets/json/data/duas/categories/hereafter/
+    - assets/json/data/duas/categories/home/
+    - assets/json/data/duas/categories/istikhara/
+    - assets/json/data/duas/categories/knowledge/
+    - assets/json/data/duas/categories/laylatul-qadr/
+    - assets/json/data/duas/categories/market-business/
+    - assets/json/data/duas/categories/morning-evening/
+    - assets/json/data/duas/categories/mosque/
+    - assets/json/data/duas/categories/nightmare/
+    - assets/json/data/duas/categories/prayer-duas/
+    - assets/json/data/duas/categories/protection/
+    - assets/json/data/duas/categories/rain/
+    - assets/json/data/duas/categories/salawat/
+    - assets/json/data/duas/categories/sickness/
+    - assets/json/data/duas/categories/sleep-wake/
+    - assets/json/data/duas/categories/travel/
+    - assets/json/data/duas/categories/ummah/
+    - assets/json/data/duas/categories/wudu-adhan/
+    - assets/json/data/duas/categories/rabbana-duas/
+    - assets/json/metadata/

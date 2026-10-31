@@ -1,0 +1,1322 @@
+{
+    "schema_version":  "3.0.0",
+    "description":  "Flutter asset map. Declare each asset directory in flutter_app/pubspec.yaml; resolve paths relative to assets/json.",
+    "asset_root":  "assets/json",
+    "entry_count":  101,
+    "entries":  [
+                    {
+                        "asset_path":  "data/asma-ul-anbiya/duas.json",
+                        "repo_path":  "data/asma-ul-anbiya/duas.json",
+                        "bytes":  2479,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/asma-ul-anbiya/index.json",
+                        "repo_path":  "data/asma-ul-anbiya/index.json",
+                        "bytes":  1304,
+                        "top_level_keys":  [
+                                               "collection_id",
+                                               "description",
+                                               "files",
+                                               "languages",
+                                               "record_breakdown",
+                                               "schema_version",
+                                               "title",
+                                               "total_records"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/asma-ul-anbiya/metadata.json",
+                        "repo_path":  "data/asma-ul-anbiya/metadata.json",
+                        "bytes":  1655,
+                        "top_level_keys":  [
+                                               "counts",
+                                               "data_file",
+                                               "data_files",
+                                               "description",
+                                               "icon",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/asma-ul-anbiya/name-meanings.json",
+                        "repo_path":  "data/asma-ul-anbiya/name-meanings.json",
+                        "bytes":  15099,
+                        "top_level_keys":  [
+                                               "count",
+                                               "name_meanings",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/asma-ul-anbiya/prophets-embedded.json",
+                        "repo_path":  "data/asma-ul-anbiya/prophets-embedded.json",
+                        "bytes":  7227,
+                        "top_level_keys":  [
+                                               "count",
+                                               "note",
+                                               "prophets",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/asma-ul-anbiya/prophets-with-duas.json",
+                        "repo_path":  "data/asma-ul-anbiya/prophets-with-duas.json",
+                        "bytes":  12530,
+                        "top_level_keys":  [
+                                               "count",
+                                               "prophets",
+                                               "schema_version",
+                                               "total_duas"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/asma-ul-anbiya/prophets.json",
+                        "repo_path":  "data/asma-ul-anbiya/prophets.json",
+                        "bytes":  7969,
+                        "top_level_keys":  [
+                                               "count",
+                                               "prophets",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/asma-ul-husna/duas.json",
+                        "repo_path":  "data/asma-ul-husna/duas.json",
+                        "bytes":  2406,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/asma-ul-husna/featured-names.json",
+                        "repo_path":  "data/asma-ul-husna/featured-names.json",
+                        "bytes":  4016,
+                        "top_level_keys":  [
+                                               "count",
+                                               "featured_names",
+                                               "note",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/asma-ul-husna/index.json",
+                        "repo_path":  "data/asma-ul-husna/index.json",
+                        "bytes":  870,
+                        "top_level_keys":  [
+                                               "collection_id",
+                                               "description",
+                                               "files",
+                                               "languages",
+                                               "record_breakdown",
+                                               "schema_version",
+                                               "title",
+                                               "total_records"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/asma-ul-husna/metadata.json",
+                        "repo_path":  "data/asma-ul-husna/metadata.json",
+                        "bytes":  1447,
+                        "top_level_keys":  [
+                                               "counts",
+                                               "data_file",
+                                               "data_files",
+                                               "description",
+                                               "icon",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/asma-ul-husna/names.json",
+                        "repo_path":  "data/asma-ul-husna/names.json",
+                        "bytes":  30755,
+                        "top_level_keys":  [
+                                               "count",
+                                               "names",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/index.json",
+                        "repo_path":  "data/duas/index.json",
+                        "bytes":  156,
+                        "top_level_keys":  [
+                                               "categories_index",
+                                               "collection_id",
+                                               "schema_version",
+                                               "total_categories",
+                                               "total_records"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/duas.json",
+                        "repo_path":  "data/duas/categories/duas.json",
+                        "bytes":  727268,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "collection_notes",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/index.json",
+                        "repo_path":  "data/duas/categories/index.json",
+                        "bytes":  17544,
+                        "top_level_keys":  [
+                                               "categories",
+                                               "collection_id",
+                                               "description",
+                                               "languages",
+                                               "schema_version",
+                                               "title",
+                                               "total_categories",
+                                               "total_records"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/anger/duas.json",
+                        "repo_path":  "data/duas/categories/anger/duas.json",
+                        "bytes":  1908,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/anger/metadata.json",
+                        "repo_path":  "data/duas/categories/anger/metadata.json",
+                        "bytes":  767,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/asma-ul-anbiya/duas.json",
+                        "repo_path":  "data/duas/categories/asma-ul-anbiya/duas.json",
+                        "bytes":  2479,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/asma-ul-anbiya/metadata.json",
+                        "repo_path":  "data/duas/categories/asma-ul-anbiya/metadata.json",
+                        "bytes":  1542,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/asma-ul-husna/duas.json",
+                        "repo_path":  "data/duas/categories/asma-ul-husna/duas.json",
+                        "bytes":  2406,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/asma-ul-husna/metadata.json",
+                        "repo_path":  "data/duas/categories/asma-ul-husna/metadata.json",
+                        "bytes":  1039,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/asma-un-nabi/duas.json",
+                        "repo_path":  "data/duas/categories/asma-un-nabi/duas.json",
+                        "bytes":  463912,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "description",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/asma-un-nabi/metadata.json",
+                        "repo_path":  "data/duas/categories/asma-un-nabi/metadata.json",
+                        "bytes":  1154,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/asma-un-nabi/names.tsv",
+                        "repo_path":  "data/duas/categories/asma-un-nabi/names.tsv",
+                        "bytes":  10898,
+                        "top_level_keys":  null
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/bathroom/duas.json",
+                        "repo_path":  "data/duas/categories/bathroom/duas.json",
+                        "bytes":  6089,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/bathroom/metadata.json",
+                        "repo_path":  "data/duas/categories/bathroom/metadata.json",
+                        "bytes":  669,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/children-newborn/duas.json",
+                        "repo_path":  "data/duas/categories/children-newborn/duas.json",
+                        "bytes":  160917,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/children-newborn/metadata.json",
+                        "repo_path":  "data/duas/categories/children-newborn/metadata.json",
+                        "bytes":  1535,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/clothes-appearance/duas.json",
+                        "repo_path":  "data/duas/categories/clothes-appearance/duas.json",
+                        "bytes":  5537,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/clothes-appearance/metadata.json",
+                        "repo_path":  "data/duas/categories/clothes-appearance/metadata.json",
+                        "bytes":  793,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/death-funeral/duas.json",
+                        "repo_path":  "data/duas/categories/death-funeral/duas.json",
+                        "bytes":  39438,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/death-funeral/metadata.json",
+                        "repo_path":  "data/duas/categories/death-funeral/metadata.json",
+                        "bytes":  798,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/debt-poverty/duas.json",
+                        "repo_path":  "data/duas/categories/debt-poverty/duas.json",
+                        "bytes":  33745,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/debt-poverty/metadata.json",
+                        "repo_path":  "data/duas/categories/debt-poverty/metadata.json",
+                        "bytes":  773,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/dua-general/duas.json",
+                        "repo_path":  "data/duas/categories/dua-general/duas.json",
+                        "bytes":  11481,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/dua-general/metadata.json",
+                        "repo_path":  "data/duas/categories/dua-general/metadata.json",
+                        "bytes":  708,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/eating/duas.json",
+                        "repo_path":  "data/duas/categories/eating/duas.json",
+                        "bytes":  8824,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/eating/metadata.json",
+                        "repo_path":  "data/duas/categories/eating/metadata.json",
+                        "bytes":  887,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/evil-eye/duas.json",
+                        "repo_path":  "data/duas/categories/evil-eye/duas.json",
+                        "bytes":  3346,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/evil-eye/metadata.json",
+                        "repo_path":  "data/duas/categories/evil-eye/metadata.json",
+                        "bytes":  890,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/fasting/duas.json",
+                        "repo_path":  "data/duas/categories/fasting/duas.json",
+                        "bytes":  15912,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/fasting/metadata.json",
+                        "repo_path":  "data/duas/categories/fasting/metadata.json",
+                        "bytes":  1111,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/forgiveness/duas.json",
+                        "repo_path":  "data/duas/categories/forgiveness/duas.json",
+                        "bytes":  10145,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/forgiveness/metadata.json",
+                        "repo_path":  "data/duas/categories/forgiveness/metadata.json",
+                        "bytes":  875,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/friday/duas.json",
+                        "repo_path":  "data/duas/categories/friday/duas.json",
+                        "bytes":  34167,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/friday/metadata.json",
+                        "repo_path":  "data/duas/categories/friday/metadata.json",
+                        "bytes":  1218,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/good-character/duas.json",
+                        "repo_path":  "data/duas/categories/good-character/duas.json",
+                        "bytes":  10935,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/good-character/metadata.json",
+                        "repo_path":  "data/duas/categories/good-character/metadata.json",
+                        "bytes":  713,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/hajj-umrah/duas.json",
+                        "repo_path":  "data/duas/categories/hajj-umrah/duas.json",
+                        "bytes":  541444,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version",
+                                               "sections",
+                                               "translation_status"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/hajj-umrah/localized-items.json",
+                        "repo_path":  "data/duas/categories/hajj-umrah/localized-items.json",
+                        "bytes":  278999,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "items",
+                                               "schema_version",
+                                               "sections",
+                                               "translation_status"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/hajj-umrah/metadata.json",
+                        "repo_path":  "data/duas/categories/hajj-umrah/metadata.json",
+                        "bytes":  3133,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme",
+                                               "translation_status"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/hajj-umrah/source-items.json",
+                        "repo_path":  "data/duas/categories/hajj-umrah/source-items.json",
+                        "bytes":  34636,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "items",
+                                               "schema_version",
+                                               "sections"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/hardship/duas.json",
+                        "repo_path":  "data/duas/categories/hardship/duas.json",
+                        "bytes":  18743,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/hardship/metadata.json",
+                        "repo_path":  "data/duas/categories/hardship/metadata.json",
+                        "bytes":  844,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/hereafter/duas.json",
+                        "repo_path":  "data/duas/categories/hereafter/duas.json",
+                        "bytes":  67782,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/hereafter/metadata.json",
+                        "repo_path":  "data/duas/categories/hereafter/metadata.json",
+                        "bytes":  1561,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/home/duas.json",
+                        "repo_path":  "data/duas/categories/home/duas.json",
+                        "bytes":  13112,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/home/metadata.json",
+                        "repo_path":  "data/duas/categories/home/metadata.json",
+                        "bytes":  552,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/istikhara/duas.json",
+                        "repo_path":  "data/duas/categories/istikhara/duas.json",
+                        "bytes":  13304,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/istikhara/metadata.json",
+                        "repo_path":  "data/duas/categories/istikhara/metadata.json",
+                        "bytes":  715,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/knowledge/duas.json",
+                        "repo_path":  "data/duas/categories/knowledge/duas.json",
+                        "bytes":  33977,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/knowledge/metadata.json",
+                        "repo_path":  "data/duas/categories/knowledge/metadata.json",
+                        "bytes":  798,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/laylatul-qadr/duas.json",
+                        "repo_path":  "data/duas/categories/laylatul-qadr/duas.json",
+                        "bytes":  3206,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/laylatul-qadr/metadata.json",
+                        "repo_path":  "data/duas/categories/laylatul-qadr/metadata.json",
+                        "bytes":  1090,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/market-business/duas.json",
+                        "repo_path":  "data/duas/categories/market-business/duas.json",
+                        "bytes":  25016,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/market-business/metadata.json",
+                        "repo_path":  "data/duas/categories/market-business/metadata.json",
+                        "bytes":  790,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/morning-evening/duas.json",
+                        "repo_path":  "data/duas/categories/morning-evening/duas.json",
+                        "bytes":  23444,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/morning-evening/metadata.json",
+                        "repo_path":  "data/duas/categories/morning-evening/metadata.json",
+                        "bytes":  781,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/mosque/duas.json",
+                        "repo_path":  "data/duas/categories/mosque/duas.json",
+                        "bytes":  5954,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/mosque/metadata.json",
+                        "repo_path":  "data/duas/categories/mosque/metadata.json",
+                        "bytes":  596,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/nightmare/duas.json",
+                        "repo_path":  "data/duas/categories/nightmare/duas.json",
+                        "bytes":  10459,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/nightmare/metadata.json",
+                        "repo_path":  "data/duas/categories/nightmare/metadata.json",
+                        "bytes":  767,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/Others/duas.json",
+                        "repo_path":  "data/duas/categories/Others/duas.json",
+                        "bytes":  15074,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "collection_notes",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/Others/metadata.json",
+                        "repo_path":  "data/duas/categories/Others/metadata.json",
+                        "bytes":  1054,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/prayer-duas/duas.json",
+                        "repo_path":  "data/duas/categories/prayer-duas/duas.json",
+                        "bytes":  177261,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/prayer-duas/metadata.json",
+                        "repo_path":  "data/duas/categories/prayer-duas/metadata.json",
+                        "bytes":  2117,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/protection/duas.json",
+                        "repo_path":  "data/duas/categories/protection/duas.json",
+                        "bytes":  174903,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/protection/metadata.json",
+                        "repo_path":  "data/duas/categories/protection/metadata.json",
+                        "bytes":  643,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/qaseedah-burdah/content.json",
+                        "repo_path":  "data/duas/categories/qaseedah-burdah/content.json",
+                        "bytes":  287881,
+                        "top_level_keys":  [
+                                               "author",
+                                               "category_id",
+                                               "schema_version",
+                                               "sections",
+                                               "source_url",
+                                               "title",
+                                               "translation_note"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/qaseedah-burdah/duas.json",
+                        "repo_path":  "data/duas/categories/qaseedah-burdah/duas.json",
+                        "bytes":  322620,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "description",
+                                               "duas",
+                                               "schema_version",
+                                               "sections"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/qaseedah-burdah/metadata.json",
+                        "repo_path":  "data/duas/categories/qaseedah-burdah/metadata.json",
+                        "bytes":  2920,
+                        "top_level_keys":  [
+                                               "author",
+                                               "data_file",
+                                               "description",
+                                               "display_title",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "source_url",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/rabbana-duas/duas.json",
+                        "repo_path":  "data/duas/categories/rabbana-duas/duas.json",
+                        "bytes":  117218,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/rabbana-duas/index.json",
+                        "repo_path":  "data/duas/categories/rabbana-duas/index.json",
+                        "bytes":  1871,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "collection_id",
+                                               "description",
+                                               "files",
+                                               "languages",
+                                               "schema_version",
+                                               "title",
+                                               "total_records"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/rabbana-duas/metadata.json",
+                        "repo_path":  "data/duas/categories/rabbana-duas/metadata.json",
+                        "bytes":  1950,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "icon",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/rain/duas.json",
+                        "repo_path":  "data/duas/categories/rain/duas.json",
+                        "bytes":  3436,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/rain/metadata.json",
+                        "repo_path":  "data/duas/categories/rain/metadata.json",
+                        "bytes":  779,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/salawat/duas.json",
+                        "repo_path":  "data/duas/categories/salawat/duas.json",
+                        "bytes":  66366,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/salawat/metadata.json",
+                        "repo_path":  "data/duas/categories/salawat/metadata.json",
+                        "bytes":  3476,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/sickness/duas.json",
+                        "repo_path":  "data/duas/categories/sickness/duas.json",
+                        "bytes":  5981,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/sickness/metadata.json",
+                        "repo_path":  "data/duas/categories/sickness/metadata.json",
+                        "bytes":  1603,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/sleep-wake/duas.json",
+                        "repo_path":  "data/duas/categories/sleep-wake/duas.json",
+                        "bytes":  9157,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/sleep-wake/metadata.json",
+                        "repo_path":  "data/duas/categories/sleep-wake/metadata.json",
+                        "bytes":  809,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/travel/duas.json",
+                        "repo_path":  "data/duas/categories/travel/duas.json",
+                        "bytes":  67325,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/travel/metadata.json",
+                        "repo_path":  "data/duas/categories/travel/metadata.json",
+                        "bytes":  599,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/ummah/duas.json",
+                        "repo_path":  "data/duas/categories/ummah/duas.json",
+                        "bytes":  4892,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/ummah/metadata.json",
+                        "repo_path":  "data/duas/categories/ummah/metadata.json",
+                        "bytes":  741,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/wudu-adhan/duas.json",
+                        "repo_path":  "data/duas/categories/wudu-adhan/duas.json",
+                        "bytes":  10287,
+                        "top_level_keys":  [
+                                               "category_id",
+                                               "count",
+                                               "duas",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "data/duas/categories/wudu-adhan/metadata.json",
+                        "repo_path":  "data/duas/categories/wudu-adhan/metadata.json",
+                        "bytes":  774,
+                        "top_level_keys":  [
+                                               "data_file",
+                                               "description",
+                                               "id",
+                                               "item_count",
+                                               "name",
+                                               "order",
+                                               "parent_id",
+                                               "theme"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "metadata/categories.json",
+                        "repo_path":  "metadata/categories.json",
+                        "bytes":  54010,
+                        "top_level_keys":  [
+                                               "categories",
+                                               "schema_version",
+                                               "total_categories",
+                                               "total_records"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "metadata/languages.json",
+                        "repo_path":  "metadata/languages.json",
+                        "bytes":  1272,
+                        "top_level_keys":  [
+                                               "languages",
+                                               "notes",
+                                               "schema_version"
+                                           ]
+                    },
+                    {
+                        "asset_path":  "metadata/manifest.json",
+                        "repo_path":  "metadata/manifest.json",
+                        "bytes":  2314,
+                        "top_level_keys":  [
+                                               "collections",
+                                               "compatibility",
+                                               "dataset",
+                                               "description",
+                                               "generated_by",
+                                               "language_index",
+                                               "license",
+                                               "master_category_index",
+                                               "paths",
+                                               "repository",
+                                               "schema_version",
+                                               "supported_languages",
+                                               "totals"
+                                           ]
+                    }
+                ]
+}

@@ -1,0 +1,306 @@
+{
+  "schema_version": "3.0.0",
+  "count": 25,
+  "name_meanings": [
+    {
+      "id": "prophet-meaning-01",
+      "prophet_ref": "prophet-01",
+      "number": 1,
+      "arabic": "آدَمُ",
+      "name": "Adam",
+      "meaning": {
+        "en": "Human/Earth (from 'adim' - earth/soil)",
+        "ta": "மனிதன்/பூமி ('ஆதிம்' - மண்/மண்ணிலிருந்து)",
+        "ml": "മനുഷ്യൻ/ഭൂമി ('ആദിം' - മണ്ണ്/മണ്ണിൽ നിന്ന്)"
+      }
+    },
+    {
+      "id": "prophet-meaning-02",
+      "prophet_ref": "prophet-02",
+      "number": 2,
+      "arabic": "إِدْرِيسُ",
+      "name": "Idris",
+      "meaning": {
+        "en": "Studious/One who studies much (from 'darasa' - to study)",
+        "ta": "கற்றறிந்தவர்/அதிகம் படிப்பவர் ('தராசா' - படிக்க)",
+        "ml": "പഠനശീലൻ/വളരെയധികം പഠിക്കുന്നവൻ ('ദരസ' - പഠിക്കുക)"
+      }
+    },
+    {
+      "id": "prophet-meaning-03",
+      "prophet_ref": "prophet-03",
+      "number": 3,
+      "arabic": "نُوحٌ",
+      "name": "Nuh (Noah)",
+      "meaning": {
+        "en": "Rest/Comfort (one who brings comfort to believers)",
+        "ta": "ஓய்வு/ஆறுதல் (விசுவாசிகளுக்கு ஆறுதல் அளிப்பவர்)",
+        "ml": "വിശ്രമം/ആശ്വാസം (വിശ്വാസികൾക്ക് ആശ്വാസം നൽകുന്നവൻ)"
+      }
+    },
+    {
+      "id": "prophet-meaning-04",
+      "prophet_ref": "prophet-04",
+      "number": 4,
+      "arabic": "هُودٌ",
+      "name": "Hud",
+      "meaning": {
+        "en": "To call upon/One who calls (to call people to Allah)",
+        "ta": "அழைப்பவர் (மக்களை அல்லாஹ்விடம் அழைப்பவர்)",
+        "ml": "വിളിക്കുന്നവൻ (ആളുകളെ അല്ലാഹുവിന്റെ അടുക്കലേക്ക് വിളിക്കുന്നവൻ)"
+      }
+    },
+    {
+      "id": "prophet-meaning-05",
+      "prophet_ref": "prophet-05",
+      "number": 5,
+      "arabic": "صَالِحٌ",
+      "name": "Salih",
+      "meaning": {
+        "en": "Righteous/Virtuous (one who is righteous and upright)",
+        "ta": "நேர்மையானவர்/ஒழுக்கமுள்ளவர்",
+        "ml": "നീതിമാൻ/സദ്ഗുണവാനും"
+      }
+    },
+    {
+      "id": "prophet-meaning-06",
+      "prophet_ref": "prophet-06",
+      "number": 6,
+      "arabic": "إِبْرَاهِيمُ",
+      "name": "Ibrahim (Abraham)",
+      "meaning": {
+        "en": "Father of many/Father of mercy (exalted father)",
+        "ta": "பலரின் தந்தை/கருணையின் தந்தை (உயர்ந்த தந்தை)",
+        "ml": "പലരുടെ പിതാവ്/കാരുണ്യത്തിന്റെ പിതാവ് (ഉന്നതനായ പിതാവ്)"
+      }
+    },
+    {
+      "id": "prophet-meaning-07",
+      "prophet_ref": "prophet-07",
+      "number": 7,
+      "arabic": "لُوطٌ",
+      "name": "Lut (Lot)",
+      "meaning": {
+        "en": "Covering/Hiding (one who covers sins or hides from evil)",
+        "ta": "மறைத்தல்/மறைவு (பாவங்களை மறைப்பவர் அல்லது தீமையிலிருந்து மறைபவர்)",
+        "ml": "മറയ്ക്കൽ/രഹസ്യമാക്കൽ (പാപങ്ങൾ മറയ്ക്കുന്നവൻ അല്ലെങ്കിൽ തിന്മയിൽ നിന്ന് ഒളിക്കുന്നവൻ)"
+      }
+    },
+    {
+      "id": "prophet-meaning-08",
+      "prophet_ref": "prophet-08",
+      "number": 8,
+      "arabic": "إِسْمَاعِيلُ",
+      "name": "Ismail (Ishmael)",
+      "meaning": {
+        "en": "God hears/Allah listens (from 'sami'a' - to hear)",
+        "ta": "அல்லாஹ் கேட்கிறான்/அல்லாஹ் செவிமடுக்கிறான் ('ஸமிஆ' - கேட்க)",
+        "ml": "അല്ലാഹു കേൾക്കുന്നു/അല്ലാഹു ശ്രവിക്കുന്നു ('സമിഅ' - കേൾക്കുക)"
+      }
+    },
+    {
+      "id": "prophet-meaning-09",
+      "prophet_ref": "prophet-09",
+      "number": 9,
+      "arabic": "إِسْحَاقُ",
+      "name": "Ishaq (Isaac)",
+      "meaning": {
+        "en": "He laughs/One who laughs (from 'dahika' - to laugh)",
+        "ta": "அவர் சிரிக்கிறார்/சிரிப்பவர் ('தஹிகா' - சிரிக்க)",
+        "ml": "അവൻ ചിരിക്കുന്നു/ചിരിക്കുന്നവൻ ('ദഹിക' - ചിരിക്കുക)"
+      }
+    },
+    {
+      "id": "prophet-meaning-10",
+      "prophet_ref": "prophet-10",
+      "number": 10,
+      "arabic": "يَعْقُوبُ",
+      "name": "Yaqub (Jacob)",
+      "meaning": {
+        "en": "He follows/Supplanter (one who follows in the footsteps)",
+        "ta": "அவர் பின்தொடர்கிறார்/பதிலீடு செய்பவர்",
+        "ml": "അവൻ പിന്തുടരുന്നു/പകരക്കാരൻ"
+      }
+    },
+    {
+      "id": "prophet-meaning-11",
+      "prophet_ref": "prophet-11",
+      "number": 11,
+      "arabic": "يُوسُفُ",
+      "name": "Yusuf (Joseph)",
+      "meaning": {
+        "en": "God increases/Allah adds (from 'yasaf' - to add/increase)",
+        "ta": "அல்லாஹ் அதிகரிக்கிறான்/அல்லாஹ் சேர்க்கிறான் ('யாசஃப்' - சேர்க்க/அதிகரிக்க)",
+        "ml": "അല്ലാഹു വർദ്ധിപ്പിക്കുന്നു/അല്ലാഹു ചേർക്കുന്നു ('യസഫ്' - ചേർക്കുക/വർദ്ധിപ്പിക്കുക)"
+      }
+    },
+    {
+      "id": "prophet-meaning-12",
+      "prophet_ref": "prophet-12",
+      "number": 12,
+      "arabic": "أَيُّوبُ",
+      "name": "Ayyub (Job)",
+      "meaning": {
+        "en": "Persecuted/Returning (one who returns to Allah in patience)",
+        "ta": "துன்புறுத்தப்பட்டவர்/திரும்புபவர் (பொறுமையுடன் அல்லாஹ்விடம் திரும்புபவர்)",
+        "ml": "പീഡിപ്പിക്കപ്പെട്ടവൻ/മടങ്ങുന്നവൻ (ക്ഷമയോടെ അല്ലാഹുവിന്റെ അടുക്കലേക്ക് മടങ്ങുന്നവൻ)"
+      }
+    },
+    {
+      "id": "prophet-meaning-13",
+      "prophet_ref": "prophet-13",
+      "number": 13,
+      "arabic": "شُعَيْبٌ",
+      "name": "Shu'ayb",
+      "meaning": {
+        "en": "Who shows the right path (one who guides to the correct way)",
+        "ta": "சரியான பாதையை காட்டுபவர் (சரியான வழியில் வழிகாட்டுபவர்)",
+        "ml": "ശരിയായ പാത കാണിക്കുന്നവൻ (ശരിയായ വഴിയിലേക്ക് നയിക്കുന്നവൻ)"
+      }
+    },
+    {
+      "id": "prophet-meaning-14",
+      "prophet_ref": "prophet-14",
+      "number": 14,
+      "arabic": "مُوسَى",
+      "name": "Musa (Moses)",
+      "meaning": {
+        "en": "Drawn out/Saved from water (from 'masa' - to draw out)",
+        "ta": "வெளியே இழுக்கப்பட்டவர்/நீரிலிருந்து காப்பாற்றப்பட்டவர் ('மாசா' - வெளியே இழுக்க)",
+        "ml": "വലിച്ചെടുക്കപ്പെട്ടവൻ/വെള്ളത്തിൽ നിന്ന് രക്ഷിക്കപ്പെട്ടവൻ ('മസ' - വലിച്ചെടുക്കുക)"
+      }
+    },
+    {
+      "id": "prophet-meaning-15",
+      "prophet_ref": "prophet-15",
+      "number": 15,
+      "arabic": "هَارُونُ",
+      "name": "Harun (Aaron)",
+      "meaning": {
+        "en": "Exalted/High mountain (one who is elevated in status)",
+        "ta": "உயர்ந்தவர்/உயர்ந்த மலை (அந்தஸ்தில் உயர்த்தப்பட்டவர்)",
+        "ml": "ഉന്നതൻ/ഉയർന്ന മല (പദവിയിൽ ഉയർത്തപ്പെട്ടവൻ)"
+      }
+    },
+    {
+      "id": "prophet-meaning-16",
+      "prophet_ref": "prophet-16",
+      "number": 16,
+      "arabic": "ذُو الْكِفْلِ",
+      "name": "Dhul-Kifl",
+      "meaning": {
+        "en": "The one with a pledge/Possessor of the pledge (one who fulfilled his promise)",
+        "ta": "உறுதிமொழியுள்ளவர்/உறுதிமொழியின் உரிமையாளர் (தனது வாக்குறுதியை நிறைவேற்றியவர்)",
+        "ml": "വാഗ്ദാനമുള്ളവൻ/വാഗ്ദാനത്തിന്റെ ഉടമ (തന്റെ വാഗ്ദാനം പാലിച്ചവൻ)"
+      }
+    },
+    {
+      "id": "prophet-meaning-17",
+      "prophet_ref": "prophet-17",
+      "number": 17,
+      "arabic": "دَاوُودُ",
+      "name": "Dawud (David)",
+      "meaning": {
+        "en": "Beloved/Dear one (one who is beloved by Allah)",
+        "ta": "அன்புக்குரியவர்/பிரியமானவர் (அல்லாஹ்வால் அன்புக்குரியவர்)",
+        "ml": "പ്രിയപ്പെട്ടവൻ/സ്നേഹത്തിന് പാത്രമായവൻ (അല്ലാഹുവിന് പ്രിയപ്പെട്ടവൻ)"
+      }
+    },
+    {
+      "id": "prophet-meaning-18",
+      "prophet_ref": "prophet-18",
+      "number": 18,
+      "arabic": "سُلَيْمَانُ",
+      "name": "Sulayman (Solomon)",
+      "meaning": {
+        "en": "Peaceful/Man of peace (from 'salam' - peace)",
+        "ta": "அமைதியானவர்/அமைதியின் மனிதர் ('ஸலாம்' - அமைதி)",
+        "ml": "സമാധാനപരമായവൻ/സമാധാനത്തിന്റെ മനുഷ്യൻ ('സലാം' - സമാധാനം)"
+      }
+    },
+    {
+      "id": "prophet-meaning-19",
+      "prophet_ref": "prophet-19",
+      "number": 19,
+      "arabic": "إِلْيَاسُ",
+      "name": "Ilyas (Elijah)",
+      "meaning": {
+        "en": "My God is Allah (from 'Eli' - my God, and 'Yas' - Allah)",
+        "ta": "என் கடவுள் அல்லாஹ் ('ஏலி' - என் கடவுள், 'யாஸ்' - அல்லாஹ்)",
+        "ml": "എന്റെ ദൈവം അല്ലാഹു ആണ് ('ഏലി' - എന്റെ ദൈവം, 'യാസ്' - അല്ലാഹു)"
+      }
+    },
+    {
+      "id": "prophet-meaning-20",
+      "prophet_ref": "prophet-20",
+      "number": 20,
+      "arabic": "الْيَسَعُ",
+      "name": "Al-Yasa (Elisha)",
+      "meaning": {
+        "en": "God saves/Allah is salvation (from 'yasha' - to save)",
+        "ta": "கடவுள் காப்பாற்றுகிறார்/அல்லாஹ்வே மீட்பு ('யாஷா' - காப்பாற்ற)",
+        "ml": "ദൈവം രക്ഷിക്കുന്നു/അല്ലാഹു ആണ് രക്ഷ ('യശ' - രക്ഷിക്കുക)"
+      }
+    },
+    {
+      "id": "prophet-meaning-21",
+      "prophet_ref": "prophet-21",
+      "number": 21,
+      "arabic": "يُونُسُ",
+      "name": "Yunus (Jonah)",
+      "meaning": {
+        "en": "Dove/Pigeon (symbol of peace and message)",
+        "ta": "புறா/புறா (அமைதி மற்றும் செய்தியின் அடையாளம்)",
+        "ml": "പ്രാവ്/പ്രാവ് (സമാധാനത്തിന്റെയും സന്ദേശത്തിന്റെയും പ്രതീകം)"
+      }
+    },
+    {
+      "id": "prophet-meaning-22",
+      "prophet_ref": "prophet-22",
+      "number": 22,
+      "arabic": "زَكَرِيَّا",
+      "name": "Zakariya (Zechariah)",
+      "meaning": {
+        "en": "Allah remembers/Remembered by Allah (from 'zakara' - to remember)",
+        "ta": "அல்லாஹ் நினைவு கூறுகிறான்/அல்லாஹ்வால் நினைவு கூரப்பட்டவர் ('ஸகரா' - நினைவு கூற)",
+        "ml": "അല്ലാഹു ഓർക്കുന്നു/അല്ലാഹു ഓർമ്മിക്കുന്നവൻ ('സകര' - ഓർക്കുക)"
+      }
+    },
+    {
+      "id": "prophet-meaning-23",
+      "prophet_ref": "prophet-23",
+      "number": 23,
+      "arabic": "يَحْيَى",
+      "name": "Yahya (John)",
+      "meaning": {
+        "en": "He lives/Allah lives (from 'yahya' - to live)",
+        "ta": "அவர் வாழ்கிறார்/அல்லாஹ் வாழ்கிறார் ('யஹ்யா' - வாழ)",
+        "ml": "അവൻ ജീവിക്കുന്നു/അല്ലാഹു ജീവിക്കുന്നു ('യഹ്‌യ' - ജീവിക്കുക)"
+      }
+    },
+    {
+      "id": "prophet-meaning-24",
+      "prophet_ref": "prophet-24",
+      "number": 24,
+      "arabic": "عِيسَى",
+      "name": "Isa (Jesus)",
+      "meaning": {
+        "en": "God saves/Allah is salvation (from 'wasa' - to save)",
+        "ta": "கடவுள் காப்பாற்றுகிறார்/அல்லாஹ்வே மீட்பு ('வஸா' - காப்பாற்ற)",
+        "ml": "ദൈവം രക്ഷിക്കുന്നു/അല്ലാഹു ആണ് രക്ഷ ('വസ' - രക്ഷിക്കുക)"
+      }
+    },
+    {
+      "id": "prophet-meaning-25",
+      "prophet_ref": "prophet-25",
+      "number": 25,
+      "arabic": "مُحَمَّدٌ",
+      "name": "Muhammad (SAW)",
+      "meaning": {
+        "en": "The praised one/The praiseworthy (from 'hamida' - to praise)",
+        "ta": "புகழப்பட்டவர்/புகழத்தக்கவர் ('ஹமிதா' - புகழ)",
+        "ml": "സ്തുതിക്കപ്പെട്ടവൻ/സ്തുത്യൻ ('ഹമിദ' - സ്തുതിക്കുക)"
+      }
+    }
+  ]
+}

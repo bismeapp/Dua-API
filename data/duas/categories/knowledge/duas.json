@@ -1,0 +1,215 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "knowledge",
+  "count": 5,
+  "duas": [
+    {
+      "id": "knw-1",
+      "category_id": "knowledge",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Dua for Knowledge",
+        "ar": "دعاء العلم",
+        "ur": "علم کی دعا",
+        "fr": "Doua pour la Connaissance",
+        "tr": "İlim Duası",
+        "id": "Doa Memohon Ilmu",
+        "bn": "জ্ঞানের দোয়া",
+        "ms": "Doa Memohon Ilmu",
+        "ta": "அறிவுக்கான துஆ",
+        "ml": "അറിവിനുള്ള ദുആ"
+      },
+      "arabic": "رَبِّ زِدْنِي عِلْمًا",
+      "translation": {
+        "en": "My Lord, increase me in knowledge.",
+        "ar": "رب زدني علما",
+        "ur": "اے میرے رب! میرے علم میں اضافہ فرما۔",
+        "fr": "Mon Seigneur, augmente-moi en savoir.",
+        "tr": "Rabbim! İlmimi artır.",
+        "id": "Tuhanku, tambahkanlah ilmu kepadaku.",
+        "bn": "হে আমার রব, আমার জ্ঞান বৃদ্ধি করো।",
+        "ms": "Tuhanku, tambahkanlah ilmu kepadaku.",
+        "ta": "என் இறைவா! எனக்கு அறிவை அதிகரிப்பாயாக.",
+        "ml": "എന്റെ രക്ഷിതാവേ, എനിക്ക് അറിവ് വർധിപ്പിച്ചുതരണമേ."
+      },
+      "reference": {
+        "source": "Quran",
+        "reference_text": "Quran 20:114"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "knw-2",
+      "category_id": "knowledge",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "Dua for Beneficial Knowledge",
+        "ar": "دعاء العلم النافع",
+        "ur": "نفع بخش علم کی دعا",
+        "fr": "Doua pour un Savoir Utile",
+        "tr": "Faydalı İlim Duası",
+        "id": "Doa Ilmu yang Bermanfaat",
+        "bn": "উপকারী জ্ঞানের দোয়া",
+        "ms": "Doa Ilmu yang Bermanfaat",
+        "ta": "பயனுள்ள அறிவுக்கான துஆ",
+        "ml": "പ്രയോജനകരമായ അറിവിനുള്ള ദുആ"
+      },
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلاً مُتَقَبَّلاً",
+      "translation": {
+        "en": "O Allah, I ask You for beneficial knowledge, good provision, and accepted deeds.",
+        "ar": "اللهم إني أسألك علما نافعا ورزقا طيبا وعملا متقبلا",
+        "ur": "اے اللہ! میں تجھ سے نفع بخش علم، پاکیزہ رزق اور قبول شدہ عمل مانگتا ہوں۔",
+        "fr": "Ô Allah, je Te demande un savoir utile, une bonne subsistance et des œuvres acceptées.",
+        "tr": "Allah'ım! Senden faydalı ilim, güzel rızık ve kabul edilmiş amel istiyorum.",
+        "id": "Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik, dan amal yang diterima.",
+        "bn": "হে আল্লাহ, আমি তোমার কাছে উপকারী জ্ঞান, ভালো রিযিক এবং কবুল আমল চাই।",
+        "ms": "Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik, dan amal yang diterima.",
+        "ta": "இறைவா! பயனுள்ள அறிவு, நல்ல உபஜீவனம், ஏற்றுக்கொள்ளப்படும் செயல்களை உம்மிடம் கேட்கிறேன்.",
+        "ml": "അല്ലാഹുവേ, പ്രയോജനകരമായ അറിവ്, നല്ല ഉപജീവനം, അംഗീകരിക്കപ്പെട്ട പ്രവൃത്തികൾ എന്നിവ ഞാൻ നിന്നോട് ചോദിക്കുന്നു."
+      },
+      "reference": {
+        "source": "Ibn",
+        "reference_text": "Ibn Majah 1/250"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "knw-3",
+      "category_id": "knowledge",
+      "subcategory_id": null,
+      "order": 3,
+      "title": {
+        "en": "Before Studying/Exam",
+        "ar": "قبل الدراسة/الامتحان",
+        "ur": "مطالعہ/امتحان سے پہلے",
+        "fr": "Avant d'Étudier/Examen",
+        "tr": "Ders/İmtihan Öncesi",
+        "id": "Sebelum Belajar/Ujian",
+        "bn": "পড়াশোনা/পরীক্ষার আগে",
+        "ms": "Sebelum Belajar/Peperiksaan",
+        "ta": "படிப்பு/தேர்வுக்கு முன்",
+        "ml": "പഠനം/പരീക്ഷയ്ക്ക് മുമ്പ്"
+      },
+      "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي يَفْقَهُوا قَوْلِي",
+      "translation": {
+        "en": "My Lord, expand for me my chest, and ease for me my task, and untie the knot from my tongue that they may understand my speech.",
+        "ar": "رب اشرح لي صدري ويسر لي أمري واحلل عقدة من لساني يفقهوا قولي",
+        "ur": "اے میرے رب! میرا سینہ کھول دے، میرا کام آسان کر دے اور میری زبان کی گرہ کھول دے تاکہ وہ میری بات سمجھ سکیں۔",
+        "fr": "Mon Seigneur, ouvre-moi la poitrine, facilite-moi la tâche et dénoue le nœud de ma langue afin qu'ils comprennent mes paroles.",
+        "tr": "Rabbim! Göğsümü aç, işimi kolaylaştır ve dilimdeki düğümü çöz ki sözümü anlasınlar.",
+        "id": "Tuhanku, lapangkanlah dadaku, mudahkanlah urusanku, dan lepaskanlah kekakuan dari lisanku agar mereka mengerti perkataanku.",
+        "bn": "হে আমার রব, আমার বুক প্রশস্ত করো, আমার কাজ সহজ করো এবং আমার জিহ্বার গ্রন্থি খুলে দাও যাতে তারা আমার কথা বুঝতে পারে।",
+        "ms": "Tuhanku, lapangkanlah dadaku, mudahkanlah urusanku, dan lepaskanlah kekakuan dari lisanku agar mereka mengerti perkataanku.",
+        "ta": "என் இறைவா! என் மார்பை விரிவாக்குவாயாக, எனக்கு என் காரியத்தை எளிதாக்குவாயாக, என் நாவின் முடிச்சை அவிழ்ப்பாயாக, அவர்கள் என் பேச்சை புரிந்துகொள்ள.",
+        "ml": "എന്റെ രക്ഷിതാവേ, എന്റെ നെഞ്ച് വിശാലമാക്കണമേ, എന്റെ കാര്യം എളുപ്പമാക്കണമേ, എന്റെ നാക്കിലെ മുണ്ട് അഴിച്ചുതരണമേ, അവർ എന്റെ വാക്ക് മനസ്സിലാക്കാൻ."
+      },
+      "reference": {
+        "source": "Quran",
+        "reference_text": "Quran 20:25-28"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "d103-79",
+      "category_id": "knowledge",
+      "subcategory_id": null,
+      "order": 79,
+      "title": {
+        "en": "Dua for Increasing Memory",
+        "ar": "دعاء لزيادة الذاكرة",
+        "ur": "حافظہ بڑھانے کی دعا",
+        "fr": "Invocation pour améliorer la mémoire",
+        "tr": "Hafızayı Güçlendirme Duası",
+        "id": "Doa untuk Meningkatkan Daya Ingat",
+        "bn": "স্মৃতিশক্তি বৃদ্ধির দোয়া",
+        "ms": "Doa untuk Meningkatkan Ingatan",
+        "ta": "நினைவாற்றலை அதிகரிப்பதற்கான துஆ",
+        "ml": "ഓർമ്മശക്തി വർധിപ്പിക്കാനുള്ള ദുആ"
+      },
+      "arabic": "سُبْحَانَ مَنْ لَا يَعْتَدِي عَلٰى أَهْلِ مَمْلَكَتِهٖ سُبْحَانَ مَنْ لَا يَأْخُذُ أَهْلَ الْأَرْضِ بِأَلْوَانِ الْعَذَابِ سُبْحَانَ الرَّءُوْفِ الرَّحِيْمِ اَللّٰهُمَّ اجْعَلْ لِي فِي قَلْبِيْ نُوراً وَ بَصَراً وَ فَهْماً وَ عِلْماً إِنَّكَ عَلٰى كُلِّ شَيْ‏ءٍ قَدِيْرٌ.",
+      "transliteration": "subhaana man laa ya'tadee a'laa ahle mamlakatehi subhaana man laa yaakhozo ahlal arze be-alwaanil a'zaabe subhaanar raoofir raheem allaahummaj a'l lee fee qalbee nooran wa basaran wa fahman wa i'lman innaka a'laa kulle shay-in qadeer.",
+      "translation": {
+        "en": "In the name of Allah the Beneficent, and the Merciful. Glory be to be him who does not oppress His subject Glory be to him who does not chastise the people of the earth with various punishments. Glory be to Him who is kind (and) Merciful O my Lord establish in my mind, light insight wisdom and knowledge indeed you have power on everything.",
+        "ar": "بسم الله المحسن الرحيم. تنزّه عن الظلم من لا يظلم رعيته. تنزّه من لا يعذّب أهل الأرض بألوان العذاب. تنزّه الرؤوف الرحيم. يا رب، اجعل في ذهني نورًا وبصيرةً وحكمةً وعلمًا، إنك على كل شيء قدير.",
+        "ur": "اللہ کے نام سے جو احسان کرنے والا، نہایت رحم کرنے والا ہے۔ پاک ہے وہ جو اپنی رعیت پر ظلم نہیں کرتا۔ پاک ہے وہ جو زمین والوں کو طرح طرح کے عذاب نہیں دیتا۔ پاک ہے وہ جو نہایت مہربان، رحم کرنے والا ہے۔ اے میرے رب، میرے ذہن میں نور، بصیرت، حکمت اور علم پیدا فرما؛ بے شک تو ہر چیز پر قادر ہے۔",
+        "fr": "Au nom d’Allah, le Bienfaisant, le Miséricordieux. Gloire à Celui qui n’opprime pas Ses sujets. Gloire à Celui qui ne châtie pas les habitants de la terre par diverses sortes de supplices. Gloire au Compatissant, au Miséricordieux. Ô mon Seigneur, établis dans mon esprit la lumière, la clairvoyance, la sagesse et le savoir. Tu as certes pouvoir sur toute chose.",
+        "tr": "Rahman ve Rahim olan Allah’ın adıyla. Tebaasına zulmetmeyen Allah noksan sıfatlardan münezzehtir. Yeryüzündekileri türlü azaplarla cezalandırmayan Allah noksan sıfatlardan münezzehtir. Çok şefkatli ve merhametli olan Allah noksan sıfatlardan münezzehtir. Ey Rabbim, zihnime nur, basiret, hikmet ve ilim ver. Şüphesiz Sen her şeye kadirsin.",
+        "id": "Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang. Mahasuci Dia yang tidak menzalimi rakyat-Nya. Mahasuci Dia yang tidak mengazab penduduk bumi dengan berbagai macam azab. Mahasuci Dia Yang Maha Pengasih lagi Maha Penyayang. Ya Tuhanku, tanamkanlah dalam pikiranku cahaya, wawasan, kebijaksanaan, dan ilmu. Sesungguhnya Engkau Mahakuasa atas segala sesuatu.",
+        "bn": "পরম দয়ালু, অতি মেহেরবান আল্লাহর নামে। পবিত্র তিনি, যিনি তাঁর প্রজাদের প্রতি জুলুম করেন না। পবিত্র তিনি, যিনি পৃথিবীবাসীকে বিভিন্ন ধরনের শাস্তি দেন না। পবিত্র তিনি, যিনি স্নেহশীল ও পরম দয়ালু। হে আমার রব, আমার মনে নূর, অন্তর্দৃষ্টি, প্রজ্ঞা ও জ্ঞান দান করুন। নিশ্চয়ই আপনি সবকিছুর ওপর ক্ষমতাবান।",
+        "ms": "Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang. Maha Suci Dia yang tidak menzalimi rakyat-Nya. Maha Suci Dia yang tidak menghukum penduduk bumi dengan pelbagai azab. Maha Suci Dia Yang Maha Pengasih lagi Maha Penyayang. Wahai Tuhanku, tetapkanlah dalam fikiranku cahaya, wawasan, kebijaksanaan dan ilmu. Sesungguhnya Engkau berkuasa atas segala sesuatu.",
+        "ta": "மிகவும் கருணையாளனும் பேரருளாளனுமான அல்லாஹ்வின் பெயரால். தன் குடிமக்களுக்கு அநீதி இழைக்காதவன் தூயவன். பூமியில் உள்ளவர்களைப் பல்வேறு தண்டனைகளால் தண்டிக்காதவன் தூயவன். பேரன்பும் கருணையும் உடையவன் தூயவன். என் இறைவா, என் மனதில் ஒளி, தெளிந்த பார்வை, ஞானம் மற்றும் அறிவை ஏற்படுத்துவாயாக. நிச்சயமாக நீ எல்லாப் பொருள்களின் மீதும் ஆற்றலுடையவன்.",
+        "ml": "പരമകാരുണികനും കരുണാനിധിയുമായ അല്ലാഹുവിന്റെ നാമത്തിൽ. തന്റെ പ്രജകളോട് അനീതി ചെയ്യാത്തവൻ പരിശുദ്ധൻ. ഭൂമിയിലുള്ളവരെ വിവിധതരം ശിക്ഷകൾകൊണ്ട് ശിക്ഷിക്കാത്തവൻ പരിശുദ്ധൻ. അത്യന്തം ദയാലുവും കരുണാനിധിയുമായവൻ പരിശുദ്ധൻ. എന്റെ രക്ഷിതാവേ, എന്റെ മനസ്സിൽ പ്രകാശവും ഉൾക്കാഴ്ചയും ജ്ഞാനവും വിജ്ഞാനവും നൽകേണമേ. തീർച്ചയായും നീ എല്ലാറ്റിനും കഴിവുള്ളവനാകുന്നു."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 79\nDua for Increasing Memory\nIt has been told by the Holy Prophet (s.a.w.a.) to Hazrat Ameerul Momineen (a.s.) that if he want to keep in his mind whatever he listens, he should recites the following Dua after each prayer.\n\nسُبْحَانَ مَنْ لَا يَعْتَدِي عَلٰى أَهْلِ مَمْلَكَتِهٖ سُبْحَانَ مَنْ لَا يَأْخُذُ أَهْلَ الْأَرْضِ بِأَلْوَانِ الْعَذَابِ سُبْحَانَ الرَّءُوْفِ الرَّحِيْمِ اَللّٰهُمَّ اجْعَلْ لِي فِي قَلْبِيْ نُوراً وَ بَصَراً وَ فَهْماً وَ عِلْماً إِنَّكَ عَلٰى كُلِّ شَيْ‏ءٍ قَدِيْرٌ.\n\nTransliteration:\nsubhaana man laa ya’tadee a’laa ahle mamlakatehi subhaana man laa yaakhozo ahlal arze be-alwaanil a’zaabe subhaanar raoofir raheem allaahummaj a’l lee fee qalbee nooran wa basaran wa fahman wa i’lman innaka a’laa kulle shay-in qadeer.\n\nTranslation:\nIn the name of Allah the Beneficent, and the Merciful. Glory be to be him who does not oppress His subject Glory be to him who does not chastise the people of the earth with various punishments. Glory be to Him who is kind (and) Merciful O my Lord establish in my mind, light insight wisdom and knowledge indeed you have power on everything.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    },
+    {
+      "id": "d103-80",
+      "category_id": "knowledge",
+      "subcategory_id": null,
+      "order": 80,
+      "title": {
+        "en": "Dua for Learning Quran by Heart",
+        "ar": "دعاء لحفظ القرآن الكريم",
+        "ur": "قرآن حفظ کرنے کی دعا",
+        "fr": "Invocation pour apprendre le Coran par cœur",
+        "tr": "Kur’an’ı Ezberleme Duası",
+        "id": "Doa agar Dapat Menghafal Al-Qur’an",
+        "bn": "কুরআন মুখস্থ করার দোয়া",
+        "ms": "Doa untuk Menghafaz al-Quran",
+        "ta": "குர்ஆனை மனனம் செய்வதற்கான துஆ",
+        "ml": "ഖുർആൻ മനഃപാഠമാക്കാനുള്ള ദുആ"
+      },
+      "arabic": "اَللّٰهُمَّ ارْحَمْنِيْ بِتَرْكِ مَعَاصِيْكَ أَبَداً مَا أَبْقَيْتَنِيْ وَ ارْحَمْنِيْ مِنْ تَكَـلُّفِ مَا لَا يَعْنِيْنِيْ وَ ارْزُقْنِيْ حُسْنَ الْمَنْظَرِ فِيْمَا يُرْضِيْكَ عَنِّيْ وَ أَلْزِمْ قَلْبِيْ حِفْظَ كِتَابِكَ كَمَا عَلَّمْتَنِيْ وَ ارْزُقْنِيْ أَنْ أَتْلُوَهٗ عَلَى النَّحْوِ الَّذِي يُرْضِيْكَ عَنِّي اَللّٰهُمَّ نَوِّرْ بِكِتَابِكَ بَصَرِيْ وَ اشْرَحْ بِهٖ صَدْرِيْ وَ فَرِّحْ بِهٖ قَلْبِيْ وَ أَطْلِقْ بِهٖ لِسَانِيْ وَ اسْتَعْمِلْ بِهٖ بَدَنِيْ وَ قَوِّنِيْ عَلٰى ذٰلِكَ وَ أَعِنِّيْ عَلَيْهِ إِنَّهٗ لَا مُعِيْنَ عَلَيْهِ إِلَّا أَنْتَ لَا إِلٰهَ إِلَّا أَنْتَ.",
+      "transliteration": "Allaahummar hamnee be-tarke ma-a'aseeka Abadan maa abqaytanee war hamnee min takallofe maa laa ya'neenee war-zuqnee husnal manzare feemaa yurzeeka a'nnee wa alzim qalbee hifza ketaabeka kamaa a'llamtanee war-zuqnee an atlowahu a'lan nahwil laze yurzeeka a'nnee allaahumma nawwir be-ketaabeka basaree wash-rah behi sadree wa farreh behi qalbee wa at-liq behi lesaanee was-ta'mil behi badanee wa qawwenee a'laa zaaleka wa a-I'nnee a'layhe innahu laa mo-e'ena a'layhe illaa anta laa elaaha illaa anta.",
+      "translation": {
+        "en": "O Allah! Be merciful on me by making me obedient to thee and not to be disobedient till my life time. Be merciful on me by not commanding me what is beyond my capacity. Grant me such virtuous conduct which makes Thee Pleased with me. Make my heart to preserve thy book (Quran) as thou has taught me. Grant me so that I may recite it in the manner which makes Thee pleased with me. O Allah! Brighten my eyes: and expend for my breast with it; and open my mind with it and free with my tongue: and devote my body to it; and strengthen me over it and help me over it because certainly there is no helper in this matter save thee. There is no god except Thee.",
+        "ar": "اللهم ارحمني بأن تجعلني مطيعًا لك غير عاصٍ ما أبقيتني. وارحمني بألا تكلّفني ما لا أطيق. وارزقني من حسن الخلق ما ترضى به عني. وألزم قلبي حفظ كتابك كما علّمتني، وارزقني أن أتلوه على النحو الذي ترضى به عني. اللهم نوّر بكتابك بصري، واشرح به صدري، وافرح به قلبي، وأطلق به لساني، واستعمل به بدني، وقوّني عليه وأعنّي عليه، فإنه لا معين عليه إلا أنت. لا إله إلا أنت.",
+        "ur": "اے اللہ! جب تک تو مجھے زندہ رکھے، مجھے اپنا فرمانبردار بنا کر اور نافرمانی سے بچا کر مجھ پر رحم فرما۔ مجھ پر رحم فرما کہ مجھ سے وہ کام نہ لے جو میری طاقت سے باہر ہو۔ مجھے ایسا نیک کردار عطا فرما جس سے تو مجھ سے راضی ہو۔ میرے دل کو اپنی کتاب (قرآن) یاد رکھنے کا پابند بنا، جیسے تو نے مجھے سکھایا ہے، اور مجھے اس طرح اس کی تلاوت کی توفیق دے جس سے تو مجھ سے راضی ہو۔ اے اللہ! اپنی کتاب سے میری آنکھوں کو روشن کر، اس کے ذریعے میرا سینہ کھول دے، میرے دل کو خوشی دے، میری زبان کو رواں کر، میرے جسم کو اس کے لیے وقف کر، اس کے معاملے میں مجھے قوت دے اور میری مدد فرما، کیونکہ اس معاملے میں تیرے سوا کوئی مددگار نہیں۔ تیرے سوا کوئی معبود نہیں۔",
+        "fr": "Ô Allah, fais-moi miséricorde en me rendant obéissant envers Toi et en m’empêchant de Te désobéir tant que Tu me laisseras en vie. Fais-moi miséricorde en ne m’imposant pas ce qui dépasse mes capacités. Accorde-moi une conduite vertueuse qui Te rende satisfait de moi. Fais que mon cœur mémorise Ton Livre (le Coran), comme Tu me l’as enseigné, et accorde-moi de le réciter de la manière qui Te rend satisfait de moi. Ô Allah, illumine ma vue par Ton Livre, ouvre ma poitrine grâce à lui, réjouis mon cœur par lui, libère ma langue grâce à lui, consacre-lui mon corps, donne-moi la force de le mettre en pratique et aide-moi en cela, car nul ne peut m’aider en cela en dehors de Toi. Il n’y a de dieu que Toi.",
+        "tr": "Allah’ım! Beni yaşattığın sürece Sana itaat etmeyi ve Sana karşı gelmemeyi nasip ederek bana merhamet et. Gücümün yetmediği şeyleri bana yüklemeyerek bana merhamet et. Benden razı olacağın güzel bir ahlak nasip et. Öğrettiğin gibi kalbime Kitabını (Kur’an’ı) ezberlet ve benden razı olacağın şekilde onu okumayı bana nasip et. Allah’ım! Kitabınla gözlerimi aydınlat, onunla göğsümü genişlet, kalbimi ferahlat, dilimi serbest kıl ve bedenimi onun için kullan. Bu konuda bana güç ver ve yardım et; çünkü bu hususta Senden başka yardımcı yoktur. Senden başka ilah yoktur.",
+        "id": "Ya Allah, rahmatilah aku dengan menjadikanku taat kepada-Mu dan tidak durhaka kepada-Mu selama Engkau menghidupkanku. Rahmatilah aku dengan tidak membebaniku sesuatu yang di luar kemampuanku. Anugerahkanlah kepadaku akhlak mulia yang membuat-Mu ridha kepadaku. Jadikanlah hatiku senantiasa menghafal Kitab-Mu (Al-Qur’an) sebagaimana Engkau telah mengajarkannya kepadaku, dan anugerahkanlah kepadaku kemampuan untuk membacanya dengan cara yang membuat-Mu ridha kepadaku. Ya Allah, terangilah penglihatanku dengan Kitab-Mu, lapangkanlah dadaku dengannya, gembirakanlah hatiku dengannya, lancarkanlah lisanku dengannya, dan gunakanlah tubuhku untuknya. Kuatkanlah aku dalam hal itu dan tolonglah aku, karena sungguh tidak ada penolong dalam hal ini selain Engkau. Tiada Tuhan selain Engkau.",
+        "bn": "হে আল্লাহ! যত দিন তুমি আমাকে জীবিত রাখো, তত দিন আমাকে তোমার অনুগত করে এবং তোমার অবাধ্যতা থেকে বিরত রেখে আমার প্রতি দয়া করো। আমার সাধ্যের বাইরে এমন কিছু আমার ওপর অর্পণ না করে আমার প্রতি দয়া করো। আমাকে এমন সৎ চরিত্র দান করো, যার মাধ্যমে তুমি আমার প্রতি সন্তুষ্ট হও। তুমি যেভাবে আমাকে শিখিয়েছ, সেভাবে তোমার কিতাব (কুরআন) মুখস্থ রাখতে আমার হৃদয়কে দৃঢ় করো এবং তোমার সন্তুষ্টির উপযোগীভাবে তা তিলাওয়াত করার তাওফিক দাও। হে আল্লাহ! তোমার কিতাবের মাধ্যমে আমার দৃষ্টিকে আলোকিত করো, এর দ্বারা আমার বক্ষ প্রশস্ত করো, আমার হৃদয় আনন্দিত করো, আমার জিহ্বাকে সাবলীল করো এবং আমার দেহকে এর কাজে নিয়োজিত করো। এ বিষয়ে আমাকে শক্তি দাও এবং সাহায্য করো, কারণ এ কাজে তুমি ছাড়া কোনো সাহায্যকারী নেই। তুমি ছাড়া কোনো উপাস্য নেই।",
+        "ms": "Ya Allah, kasihanilah aku dengan menjadikanku taat kepada-Mu dan tidak menderhakai-Mu selama Engkau menghidupkanku. Kasihanilah aku dengan tidak membebankan kepadaku sesuatu yang di luar kemampuanku. Kurniakanlah kepadaku akhlak yang mulia yang membuat-Mu reda kepadaku. Tetapkanlah dalam hatiku hafalan Kitab-Mu (al-Quran) sebagaimana Engkau telah mengajarkannya kepadaku, dan kurniakanlah kepadaku kemampuan untuk membacanya dengan cara yang membuat-Mu reda kepadaku. Ya Allah, terangilah penglihatanku dengan Kitab-Mu, lapangkanlah dadaku dengannya, gembirakanlah hatiku dengannya, lancarkanlah lidahku dengannya dan gunakanlah tubuhku untuknya. Berikanlah aku kekuatan dalam hal itu dan bantulah aku, kerana sesungguhnya tiada penolong dalam perkara ini selain Engkau. Tiada Tuhan selain Engkau.",
+        "ta": "அல்லாஹ்வே! நீ என்னை உயிருடன் வைத்திருக்கும் காலமெல்லாம் உனக்குக் கீழ்ப்படிந்து, உனக்கு மாறு செய்யாதவனாக என்னை ஆக்கி எனக்கு அருள் புரிவாயாக. என் சக்திக்கு அப்பாற்பட்டதை எனக்குச் சுமத்தாமல் எனக்கு அருள் புரிவாயாக. நீ என்னைப் பற்றி மகிழும் வகையான நற்பண்புகளை எனக்கு வழங்குவாயாக. நீ எனக்குக் கற்றுத் தந்தபடி உன் வேதத்தை (குர்ஆனை) மனனம் செய்ய என் இதயத்தை உறுதிப்படுத்துவாயாக; நீ என்னைப் பற்றி மகிழும் முறையில் அதை ஓதவும் எனக்கு அருள்வாயாக. அல்லாஹ்வே! உன் வேதத்தால் என் பார்வையை ஒளிரச் செய்வாயாக; அதன் மூலம் என் நெஞ்சை விரிவாக்குவாயாக, என் இதயத்தை மகிழ்விப்பாயாக, என் நாவைத் திறம்படச் செய்வாயாக; என் உடலை அதற்காகப் பயன்படுத்துவாயாக. அதில் எனக்கு வலிமை அளித்து உதவுவாயாக; ஏனெனில் இந்த விஷயத்தில் உன்னைத் தவிர உதவியாளர் யாரும் இல்லை. உன்னைத் தவிர வணக்கத்திற்குரிய இறைவன் இல்லை.",
+        "ml": "അല്ലാഹുവേ! നീ എന്നെ ജീവിപ്പിക്കുന്ന കാലമത്രയും നിന്നെ അനുസരിക്കുന്നവനും നിന്നോട് അനുസരണക്കേട് കാണിക്കാത്തവനുമായി എന്നെ ആക്കിക്കൊണ്ട് എന്നോട് കരുണ കാണിക്കേണമേ. എന്റെ കഴിവിന് അതീതമായത് എന്നെ ഏൽപ്പിക്കാതെ എന്നോട് കരുണ കാണിക്കേണമേ. നീ എന്നിൽ സംതൃപ്തനാകുന്ന സൽസ്വഭാവം എനിക്ക് നൽകേണമേ. നീ എന്നെ പഠിപ്പിച്ചതുപോലെ നിന്റെ ഗ്രന്ഥം (ഖുർആൻ) മനഃപാഠമാക്കാൻ എന്റെ ഹൃദയത്തെ ഉറപ്പിക്കേണമേ; നീ എന്നിൽ സംതൃപ്തനാകുന്ന രീതിയിൽ അത് പാരായണം ചെയ്യാൻ എനിക്ക് അനുഗ്രഹം നൽകേണമേ. അല്ലാഹുവേ! നിന്റെ ഗ്രന്ഥംകൊണ്ട് എന്റെ കാഴ്ചയെ പ്രകാശിപ്പിക്കേണമേ; അതിലൂടെ എന്റെ നെഞ്ച് വിശാലമാക്കേണമേ, എന്റെ ഹൃദയത്തെ സന്തോഷിപ്പിക്കേണമേ, എന്റെ നാവിനെ സ്വതന്ത്രമാക്കേണമേ; എന്റെ ശരീരത്തെ അതിനായി വിനിയോഗിക്കേണമേ. അതിൽ എനിക്ക് ശക്തി നൽകുകയും സഹായിക്കുകയും ചെയ്യേണമേ; തീർച്ചയായും ഈ കാര്യത്തിൽ നിന്നെയല്ലാതെ സഹായിയില്ല. നിന്നെയല്ലാതെ ആരാധനാർഹനായ ദൈവമില്ല."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 80\nDua for Learning Quran by Heart\nThe following Dua is taken from Saheef-a-Alaviya, narrated by Ameerul Mo’mineen Hazrat Ali (a.s.) and recommended to recite it regularly for learning Quran by hear and will not forget which has been learnt.\n\nاَللّٰهُمَّ ارْحَمْنِيْ بِتَرْكِ مَعَاصِيْكَ أَبَداً مَا أَبْقَيْتَنِيْ وَ ارْحَمْنِيْ مِنْ تَكَـلُّفِ مَا لَا يَعْنِيْنِيْ وَ ارْزُقْنِيْ حُسْنَ الْمَنْظَرِ فِيْمَا يُرْضِيْكَ عَنِّيْ وَ أَلْزِمْ قَلْبِيْ حِفْظَ كِتَابِكَ كَمَا عَلَّمْتَنِيْ وَ ارْزُقْنِيْ أَنْ أَتْلُوَهٗ عَلَى النَّحْوِ الَّذِي يُرْضِيْكَ عَنِّي اَللّٰهُمَّ نَوِّرْ بِكِتَابِكَ بَصَرِيْ وَ اشْرَحْ بِهٖ صَدْرِيْ وَ فَرِّحْ بِهٖ قَلْبِيْ وَ أَطْلِقْ بِهٖ لِسَانِيْ وَ اسْتَعْمِلْ بِهٖ بَدَنِيْ وَ قَوِّنِيْ عَلٰى ذٰلِكَ وَ أَعِنِّيْ عَلَيْهِ إِنَّهٗ لَا مُعِيْنَ عَلَيْهِ إِلَّا أَنْتَ لَا إِلٰهَ إِلَّا أَنْتَ.\n\nTransliteration:\nAllaahummar hamnee be-tarke ma-a’aseeka Abadan maa abqaytanee war hamnee min takallofe maa laa ya’neenee war-zuqnee husnal manzare feemaa yurzeeka a’nnee wa alzim qalbee hifza ketaabeka kamaa a’llamtanee war-zuqnee an atlowahu a’lan nahwil laze yurzeeka a’nnee allaahumma nawwir be-ketaabeka basaree wash-rah behi sadree wa farreh behi qalbee wa at-liq behi lesaanee was-ta’mil behi badanee wa qawwenee a’laa zaaleka wa a-I’nnee a’layhe innahu laa mo-e’ena a’layhe illaa anta laa elaaha illaa anta.\n\nTranslation:\n\nO Allah! Be merciful on me by making me obedient to thee and not to be disobedient till my life time. Be merciful on me by not commanding me what is beyond my capacity. Grant me such virtuous conduct which makes Thee Pleased with me. Make my heart to preserve thy book (Quran) as thou has taught me. Grant me so that I may recite it in the manner which makes Thee pleased with me. O Allah! Brighten my eyes: and expend for my breast with it; and open my mind with it and free with my tongue: and devote my body to it; and strengthen me over it and help me over it because certainly there is no helper in this matter save thee. There is no god except Thee.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    }
+  ]
+}

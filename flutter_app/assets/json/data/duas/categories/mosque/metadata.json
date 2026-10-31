@@ -1,0 +1,29 @@
+{
+  "id": "mosque",
+  "name": {
+    "en": "Mosque",
+    "ar": "المسجد",
+    "ur": "مسجد",
+    "fr": "Mosquée",
+    "tr": "Cami",
+    "id": "Masjid",
+    "bn": "মসজিদ",
+    "ms": "Masjid",
+    "ta": "மஸ்ஜித்",
+    "ml": "മസ്ജിദ്"
+  },
+  "description": {
+    "en": "Category of duas: Mosque"
+  },
+  "parent_id": null,
+  "order": 4,
+  "theme": {
+    "color": "teal",
+    "gradient": "from-teal-400 to-cyan-500",
+    "bg": "bg-teal-50",
+    "border": "border-teal-200",
+    "text": "text-teal-700"
+  },
+  "item_count": 2,
+  "data_file": "duas.json"
+}

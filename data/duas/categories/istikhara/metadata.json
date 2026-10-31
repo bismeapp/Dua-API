@@ -1,0 +1,29 @@
+{
+  "id": "istikhara",
+  "name": {
+    "en": "Istikhara (Seeking Guidance)",
+    "ar": "الاستخارة",
+    "ur": "استخارہ",
+    "fr": "Istikhara (Demande de Guidance)",
+    "tr": "İstihare",
+    "id": "Istikharah",
+    "bn": "ইস্তিখারা",
+    "ms": "Istikharah",
+    "ta": "இஸ்திகாரா",
+    "ml": "ഇസ്തിഖാര"
+  },
+  "description": {
+    "en": "Category of duas: Istikhara (Seeking Guidance)"
+  },
+  "parent_id": null,
+  "order": 24,
+  "theme": {
+    "color": "blue",
+    "gradient": "from-blue-400 to-indigo-500",
+    "bg": "bg-blue-50",
+    "border": "border-blue-200",
+    "text": "text-blue-700"
+  },
+  "item_count": 1,
+  "data_file": "duas.json"
+}

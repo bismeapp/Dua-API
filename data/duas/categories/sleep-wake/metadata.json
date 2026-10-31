@@ -1,0 +1,29 @@
+{
+  "id": "sleep-wake",
+  "name": {
+    "en": "Sleep & Waking Up",
+    "ar": "النوم والاستيقاظ",
+    "ur": "سونے اور جاگنے",
+    "fr": "Sommeil et Réveil",
+    "tr": "Uyku ve Uyanma",
+    "id": "Tidur dan Bangun",
+    "bn": "ঘুম ও জাগরণ",
+    "ms": "Tidur dan Bangun",
+    "ta": "தூக்கம் மற்றும் எழுந்திருப்பு",
+    "ml": "ഉറക്കവും ഉണർവും"
+  },
+  "description": {
+    "en": "Category of duas: Sleep & Waking Up"
+  },
+  "parent_id": null,
+  "order": 3,
+  "theme": {
+    "color": "indigo",
+    "gradient": "from-indigo-400 to-purple-500",
+    "bg": "bg-indigo-50",
+    "border": "border-indigo-200",
+    "text": "text-indigo-700"
+  },
+  "item_count": 3,
+  "data_file": "duas.json"
+}

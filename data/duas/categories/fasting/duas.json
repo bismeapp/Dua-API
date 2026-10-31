@@ -1,0 +1,153 @@
+{
+    "schema_version":  "3.0.0",
+    "category_id":  "fasting",
+    "count":  4,
+    "duas":  [
+                 {
+                     "id":  "fst-1",
+                     "category_id":  "fasting",
+                     "subcategory_id":  null,
+                     "order":  1,
+                     "title":  {
+                                   "en":  "Intention to Fast",
+                                   "ar":  "نية الصيام",
+                                   "ur":  "روزے کی نیت",
+                                   "fr":  "Intention de Jeûner",
+                                   "tr":  "Oruç Niyeti",
+                                   "id":  "Niat Puasa",
+                                   "bn":  "রোজার নিয়ত",
+                                   "ms":  "Niat Puasa",
+                                   "ta":  "நோன்பு நிய்யத்",
+                                   "ml":  "നോമ്പ് നിയ്യത്ത്"
+                               },
+                     "arabic":  "وَبِصَوْمِ غَدٍ نَوَيْتُ مِنْ شَهْرِ رَمَضَانَ",
+                     "translation":  {
+                                         "en":  "I intend to fast tomorrow in the month of Ramadan.",
+                                         "ar":  "وبصوم غد نويت من شهر رمضان",
+                                         "ur":  "میں نے ماہِ رمضان کے روزے کی نیت کی۔",
+                                         "fr":  "J\u0027ai l\u0027intention de jeûner demain au mois de Ramadan.",
+                                         "tr":  "Ramazan ayında yarın oruç tutmaya niyet ettim.",
+                                         "id":  "Aku berniat puasa esok hari di bulan Ramadhan.",
+                                         "bn":  "আমি রমজান মাসে আগামীকাল রোজা রাখার নিয়ত করেছি।",
+                                         "ms":  "Aku berniat puasa esok hari di bulan Ramadhan.",
+                                         "ta":  "ரமளான் மாதத்தில் நான் நாளை நோன்பு நோற்க நிய்யத் செய்தேன்.",
+                                         "ml":  "റമളാൻ മാസത്തിൽ ഞാൻ നാളെ നോമ്പ് അനുഷ്ഠിക്കാൻ നിയ്യത്ത് ചെയ്തു."
+                                     },
+                     "reference":  {
+                                       "source":  "Traditional",
+                                       "reference_text":  "Traditional"
+                                   },
+                     "repetition_count":  1
+                 },
+                 {
+                     "id":  "fst-2",
+                     "category_id":  "fasting",
+                     "subcategory_id":  null,
+                     "order":  2,
+                     "title":  {
+                                   "en":  "Breaking the Fast (Iftar)",
+                                   "ar":  "عند الإفطار",
+                                   "ur":  "افطاری کے وقت",
+                                   "fr":  "Au Moment de Rupture du Jeûne",
+                                   "tr":  "İftar Vakti",
+                                   "id":  "Saat Berbuka",
+                                   "bn":  "ইফতারের সময়",
+                                   "ms":  "Ketika Berbuka",
+                                   "ta":  "நோன்பு திறக்கும்போது",
+                                   "ml":  "നോമ്പ് തുറക്കുമ്പോൾ"
+                               },
+                     "arabic":  "ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الأَجْرُ إِنْ شَاءَ اللهُ",
+                     "translation":  {
+                                         "en":  "The thirst is gone, the veins are moistened, and the reward is confirmed, if Allah wills.",
+                                         "ar":  "ذهب الظمأ وابتلت العروق وثبت الأجر إن شاء الله",
+                                         "ur":  "پیاس دور ہو گئی، رگیں تر ہو گئیں اور انشاءاللہ اجر ثابت ہو گیا۔",
+                                         "fr":  "La soif est partie, les veines sont humidifiées, et la récompense est confirmée, si Allah veut.",
+                                         "tr":  "Susuzluk gitti, damarlar ıslandı ve inşallah ecir sabit oldu.",
+                                         "id":  "Rasa haus telah hilang, urat-urat telah basah, dan pahala telah ditetapkan, jika Allah menghendaki.",
+                                         "bn":  "তৃষ্ণা দূর হয়েছে, শিরা-উপশিরা ভিজে গেছে এবং আল্লাহ চাইলে প্রতিদান নিশ্চিত হয়েছে।",
+                                         "ms":  "Rasa haus telah hilang, urat-urat telah basah, dan pahala telah ditetapkan, jika Allah menghendaki.",
+                                         "ta":  "தாகம் தீர்ந்தது, நரம்புகள் ஈரமானது, அல்லாஹ் நாடினால் கூலி உறுதி செய்யப்பட்டது.",
+                                         "ml":  "ദാഹം മാറി, ഞരമ്പുകൾ നനഞ്ഞു, അല്ലാഹു ഉദ്ദേശിക്കുമ്പോൾ പ്രതിഫലം ഉറപ്പായി."
+                                     },
+                     "reference":  {
+                                       "source":  "Abu",
+                                       "reference_text":  "Abu Dawud 2/306"
+                                   },
+                     "repetition_count":  1
+                 },
+                 {
+                     "id":  "fst-3",
+                     "category_id":  "fasting",
+                     "subcategory_id":  null,
+                     "order":  3,
+                     "title":  {
+                                   "en":  "Another Intention for Ramadan Fast",
+                                   "ta":  "ரமளான் நோன்புக்கான மற்றொரு நிய்யத்",
+                                   "ml":  "റമദാൻ നോമ്പിനുള്ള മറ്റൊരു നിയ്യത്ത്",
+                                   "ar":  "صيغة أخرى لنية صيام رمضان",
+                                   "ur":  "رمضان کے روزے کی ایک اور نیت",
+                                   "fr":  "Autre formulation de l’intention du jeûne de Ramadan",
+                                   "tr":  "Ramazan Orucu İçin Başka Bir Niyet",
+                                   "id":  "Niat Lain untuk Puasa Ramadan",
+                                   "bn":  "রমজানের রোজার জন্য আরেকটি নিয়ত",
+                                   "ms":  "Satu Lagi Niat untuk Puasa Ramadan"
+                               },
+                     "arabic":  "نَوَيْتُ صَوْمَ غَدٍ عَنْ أَدَاءِ فَرْضِ شَهْرِ رَمَضَانَ هَذِهِ السَّنَةِ لِلَّهِ تَعَالَى",
+                     "transliteration":  "Nawaytu sawma ghadin an ada’i fardi shahri Ramadana hadhihi as-sanati lillahi ta‘ala.",
+                     "translation":  {
+                                         "en":  "I intend to fast tomorrow for the fulfillment of the obligatory fast of the month of Ramadan this year for the sake of Allah, the Most High.",
+                                         "ta":  "இந்த வருடத்தில் கடமையான நோன்பை நாளை முழுவதும் அல்லாஹ்வுக்காக நோன்பு நோற்க நிய்யத் செய்கிறேன்.",
+                                         "ml":  "ഈ വർഷത്തെ റമദാൻ മാസത്തിലെ നിർബന്ധ നോമ്പ് അനുഷ്ഠിക്കുന്നതിനായി നാളെ അല്ലാഹുവിന്റെ പ്രീതിക്കായി നോമ്പെടുക്കാൻ ഞാൻ നിയ്യത്ത് ചെയ്യുന്നു.",
+                                         "ar":  "نويت أن أصوم غدًا أداءً لفرض شهر رمضان من هذه السنة ابتغاء وجه الله تعالى.",
+                                         "ur":  "میں نے اس سال ماہِ رمضان کے فرض روزے کی ادائیگی کے لیے کل اللہ تعالیٰ کی رضا کی خاطر روزہ رکھنے کی نیت کی۔",
+                                         "fr":  "J’ai l’intention de jeûner demain afin d’accomplir le jeûne obligatoire du mois de Ramadan de cette année, pour Allah, le Très-Haut.",
+                                         "tr":  "Bu yılın Ramazan ayındaki farz orucu yerine getirmek üzere yarın Allah Teâlâ rızası için oruç tutmaya niyet ediyorum.",
+                                         "id":  "Aku berniat berpuasa esok hari untuk menunaikan puasa wajib bulan Ramadan tahun ini kerana Allah Taala.",
+                                         "bn":  "আমি এ বছরের রমজান মাসের ফরজ রোজা আদায়ের জন্য আগামীকাল আল্লাহ তাআলার সন্তুষ্টির উদ্দেশ্যে রোজা রাখার নিয়ত করছি।",
+                                         "ms":  "Saya berniat berpuasa esok bagi menunaikan puasa fardu bulan Ramadan tahun ini kerana Allah Taala."
+                                     },
+                     "reference":  {
+                                       "source":  "Personal intention wording",
+                                       "reference_text":  "Personal intention formula; no prophetic attribution is claimed."
+                                   },
+                     "repetition_count":  1
+                 },
+                 {
+                     "id":  "fst-4",
+                     "category_id":  "fasting",
+                     "subcategory_id":  null,
+                     "order":  4,
+                     "title":  {
+                                   "en":  "Another Dua for Breaking the Fast",
+                                   "ta":  "நோன்பு திறப்பதற்கான மற்றொரு துஆ",
+                                   "ml":  "നോമ്പ് തുറക്കാനുള്ള മറ്റൊരു ദുആ",
+                                   "ar":  "دعاء آخر عند الإفطار",
+                                   "ur":  "افطار کے لیے ایک اور دعا",
+                                   "fr":  "Autre invocation pour rompre le jeûne",
+                                   "tr":  "İftarda Okunacak Başka Bir Dua",
+                                   "id":  "Doa Lain untuk Berbuka Puasa",
+                                   "bn":  "ইফতারের জন্য আরেকটি দোয়া",
+                                   "ms":  "Satu Lagi Doa Berbuka Puasa"
+                               },
+                     "arabic":  "اللَّهُمَّ لَكَ صُمْتُ وَبِكَ آمَنْتُ وَعَلَيْكَ تَوَكَّلْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ، فَتَقَبَّلْ مِنِّي.",
+                     "transliteration":  "Allahumma laka sumtu wa bika amantu wa alayka tawakkaltu wa ala rizqika aftartu, fataqabbal minni.",
+                     "translation":  {
+                                         "en":  "O Allah, I fasted for You, I believe in You, I put my trust in You, and with Your provision I break my fast, so accept [it] from me.",
+                                         "ta":  "யா அல்லாஹ், உனக்காகவே நோன்பு நோற்றேன், உன்னைக் கொண்டே ஈமான் கொண்டேன், உன்னிடம் பொறுப்பைச் சாட்டினேன், இன்னும் நீ அளித்த உணவைக் கொண்டே நோன்பு திறக்கிறேன். எனது நோன்பை ஏற்றுக்கொள்வாயாக.",
+                                         "ml":  "അല്ലാഹുവേ, നിനക്കുവേണ്ടിയാണ് ഞാൻ നോമ്പെടുത്തത്; നിന്നിൽ വിശ്വസിക്കുകയും നിന്നിൽ ഭരമേൽപ്പിക്കുകയും ചെയ്തു; നീ നൽകിയ ഉപജീവനത്താൽ ഞാൻ നോമ്പ് തുറക്കുന്നു. അതിനാൽ അത് എന്നിൽ നിന്ന് സ്വീകരിക്കണമേ.",
+                                         "ar":  "اللهم إني صمت لك، وآمنت بك، وتوكلت عليك، وعلى رزقك أفطرت، فتقبل مني.",
+                                         "ur":  "اے اللہ! میں نے تیرے لیے روزہ رکھا، تجھ پر ایمان لایا، تجھ ہی پر بھروسا کیا، اور تیرے دیے ہوئے رزق سے افطار کیا؛ پس اسے میری طرف سے قبول فرما۔",
+                                         "fr":  "Ô Allah, j’ai jeûné pour Toi, j’ai cru en Toi, je m’en remets à Toi et je romps le jeûne avec la subsistance que Tu m’as accordée. Accepte-le donc de ma part.",
+                                         "tr":  "Allah’ım, Senin için oruç tuttum, Sana iman ettim, Sana tevekkül ettim ve verdiğin rızıkla orucumu açtım. Benden kabul buyur.",
+                                         "id":  "Ya Allah, aku berpuasa karena-Mu, beriman kepada-Mu, bertawakal kepada-Mu, dan berbuka dengan rezeki-Mu. Maka terimalah dariku.",
+                                         "bn":  "হে আল্লাহ, আমি তোমার জন্য রোজা রেখেছি, তোমার প্রতি ঈমান এনেছি, তোমার ওপর ভরসা করেছি এবং তোমার দেওয়া রিজিক দিয়ে ইফতার করেছি। অতএব, আমার পক্ষ থেকে তা কবুল করো।",
+                                         "ms":  "Ya Allah, aku berpuasa kerana-Mu, beriman kepada-Mu, bertawakal kepada-Mu dan berbuka dengan rezeki yang Engkau kurniakan. Maka terimalah daripadaku."
+                                     },
+                     "reference":  {
+                                       "source":  "Sunan Abi Dawud 2358",
+                                       "reference_text":  "Sunan Abi Dawud 2358 reports a shorter wording and is graded Da’if by al-Albani. The added phrases in this supplied wording are not present in that report; no authenticity claim is made for them."
+                                   },
+                     "repetition_count":  1
+                 }
+             ]
+}
