@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react';
 import { Search } from 'lucide-react';
 import { useTheme } from '../contexts/ThemeContext';
 import { stripReferenceMarkers } from '../utils/text';
+import AudioPlayer from './AudioPlayer';
 
 interface AsmaEntry {
   id: string;
@@ -40,6 +41,7 @@ const normalize = (value: string) =>
 export default function AsmaUnNabiView({ entries, language, onBack }: AsmaUnNabiViewProps) {
   const { isDark } = useTheme();
   const [query, setQuery] = useState('');
+  const [selectedId, setSelectedId] = useState<string | null>(null);
   const label = labels[language] || labels.en;
   const filteredEntries = useMemo(() => {
     const normalizedQuery = normalize(query);
@@ -83,7 +85,8 @@ export default function AsmaUnNabiView({ entries, language, onBack }: AsmaUnNabi
           {filteredEntries.map((entry, index) => (
             <article
               key={entry.id}
-              className={`themed-card min-w-0 rounded-xl border p-4 ${
+              onClick={() => setSelectedId(selectedId === entry.id ? null : entry.id)}
+              className={`themed-card min-w-0 cursor-pointer rounded-xl border p-4 ${
                 isDark ? 'bg-[#063b2b] border-[var(--bisme-gold-border)]' : 'bg-white border-gray-200'
               }`}
             >
@@ -112,6 +115,16 @@ export default function AsmaUnNabiView({ entries, language, onBack }: AsmaUnNabi
                   </p>
                 </div>
               </div>
+
+              {/* Expanded view with audio */}
+              {selectedId === entry.id && (
+                <div
+                  className="mt-4 border-t border-gray-200 pt-4 dark:border-slate-600"
+                  onClick={event => event.stopPropagation()}
+                >
+                  <AudioPlayer arabicText={entry.arabic} language={language} />
+                </div>
+              )}
             </article>
           ))}
         </div>

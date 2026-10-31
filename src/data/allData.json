@@ -22399,32 +22399,7 @@
                                                             },
                                             "reference":  "Sunan Abi Dawud 2358 reports a shorter wording and is graded Da’if by al-Albani. The added phrases in this supplied wording are not present in that report; no authenticity claim is made for them.",
                                             "times":  1
-                                        }
-                                    ]
-                       },
-                       {
-                           "id":  "laylatul-qadr",
-                           "color":  "purple",
-                           "gradient":  "from-purple-400 to-indigo-600",
-                           "bg":  "bg-purple-50",
-                           "border":  "border-purple-200",
-                           "text":  "text-purple-700",
-                           "name":  {
-                                        "en":  "Laylatul Qadr (Night of Power)",
-                                        "ar":  "ليلة القدر",
-                                        "ur":  "شب قدر",
-                                        "fr":  "Nuit du Destin",
-                                        "tr":  "Kadir Gecesi",
-                                        "id":  "Lailatul Qadar",
-                                        "bn":  "লাইলাতুল কদর",
-                                        "ms":  "Lailatul Qadar",
-                                        "ta":  "லைலத்துல் கத்ர்",
-                                        "ml":  "ലൈലത്തുൽ ഖദ്ർ"
-                                    },
-                           "description":  {
-                                               "en":  "Category of duas: Laylatul Qadr (Night of Power)"
-                                           },
-                           "duas":  [
+                                        },
                                         {
                                             "id":  "lq-1",
                                             "title":  {
@@ -22452,9 +22427,7 @@
                                                                 "ta":  "இறைவா! நீர் மன்னிப்பவர், மன்னிப்பதை விரும்புபவர், எனவே என்னை மன்னிப்பாயாக.",
                                                                 "ml":  "അല്ലാഹുവേ, നീ പൊറുക്കുന്നവനാണ്, പൊറുക്കുന്നതിനെ സ്നേഹിക്കുന്നു, അതിനാൽ എന്നെ പൊറുക്കണമേ."
                                                             },
-                                            "times":  1,
-                                            "category_id":  "laylatul-qadr",
-                                            "order":  1
+                                            "times":  1
                                         }
                                     ]
                        }
