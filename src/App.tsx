@@ -119,7 +119,12 @@ function AppContent() {
     const duaCategories = (duasData.categories as Category[])
       .filter(category => category.duas.length > 0);
 
-    return duaCategories;
+    // Keep the catch-all "Others" category at the very end of the list.
+    const isOthers = (category: Category) => category.id.toLowerCase() === 'others';
+    return [
+      ...duaCategories.filter(category => !isOthers(category)),
+      ...duaCategories.filter(isOthers),
+    ];
   }, []);
   const languages = duasData.languages;
 
