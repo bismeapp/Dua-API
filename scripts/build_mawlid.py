@@ -31,17 +31,29 @@ def load(m):
     spec = importlib.util.spec_from_file_location("src", os.path.join(ROOT, "data/duas/categories/mawlid", m["module"]))
     mod = importlib.util.module_from_spec(spec); spec.loader.exec_module(mod); return mod.E
 
+def load_translations(m):
+    """translations/<module>_<lang>.py defining T = [one string per part]; missing languages stay empty."""
+    out, stem = {}, m["module"][:-3]
+    for l in L:
+        f = os.path.join(ROOT, "data/duas/categories/mawlid/translations", f"{stem}_{l}.py")
+        if os.path.exists(f):
+            spec = importlib.util.spec_from_file_location(f"tr_{stem}_{l}", f)
+            mod = importlib.util.module_from_spec(spec); spec.loader.exec_module(mod); out[l] = mod.T
+    return out
+
 def build():
     sections, records = [], []
     for m in MAWLIDS:
-        ids = []
-        for i, (kind, ar) in enumerate(load(m), 1):
+        ids = []; src = load(m); trs = load_translations(m)
+        for l, T in trs.items():
+            assert len(T) == len(src), f"{m['id']}/{l}: {len(T)} parts, expected {len(src)}"
+        for i, (kind, ar) in enumerate(src, 1):
             rid = f'{m["id"]}-{i:02d}'; ids.append(rid)
             records.append({
                 "id": rid, "category_id": CAT, "subcategory_id": None, "order": len(records) + 1,
                 "title": {l: f'{m["title"][l]} · {PART[l]} {i}' for l in L},
                 "arabic": ar,
-                "translation": {l: (ar if l == "ar" else "") for l in L},
+                "translation": {l: (ar if l == "ar" else trs[l][i - 1] if l in trs else "") for l in L},
                 "repetition_count": 1, "section_id": m["id"], "section_number": m["number"],
                 "verse_number": i, "kind": kind})
         sections.append({"id": m["id"], "section_number": m["number"], "title": m["title"]["en"],
