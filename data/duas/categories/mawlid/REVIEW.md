@@ -16,7 +16,7 @@ Silent typographic fixes only: hamza (اَلْقَى→أَلْقَى, اَنْ�
 
 ## Pending
 - Translations in all supported languages are machine-drafted and require review by qualified translators; the existing English draft was retained.
-- The requested Ashrakal Baith entry uses the commonly recited four-line "Ashraqal Badr" wording. Confirm that this is the intended text and verify its source and wording.
+- Ashrakal Baith's full Arabic lyrics were supplied by the user. Confirm the wording and machine-drafted translations with a qualified reviewer.
 - Other mawlids (Barzanji, Diba'i, Simtud Durar, …) need verified Arabic sources; add a module beside manqoos.py and an entry in MAWLIDS in scripts/build_mawlid.py.
 
 ## Translations

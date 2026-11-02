@@ -30,6 +30,8 @@ describe('Mawlid content', () => {
     expect(manqoos.title.en).toBe('Manqoos Mawlid');
     expect(manqoos.arabic.split('\n\n')).toHaveLength(18);
     expect(ashrakal.title.en).toBe('Ashrakal Baith');
+    expect(ashrakal.arabic.match(/۞/g)).toHaveLength(36);
+    expect(ashrakal.arabic).toContain('رَبَّنَا ارْحَمْنَا جَمِيعًا');
     for (const dua of [manqoos, ashrakal]) {
       expect(Object.values(dua.translation).every(value => typeof value === 'string' && value.trim())).toBe(true);
     }
