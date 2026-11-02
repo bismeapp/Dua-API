@@ -23,6 +23,9 @@ MAWLIDS = [{
     "title": {"en": "Ashrakal Baith", "ta": "அஷ்ரகல் பைத்", "ml": "അശ്റഖൽ ബൈത്ത്",
               "ar": "أَشْرَقَ الْبَدْرُ عَلَيْنَا", "ur": "اشراق البیت", "fr": "Ashrakal Baith",
               "tr": "Ashrakal Baith", "id": "Ashrakal Baith", "bn": "আশরাকাল বাইত", "ms": "Ashrakal Baith"},
+}, {
+    "id": "subuhana-mawlid", "source_json": "subuhana.json", "number": 3,
+    "title_from_source": True,
 }]
 
 def rj(p):
@@ -33,11 +36,18 @@ def wj(p, v):
         json.dump(v, f, ensure_ascii=False, indent=2); f.write("\n")
 
 def load(m):
+    if "source_json" in m:
+        source = rj(f"data/duas/categories/mawlid/{m['source_json']}")
+        return [("prose", source["arabic"])]
     spec = importlib.util.spec_from_file_location("src", os.path.join(ROOT, "data/duas/categories/mawlid", m["module"]))
     mod = importlib.util.module_from_spec(spec); spec.loader.exec_module(mod); return mod.E
 
 def load_translations(m):
     """translations/<module>_<lang>.py defining T = [one string per part]; missing languages stay empty."""
+    if "source_json" in m:
+        source = rj(f"data/duas/categories/mawlid/{m['source_json']}")
+        return {lang: [source["translation"].get(lang, "")] for lang in L
+                if source["translation"].get(lang, "").strip()}
     out, stem = {}, m["module"][:-3]
     for l in L:
         f = os.path.join(ROOT, "data/duas/categories/mawlid/translations", f"{stem}_{l}.py")
@@ -50,6 +60,8 @@ def build():
     sections, records = [], []
     for m in MAWLIDS:
         ids = []; src = load(m); trs = load_translations(m)
+        source_record = rj(f"data/duas/categories/mawlid/{m['source_json']}") if "source_json" in m else {}
+        title = source_record["title"] if m.get("title_from_source") else m["title"]
         if m.get("combine"):
             src = [("prose", "\n\n".join(ar for _, ar in src))]
             trs = {l: ["\n\n".join(parts)] for l, parts in trs.items()}
@@ -59,15 +71,16 @@ def build():
             rid = f'{m["id"]}-{i:02d}'; ids.append(rid)
             records.append({
                 "id": rid, "category_id": CAT, "subcategory_id": None, "order": len(records) + 1,
-                "title": {l: m["title"][l] if m.get("combine") or len(src) == 1
-                          else f'{m["title"][l]} · {PART[l]} {i}' for l in L},
+                "title": {l: title[l] if m.get("combine") or len(src) == 1
+                          else f'{title[l]} · {PART[l]} {i}' for l in L},
                 "arabic": ar,
                 "translation": {l: (ar if l == "ar" else trs[l][i - 1] if l in trs else "") for l in L},
-                "translation_status": "Machine-drafted; human review required.",
+                "translation_status": source_record.get(
+                    "translation_status", "Machine-drafted; human review required."),
                 "repetition_count": 1, "section_id": m["id"], "section_number": m["number"],
                 "verse_number": i, "kind": kind})
-        sections.append({"id": m["id"], "section_number": m["number"], "title": m["title"]["en"],
-                         "title_localized": m["title"], "verse_ids": ids})
+        sections.append({"id": m["id"], "section_number": m["number"], "title": title["en"],
+                         "title_localized": title, "verse_ids": ids})
     return sections, records
 
 def _close(text, open_idx):

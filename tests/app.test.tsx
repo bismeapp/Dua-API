@@ -24,15 +24,20 @@ describe('excluded content', () => {
 describe('Mawlid content', () => {
   it('keeps each mawlid whole and provides translations in every supported language', () => {
     const mawlid = cats.find(category => category.id === 'mawlid');
-    expect(mawlid.duas).toHaveLength(2);
+    expect(mawlid.duas).toHaveLength(3);
     const manqoos = mawlid.duas.find((dua: any) => dua.id === 'manqoos-mawlid-01');
     const ashrakal = mawlid.duas.find((dua: any) => dua.id === 'ashrakal-baith-01');
+    const subuhana = mawlid.duas.find((dua: any) => dua.id === 'subuhana-mawlid-01');
     expect(manqoos.title.en).toBe('Manqoos Mawlid');
     expect(manqoos.arabic.split('\n\n')).toHaveLength(18);
     expect(ashrakal.title.en).toBe('Ashrakal Baith');
     expect(ashrakal.arabic.match(/۞/g)).toHaveLength(36);
     expect(ashrakal.arabic).toContain('رَبَّنَا ارْحَمْنَا جَمِيعًا');
-    for (const dua of [manqoos, ashrakal]) {
+    expect(subuhana.title.en).toBe('Subuhana Mawlid');
+    expect(subuhana.arabic).toContain('اَلسَّلَامُ عَلَيْكَ زَيْنَ الْاَنْبِيَاءِ');
+    expect(subuhana.arabic).toContain('وَمُغِيْثِ النَّاسِ مِنَ الْوَهَجِ');
+    expect(subuhana.translation_status).toMatch(/machine-drafted; human review required/i);
+    for (const dua of [manqoos, ashrakal, subuhana]) {
       expect(Object.values(dua.translation).every(value => typeof value === 'string' && value.trim())).toBe(true);
     }
   });
