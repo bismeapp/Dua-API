@@ -12,7 +12,7 @@
         "en": "Situation-based Duas",
         "ta": "நிலைமைக்கேற்பான துஆக்கள்"
       },
-      "total_records": 511,
+      "total_records": 512,
       "total_categories": 38,
       "index_file": "data/duas/index.json",
       "categories_index": "data/duas/categories/index.json"
@@ -55,7 +55,7 @@
   "totals": {
     "collections": 3,
     "dua_categories": 38,
-    "dua_records": 511,
+    "dua_records": 512,
     "rabbana_records": 40,
     "prophet_dua_records": 4,
     "intro_dua_records": 2,

@@ -2,6 +2,8 @@ import { describe, it, expect, beforeEach, vi } from 'vitest';
 import { render, screen, fireEvent, cleanup, within } from '@testing-library/react';
 import App from '../src/App';
 import data from '../src/data/allData.json';
+import manqoosSource from '../data/duas/categories/mawlid/manqoos.json';
+import ashrakalBaithSource from '../data/duas/categories/mawlid/ashrakal_baith.json';
 
 const errors: string[] = [];
 beforeEach(() => {
@@ -18,6 +20,38 @@ describe('excluded content', () => {
     const collection = JSON.stringify(data.categories);
     expect(collection).not.toMatch(/ruqyah|ruqya|رقية|الرقية/i);
     expect(collection).not.toMatch(/(?:saheefah|sahifa|sahifah).{0,30}(?:alaw|alavi)|kumayl|ziyarat.{0,20}ashura|mafatih al-jinan|sahifa sajjadiya/i);
+  });
+});
+
+describe('Mawlid content', () => {
+  it('keeps each mawlid whole and provides translations in every supported language', () => {
+    const mawlid = cats.find(category => category.id === 'mawlid');
+    expect(mawlid.duas).toHaveLength(3);
+    const manqoos = mawlid.duas.find((dua: any) => dua.id === 'manqoos-mawlid-01');
+    const ashrakal = mawlid.duas.find((dua: any) => dua.id === 'ashrakal-baith-01');
+    const subuhana = mawlid.duas.find((dua: any) => dua.id === 'subuhana-mawlid-01');
+    expect(manqoos.title.en).toBe('Manqoos Mawlid');
+    expect(manqoos.arabic.split('\n\n')).toHaveLength(18);
+    expect(manqoosSource.parts).toHaveLength(18);
+    expect(manqoos.arabic).toBe(manqoosSource.parts.map(part => part.arabic).join('\n\n'));
+    expect(ashrakal.title.en).toBe('Ashrakal Baith');
+    expect(ashrakal.arabic.match(/۞/g)).toHaveLength(36);
+    expect(ashrakal.arabic).toContain('رَبَّنَا ارْحَمْنَا جَمِيعًا');
+    expect(ashrakalBaithSource.parts).toHaveLength(1);
+    expect(ashrakal.arabic).toBe(ashrakalBaithSource.parts[0].arabic);
+    for (const [language, parts] of Object.entries(manqoosSource.translations)) {
+      expect(manqoos.translation[language]).toBe(parts.join('\n\n'));
+    }
+    for (const [language, parts] of Object.entries(ashrakalBaithSource.translations)) {
+      expect(ashrakal.translation[language]).toBe(parts.join(''));
+    }
+    expect(subuhana.title.en).toBe('Subuhana Mawlid');
+    expect(subuhana.arabic).toContain('اَلسَّلَامُ عَلَيْكَ زَيْنَ الْاَنْبِيَاءِ');
+    expect(subuhana.arabic).toContain('وَمُغِيْثِ النَّاسِ مِنَ الْوَهَجِ');
+    expect(subuhana.translation_status).toMatch(/machine-drafted; human review required/i);
+    for (const dua of [manqoos, ashrakal, subuhana]) {
+      expect(Object.values(dua.translation).every(value => typeof value === 'string' && value.trim())).toBe(true);
+    }
   });
 });
 
@@ -69,7 +103,7 @@ describe('search', () => {
   const q = (v: string) => { const i = document.querySelector('input[type=text]') as HTMLInputElement; fireEvent.change(i, { target: { value: v } }); };
   it('finds duas by english word', () => { render(<App />); q('forgive'); expect(screen.getByText(/Dua results \((\d+)\)/).textContent).not.toMatch(/\(0\)/); });
   it('finds by arabic without harakat', () => { render(<App />); q('بسم الله'); expect(screen.getByText(/Dua results \((\d+)\)/).textContent).not.toMatch(/\(0\)/); });
-  it('does not match the literal text "object"', () => { render(<App />); q('object'); expect(screen.getByText(/Dua results \((\d+)\)/).textContent).toMatch(/\(0\)/); });
+  it('does not match serialized JavaScript object text', () => { render(<App />); q('[object Object]'); expect(screen.getByText(/Dua results \((\d+)\)/).textContent).toMatch(/\(0\)/); });
   it('finds by reference text', () => { render(<App />); q('Bukhari'); expect(screen.getByText(/Dua results \((\d+)\)/).textContent).not.toMatch(/\(0\)/); });
   it('nonsense gives zero and clear works', () => { render(<App />); q('zzzqqq'); expect(screen.getByText(/No duas found/)).toBeTruthy(); fireEvent.click(screen.getByText('Clear')); expect(document.querySelector('.category-card')).toBeTruthy(); });
   it('clicking a result opens the dua', () => { render(<App />); q('forgive'); const r = document.querySelector('.dua-card')!; fireEvent.click(r); expect(screen.getAllByRole('button').length).toBeGreaterThan(3); });
