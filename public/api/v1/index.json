@@ -8,8 +8,8 @@
                       "api_index":  "/api/v1/index.json",
                       "rabbana_duas":  "/api/v1/rabbana-duas.json"
                   },
-    "total_categories":  39,
-    "total_duas":  509,
+    "total_categories":  40,
+    "total_duas":  527,
     "supported_languages":  [
                                 {
                                     "code":  "en",
@@ -409,6 +409,14 @@
                                         "ar":  "ليلة القدر"
                                     },
                            "duas_count":  1
+                       },
+                       {
+                           "id":  "mawlid",
+                           "name":  {
+                               "en":  "Mawlid",
+                               "ar":  "المولد"
+                           },
+                           "duas_count":  18
                        }
                    ],
     "sources":  [

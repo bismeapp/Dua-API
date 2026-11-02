@@ -9,8 +9,8 @@
                         "en":  "The collection is organized into 39 categories.",
                         "ta":  "இந்தத் தொகுப்பு 39 வகைகளாக ஒழுங்கமைக்கப்பட்டுள்ளது."
                     },
-    "total_categories":  39,
-    "total_records":  509,
+    "total_categories":  40,
+    "total_records":  527,
     "languages":  [
                       "en",
                       "ta",
@@ -321,6 +321,13 @@
                            "item_count":  1,
                            "metadata_file":  "data/duas/categories/laylatul-qadr/metadata.json",
                            "data_file":  "data/duas/categories/laylatul-qadr/duas.json"
+                       },
+                       {
+                           "id":  "mawlid",
+                           "order":  43,
+                           "item_count":  18,
+                           "metadata_file":  "data/duas/categories/mawlid/metadata.json",
+                           "data_file":  "data/duas/categories/mawlid/duas.json"
                        }
                    ]
 }

@@ -1,7 +1,7 @@
 {
     "schema_version":  "3.0.0",
-    "total_categories":  41,
-    "total_records":  698,
+    "total_categories":  42,
+    "total_records":  716,
     "categories":  [
                        {
                            "id":  "morning-evening",
@@ -850,6 +850,27 @@
                            "item_count":  1,
                            "metadata_file":  "data/duas/categories/laylatul-qadr/metadata.json",
                            "data_file":  "data/duas/categories/laylatul-qadr/duas.json"
+                       },
+                       {
+                           "id":  "mawlid",
+                           "collection_id":  "duas",
+                           "name":  {
+                               "en":  "Mawlid",
+                               "ta":  "மௌலித்",
+                               "ml":  "മൗലിദ്",
+                               "ar":  "المولد",
+                               "ur":  "مولد",
+                               "fr":  "Mawlid",
+                               "tr":  "Mevlid",
+                               "id":  "Maulid",
+                               "bn":  "মাওলিদ",
+                               "ms":  "Maulid"
+                           },
+                           "parent_id":  null,
+                           "order":  43,
+                           "item_count":  18,
+                           "metadata_file":  "data/duas/categories/mawlid/metadata.json",
+                           "data_file":  "data/duas/categories/mawlid/duas.json"
                        }
                    ]
 }

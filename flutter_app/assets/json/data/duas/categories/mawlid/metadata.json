@@ -1,0 +1,50 @@
+{
+  "id": "mawlid",
+  "name": {
+    "en": "Mawlid",
+    "ta": "மௌலித்",
+    "ml": "മൗലിദ്",
+    "ar": "المولد",
+    "ur": "مولد",
+    "fr": "Mawlid",
+    "tr": "Mevlid",
+    "id": "Maulid",
+    "bn": "মাওলিদ",
+    "ms": "Maulid"
+  },
+  "display_title": {
+    "en": "Mawlid",
+    "ta": "மௌலித்",
+    "ml": "മൗലിദ്",
+    "ar": "المولد",
+    "ur": "مولد",
+    "fr": "Mawlid",
+    "tr": "Mevlid",
+    "id": "Maulid",
+    "bn": "মাওলিদ",
+    "ms": "Maulid"
+  },
+  "description": {
+    "en": "Mawlid texts in praise of the Prophet ﷺ, with Arabic text.",
+    "ar": "نصوص المولد النبوي الشريف.",
+    "ta": "Mawlid",
+    "ml": "Mawlid",
+    "ur": "Mawlid",
+    "fr": "Mawlid",
+    "tr": "Mawlid",
+    "id": "Mawlid",
+    "bn": "Mawlid",
+    "ms": "Mawlid"
+  },
+  "parent_id": null,
+  "order": 43,
+  "theme": {
+    "color": "teal",
+    "gradient": "from-teal-500 to-emerald-700",
+    "bg": "bg-teal-50",
+    "border": "border-teal-200",
+    "text": "text-teal-700"
+  },
+  "item_count": 18,
+  "data_file": "duas.json"
+}
