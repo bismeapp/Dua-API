@@ -15,5 +15,11 @@ Silent typographic fixes only: hamza (اَلْقَى→أَلْقَى, اَنْ�
 8. Part 6: the printed "year" for the fire of Persia («بِأَلْفَيْ عَامٍ») is the source's own wording – not altered.
 
 ## Pending
-- Translations (all languages except ar) are empty strings; the app should fall back to Arabic-only display or be filled later.
+- Translations in all supported languages are machine-drafted and require review by qualified translators; the existing English draft was retained.
+- The requested Ashrakal Baith entry uses the commonly recited four-line "Ashraqal Badr" wording. Confirm that this is the intended text and verify its source and wording.
 - Other mawlids (Barzanji, Diba'i, Simtud Durar, …) need verified Arabic sources; add a module beside manqoos.py and an entry in MAWLIDS in scripts/build_mawlid.py.
+
+## Translations
+- Translations are machine-drafted, not yet reviewed by a scholar/native translator. Arabic is the source text; English uses the existing draft.
+- Add a language by creating `translations/manqoos_<lang>.py` with `T = [...]` (18 strings, same order as manqoos.py; verse parts keep one line per verse), then run `python scripts/build_mawlid.py`.
+- The narrations (e.g. "I was a light before God...") are reproduced as in the source edition; their authenticity grading has not been checked.

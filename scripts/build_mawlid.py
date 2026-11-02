@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the 'mawlid' category (Manqoos Mawlid first) and sync all data mirrors.
+"""Build the 'mawlid' category and sync all data mirrors.
 Add further mawlids by appending to MAWLIDS (source module in data/duas/categories/mawlid/)."""
 import importlib.util, json, os, re
 
@@ -14,10 +14,15 @@ DESCR = {"en": "Mawlid texts in praise of the Prophet ﷺ, with Arabic text.",
 PART = {"en": "Part", "ta": "பகுதி", "ml": "ഭാഗം", "ar": "الجزء", "ur": "حصہ",
         "fr": "Partie", "tr": "Bölüm", "id": "Bagian", "bn": "অংশ", "ms": "Bahagian"}
 MAWLIDS = [{
-    "id": "manqoos-mawlid", "module": "manqoos.py", "number": 1,
+    "id": "manqoos-mawlid", "module": "manqoos.py", "number": 1, "combine": True,
     "title": {"en": "Manqoos Mawlid", "ta": "மன்கூஸ் மௌலித்", "ml": "മൻഖൂസ് മൗലിദ്",
               "ar": "مَنْقُوصْ مَوْلِدْ", "ur": "منقوص مولد", "fr": "Manqoos Mawlid",
               "tr": "Mankus Mevlid", "id": "Maulid Manqus", "bn": "মানকুস মাওলিদ", "ms": "Maulid Manqus"},
+}, {
+    "id": "ashrakal-baith", "module": "ashrakal_baith.py", "number": 2,
+    "title": {"en": "Ashrakal Baith", "ta": "அஷ்ரகல் பைத்", "ml": "അശ്റഖൽ ബൈത്ത്",
+              "ar": "أَشْرَقَ الْبَدْرُ عَلَيْنَا", "ur": "اشراق البیت", "fr": "Ashrakal Baith",
+              "tr": "Ashrakal Baith", "id": "Ashrakal Baith", "bn": "আশরাকাল বাইত", "ms": "Ashrakal Baith"},
 }]
 
 def rj(p):
@@ -31,17 +36,34 @@ def load(m):
     spec = importlib.util.spec_from_file_location("src", os.path.join(ROOT, "data/duas/categories/mawlid", m["module"]))
     mod = importlib.util.module_from_spec(spec); spec.loader.exec_module(mod); return mod.E
 
+def load_translations(m):
+    """translations/<module>_<lang>.py defining T = [one string per part]; missing languages stay empty."""
+    out, stem = {}, m["module"][:-3]
+    for l in L:
+        f = os.path.join(ROOT, "data/duas/categories/mawlid/translations", f"{stem}_{l}.py")
+        if os.path.exists(f):
+            spec = importlib.util.spec_from_file_location(f"tr_{stem}_{l}", f)
+            mod = importlib.util.module_from_spec(spec); spec.loader.exec_module(mod); out[l] = mod.T
+    return out
+
 def build():
     sections, records = [], []
     for m in MAWLIDS:
-        ids = []
-        for i, (kind, ar) in enumerate(load(m), 1):
+        ids = []; src = load(m); trs = load_translations(m)
+        if m.get("combine"):
+            src = [("prose", "\n\n".join(ar for _, ar in src))]
+            trs = {l: ["\n\n".join(parts)] for l, parts in trs.items()}
+        for l, T in trs.items():
+            assert len(T) == len(src), f"{m['id']}/{l}: {len(T)} parts, expected {len(src)}"
+        for i, (kind, ar) in enumerate(src, 1):
             rid = f'{m["id"]}-{i:02d}'; ids.append(rid)
             records.append({
                 "id": rid, "category_id": CAT, "subcategory_id": None, "order": len(records) + 1,
-                "title": {l: f'{m["title"][l]} · {PART[l]} {i}' for l in L},
+                "title": {l: m["title"][l] if m.get("combine") or len(src) == 1
+                          else f'{m["title"][l]} · {PART[l]} {i}' for l in L},
                 "arabic": ar,
-                "translation": {l: (ar if l == "ar" else "") for l in L},
+                "translation": {l: (ar if l == "ar" else trs[l][i - 1] if l in trs else "") for l in L},
+                "translation_status": "Machine-drafted; human review required.",
                 "repetition_count": 1, "section_id": m["id"], "section_number": m["number"],
                 "verse_number": i, "kind": kind})
         sections.append({"id": m["id"], "section_number": m["number"], "title": m["title"]["en"],
@@ -64,13 +86,26 @@ def _close(text, open_idx):
         i += 1
     raise ValueError("unbalanced")
 
+def _close_object(text, open_idx):
+    """Index of the '}' matching the '{' at open_idx (string-aware)."""
+    depth, i, instr = 0, open_idx, False
+    while i < len(text):
+        c = text[i]
+        if instr:
+            if c == "\\": i += 1
+            elif c == '"': instr = False
+        elif c == '"': instr = True
+        elif c == "{": depth += 1
+        elif c == "}":
+            depth -= 1
+            if depth == 0: return i
+        i += 1
+    raise ValueError("unbalanced")
+
 def splice(path, elem, totals=None):
-    """Insert elem at the end of the top-level "categories" array and bump totals, as a
-    minimal text edit so the repo's CRLF / PowerShell-style formatting is left untouched."""
+    """Insert or replace a category in the top-level "categories" array."""
     full = os.path.join(ROOT, path)
     with open(full, encoding="utf-8", newline="") as f: text = f.read()
-    if re.search(r'"id":\s*"%s"' % CAT, text) and CAT in [c["id"] for c in json.loads(text)["categories"]]:
-        raise SystemExit(f"{path}: '{CAT}' already present - run `git checkout -- .` first")
     m = re.search(r'\n    "categories":\s*\[', text)
     o = m.end() - 1; c = _close(text, o)
     first = re.match(r"\s*\n([ \t]*)\{", text[o + 1:])
@@ -78,10 +113,32 @@ def splice(path, elem, totals=None):
     body = json.dumps(elem, ensure_ascii=False, indent=4)
     body = re.sub(r'^(\s*"(?:[^"\\]|\\.)*"): ', r"\1:  ", body, flags=re.M)
     body = "\r\n".join(ind + ln for ln in body.split("\n"))
-    j = len(text[:c].rstrip())
-    text = text[:j] + ",\r\n" + body + text[j:]
+    existing = None
+    i = o + 1
+    while i < c:
+        if text[i] == "{":
+            end = _close_object(text, i)
+            candidate = json.loads(text[i:end + 1])
+            if candidate.get("id") == CAT:
+                existing = (i, end, candidate)
+                break
+            i = end + 1
+        else:
+            i += 1
+    old_count = 0
+    if existing:
+        start, end, old = existing
+        old_count = old.get("item_count", old.get("duas_count", len(old.get("duas", []))))
+        text = text[:start] + body + text[end + 1:]
+    else:
+        j = len(text[:c].rstrip())
+        text = text[:j] + ",\r\n" + body + text[j:]
     for key, delta in (totals or {}).items():
-        text = re.sub(r'("%s":\s*)(\d+)' % key, lambda mm: mm.group(1) + str(int(mm.group(2)) + delta), text, count=1)
+        adjustment = 0 if existing and "categories" in key else (
+            (elem.get("item_count", elem.get("duas_count", len(elem.get("duas", [])))) - old_count)
+            if existing else delta)
+        text = re.sub(r'("%s":\s*)(\d+)' % key,
+                      lambda mm: mm.group(1) + str(int(mm.group(2)) + adjustment), text, count=1)
     with open(full, "w", encoding="utf-8", newline="") as f: f.write(text)
     json.loads(text)  # must still parse
 
@@ -91,7 +148,7 @@ def main():
              "border": "border-teal-200", "text": "text-teal-700"}
     meta_dir = f"data/duas/categories/{CAT}"
     canon = {"schema_version": "3.0.0", "category_id": CAT, "count": n,
-             "description": "Arabic text transcribed from a published edition; translations pending review.",
+             "description": "Arabic text with machine-drafted translations pending human review.",
              "sections": sections, "duas": records}
     meta = {"id": CAT, "name": NAMES, "display_title": NAMES, "description": DESCR, "parent_id": None,
             "order": 43, "theme": theme, "item_count": n, "data_file": "duas.json"}

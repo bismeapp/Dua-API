@@ -9,7 +9,7 @@
                       "rabbana_duas":  "/api/v1/rabbana-duas.json"
                   },
     "total_categories":  40,
-    "total_duas":  527,
+    "total_duas":  511,
     "supported_languages":  [
                                 {
                                     "code":  "en",
@@ -410,14 +410,14 @@
                                     },
                            "duas_count":  1
                        },
-                       {
-                           "id":  "mawlid",
-                           "name":  {
-                               "en":  "Mawlid",
-                               "ar":  "المولد"
-                           },
-                           "duas_count":  18
-                       }
+                                                                                            {
+                                                  "id":  "mawlid",
+                                                  "name":  {
+                                                      "en":  "Mawlid",
+                                                      "ar":  "المولد"
+                                                  },
+                                                  "duas_count":  2
+                                              }
                    ],
     "sources":  [
                     "Sahih al-Bukhari",
