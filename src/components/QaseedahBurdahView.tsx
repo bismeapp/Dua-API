@@ -108,13 +108,17 @@ export default function QaseedahBurdahView({
         <p dir="rtl" className="mt-1 text-xl font-arabic" lang="ar">قصيدة البردة</p>
       </header>
 
-      <nav aria-label="Qaseedah sections" className="mb-5 flex flex-wrap gap-2">
+      <nav
+        aria-label="Qaseedah sections"
+        tabIndex={0}
+        className="mb-5 flex flex-nowrap gap-2 overflow-x-auto overscroll-x-contain pb-2"
+      >
         {sections.map(section => (
           <button
             key={section.id}
             type="button"
             onClick={() => scrollTo(section.id)}
-            className="rounded-full border border-[var(--bisme-gold-border)] bg-[#00251B] px-3 py-2 text-sm text-[var(--bisme-gold)] transition-colors hover:bg-[#003B2B]"
+            className="shrink-0 whitespace-nowrap rounded-full border border-[var(--bisme-gold-border)] bg-[#00251B] px-3 py-2 text-sm text-[var(--bisme-gold)] transition-colors hover:bg-[#003B2B]"
           >
             {section.title_localized[language] || section.title_localized.en}
           </button>
@@ -165,14 +169,14 @@ export default function QaseedahBurdahView({
                     {verse.arabic}
                   </p>
                   <p
-                    dir={language === 'ar' || language === 'ur' ? 'rtl' : 'auto'}
+                    dir={verse.translation[language] && (language === 'ar' || language === 'ur') ? 'rtl' : 'auto'}
                     className={`mt-4 whitespace-pre-line break-words text-sm leading-7 sm:text-base ${
                       isDark ? 'text-gray-200' : 'text-gray-700'
                     }`}
                   >
                     {stripReferenceMarkers(verse.translation[language] || verse.translation.en)}
                   </p>
-                  {language !== 'en' && (
+                  {language !== 'en' && verse.translation[language] && (
                     <details className="mt-3 text-xs">
                       <summary className="cursor-pointer text-[var(--bisme-gold)]">{label.englishTranslation}</summary>
                       <p dir="ltr" className="mt-2 whitespace-pre-line text-sm leading-6 text-[var(--bisme-text-secondary)]">

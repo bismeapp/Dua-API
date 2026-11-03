@@ -11,8 +11,6 @@ NAMES = {"en": "Mawlid", "ta": "மௌலித்", "ml": "മൗലിദ്",
 DESCR = {"en": "Mawlid texts in praise of the Prophet ﷺ, with Arabic text.",
          "ar": "نصوص المولد النبوي الشريف.",
          **{k: "Mawlid" for k in L if k not in ("en", "ar")}}
-PART = {"en": "Part", "ta": "பகுதி", "ml": "ഭാഗം", "ar": "الجزء", "ur": "حصہ",
-        "fr": "Partie", "tr": "Bölüm", "id": "Bagian", "bn": "অংশ", "ms": "Bahagian"}
 MAWLIDS = [{
     "id": "manqoos-mawlid", "source_json": "manqoos.json", "number": 1, "combine": True,
     "title": {"en": "Manqoos Mawlid", "ta": "மன்கூஸ் மௌலித்", "ml": "മൻഖൂസ് മൗലിദ്",
@@ -71,15 +69,26 @@ def build():
             records.append({
                 "id": rid, "category_id": CAT, "subcategory_id": None, "order": len(records) + 1,
                 "title": {l: title[l] if m.get("combine") or len(src) == 1
-                          else f'{title[l]} · {PART[l]} {i}' for l in L},
+                          else f'{title[l]} - Part {i}' for l in L},
                 "arabic": ar,
                 "translation": {l: (ar if l == "ar" else trs[l][i - 1] if l in trs else "") for l in L},
                 "translation_status": source_record.get(
                     "translation_status", "Machine-drafted; human review required."),
                 "repetition_count": 1, "section_id": m["id"], "section_number": m["number"],
                 "verse_number": i, "kind": kind})
-        sections.append({"id": m["id"], "section_number": m["number"], "title": title["en"],
-                         "title_localized": title, "verse_ids": ids})
+        section = {"id": m["id"], "section_number": m["number"], "title": title["en"],
+                   "title_localized": title, "verse_ids": ids}
+        display_groups = source_record.get("display_groups", [])
+        if display_groups:
+            grouped_parts = [part_number for group in display_groups for part_number in group["part_numbers"]]
+            if sorted(grouped_parts) != list(range(1, len(src) + 1)):
+                raise ValueError(f'{m["id"]}: display groups must include every part exactly once')
+            section["display_groups"] = [
+                {"id": f'{m["id"]}-group-{i}', "title": group["title"],
+                 "verse_ids": [f'{m["id"]}-{part_number:02d}' for part_number in group["part_numbers"]]}
+                for i, group in enumerate(display_groups, 1)
+            ]
+        sections.append(section)
     return sections, records
 
 def _close(text, open_idx):

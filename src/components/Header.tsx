@@ -51,10 +51,15 @@ export default function Header({
   return (
     <header className="app-header sticky top-0 z-50 border-b">
       <div className="mx-auto max-w-7xl px-3 sm:px-6 lg:px-8">
-        <div className="flex h-[60px] items-center justify-between gap-3 sm:h-16">
-          {/* Logo & Title */}
-          <div className="flex min-w-0 items-center gap-3">
-            <div className="min-w-0">
+        <div className="flex h-[104px] items-center justify-between gap-3 sm:h-28">
+          <div className="flex h-[96px] w-[92px] shrink-0 items-center justify-center sm:h-[104px]">
+            <img
+              src="/bisme-radio-logo.png"
+              alt="Bisme Radio"
+              className="h-[96px] w-auto max-w-[92px] shrink-0 object-contain sm:h-[104px]"
+              style={{ filter: 'drop-shadow(0 0 10px rgba(246, 207, 120, 0.75))' }}
+            />
+            <div className="sr-only">
               <h1 className="truncate font-sans text-[15px] font-semibold text-white">{title}</h1>
               <p className="hidden text-xs text-white/55 sm:block">{subtitle}</p>
             </div>

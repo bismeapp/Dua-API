@@ -93,7 +93,7 @@ def dua_records(sections):
         for verse in section["verses"]:
             number = len(records) + 1
             title = {
-                language: f'{section["title_localized"][language]} · {verse["verse_number"]}'
+                language: f'{section["title_localized"].get(language, section["title_localized"]["en"])} {verse["verse_number"]}'
                 for language in LANGUAGES
             }
             records.append({

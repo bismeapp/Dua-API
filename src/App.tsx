@@ -13,6 +13,7 @@ import BookmarksView from './components/BookmarksView';
 import AsmaUlHusnaView from './components/AsmaUlHusnaView';
 import AsmaUlAnbiyaView from './components/AsmaUlAnbiyaView';
 import AsmaUnNabiView from './components/AsmaUnNabiView';
+import MawlidView from './components/MawlidView';
 import QaseedahBurdahView from './components/QaseedahBurdahView';
 import HajjUmrahView from './components/HajjUmrahView';
 import DuaReminder from './components/DuaReminder';
@@ -27,6 +28,7 @@ interface Dua {
   arabic: string;
   translation: Record<string, string>;
   transliteration?: string;
+  section_id?: string;
   reference?: string | { source?: string; reference_text?: string };
   times: number;
   item_number?: number;
@@ -51,6 +53,11 @@ interface Category {
     title: string;
     title_localized: Record<string, string>;
     verse_ids: string[];
+    display_groups?: {
+      id: string;
+      title: string;
+      verse_ids: string[];
+    }[];
   }[];
   displayTitle?: Record<string, string>;
   hajjSections?: {
@@ -89,8 +96,9 @@ const normalize = (s: string) =>
 const referenceText = (ref: Dua['reference'] | undefined) =>
   !ref ? '' : typeof ref === 'string' ? ref : [ref.source, ref.reference_text].filter(Boolean).join(' ');
 
-const duaSearchText = (dua: Dua) =>
+const duaSearchText = (dua: Dua, additionalTitles: string[] = []) =>
   normalize([
+    ...additionalTitles,
     ...Object.values(dua.title || {}),
     ...Object.values(dua.heading || {}),
     ...Object.values(dua.translation || {}),
@@ -235,9 +243,23 @@ function AppContent() {
 
   // Pre-computed searchable text for every dua (all categories, including "Others").
   const searchIndex = useMemo(
-    () => categories.flatMap(category =>
-      category.duas.map(dua => ({ category, dua, text: duaSearchText(dua) }))
-    ),
+    () => categories.flatMap(category => {
+      const sectionsById = new Map((category.sections || []).map(section => [section.id, section]));
+      return category.duas.map(dua => {
+        const section = dua.section_id ? sectionsById.get(dua.section_id) : undefined;
+        const groupTitles = section?.display_groups
+          ?.filter(group => group.verse_ids.includes(dua.id))
+          .map(group => group.title) || [];
+        return {
+          category,
+          dua,
+          text: duaSearchText(dua, [
+            ...(section ? [section.title, ...Object.values(section.title_localized)] : []),
+            ...groupTitles,
+          ]),
+        };
+      });
+    }),
     [categories]
   );
 
@@ -259,8 +281,13 @@ function AppContent() {
   const visibleCategoryDuas = useMemo(() => {
     if (!selectedCategory) return [];
     if (!isSearching) return selectedCategory.duas;
-    return selectedCategory.duas.filter(dua => duaSearchText(dua).includes(normalizedQuery));
-  }, [selectedCategory, isSearching, normalizedQuery]);
+    return searchIndex
+      .filter(item => item.category.id === selectedCategory.id && item.text.includes(normalizedQuery))
+      .map(item => item.dua);
+  }, [selectedCategory, isSearching, normalizedQuery, searchIndex]);
+  const visibleSearchResults = selectedCategory
+    ? searchResults.filter(item => item.category.id === selectedCategory.id)
+    : searchResults;
 
   const currentLanguage = languages.find(l => l.code === language) || languages[0];
   const handleDuaClickFromBookmarks = (dua: any, categoryId: string) => {
@@ -334,18 +361,18 @@ function AppContent() {
         )}
 
         {/* Search results: individual duas from every category (including Others) */}
-        {viewMode === 'categories' && !selectedCategory && !selectedDua && isSearching && (
+        {viewMode === 'categories' && !selectedDua && isSearching && (!selectedCategory || selectedCategory.id === 'mawlid') && (
           <div className={filteredCategories.length > 0 ? 'mt-8' : ''}>
             <h2 className={`text-lg font-semibold mb-4 ${isDark ? 'text-white' : 'text-gray-800'}`}>
               {language === 'ar' ? 'نتائج الأدعية' : language === 'ur' ? 'دعاؤں کے نتائج' : language === 'fr' ? 'Résultats' : 'Dua results'} ({searchResults.length})
             </h2>
-            {searchResults.length === 0 ? (
+            {visibleSearchResults.length === 0 ? (
               <p className={`text-sm ${isDark ? 'text-gray-400' : 'text-gray-500'}`}>
                 {language === 'ar' ? 'لا توجد نتائج' : language === 'ur' ? 'کوئی نتیجہ نہیں ملا' : language === 'fr' ? 'Aucun résultat' : 'No duas found'}
               </p>
             ) : (
               <div className="space-y-3">
-                {searchResults.map(({ category, dua }) => (
+                {visibleSearchResults.map(({ category, dua }) => (
                   <div
                     key={`${category.id}-${dua.id}`}
                     onClick={() => navigateTo(category.id, dua.id)}
@@ -387,6 +414,16 @@ function AppContent() {
           <AsmaUnNabiView entries={selectedCategory.duas} language={language} onBack={goBack} />
         )}
 
+        {selectedCategory && !selectedDua && selectedCategory.id === 'mawlid' && selectedCategory.sections && !isSearching && (
+          <MawlidView
+            entries={selectedCategory.duas as (Dua & { section_id: string; verse_number: number })[]}
+            sections={selectedCategory.sections}
+            language={language}
+            displayTitle={selectedCategory.displayTitle || selectedCategory.name}
+            onBack={goBack}
+          />
+        )}
+
         {selectedCategory && selectedCategory.id === 'qaseedah-burdah' && selectedCategory.sections && (
           <QaseedahBurdahView
             entries={selectedCategory.duas as (Dua & { section_id: string; section_number: number; verse_number: number })[]}
@@ -410,7 +447,7 @@ function AppContent() {
         )}
 
         {/* Regular Category View */}
-        {selectedCategory && !selectedDua && !['asma-ul-husna', 'asma-ul-anbiya', 'asma-un-nabi', 'qaseedah-burdah', 'hajj-umrah'].includes(selectedCategory.id) && (
+        {selectedCategory && !selectedDua && !['asma-ul-husna', 'asma-ul-anbiya', 'asma-un-nabi', 'mawlid', 'qaseedah-burdah', 'hajj-umrah'].includes(selectedCategory.id) && (
           <div>
             <button
               onClick={goBack}
