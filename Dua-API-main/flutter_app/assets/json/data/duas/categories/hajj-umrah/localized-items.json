@@ -1,0 +1,2829 @@
+{
+  "schema_version": "1.0.0",
+  "category_id": "hajj-umrah",
+  "translation_status": "Machine-generated; human review required.",
+  "sections": [
+    {
+      "letter": "A",
+      "title": {
+        "en": "Before departure",
+        "ta": "புறப்படுவதற்கு முன்",
+        "ml": "പുറപ്പെടുന്നതിന് മുമ്പ്",
+        "ar": "قبل المغادرة",
+        "ur": "روانگی سے پہلے",
+        "fr": "Avant le départ",
+        "tr": "Kalkıştan önce",
+        "id": "Sebelum keberangkatan",
+        "bn": "যাত্রার আগে",
+        "ms": "Sebelum berlepas"
+      }
+    },
+    {
+      "letter": "B",
+      "title": {
+        "en": "Entering a mosque",
+        "ta": "ஒரு மசூதிக்குள் நுழைவது",
+        "ml": "ഒരു പള്ളിയിൽ പ്രവേശിക്കുന്നു",
+        "ar": "دخول مسجد",
+        "ur": "مسجد میں داخل ہونا",
+        "fr": "Entrer dans une mosquée",
+        "tr": "Camiye girmek",
+        "id": "Memasuki sebuah masjid",
+        "bn": "মসজিদে প্রবেশ করা",
+        "ms": "Memasuki masjid"
+      }
+    },
+    {
+      "letter": "C",
+      "title": {
+        "en": "Ihram and Miqat",
+        "ta": "இஹ்ராம் மற்றும் மிகாத்",
+        "ml": "ഇഹ്റാമും മീഖാത്തും",
+        "ar": "الإحرام والميقات",
+        "ur": "احرام اور میقات",
+        "fr": "Ihram et Miqat",
+        "tr": "İhram ve Mikat",
+        "id": "Ihram dan Miqat",
+        "bn": "ইহরাম ও মিকাত",
+        "ms": "Ihram dan Miqat"
+      }
+    },
+    {
+      "letter": "D",
+      "title": {
+        "en": "Upon seeing the Ka'bah",
+        "ta": "கஅபாவைப் பார்த்தவுடன்",
+        "ml": "കഅ്ബ കണ്ടപ്പോൾ",
+        "ar": "عند رؤية الكعبة",
+        "ur": "کعبہ کو دیکھ کر",
+        "fr": "En voyant la Ka'bah",
+        "tr": "Kabe'yi görünce",
+        "id": "Saat melihat Ka'bah",
+        "bn": "কাবাঘর দেখে",
+        "ms": "Apabila melihat Kaabah"
+      }
+    },
+    {
+      "letter": "E",
+      "title": {
+        "en": "Tawaf around the Ka'bah",
+        "ta": "கஅபாவைச் சுற்றி தவாஃப்",
+        "ml": "കഅബക്ക് ചുറ്റും ത്വവാഫ്",
+        "ar": "الطواف حول الكعبة",
+        "ur": "خانہ کعبہ کا طواف کرنا",
+        "fr": "Tawaf autour de la Kaaba",
+        "tr": "Kabe'nin etrafında tavaf",
+        "id": "Tawaf mengelilingi Ka'bah",
+        "bn": "কাবাঘরের চারদিকে তাওয়াফ করা",
+        "ms": "Tawaf mengelilingi Kaabah"
+      }
+    },
+    {
+      "letter": "F",
+      "title": {
+        "en": "Sa'i between Safa and Marwah",
+        "ta": "ஸஃபாவிற்கும் மர்வாவிற்கும் இடையில் சாயி",
+        "ml": "സഫയ്ക്കും മർവയ്ക്കും ഇടയിലുള്ള സഅ്",
+        "ar": "السعي بين الصفا والمروة",
+        "ur": "صفا اور مروہ کے درمیان سعی",
+        "fr": "Sa'i entre Safa et Marwah",
+        "tr": "Safa ile Merve arasında sa'i",
+        "id": "Sa'i antara Safa dan Marwah",
+        "bn": "সাফা ও মারওয়ার মধ্যে সাঈ করা",
+        "ms": "Sa'i antara Safa dan Marwah"
+      }
+    },
+    {
+      "letter": "G",
+      "title": {
+        "en": "Completing Umrah",
+        "ta": "உம்ரா முடித்தல்",
+        "ml": "ഉംറ പൂർത്തിയാക്കുന്നു",
+        "ar": "إتمام العمرة",
+        "ur": "عمرہ مکمل کرنا",
+        "fr": "Terminer la Omra",
+        "tr": "Umreyi tamamlamak",
+        "id": "Menyelesaikan umroh",
+        "bn": "ওমরাহ সম্পন্ন করা",
+        "ms": "Menyempurnakan umrah"
+      }
+    },
+    {
+      "letter": "H",
+      "title": {
+        "en": "Hajj – Mina (8th Dhul-Hijjah)",
+        "ta": "ஹஜ் - மினா (8வது துல்-ஹிஜ்ஜா)",
+        "ml": "ഹജ്ജ് - മിന (എട്ടാം ദുൽഹിജ്ജ)",
+        "ar": "الحج – منى (8 ذو الحجة)",
+        "ur": "حج - منی (8 ذی الحجہ)",
+        "fr": "Hajj – Mina (8ème Dhul-Hijjah)",
+        "tr": "Hac – Mina (8. Zilhicce)",
+        "id": "Haji – Mina (8 Dzulhijjah)",
+        "bn": "হজ - মিনা (৮ই জুল-হিজ্জাহ)",
+        "ms": "Haji – Mina (8hb Dzulhijjah)"
+      }
+    },
+    {
+      "letter": "I",
+      "title": {
+        "en": "Hajj – Arafah (9th Dhul-Hijjah)",
+        "ta": "ஹஜ் - அரஃபா (9வது துல்-ஹிஜ்ஜா)",
+        "ml": "ഹജ്ജ് - അറഫ (9-ആം ദുൽഹിജ്ജ)",
+        "ar": "الحج – عرفة (9 ذي الحجة)",
+        "ur": "حج - عرفہ (9 ذی الحجہ)",
+        "fr": "Hajj – Arafah (9ème Dhul-Hijjah)",
+        "tr": "Hac – Arafat (9. Zilhicce)",
+        "id": "Haji – Arafah (9 Dzulhijjah)",
+        "bn": "হজ - আরাফাহ (৯ই জুল-হিজ্জাহ)",
+        "ms": "Haji – Arafah (9 Dzulhijjah)"
+      }
+    },
+    {
+      "letter": "J",
+      "title": {
+        "en": "Leaving Arafah for Muzdalifah",
+        "ta": "அரஃபாவை விட்டு முஸ்தலிஃபாவிற்கு",
+        "ml": "അറഫ വിട്ട് മുസ്ദലിഫയിലേക്ക്",
+        "ar": "الخروج من عرفة إلى مزدلفة",
+        "ur": "عرفہ سے مزدلفہ کے لیے نکلنا",
+        "fr": "Quitter Arafah pour Mouzdalifah",
+        "tr": "Arafat'tan Müzdelife'ye gitmek",
+        "id": "Meninggalkan Arafah menuju Muzdalifah",
+        "bn": "আরাফা থেকে মুযদালিফার উদ্দেশ্যে বের হওয়া",
+        "ms": "Meninggalkan Arafah menuju Muzdalifah"
+      }
+    },
+    {
+      "letter": "K",
+      "title": {
+        "en": "Muzdalifah (Night of 9th Dhul-Hijjah)",
+        "ta": "முஸ்தலிஃபா (துல்-ஹிஜ்ஜா 9 இரவு)",
+        "ml": "മുസ്ദലിഫ (ദുൽഹിജ്ജ ഒമ്പതാം രാത്രി)",
+        "ar": "مزدلفة (ليلة التاسع من ذي الحجة)",
+        "ur": "مزدلفہ (9 ذی الحجہ کی رات)",
+        "fr": "Muzdalifah (nuit du 9 Dhul-Hijjah)",
+        "tr": "Müzdelife (9. Zilhicce Gecesi)",
+        "id": "Muzdalifah (Malam 9 Dzulhijjah)",
+        "bn": "মুজদালিফা (৯ই জুল-হিজ্জার রাত)",
+        "ms": "Muzdalifah (Malam 9 Zulhijjah)"
+      }
+    },
+    {
+      "letter": "L",
+      "title": {
+        "en": "Mina – 10th Dhul-Hijjah (Day of Eid)",
+        "ta": "மினா - 10வது துல்-ஹிஜ்ஜா (ஈத் நாள்)",
+        "ml": "മിന - പത്താം ദുൽഹിജ്ജ (ഈദ് ദിനം)",
+        "ar": "منى – العاشر من ذي الحجة (يوم العيد)",
+        "ur": "منیٰ - 10 ذی الحجہ (عید کا دن)",
+        "fr": "Mina – 10 Dhul-Hijjah (Jour de l’Aïd)",
+        "tr": "Mina – 10. Zilhicce (Bayram Günü)",
+        "id": "Mina – 10 Dzulhijjah (Hari Raya Idul Fitri)",
+        "bn": "মিনা - ১০ই জুল-হিজ্জাহ (ঈদের দিন)",
+        "ms": "Mina - 10 Zulhijjah (Hari Raya)"
+      }
+    },
+    {
+      "letter": "M",
+      "title": {
+        "en": "Tawaf al-Ifadah (Tawaf al-Ziyarah)",
+        "ta": "தவாஃப் அல்-இஃபாதா (தவாஃப் அல்-ஜியாரா)",
+        "ml": "തവാഫ് അൽ-ഇഫാദ (തവാഫ് അൽ-സിയാറ)",
+        "ar": "طواف الإفاضة (طواف الزيارة)",
+        "ur": "طواف الافادہ (طواف الزیارہ)",
+        "fr": "Tawaf al-Ifadah (Tawaf al-Ziyarah)",
+        "tr": "Tavaf al-Ifadah (Tawaf al-Ziyarah)",
+        "id": "Tawaf al-Ifadah (Tawaf al-Ziyarah)",
+        "bn": "তাওয়াফ আল-ইফাদাহ (তাওয়াফ আল-জিয়ারাহ)",
+        "ms": "Tawaf al-Ifadah (Tawaf al-Ziyarah)"
+      }
+    },
+    {
+      "letter": "N",
+      "title": {
+        "en": "Mina – 11th, 12th and 13th Dhul-Hijjah",
+        "ta": "மினா - 11வது, 12வது மற்றும் 13வது துல்-ஹிஜ்ஜா",
+        "ml": "മിന - 11, 12, 13 ദുൽഹിജ്ജ",
+        "ar": "منى – أيام 11 و12 و13 ذي الحجة",
+        "ur": "منیٰ - گیارہویں، بارہویں اور تیرہ ذی الحجہ",
+        "fr": "Mina – 11, 12 et 13 Dhul-Hijjah",
+        "tr": "Mina – 11., 12. ve 13. Zilhicce",
+        "id": "Mina – 11, 12 dan 13 Dzulhijjah",
+        "bn": "মিনা - 11, 12 এবং 13 জুল-হিজ্জাহ",
+        "ms": "Mina - 11, 12 dan 13 Zulhijah"
+      }
+    },
+    {
+      "letter": "O",
+      "title": {
+        "en": "Tawaf al-Wada – Farewell Tawaf",
+        "ta": "தவாஃப் அல்-வாடா - பிரியாவிடை தவாஃப்",
+        "ml": "തവാഫ് അൽ-വാദ - വിടവാങ്ങൽ തവാഫ്",
+        "ar": "طواف الوداع – طواف الوداع",
+        "ur": "طواف الوداع - الوداعی طواف",
+        "fr": "Tawaf al-Wada – Adieu Tawaf",
+        "tr": "Tavaf el-Vada – Veda Tavafı",
+        "id": "Tawaf al-Wada – Tawaf Perpisahan",
+        "bn": "তাওয়াফ আল-ওয়াদা - বিদায়ী তাওয়াফ",
+        "ms": "Tawaf al-Wada – Tawaf Perpisahan"
+      }
+    },
+    {
+      "letter": "P",
+      "title": {
+        "en": "Visiting Madinah and Masjid an-Nabawi",
+        "ta": "மதீனா மற்றும் மஸ்ஜித் அந்-நபவிக்கு வருகை",
+        "ml": "മദീനയും മസ്ജിദുന്നബവിയും സന്ദർശിക്കുന്നു",
+        "ar": "- زيارة المدينة المنورة والمسجد النبوي",
+        "ur": "مدینہ منورہ اور مسجد نبوی کی زیارت",
+        "fr": "Visiter Médine et Masjid an-Nabawi",
+        "tr": "Medine ve Mescid-i Nebevi'yi ziyaret etmek",
+        "id": "Mengunjungi Madinah dan Masjid an-Nabawi",
+        "bn": "মদীনা ও মসজিদে নববী সফর করা",
+        "ms": "Ziarah Madinah dan Masjid Nabawi"
+      },
+      "introduction": {
+        "en": "Visiting Madinah is not a ritual of Hajj or Umrah, but many pilgrims visit the Prophet's Mosque.",
+        "ta": "மதீனாவுக்குச் செல்வது ஹஜ் அல்லது உம்ராவின் ஒரு சடங்கு அல்ல, ஆனால் பல யாத்ரீகர்கள் நபியின் மசூதிக்கு வருகை தருகின்றனர்.",
+        "ml": "മദീന സന്ദർശിക്കുന്നത് ഹജ്ജിൻ്റെയോ ഉംറയുടെയോ ഒരു ചടങ്ങല്ല, എന്നാൽ നിരവധി തീർഥാടകർ പ്രവാചകൻ്റെ പള്ളി സന്ദർശിക്കുന്നു.",
+        "ar": "زيارة المدينة المنورة ليست من طقوس الحج أو العمرة، لكن الكثير من الحجاج يزورون المسجد النبوي.",
+        "ur": "مدینہ منورہ جانا حج یا عمرہ کی رسم نہیں ہے، لیکن بہت سے زائرین مسجد نبوی کی زیارت کرتے ہیں۔",
+        "fr": "La visite de Médine n'est pas un rituel du Hajj ou de la Omra, mais de nombreux pèlerins visitent la mosquée du Prophète.",
+        "tr": "Medine'yi ziyaret etmek bir Hac veya Umre ritüeli değildir ancak birçok hacı Mescid-i Nebevî'yi ziyaret eder.",
+        "id": "Mengunjungi Madinah bukanlah sebuah ritual haji atau umrah, namun banyak jamaah yang mengunjungi Masjid Nabawi.",
+        "bn": "মদিনা পরিদর্শন হজ বা ওমরার অনুষ্ঠান নয়, তবে অনেক তীর্থযাত্রী মসজিদে নববীতে যান।",
+        "ms": "Mengunjungi Madinah bukanlah ibadah haji atau umrah, tetapi ramai jemaah yang mengunjungi Masjid Nabawi."
+      }
+    }
+  ],
+  "items": [
+    {
+      "number": 1,
+      "section": "A",
+      "title": {
+        "en": "Dua when leaving home",
+        "ta": "வீட்டை விட்டு வெளியேறும் போது துஆ",
+        "ml": "വീട്ടിൽ നിന്ന് പോകുമ്പോൾ ദുആ",
+        "ar": "الدعاء عند الخروج من المنزل",
+        "ur": "گھر سے نکلتے وقت دعا",
+        "fr": "Dua en quittant la maison",
+        "tr": "Evden çıkarken okunacak dua",
+        "id": "Doa ketika meninggalkan rumah",
+        "bn": "বাড়ি থেকে বের হওয়ার সময় দুআ",
+        "ms": "Doa ketika keluar rumah"
+      },
+      "translation": {
+        "en": "In the name of Allah. I place my trust in Allah. There is no power and no strength except through Allah.",
+        "ta": "அல்லாஹ்வின் பெயரால். நான் அல்லாஹ்வின் மீது நம்பிக்கை வைக்கிறேன். அல்லாஹ்வைத் தவிர வேறு சக்தியும் இல்லை.",
+        "ml": "അല്ലാഹുവിൻ്റെ നാമത്തിൽ. ഞാൻ അല്ലാഹുവിൽ ഭരമേൽപിക്കുന്നു. അല്ലാഹുവിലൂടെയല്ലാതെ ഒരു ശക്തിയും ശക്തിയുമില്ല.",
+        "ar": "بسم الله. أضع ثقتي في الله. ولا حول ولا قوة إلا بالله.",
+        "ur": "اللہ کے نام پر۔ میرا بھروسہ اللہ پر ہے۔ اللہ کے سوا کوئی طاقت اور طاقت نہیں ہے۔",
+        "fr": "Au nom d'Allah. Je place ma confiance en Allah. Il n’y a de puissance ni de force que par Allah.",
+        "tr": "Allah'ın adıyla. Ben Allah'a güveniyorum. Allah'tan başka güç ve kuvvet yoktur.",
+        "id": "Dengan menyebut nama Allah. Aku bertawakal pada Allah. Tidak ada daya dan kekuatan kecuali melalui Allah.",
+        "bn": "আল্লাহর নামে। আমি আল্লাহর উপর ভরসা রাখি। আল্লাহ ছাড়া কোন শক্তি ও শক্তি নেই।",
+        "ms": "Dengan nama Allah. Saya bertawakkal kepada Allah. Tiada daya dan kekuatan melainkan dengan pertolongan Allah."
+      },
+      "classification": {
+        "en": "Prophetic supplication",
+        "ta": "தீர்க்கதரிசன பிரார்த்தனை",
+        "ml": "പ്രവാചക പ്രാർത്ഥന",
+        "ar": "الدعاء النبوي",
+        "ur": "دعائے نبوت",
+        "fr": "Supplication prophétique",
+        "tr": "Peygamberlik duası",
+        "id": "Doa kenabian",
+        "bn": "ভবিষ্যদ্বাণীমূলক প্রার্থনা",
+        "ms": "Doa kenabian"
+      }
+    },
+    {
+      "number": 2,
+      "section": "A",
+      "title": {
+        "en": "Dua when travelling",
+        "ta": "பயணம் செய்யும் போது துஆ",
+        "ml": "യാത്ര ചെയ്യുമ്പോൾ ദുആ",
+        "ar": "الدعاء عند السفر",
+        "ur": "سفر میں دعا",
+        "fr": "Dua en voyage",
+        "tr": "Seyahat ederken okunacak dua",
+        "id": "Doa saat bepergian",
+        "bn": "ভ্রমণের সময় দুআ",
+        "ms": "Doa ketika dalam perjalanan"
+      },
+      "translation": {
+        "en": "Allah is the Greatest, Allah is the Greatest, Allah is the Greatest.\n\nGlory be to the One who has subjected this to us, although we could not have controlled it ourselves, and surely to our Lord we will return.\n\nO Allah, we ask You for righteousness, piety and deeds that please You during this journey.\n\nO Allah, make this journey easy for us and shorten its distance.\n\nO Allah, You are our Companion during travel and our Guardian over our family.\n\nO Allah, I seek refuge in You from the difficulties of travel, distressing sights and a bad return concerning wealth and family.",
+        "ta": "அல்லாஹ் மிகப் பெரியவன், அல்லாஹ் மிகப் பெரியவன், அல்லாஹ் மிகப் பெரியவன்.\n\nஇதை நமக்குக் கீழ்ப்படுத்தியவருக்கு மகிமை, அதை நம்மால் கட்டுப்படுத்த முடியவில்லை என்றாலும், நிச்சயமாக நாங்கள் எங்கள் இறைவனிடம் திரும்புவோம்.\n\nயா அல்லாஹ், இந்தப் பயணத்தின் போது உமக்குப் பிரியமான தர்மத்தையும், இறையச்சத்தையும், செயல்களையும் உன்னிடம் கேட்கிறோம்.\n\nயா அல்லாஹ், இந்தப் பயணத்தை எங்களுக்கு எளிதாக்கி அதன் தூரத்தைக் குறைப்பாயாக!\n\nயா அல்லாஹ், பயணத்தின் போது எங்களின் தோழனாகவும், எங்கள் குடும்பத்தை காப்பவனாகவும் இருக்கிறாய்.\n\nயா அல்லாஹ், பயணத்தின் சிரமங்களிலிருந்தும், துன்பகரமான காட்சிகளிலிருந்தும், செல்வம் மற்றும் குடும்பம் தொடர்பான மோசமான வருமானத்திலிருந்தும் உன்னிடம் நான் பாதுகாவல் தேடுகிறேன்.",
+        "ml": "അല്ലാഹുവാണ് ഏറ്റവും വലിയവൻ, അള്ളാഹുവാണ് ഏറ്റവും വലിയവൻ, അള്ളാഹുവാണ് ഏറ്റവും വലിയവൻ.\n\nഇത് ഞങ്ങൾക്ക് കീഴ്പെടുത്തിയവൻ മഹത്വപ്പെടട്ടെ, നമുക്ക് സ്വയം നിയന്ത്രിക്കാൻ കഴിഞ്ഞില്ലെങ്കിലും, തീർച്ചയായും ഞങ്ങൾ ഞങ്ങളുടെ നാഥനിലേക്ക് മടങ്ങും.\n\nഅല്ലാഹുവേ, ഈ യാത്രയിൽ നിന്നെ തൃപ്തിപ്പെടുത്തുന്ന ധർമ്മവും ഭക്തിയും കർമ്മവും ഞങ്ങൾ നിന്നോട് ചോദിക്കുന്നു.\n\nഅല്ലാഹുവേ, ഈ യാത്ര ഞങ്ങൾക്ക് എളുപ്പമാക്കുകയും അതിൻ്റെ ദൂരം കുറയ്ക്കുകയും ചെയ്യേണമേ.\n\nഅല്ലാഹുവേ, യാത്രാവേളയിൽ നീ ഞങ്ങളുടെ കൂട്ടാളിയും ഞങ്ങളുടെ കുടുംബത്തിൻ്റെ കാവൽക്കാരനുമാണ്.\n\nഅല്ലാഹുവേ, യാത്രാദുരിതങ്ങളിൽ നിന്നും ദുരിതമയമായ കാഴ്ചകളിൽ നിന്നും ധനം, കുടുംബം എന്നിവയെ സംബന്ധിച്ച മോശമായ തിരിച്ചുവരവിൽ നിന്നും ഞാൻ നിന്നോട് അഭയം തേടുന്നു.",
+        "ar": "الله أكبر، الله أكبر، الله أكبر.\n\nفسبحان الذي سخر لنا هذا ولم نكن لنملكه بأنفسنا وإنا إلى ربنا راجعون.\n\nاللهم إنا نسألك البر والتقوى والعمل الذي يرضيك في هذه الرحلة.\n\nاللهم هون علينا سفرنا هذا واختصر لنا بعده.\n\nاللهم أنت صاحبنا في السفر وولينا على أهلنا.\n\nاللهمّ إني أعوذ بك من وعثاء السفر، وكربة المنظر، وسوء المنقلب في المال والأهل.",
+        "ur": "اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے۔\n\nپاک ہے وہ ذات جس نے اسے ہمارے تابع کر دیا، حالانکہ ہم خود اس پر قابو نہیں پا سکتے تھے اور یقیناً ہم اپنے رب کی طرف لوٹ کر جائیں گے۔\n\nاے اللہ اس سفر میں ہم تجھ سے نیکی، تقویٰ اور ایسے اعمال مانگتے ہیں جو تجھے پسند ہوں۔\n\nاے اللہ ہمارے لیے اس سفر کو آسان فرما اور اس کی مسافت کم فرما۔\n\nاے اللہ تو سفر میں ہمارا ساتھی اور ہمارے اہل و عیال کا نگہبان ہے۔\n\nاے اللہ میں تیری پناہ مانگتا ہوں سفر کی مشقت سے، تکلیف دہ نظروں سے اور مال اور اہل و عیال کی بری واپسی سے۔",
+        "fr": "Allah est le plus grand, Allah est le plus grand, Allah est le plus grand.\n\nGloire à Celui qui nous a soumis cela, même si nous n'aurions pas pu le contrôler nous-mêmes, et c'est sûrement vers notre Seigneur que nous retournerons.\n\nO Allah, nous Te demandons la droiture, la piété et les actions qui Te plaisent pendant ce voyage.\n\nÔ Allah, facilite-nous ce voyage et raccourcis sa distance.\n\nO Allah, Tu es notre Compagnon pendant le voyage et notre Gardien de notre famille.\n\nÔ Allah, je cherche refuge auprès de Toi contre les difficultés du voyage, les spectacles pénibles et les mauvais retours concernant la richesse et la famille.",
+        "tr": "Allah en büyüktür, Allah en büyüktür, Allah en büyüktür.\n\nKendi başımıza kontrol edemediğimiz halde bunu bize nasip eden Allah'ın şanı yücedir ve şüphesiz biz Rabbimize döneceğiz.\n\nAllah'ım, bu yolculukta Senden iyilik, takva ve razı olacağın amel istiyoruz.\n\nAllah'ım bu yolculuğu bize kolaylaştır ve mesafesini kısalt.\n\nAllah'ım, Sen bizim yolculukta yol arkadaşımız ve ailemizin koruyucususun.\n\nAllah'ım, yolculuğun zorluklarından, kötü manzaralardan, mal ve aileyle ilgili kötü dönüşten sana sığınırım.",
+        "id": "Allahu Akbar Allahu Akbar Allahu Akbar.\n\nMaha Suci Allah yang telah menyerahkan hal ini kepada kami, meskipun kami sendiri tidak dapat mengendalikannya, dan niscaya kepada Tuhan kami kami akan kembali.\n\nYa Allah, kami mohon kepada-Mu kebenaran, ketakwaan, dan amal yang menyenangkan-Mu selama perjalanan ini.\n\nYa Allah, mudahkan perjalanan ini bagi kami dan perpendek jaraknya.\n\nYa Allah, Engkau adalah Sahabat kami selama perjalanan dan Penjaga kami atas keluarga kami.\n\nYa Allah, aku berlindung kepada-Mu dari kesulitan perjalanan, pemandangan yang menyusahkan, dan keburukan harta dan keluarga.",
+        "bn": "আল্লাহ সর্বশ্রেষ্ঠ, আল্লাহ সর্বশ্রেষ্ঠ, আল্লাহ সর্বশ্রেষ্ঠ।\n\nপবিত্র সেই সত্তার যিনি এটা আমাদের বশীভূত করেছেন, যদিও আমরা নিজেরা এটি নিয়ন্ত্রণ করতে পারতাম না এবং অবশ্যই আমাদের প্রভুর কাছে ফিরে যাব।\n\nহে আল্লাহ, এই সফরে আমরা আপনার কাছে ন্যায়পরায়ণতা, তাকওয়া ও আমল চাই যা আপনাকে খুশি করবে।\n\nহে আল্লাহ, আমাদের এই সফরকে সহজ করে দিন এবং এর দূরত্ব কমিয়ে দিন।\n\nহে আল্লাহ, আপনি আমাদের ভ্রমণের সঙ্গী এবং আমাদের পরিবারের অভিভাবক।\n\nহে আল্লাহ, আমি আপনার কাছে আশ্রয় প্রার্থনা করছি ভ্রমণের কষ্ট, কষ্টদায়ক দৃষ্টিভঙ্গি এবং সম্পদ ও পরিবার-পরিজন সংক্রান্ত খারাপ প্রত্যাবর্তন থেকে।",
+        "ms": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar.\n\nMaha Suci Tuhan yang telah menundukkan ini kepada kami, walaupun kami sendiri tidak dapat mengawalnya, dan sesungguhnya kepada Tuhan kami kami akan kembali.\n\nYa Allah, kami memohon kepada-Mu kebaikan, ketakwaan dan amal yang Engkau ridhai dalam perjalanan ini.\n\nYa Allah, permudahkanlah perjalanan kami ini dan pendekkanlah jaraknya.\n\nYa Allah, Engkaulah peneman kami dalam perjalanan dan pelindung kami atas keluarga kami.\n\nYa Allah, aku berlindung kepada-Mu dari kesusahan dalam perjalanan, pemandangan yang menyusahkan dan kembalinya yang buruk dalam harta dan keluarga."
+      },
+      "classification": {
+        "en": "Prophetic supplication",
+        "ta": "தீர்க்கதரிசன பிரார்த்தனை",
+        "ml": "പ്രവാചക പ്രാർത്ഥന",
+        "ar": "الدعاء النبوي",
+        "ur": "دعائے نبوت",
+        "fr": "Supplication prophétique",
+        "tr": "Peygamberlik duası",
+        "id": "Doa kenabian",
+        "bn": "ভবিষ্যদ্বাণীমূলক প্রার্থনা",
+        "ms": "Doa kenabian"
+      }
+    },
+    {
+      "number": 3,
+      "section": "A",
+      "title": {
+        "en": "Dua when returning from a journey",
+        "ta": "பயணத்திலிருந்து திரும்பும் போது துவா",
+        "ml": "യാത്ര കഴിഞ്ഞ് മടങ്ങുമ്പോൾ ദുആ",
+        "ar": "الدعاء عند العودة من السفر",
+        "ur": "سفر سے واپسی پر دعا",
+        "fr": "Dua au retour d'un voyage",
+        "tr": "Yolculuktan dönerken okunacak dua",
+        "id": "Doa ketika kembali dari perjalanan",
+        "bn": "সফর থেকে ফেরার সময় দুআ",
+        "ms": "Doa ketika pulang dari perjalanan"
+      },
+      "translation": {
+        "en": "We return, repenting, worshipping our Lord and praising Him.",
+        "ta": "நாங்கள் திரும்பி, மனந்திரும்புகிறோம், எங்கள் இறைவனை வணங்குகிறோம், அவரைப் போற்றுகிறோம்.",
+        "ml": "പശ്ചാത്തപിച്ചും നമ്മുടെ കർത്താവിനെ ആരാധിച്ചും അവനെ സ്തുതിച്ചും ഞങ്ങൾ മടങ്ങുന്നു.",
+        "ar": "نعود تائبين، نعبد ربنا ونحمده.",
+        "ur": "ہم واپس آتے ہیں، توبہ کرتے ہیں، اپنے رب کی عبادت کرتے ہیں اور اس کی تعریف کرتے ہیں۔",
+        "fr": "Nous revenons, nous repentant, adorant notre Seigneur et le louant.",
+        "tr": "Tövbe ederek, Rabbimize ibadet ederek ve O'na hamd ederek dönüyoruz.",
+        "id": "Kami kembali, bertobat, menyembah Tuhan kami dan memuji-Nya.",
+        "bn": "আমরা ফিরে আসি, অনুতপ্ত হয়ে, আমাদের প্রভুর উপাসনা করে এবং তাঁর প্রশংসা করে।",
+        "ms": "Kami kembali, bertaubat, menyembah Tuhan kami dan memuji-Nya."
+      },
+      "classification": {
+        "en": "Prophetic supplication",
+        "ta": "தீர்க்கதரிசன பிரார்த்தனை",
+        "ml": "പ്രവാചക പ്രാർത്ഥന",
+        "ar": "الدعاء النبوي",
+        "ur": "دعائے نبوت",
+        "fr": "Supplication prophétique",
+        "tr": "Peygamberlik duası",
+        "id": "Doa kenabian",
+        "bn": "ভবিষ্যদ্বাণীমূলক প্রার্থনা",
+        "ms": "Doa kenabian"
+      }
+    },
+    {
+      "number": 4,
+      "section": "B",
+      "title": {
+        "en": "Dua when entering Masjid al-Haram",
+        "ta": "மஸ்ஜிதுல் ஹராமுக்குள் நுழையும் போது துஆ",
+        "ml": "മസ്ജിദുൽ ഹറാമിൽ പ്രവേശിക്കുമ്പോൾ ദുആ",
+        "ar": "الدعاء عند دخول المسجد الحرام",
+        "ur": "مسجد الحرام میں داخل ہوتے وقت کی دعا",
+        "fr": "Dua en entrant dans Masjid al-Haram",
+        "tr": "Mescid-i Haram'a girerken okunacak dua",
+        "id": "Doa ketika memasuki Masjidil Haram",
+        "bn": "মসজিদুল হারামে প্রবেশের সময় দুআ",
+        "ms": "Doa ketika memasuki Masjidil Haram"
+      },
+      "translation": {
+        "en": "In the name of Allah. May peace and blessings be upon the Messenger of Allah.\n\nO Allah, open the doors of Your mercy for me.",
+        "ta": "அல்லாஹ்வின் பெயரால். அல்லாஹ்வின் தூதர் மீது சாந்தியும் சமாதானமும் உண்டாவதாக.\n\nயா அல்லாஹ், உனது கருணையின் கதவுகளை எனக்காகத் திறந்துவிடு.",
+        "ml": "അല്ലാഹുവിൻ്റെ നാമത്തിൽ. അല്ലാഹുവിൻ്റെ റസൂലിന് സമാധാനവും അനുഗ്രഹവും ഉണ്ടാകട്ടെ.\n\nഅല്ലാഹുവേ, നിൻ്റെ കാരുണ്യത്തിൻ്റെ വാതിലുകൾ എനിക്കായി തുറക്കേണമേ.",
+        "ar": "بسم الله. والصلاة والسلام على رسول الله.\n\nاللهمّ افتح لي أبواب رحمتك.",
+        "ur": "اللہ کے نام پر۔ درود و سلام ہو اللہ کے رسول پر۔\n\nاے اللہ میرے لیے اپنی رحمت کے دروازے کھول دے۔",
+        "fr": "Au nom d'Allah. Que la paix et les bénédictions soient sur le Messager d'Allah.\n\nÔ Allah, ouvre-moi les portes de Ta miséricorde.",
+        "tr": "Allah'ın adıyla. Allah Resulü'ne salat ve selam olsun.\n\nAllahım bana rahmetinin kapılarını aç.",
+        "id": "Dengan menyebut nama Allah. Semoga shalawat dan salam tercurah kepada Rasulullah.\n\nYa Allah, bukakan pintu rahmat-Mu untukku.",
+        "bn": "আল্লাহর নামে। আল্লাহর রাসূলের উপর শান্তি ও রহমত বর্ষিত হোক।\n\nহে আল্লাহ আমার জন্য তোমার রহমতের দরজা খুলে দাও।",
+        "ms": "Dengan nama Allah. Selawat dan salam ke atas Rasulullah.\n\nYa Allah, bukakanlah untukku pintu-pintu rahmatMu."
+      },
+      "classification": {
+        "en": "Prophetic supplication",
+        "ta": "தீர்க்கதரிசன பிரார்த்தனை",
+        "ml": "പ്രവാചക പ്രാർത്ഥന",
+        "ar": "الدعاء النبوي",
+        "ur": "دعائے نبوت",
+        "fr": "Supplication prophétique",
+        "tr": "Peygamberlik duası",
+        "id": "Doa kenabian",
+        "bn": "ভবিষ্যদ্বাণীমূলক প্রার্থনা",
+        "ms": "Doa kenabian"
+      },
+      "notes": {
+        "en": "Enter with the right foot.",
+        "ta": "வலது காலால் உள்ளிடவும்.",
+        "ml": "വലത് കാൽ കൊണ്ട് പ്രവേശിക്കുക.",
+        "ar": "أدخل بالقدم اليمنى.",
+        "ur": "دائیں پاؤں سے داخل ہوں۔",
+        "fr": "Entrez avec le pied droit.",
+        "tr": "Sağ ayakla girin.",
+        "id": "Masuk dengan kaki kanan.",
+        "bn": "ডান পা দিয়ে প্রবেশ করুন।",
+        "ms": "Masuk dengan kaki kanan."
+      }
+    },
+    {
+      "number": 5,
+      "section": "B",
+      "title": {
+        "en": "Dua when leaving the mosque",
+        "ta": "மசூதியை விட்டு வெளியேறும் போது துஆ",
+        "ml": "പള്ളിയിൽ നിന്ന് ഇറങ്ങുമ്പോൾ ദുആ",
+        "ar": "الدعاء عند الخروج من المسجد",
+        "ur": "مسجد سے نکلتے وقت کی دعا",
+        "fr": "Dua en sortant de la mosquée",
+        "tr": "Camiden çıkarken okunacak dua",
+        "id": "Doa saat keluar masjid",
+        "bn": "মসজিদ থেকে বের হওয়ার সময় দুআ",
+        "ms": "Doa ketika keluar dari masjid"
+      },
+      "translation": {
+        "en": "In the name of Allah. May peace and blessings be upon the Messenger of Allah.\n\nO Allah, I ask You for Your bounty.",
+        "ta": "அல்லாஹ்வின் பெயரால். அல்லாஹ்வின் தூதர் மீது சாந்தியும் சமாதானமும் உண்டாவதாக.\n\nயா அல்லாஹ், உன்னுடைய அருளை நான் உன்னிடம் கேட்கிறேன்.",
+        "ml": "അല്ലാഹുവിൻ്റെ നാമത്തിൽ. അല്ലാഹുവിൻ്റെ റസൂലിന് സമാധാനവും അനുഗ്രഹവും ഉണ്ടാകട്ടെ.\n\nഅല്ലാഹുവേ, ഞാൻ നിന്നോട് നിൻ്റെ ഔദാര്യം ചോദിക്കുന്നു.",
+        "ar": "بسم الله. والصلاة والسلام على رسول الله.\n\nاللهم إني أسألك من فضلك.",
+        "ur": "اللہ کے نام پر۔ درود و سلام ہو اللہ کے رسول پر۔\n\nاے اللہ میں تجھ سے تیرا فضل مانگتا ہوں۔",
+        "fr": "Au nom d'Allah. Que la paix et les bénédictions soient sur le Messager d'Allah.\n\nÔ Allah, je Te demande Ta générosité.",
+        "tr": "Allah'ın adıyla. Allah Resulü'ne salat ve selam olsun.\n\nAllah'ım senden lütfunu isterim.",
+        "id": "Dengan menyebut nama Allah. Semoga shalawat dan salam tercurah kepada Rasulullah.\n\nYa Allah, aku mohon rezeki-Mu.",
+        "bn": "আল্লাহর নামে। আল্লাহর রাসূলের উপর শান্তি ও রহমত বর্ষিত হোক।\n\nহে আল্লাহ, আমি তোমার কাছে তোমার অনুগ্রহ চাই।",
+        "ms": "Dengan nama Allah. Selawat dan salam ke atas Rasulullah.\n\nYa Allah, aku memohon kepada-Mu karunia-Mu."
+      },
+      "classification": {
+        "en": "Prophetic supplication",
+        "ta": "தீர்க்கதரிசன பிரார்த்தனை",
+        "ml": "പ്രവാചക പ്രാർത്ഥന",
+        "ar": "الدعاء النبوي",
+        "ur": "دعائے نبوت",
+        "fr": "Supplication prophétique",
+        "tr": "Peygamberlik duası",
+        "id": "Doa kenabian",
+        "bn": "ভবিষ্যদ্বাণীমূলক প্রার্থনা",
+        "ms": "Doa kenabian"
+      }
+    },
+    {
+      "number": 6,
+      "section": "C",
+      "title": {
+        "en": "Intention for Umrah",
+        "ta": "உம்ராவுக்கான நோக்கம்",
+        "ml": "ഉംറയുടെ ഉദ്ദേശം",
+        "ar": "نية العمرة",
+        "ur": "عمرہ کی نیت",
+        "fr": "Intention pour la Omra",
+        "tr": "Umre niyeti",
+        "id": "Niat Umroh",
+        "bn": "ওমরার নিয়ত",
+        "ms": "Niat Umrah"
+      },
+      "translation": {
+        "en": "O Allah, I intend to perform Umrah.",
+        "ta": "யா அல்லாஹ், நான் உம்ரா செய்ய உத்தேசித்துள்ளேன்.",
+        "ml": "അല്ലാഹുവേ, ഞാൻ ഉംറ ചെയ്യാൻ ഉദ്ദേശിക്കുന്നു.",
+        "ar": "اللهم إني أريد العمرة.",
+        "ur": "اے اللہ میں عمرہ کرنے کا ارادہ رکھتا ہوں۔",
+        "fr": "Ô Allah, j'ai l'intention d'accomplir la Omra.",
+        "tr": "Allah'ım umre yapmayı düşünüyorum.",
+        "id": "Ya Allah, aku berniat menunaikan umroh.",
+        "bn": "হে আল্লাহ, আমি ওমরাহ করার ইচ্ছা করছি।",
+        "ms": "Ya Allah, aku berniat untuk menunaikan umrah."
+      },
+      "classification": {
+        "en": "Optional explanatory wording",
+        "ta": "விருப்ப விளக்க வார்த்தைகள்",
+        "ml": "ഓപ്ഷണൽ വിശദീകരണ പദങ്ങൾ",
+        "ar": "صياغة توضيحية اختيارية",
+        "ur": "اختیاری وضاحتی الفاظ",
+        "fr": "Mention explicative facultative",
+        "tr": "İsteğe bağlı açıklayıcı ifadeler",
+        "id": "Kata-kata penjelasan opsional",
+        "bn": "ঐচ্ছিক ব্যাখ্যামূলক শব্দ",
+        "ms": "Perkataan penerangan pilihan"
+      },
+      "notes": {
+        "en": "The intention is made in the heart. No particular verbal formula is obligatory.\n\nA person may say:\n\nThis is an explanatory wording, not a prescribed prophetic formula.",
+        "ta": "எண்ணம் இதயத்தில் செய்யப்படுகிறது. குறிப்பிட்ட வாய்மொழி சூத்திரம் கட்டாயமில்லை.\n\nஒரு நபர் கூறலாம்:\n\nஇது ஒரு விளக்கமான வார்த்தையாகும், பரிந்துரைக்கப்பட்ட தீர்க்கதரிசன சூத்திரம் அல்ல.",
+        "ml": "ഉദ്ദേശ്യം ഹൃദയത്തിലാണ് നിർമ്മിച്ചിരിക്കുന്നത്. പ്രത്യേക വാക്കാലുള്ള സൂത്രവാക്യങ്ങളൊന്നും നിർബന്ധമല്ല.\n\nഒരു വ്യക്തി ഇങ്ങനെ പറഞ്ഞേക്കാം:\n\nഇതൊരു വിശദീകരണ പദമാണ്, ഒരു നിർദ്ദിഷ്ട പ്രവാചക സൂത്രവാക്യമല്ല.",
+        "ar": "النية تكون في القلب . لا توجد صيغة لفظية معينة إلزامية.\n\nقد يقول الإنسان:\n\nوهذا لفظ بياني، وليس صيغة نبوية مشروعة.",
+        "ur": "نیت دل میں کی جاتی ہے۔ کوئی خاص زبانی فارمولہ واجب نہیں ہے۔\n\nایک شخص کہہ سکتا ہے:\n\nیہ ایک وضاحتی لفظ ہے، پیشن گوئی کا کوئی فارمولا نہیں۔",
+        "fr": "L'intention est faite dans le cœur. Aucune formule verbale particulière n'est obligatoire.\n\nUne personne peut dire :\n\nIl s’agit d’une formulation explicative et non d’une formule prophétique prescrite.",
+        "tr": "Niyet kalpte yapılır. Belirli bir sözlü formül zorunlu değildir.\n\nBir kişi şunları söyleyebilir:\n\nBu açıklayıcı bir ifadedir, öngörülmüş bir kehanet formülü değildir.",
+        "id": "Niatnya dibuat dalam hati. Tidak ada rumusan verbal tertentu yang wajib.\n\nSeseorang mungkin berkata:\n\nIni adalah kata-kata yang menjelaskan, bukan rumusan nubuatan yang ditentukan.",
+        "bn": "নিয়ত করা হয় অন্তরে। কোনো বিশেষ মৌখিক সূত্র বাধ্যতামূলক নয়।\n\nএকজন ব্যক্তি বলতে পারেন:\n\nএটি একটি ব্যাখ্যামূলক শব্দ, একটি নির্ধারিত ভবিষ্যদ্বাণীমূলক সূত্র নয়।",
+        "ms": "Niat di dalam hati. Tiada formula lisan tertentu yang diwajibkan.\n\nSeseorang mungkin berkata:\n\nIni adalah kata-kata penjelasan, bukan formula kenabian yang ditetapkan."
+      }
+    },
+    {
+      "number": 7,
+      "section": "C",
+      "title": {
+        "en": "Intention for Hajj",
+        "ta": "ஹஜ்ஜின் நோக்கம்",
+        "ml": "ഹജ്ജിനുള്ള ഉദ്ദേശം",
+        "ar": "نية الحج",
+        "ur": "حج کا ارادہ",
+        "fr": "Intention pour le Hajj",
+        "tr": "Hac Niyeti",
+        "id": "Niat Haji",
+        "bn": "হজের নিয়ত",
+        "ms": "Niat haji"
+      },
+      "translation": {
+        "en": "O Allah, I intend to perform Hajj.",
+        "ta": "யா அல்லாஹ், நான் ஹஜ் செய்ய உத்தேசித்துள்ளேன்.",
+        "ml": "അല്ലാഹുവേ, ഞാൻ ഹജ്ജ് ചെയ്യാൻ ഉദ്ദേശിക്കുന്നു.",
+        "ar": "اللهم إني نويت الحج.",
+        "ur": "اے اللہ میں حج کا ارادہ رکھتا ہوں۔",
+        "fr": "Ô Allah, j'ai l'intention d'accomplir le Hajj.",
+        "tr": "Allah'ım, hac yapmaya niyetlendim.",
+        "id": "Ya Allah, aku berniat menunaikan ibadah haji.",
+        "bn": "হে আল্লাহ, আমি হজ করার ইচ্ছা করছি।",
+        "ms": "Ya Allah, aku berniat untuk menunaikan haji."
+      },
+      "classification": {
+        "en": "Optional explanatory wording",
+        "ta": "விருப்ப விளக்க வார்த்தைகள்",
+        "ml": "ഓപ്ഷണൽ വിശദീകരണ പദങ്ങൾ",
+        "ar": "صياغة توضيحية اختيارية",
+        "ur": "اختیاری وضاحتی الفاظ",
+        "fr": "Mention explicative facultative",
+        "tr": "İsteğe bağlı açıklayıcı ifadeler",
+        "id": "Kata-kata penjelasan opsional",
+        "bn": "ঐচ্ছিক ব্যাখ্যামূলক শব্দ",
+        "ms": "Perkataan penerangan pilihan"
+      },
+      "notes": {
+        "en": "The intention is in the heart; this wording is optional.",
+        "ta": "எண்ணம் இதயத்தில் உள்ளது; இந்த வார்த்தை விருப்பமானது.",
+        "ml": "ഉദ്ദേശ്യം ഹൃദയത്തിലാണ്; ഈ വാക്ക് ഐച്ഛികമാണ്.",
+        "ar": "النية في القلب؛ هذه الصياغة اختيارية.",
+        "ur": "نیت دل میں ہوتی ہے۔ یہ الفاظ اختیاری ہیں۔",
+        "fr": "L'intention est dans le cœur ; cette formulation est facultative.",
+        "tr": "Niyet kalptedir; bu ifade isteğe bağlıdır.",
+        "id": "Niatnya ada di dalam hati; kata-kata ini opsional.",
+        "bn": "নিয়ত অন্তরে থাকে; এই শব্দচয়ন ঐচ্ছিক।",
+        "ms": "Niat di hati; perkataan ini adalah pilihan."
+      }
+    },
+    {
+      "number": 8,
+      "section": "C",
+      "title": {
+        "en": "Talbiyah",
+        "ta": "தல்பியா",
+        "ml": "തല്ബിയ",
+        "ar": "تلبيية",
+        "ur": "تلبیہ",
+        "fr": "Talbiyah",
+        "tr": "Telbiye",
+        "id": "Talbiyah",
+        "bn": "তালবিয়াহ",
+        "ms": "Talbiyah"
+      },
+      "translation": {
+        "en": "Here I am, O Allah, here I am. Here I am; You have no partner; here I am. Surely all praise, blessings and sovereignty belong to You. You have no partner.",
+        "ta": "இதோ, யா அல்லாஹ், இதோ இருக்கிறேன். இதோ நான்; உனக்கு துணை இல்லை; இதோ நான் இருக்கிறேன். நிச்சயமாக எல்லா புகழும், ஆசீர்வாதமும், இறையாண்மையும் உனக்கே சொந்தம். உனக்கு துணை இல்லை.",
+        "ml": "ഇതാ ഞാൻ, അല്ലാഹുവേ, ഇതാ ഞാൻ. ഞാൻ ഇവിടെയുണ്ട്; നിനക്ക് പങ്കാളിയില്ല; ഞാൻ ഇവിടെയുണ്ട്. തീർച്ചയായും എല്ലാ സ്തുതിയും അനുഗ്രഹവും പരമാധികാരവും നിനക്കുള്ളതാണ്. നിനക്ക് പങ്കാളിയില്ല.",
+        "ar": "ها أنا، يا الله، ها أنا. هنا أنا؛ ليس لديك شريك؛ هنا أنا. إن لك كل الحمد والبركة والملك. ليس لديك شريك.",
+        "ur": "میں حاضر ہوں، اے اللہ، میں حاضر ہوں۔ میں یہاں ہوں؛ تیرا کوئی شریک نہیں۔ میں یہاں ہوں بے شک تمام تعریفیں، نعمتیں اور بادشاہتیں تیرے لیے ہیں۔ تمہارا کوئی شریک نہیں ہے۔",
+        "fr": "Me voici, ô Allah, me voici. Me voici; Vous n'avez pas de partenaire ; me voici. Assurément, toutes les louanges, bénédictions et souveraineté vous appartiennent. Vous n'avez pas de partenaire.",
+        "tr": "İşte buradayım Allah'ım buradayım. İşte buradayım; Ortağınız yok; işte buradayım. Şüphesiz hamd, bereket ve hükümranlık Sana aittir. Ortağınız yok.",
+        "id": "Inilah aku, ya Allah, inilah aku. Inilah saya; Anda tidak memiliki pasangan; inilah aku. Sesungguhnya segala puji, nikmat dan kedaulatan milik-Mu. Anda tidak memiliki pasangan.",
+        "bn": "এখানে আমি, হে আল্লাহ, আমি এখানে। এখানে আমি; তোমার কোন অংশীদার নেই; এখানে আমি নিশ্চয়ই সকল প্রশংসা, আশীর্বাদ ও সার্বভৌমত্ব তোমারই। তোমার কোন অংশীদার নেই।",
+        "ms": "Inilah aku, Ya Allah, inilah aku. Ini saya; Anda tidak mempunyai pasangan; di sini saya. Sesungguhnya segala pujian, nikmat dan kedaulatan adalah milikMu. Anda tiada pasangan."
+      },
+      "classification": {
+        "en": "Authentic prophetic remembrance",
+        "ta": "உண்மையான தீர்க்கதரிசன நினைவு",
+        "ml": "ആധികാരികമായ പ്രവാചക സ്മരണ",
+        "ar": "أذكار نبوية صحيحة",
+        "ur": "مستند نبوی ذکر",
+        "fr": "Souvenir prophétique authentique",
+        "tr": "Otantik kehanet anısı",
+        "id": "Peringatan kenabian yang otentik",
+        "bn": "খাঁটি ভবিষ্যদ্বাণীমূলক স্মরণ",
+        "ms": "Zikir kenabian yang sahih"
+      },
+      "notes": {
+        "en": "Authentic Sunnah.",
+        "ta": "உண்மையான சுன்னா.",
+        "ml": "പ്രാമാണിക സുന്നത്ത്.",
+        "ar": "السنة الصحيحة.",
+        "ur": "مستند سنت۔",
+        "fr": "Sunna authentique.",
+        "tr": "Hakiki Sünnet.",
+        "id": "Sunah yang shahih.",
+        "bn": "সহীহ সুন্নাহ।",
+        "ms": "Sunnah yang sahih."
+      }
+    },
+    {
+      "number": 9,
+      "section": "C",
+      "title": {
+        "en": "Conditional intention when fearing an obstruction",
+        "ta": "ஒரு தடைக்கு அஞ்சும்போது நிபந்தனை எண்ணம்",
+        "ml": "ഒരു തടസ്സത്തെ ഭയപ്പെടുമ്പോൾ സോപാധിക ഉദ്ദേശം",
+        "ar": "النية المشروطة عند الخوف من المانع",
+        "ur": "مشروط ارادہ جب کسی رکاوٹ کا اندیشہ ہو۔",
+        "fr": "Intention conditionnelle lorsqu'on craint une entrave",
+        "tr": "Bir engelden korktuğunuzda şartlı niyet",
+        "id": "Niat bersyarat ketika takut akan halangan",
+        "bn": "শর্তযুক্ত অভিপ্রায় যখন বাধার আশঙ্কা করে",
+        "ms": "Niat bersyarat apabila takut akan halangan"
+      },
+      "translation": {
+        "en": "O Allah, my place of exiting Ihram is wherever You prevent me from continuing.",
+        "ta": "யா அல்லாஹ், நான் இஹ்ராமிலிருந்து வெளியேறும் இடம் எங்கே நீ என்னைத் தொடர்வதைத் தடுக்கிறாய்.",
+        "ml": "അല്ലാഹുവേ, തുടരുന്നതിൽ നിന്ന് നീ എന്നെ തടയുന്നിടത്തെല്ലാം എൻ്റെ ഇഹ്‌റാമിൽ നിന്ന് പുറത്തുകടക്കുന്ന സ്ഥലം.",
+        "ar": "اللهم حلّ إحرامي حيث منعتني من الاستمرار.",
+        "ur": "اے اللہ میری احرام سے نکلنے کی وہ جگہ ہے جہاں تو نے مجھے آگے بڑھنے سے روکا۔",
+        "fr": "Ô Allah, mon lieu de sortie de l'Ihram est partout où Tu m'empêches de continuer.",
+        "tr": "Allah'ım, benim ihramdan çıkış yerim, devam etmeme engel olduğun yerdir.",
+        "id": "Ya Allah, tempatku keluar dari ihram adalah dimanapun Engkau menghalangi aku untuk melanjutkannya.",
+        "bn": "হে আল্লাহ, আমার ইহরাম ছাড়ার স্থান যেখানে আপনি আমাকে চলতে বাধা দেন।",
+        "ms": "Ya Allah, tempat keluar ihramku adalah di mana saja Engkau menghalangiku untuk meneruskan."
+      },
+      "classification": {
+        "en": "Prophetic supplication",
+        "ta": "தீர்க்கதரிசன பிரார்த்தனை",
+        "ml": "പ്രവാചക പ്രാർത്ഥന",
+        "ar": "الدعاء النبوي",
+        "ur": "دعائے نبوت",
+        "fr": "Supplication prophétique",
+        "tr": "Peygamberlik duası",
+        "id": "Doa kenabian",
+        "bn": "ভবিষ্যদ্বাণীমূলক প্রার্থনা",
+        "ms": "Doa kenabian"
+      },
+      "notes": {
+        "en": "This is for someone who fears a genuine obstacle preventing completion.",
+        "ta": "இது முடிக்கப்படுவதைத் தடுக்கும் உண்மையான தடையை அஞ்சுபவர்களுக்கானது.",
+        "ml": "പൂർത്തിയാക്കുന്നത് തടയുന്ന ഒരു യഥാർത്ഥ തടസ്സത്തെ ഭയപ്പെടുന്ന ഒരാൾക്ക് വേണ്ടിയാണിത്.",
+        "ar": "وهذا لمن يخشى عائقًا حقيقيًا يمنعه من الإكمال.",
+        "ur": "یہ کسی ایسے شخص کے لیے ہے جو تکمیل کو روکنے میں حقیقی رکاوٹ سے ڈرتا ہے۔",
+        "fr": "Ceci s'adresse à quelqu'un qui craint un véritable obstacle empêchant l'achèvement.",
+        "tr": "Bu, tamamlanmayı engelleyen gerçek bir engelden korkan biri içindir.",
+        "id": "Ini untuk seseorang yang takut akan hambatan nyata yang menghalangi penyelesaian.",
+        "bn": "এটি এমন একজনের জন্য যিনি একটি সত্যিকারের প্রতিবন্ধকতাকে ভয় পান যা সম্পূর্ণ হতে বাধা দেয়।",
+        "ms": "Ini adalah untuk seseorang yang takut halangan tulen menghalang penyiapan."
+      }
+    },
+    {
+      "number": 10,
+      "section": "D",
+      "title": {
+        "en": "Dhikr upon seeing the Ka'bah",
+        "ta": "கஅபாவைப் பார்த்தவுடன் திக்ர்",
+        "ml": "കഅ്ബ കാണുമ്പോൾ ദിക്ർ",
+        "ar": "الذكر عند رؤية الكعبة",
+        "ur": "کعبہ کو دیکھ کر ذکر کرنا",
+        "fr": "Dhikr en voyant la Kaaba",
+        "tr": "Kabe'yi görünce zikir",
+        "id": "Dzikir saat melihat Ka'bah",
+        "bn": "কাবাঘর দেখে যিকির করা",
+        "ms": "Berzikir ketika melihat Ka'bah"
+      },
+      "translation": {
+        "en": "Allah is the Greatest.",
+        "ta": "அல்லாஹ் மிகப் பெரியவன்.",
+        "ml": "അല്ലാഹുവാണ് ഏറ്റവും വലിയവൻ.",
+        "ar": "الله أكبر.",
+        "ur": "اللہ سب سے بڑا ہے۔",
+        "fr": "Allah est le plus grand.",
+        "tr": "Allah en büyüktür.",
+        "id": "Allah Maha Besar.",
+        "bn": "আল্লাহ সর্বশ্রেষ্ঠ।",
+        "ms": "Allah Maha Besar."
+      },
+      "classification": {
+        "en": "General Dhikr; no specific authentic first-sight dua established",
+        "ta": "பொது திக்ர்; குறிப்பிட்ட உண்மையான முதல் பார்வை துவா நிறுவப்படவில்லை",
+        "ml": "ജനറൽ ദിക്ർ; പ്രത്യേക ആധികാരിക പ്രഥമദർശന ദുആ സ്ഥാപിച്ചിട്ടില്ല",
+        "ar": "الذكر العام. لم يتم إنشاء دعاء محدد أصلي من النظرة الأولى",
+        "ur": "عمومی ذکر؛ پہلی نظر کی کوئی خاص مستند دعا قائم نہیں ہوئی۔",
+        "fr": "le général Dhikr ; aucun dua spécifique et authentique à première vue n'a été établi",
+        "tr": "Genel Zikir; belirli bir orijinal ilk görüşte dua oluşturulmadı",
+        "id": "Dzikir Umum; tidak ada doa pandangan pertama yang otentik dan spesifik yang dibuat",
+        "bn": "সাধারণ ধিকার; কোনো নির্দিষ্ট খাঁটি প্রথম দর্শনের দুআ প্রতিষ্ঠিত হয়নি",
+        "ms": "Zikir Am; tiada doa pandangan pertama sahih yang khusus ditubuhkan"
+      },
+      "notes": {
+        "en": "There is no authentic, specifically prescribed dua established from the Prophet ﷺ for the first sight of the Ka'bah.\n\nYou may say:\n\nYou may also praise Allah and make your own supplication. Popular long duas circulated specifically for the first sight of the Ka'bah should not be attributed to the Prophet ﷺ without evidence.",
+        "ta": "கஅபாவின் முதல் பார்வைக்காக நபி (ஸல்) அவர்களிடமிருந்து உண்மையான, குறிப்பாக பரிந்துரைக்கப்பட்ட துஆ எதுவும் இல்லை.\n\nநீங்கள் கூறலாம்:\n\nநீங்கள் அல்லாஹ்வைப் புகழ்ந்து உங்கள் சொந்த பிரார்த்தனை செய்யலாம். கஅபாவின் முதல் பார்வைக்காக குறிப்பாக பரப்பப்பட்ட பிரபலமான நீண்ட துஆக்கள் ஆதாரம் இல்லாமல் நபி ஸல் அவர்களுக்குக் கூறப்படக்கூடாது.",
+        "ml": "കഅ്ബയുടെ ആദ്യ ദർശനത്തിനായി പ്രവാചകൻ (ﷺ) യിൽ നിന്ന് ആധികാരികവും പ്രത്യേകമായി നിർദ്ദേശിച്ചതുമായ ദുആകളൊന്നുമില്ല.\n\nനിങ്ങൾക്ക് ഇങ്ങനെ പറയാം:\n\nനിങ്ങൾക്ക് അല്ലാഹുവിനെ സ്തുതിക്കുകയും നിങ്ങളുടെ സ്വന്തം പ്രാർത്ഥന നടത്തുകയും ചെയ്യാം. കഅ്ബയുടെ ആദ്യ ദർശനത്തിനായി പ്രത്യേകമായി പ്രചരിപ്പിച്ച ജനപ്രിയ നീണ്ട ദുആകൾ തെളിവുകളില്ലാതെ നബി ﷺ യുടെ പേരിൽ ആരോപിക്കരുത്.",
+        "ar": "لم يثبت عن النبي صلى الله عليه وسلم دعاء محدد ومحدد لأول رؤية للكعبة.\n\nيمكنك القول:\n\nيمكنك أيضًا أن تحمد الله وتدعو بنفسك. الأدعية الطويلة المشهورة والمتداولة خصيصًا لرؤية الكعبة لأول مرة لا ينبغي أن تُنسب إلى النبي صلى الله عليه وسلم دون دليل.",
+        "ur": "کعبہ کی پہلی نظر کے لیے رسول اللہ صلی اللہ علیہ وسلم سے کوئی مستند، خاص طور پر مشروع دعا نہیں ملتی۔\n\nآپ کہہ سکتے ہیں:\n\nآپ اللہ کی حمد بھی کر سکتے ہیں اور اپنی دعا بھی کر سکتے ہیں۔ خاص طور پر کعبہ کی پہلی نظر کے لیے مشہور طویل دعاؤں کو بغیر ثبوت کے نبی صلی اللہ علیہ وسلم سے منسوب نہیں کیا جانا چاہیے۔",
+        "fr": "Il n'existe pas de dua authentique, spécifiquement prescrit, établi par le Prophète ﷺ pour la première vue de la Ka'bah.\n\nVous pouvez dire :\n\nVous pouvez également louer Allah et faire votre propre invocation. Les longs duas populaires diffusés spécifiquement pour la première vue de la Ka'bah ne devraient pas être attribués au Prophète ﷺ sans preuve.",
+        "tr": "Kabe'yi ilk kez görmek için Peygamber Efendimiz (s.a.v.) tarafından belirlenmiş, sahih, özel olarak emredilmiş bir dua yoktur.\n\nŞöyle diyebilirsiniz:\n\nSiz de Allah'a hamdedin ve kendi duanızı yapın. Özellikle Kabe'nin ilk görülmesi için söylenen popüler uzun dualar, delil olmadan Peygamber Efendimiz (sav)'e atfedilmemelidir.",
+        "id": "Tidak ada doa otentik dan ditentukan secara khusus yang dipanjatkan dari Nabi ﷺ untuk pertama kali melihat Ka'bah.\n\nAnda mungkin berkata:\n\nAnda juga dapat memuji Allah dan membuat permohonan Anda sendiri. Doa panjang populer yang beredar khusus untuk melihat Ka'bah untuk pertama kalinya tidak boleh dikaitkan dengan Nabi ﷺ tanpa bukti.",
+        "bn": "কাবাঘরের প্রথম দর্শনের জন্য নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে প্রতিষ্ঠিত কোন খাঁটি, বিশেষভাবে নির্ধারিত দুআ নেই।\n\nআপনি বলতে পারেন:\n\nআপনি আল্লাহর প্রশংসা করতে পারেন এবং আপনার নিজের প্রার্থনা করতে পারেন। কাবাঘরের প্রথম দর্শনের জন্য বিশেষভাবে প্রচারিত জনপ্রিয় দীর্ঘ দুআগুলো প্রমাণ ছাড়া নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে দায়ী করা উচিত নয়।",
+        "ms": "Tidak ada doa yang sahih dan disyariatkan secara khusus daripada Nabi ﷺ untuk pandangan pertama Kaabah.\n\nAnda boleh berkata:\n\nAnda juga boleh memuji Allah dan membuat doa anda sendiri. Doa-doa panjang yang popular yang diedarkan khusus untuk pandangan pertama Kaabah tidak boleh dikaitkan dengan Nabi ﷺ tanpa bukti."
+      }
+    },
+    {
+      "number": 11,
+      "section": "E",
+      "title": {
+        "en": "Starting Tawaf at Hajar al-Aswad",
+        "ta": "ஹஜர் அல் அஸ்வத்தில் தவாஃப் ஆரம்பம்",
+        "ml": "ഹജറുൽ അസ്വദിൽ ത്വവാഫ് ആരംഭിക്കുന്നു",
+        "ar": "ابتداء الطواف بالحجر الأسود",
+        "ur": "حجر اسود سے طواف شروع کرنا",
+        "fr": "Commencer le Tawaf à Hajar al-Aswad",
+        "tr": "Hacer-i Esved'de Tavaf'a Başlamak",
+        "id": "Memulai Tawaf di Hajar Aswad",
+        "bn": "হাজর আল-আসওয়াদে তাওয়াফ শুরু করা",
+        "ms": "Memulakan Tawaf di Hajar al-Aswad"
+      },
+      "translation": {
+        "en": "In the name of Allah. Allah is the Greatest.",
+        "ta": "அல்லாஹ்வின் பெயரால். அல்லாஹ் மிகப் பெரியவன்.",
+        "ml": "അല്ലാഹുവിൻ്റെ നാമത്തിൽ. അല്ലാഹുവാണ് ഏറ്റവും വലിയവൻ.",
+        "ar": "بسم الله. الله أكبر.",
+        "ur": "اللہ کے نام پر۔ اللہ سب سے بڑا ہے۔",
+        "fr": "Au nom d'Allah. Allah est le plus grand.",
+        "tr": "Allah'ın adıyla. Allah en büyüktür.",
+        "id": "Dengan menyebut nama Allah. Allah Maha Besar.",
+        "bn": "আল্লাহর নামে। আল্লাহ সর্বশ্রেষ্ঠ।",
+        "ms": "Dengan nama Allah. Allah Maha Besar."
+      },
+      "classification": {
+        "en": "Prophetic remembrance",
+        "ta": "தீர்க்கதரிசன நினைவு",
+        "ml": "പ്രവാചക സ്മരണ",
+        "ar": "الاذكار النبوية",
+        "ur": "نبوی ذکر",
+        "fr": "Souvenir prophétique",
+        "tr": "Peygamberlik anma",
+        "id": "Ingatan Nabi",
+        "bn": "ভাববাদী স্মরণ",
+        "ms": "Zikir kenabian"
+      },
+      "notes": {
+        "en": "The Prophet ﷺ is authentically reported to have said Takbir when reaching the Black Stone.",
+        "ta": "கறுப்புக் கல்லை அடையும் போது நபி (ஸல்) அவர்கள் தக்பீர் கூறியதாக ஆதாரப்பூர்வமாக அறிவிக்கப்பட்டுள்ளது.",
+        "ml": "കറുത്ത കല്ലിൽ എത്തുമ്പോൾ പ്രവാചകൻ തക്ബീർ ചൊല്ലിയതായി ആധികാരികമായി റിപ്പോർട്ട് ചെയ്യപ്പെടുന്നു.",
+        "ar": "وقد صح عن النبي صلى الله عليه وسلم أنه كبر عند وصوله إلى الحجر الأسود.",
+        "ur": "رسول اللہ صلی اللہ علیہ وسلم نے حجر اسود پر پہنچ کر تکبیر کہنے کی صحیح روایت ہے۔",
+        "fr": "On rapporte de manière authentique que le Prophète ﷺ a dit Takbir en atteignant la Pierre Noire.",
+        "tr": "Peygamber Efendimiz'in (s.a.v.) Hacer Taş'a vardığında tekbir getirdiği sahih olarak rivayet edilmiştir.",
+        "id": "Nabi ﷺ diriwayatkan secara shahih pernah bertakbir ketika sampai di Hajar Aswad.",
+        "bn": "রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কালো পাথরে পৌঁছানোর সময় তাকবীর বলেছিলেন বলে প্রমাণিত হয়েছে।",
+        "ms": "Rasulullah ﷺ dilaporkan secara sahih bertakbir ketika sampai ke Hajar Aswad."
+      }
+    },
+    {
+      "number": 12,
+      "section": "E",
+      "title": {
+        "en": "Dhikr during Tawaf",
+        "ta": "தவாபின் போது திக்ர்",
+        "ml": "ത്വവാഫ് സമയത്ത് ദിക്ർ",
+        "ar": "الذكر أثناء الطواف",
+        "ur": "طواف کے دوران ذکر",
+        "fr": "Dhikr pendant le Tawaf",
+        "tr": "Tavaf sırasında zikir",
+        "id": "Dzikir saat Tawaf",
+        "bn": "তাওয়াফের সময় যিকির করা",
+        "ms": "Berzikir ketika Tawaf"
+      },
+      "translation": {
+        "en": "There is no fixed dua assigned to each of the seven rounds. These are permissible general forms of remembrance:\n\nTasbih — Glory be to Allah.\n\nTahmid — All praise belongs to Allah.\n\nTakbir — Allah is the Greatest.\n\nTahlil — There is no deity worthy of worship except Allah.\n\nIstighfar — I seek forgiveness from Allah and repent to Him.",
+        "ta": "ஏழு சுற்றுகள் ஒவ்வொன்றிற்கும் நிலையான துவா எதுவும் ஒதுக்கப்படவில்லை. இவை நினைவூட்டலின் அனுமதிக்கப்பட்ட பொதுவான வடிவங்கள்:\n\nதஸ்பிஹ் - அல்லாஹ்வுக்கே மகிமை.\n\nதஹ்மித் - எல்லாப் புகழும் அல்லாஹ்வுக்கே.\n\nதக்பீர் - அல்லாஹ் மிகப் பெரியவன்.\n\nதஹ்லில் - வணக்கத்திற்குரிய இறைவன் அல்லாஹ்வைத் தவிர வேறு யாருமில்லை.\n\nஇஸ்திக்ஃபார் - நான் அல்லாஹ்விடம் மன்னிப்புத் தேடுகிறேன், அவனிடம் வருந்துகிறேன்.",
+        "ml": "ഏഴ് റൗണ്ടുകളിൽ ഓരോന്നിനും നിയുക്തമായ ഒരു നിശ്ചിത ദുആ ഇല്ല. അനുവദനീയമായ അനുസ്മരണ രൂപങ്ങൾ ഇവയാണ്:\n\nതസ്ബിഹ് - അല്ലാഹുവിന് മഹത്വം.\n\nതഹ്മിദ് - എല്ലാ സ്തുതിയും അല്ലാഹുവിന്.\n\nതക്ബീർ - അല്ലാഹുവാണ് ഏറ്റവും വലിയവൻ.\n\nതഹ്‌ലീൽ - അള്ളാഹു അല്ലാതെ ആരാധന അർഹിക്കുന്ന ഒരു ദൈവവുമില്ല.\n\nഇസ്തിഗ്ഫാർ - ഞാൻ അല്ലാഹുവിനോട് പാപമോചനം തേടുകയും അവനിലേക്ക് പശ്ചാത്തപിക്കുകയും ചെയ്യുന്നു.",
+        "ar": "لا يوجد دعاء ثابت مخصص لكل جولة من الجولات السبع. وهذه صيغ عامة مسموحة من الأذكار:\n\nالتسبيح - سبحان الله.\n\nتحميد – الحمد لله.\n\nالتكبير - الله أكبر.\n\nالتهليل - لا إله إلا الله.\n\nالاستغفار - أستغفر الله وأتوب إليه.",
+        "ur": "سات چکروں میں سے ہر ایک کے لیے کوئی مقررہ دعا نہیں دی گئی ہے۔ یاد کی یہ عام صورتیں ہیں:\n\nتسبیح - اللہ پاک ہے۔\n\nتحمید - تمام تعریفیں اللہ کے لیے ہیں۔\n\nتکبیر - اللہ سب سے بڑا ہے۔\n\nتہلیل - اللہ کے سوا کوئی عبادت کے لائق نہیں۔\n\nاستغفار - میں اللہ سے معافی مانگتا ہوں اور اس سے توبہ کرتا ہوں۔",
+        "fr": "Il n'y a pas de dua fixe attribué à chacun des sept tours. Voici les formes générales de souvenir autorisées :\n\nTasbih : Gloire à Allah.\n\nTahmid : Toute louange appartient à Allah.\n\nTakbir – Allah est le plus grand.\n\nTahlil — Il n’y a de divinité digne d’être adorée qu’Allah.\n\nIstighfar – Je demande pardon à Allah et je me repens auprès de Lui.",
+        "tr": "Yedi turun her birine belirlenmiş sabit bir dua yoktur. Bunlar izin verilen genel anma biçimleridir:\n\nTesbih — Allah'ı tesbih ederim.\n\nTahmid — Hamd Allah'a mahsustur.\n\nTekbir — Allah en büyüktür.\n\nTahlil — Allah'tan başka ibadete layık ilah yoktur.\n\nİstiğfar — Allah'tan mağfiret diler ve O'na tövbe ederim.",
+        "id": "Tidak ada doa tetap yang ditetapkan untuk masing-masing tujuh putaran. Berikut adalah bentuk-bentuk zikir umum yang diperbolehkan:\n\nTasbih — Maha Suci Allah.\n\nTahmid - Segala puji bagi Allah.\n\nTakbir – Allah Maha Besar.\n\nTahlil - Tidak ada Tuhan yang patut disembah kecuali Allah.\n\nIstighfar - Saya memohon ampun kepada Allah dan bertaubat kepada-Nya.",
+        "bn": "সাত রাউন্ডের প্রতিটির জন্য নির্ধারিত কোনো দুআ নেই। এইগুলি স্মরণের অনুমতিযোগ্য সাধারণ ফর্ম:\n\nতাসবিহ - পবিত্র আল্লাহর।\n\nতাহমিদ - সমস্ত প্রশংসা আল্লাহর।\n\nতাকবীর - আল্লাহ সর্বশ্রেষ্ঠ।\n\nতাহলীল - আল্লাহ ছাড়া উপাসনার যোগ্য কোন উপাস্য নেই।\n\nইস্তিগফার - আমি আল্লাহর কাছে ক্ষমা প্রার্থনা করছি এবং তাঁর কাছে তওবা করছি।",
+        "ms": "Tiada doa tetap yang ditetapkan untuk setiap tujuh pusingan. Ini adalah bentuk zikir umum yang dibenarkan:\n\nTasbih - Maha Suci Allah.\n\nTahmid - Segala puji bagi Allah.\n\nTakbir - Allah Maha Besar.\n\nTahlil - Tiada tuhan yang berhak disembah melainkan Allah.\n\nIstighfar - Saya memohon ampun kepada Allah dan bertaubat kepada-Nya."
+      },
+      "classification": {
+        "en": "General permissible Dhikr",
+        "ta": "பொதுவாக அனுமதிக்கப்பட்ட திக்ர்",
+        "ml": "പൊതുവായ അനുവദനീയമായ ദിക്ർ",
+        "ar": "الأذكار العامة المسموح بها",
+        "ur": "عمومی جائز ذکر",
+        "fr": "Dhikr général autorisé",
+        "tr": "Genel olarak izin verilen Zikir",
+        "id": "Dzikir yang diperbolehkan secara umum",
+        "bn": "সাধারণ জায়েয যিকির",
+        "ms": "Dzikir umum yang dibenarkan"
+      }
+    },
+    {
+      "number": 13,
+      "section": "E",
+      "title": {
+        "en": "Dua between Rukn al-Yamani and Hajar al-Aswad",
+        "ta": "ருக்ன் அல்-யமானி மற்றும் ஹஜர் அல்-அஸ்வத் இடையே துவா",
+        "ml": "റുക്‌നുൽ യമാനിയും ഹജറുൽ അസ്‌വാദും തമ്മിലുള്ള ദുആ",
+        "ar": "الدعاء بين ركن اليماني والحجر الأسود",
+        "ur": "رکن یمانی اور حجر اسود کے درمیان کی دعا",
+        "fr": "Dua entre Rukn al-Yamani et Hajar al-Aswad",
+        "tr": "Rükn-i Yemani ile Hacer-i Esved arasında okunacak dua",
+        "id": "Doa antara Rukun al-Yamani dan Hajar al-Aswad",
+        "bn": "রুকন আল-ইয়ামানি এবং হাজর আল-আসওয়াদের মধ্যে দুআ",
+        "ms": "Dua antara Rukn al-Yamani dan Hajar al-Aswad"
+      },
+      "translation": {
+        "en": "Our Lord, grant us good in this world and good in the Hereafter, and protect us from the punishment of the Fire.",
+        "ta": "எங்கள் இறைவா, எங்களுக்கு இவ்வுலகிலும் நன்மையையும் மறுமையிலும் நன்மையை வழங்குவாயாக, மேலும் எங்களை நெருப்பின் தண்டனையிலிருந்து காப்பாற்றுவாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങൾക്ക് ഇഹത്തിലും പരത്തിലും നന്മ നൽകുകയും നരകശിക്ഷയിൽ നിന്ന് ഞങ്ങളെ കാത്തുരക്ഷിക്കുകയും ചെയ്യേണമേ.",
+        "ar": "ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار.",
+        "ur": "اے ہمارے رب ہمیں دنیا میں بھی بھلائی اور آخرت میں بھی بھلائی عطا فرما اور ہمیں آگ کے عذاب سے بچا۔",
+        "fr": "Notre Seigneur, accorde-nous le bien dans ce monde et le bien dans l'au-delà, et protège-nous du châtiment du Feu.",
+        "tr": "Rabbimiz, bize dünyada da iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru.",
+        "id": "Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami dari siksa Neraka.",
+        "bn": "হে আমাদের পালনকর্তা, আমাদেরকে দুনিয়াতে কল্যাণ দান করুন এবং পরকালেও কল্যাণ দিন এবং আমাদেরকে আগুনের শাস্তি থেকে রক্ষা করুন।",
+        "ms": "Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami dari siksa neraka."
+      },
+      "classification": {
+        "en": "Qur'anic supplication",
+        "ta": "குர்ஆன் பிரார்த்தனை",
+        "ml": "ഖുർആനിക പ്രാർത്ഥന",
+        "ar": "الدعاء القرآني",
+        "ur": "قرآنی دعا",
+        "fr": "supplication coranique",
+        "tr": "Kuran duası",
+        "id": "Doa Al-Qur'an",
+        "bn": "কোরআনের দোয়া",
+        "ms": "Doa Al-Quran"
+      },
+      "notes": {
+        "en": "Qur'anic dua recited in the Sunnah.",
+        "ta": "சுன்னாவில் ஓதப்பட்ட குர்ஆன் துஆ.",
+        "ml": "ഖുർആനിക ദുആ സുന്നത്തിൽ ചൊല്ലി.",
+        "ar": "الدعاء القرآني الوارد في السنة النبوية.",
+        "ur": "قرآنی دعا سنت میں پڑھی۔",
+        "fr": "Dua coranique récité dans la Sunna.",
+        "tr": "Sünnet'te okunan Kur'an duası.",
+        "id": "Doa Al-Qur'an yang dibacakan sesuai Sunnah.",
+        "bn": "সুন্নাতে পাঠ করা কোরআনের দুআ।",
+        "ms": "Doa Al-Quran yang dibaca dalam Sunnah."
+      }
+    },
+    {
+      "number": 14,
+      "section": "E",
+      "title": {
+        "en": "When reaching Rukn al-Yamani",
+        "ta": "ருக்ன் அல்-யமானியை அடையும் போது",
+        "ml": "റുക്‌നുൽ യമാനിയിൽ എത്തിയപ്പോൾ",
+        "ar": "عند الوصول إلى الركن اليماني",
+        "ur": "رکون الیمانی پہنچنے پر",
+        "fr": "En arrivant à Rukn al-Yamani",
+        "tr": "Rükn el-Yamani'ye varınca",
+        "id": "Ketika sampai di Rukn al-Yamani",
+        "bn": "রুকন আল-ইয়ামানি পৌঁছানোর সময়",
+        "ms": "Apabila sampai ke Rukn al-Yamani"
+      },
+      "translation": {
+        "en": "There is no separate specific dua prescribed for this corner. Continue with the dua in section 13 as you walk towards the Black Stone.",
+        "ta": "இந்த மூலைக்கு தனி குறிப்பிட்ட துவா எதுவும் பரிந்துரைக்கப்படவில்லை. நீங்கள் பிளாக் ஸ்டோனை நோக்கி நடக்கும்போது பிரிவு 13 இல் உள்ள துவாவுடன் தொடரவும்.",
+        "ml": "ഈ മൂലയ്ക്ക് പ്രത്യേകം പ്രത്യേക ദുആയൊന്നും നിർദ്ദേശിച്ചിട്ടില്ല. നിങ്ങൾ ബ്ലാക്ക് സ്റ്റോണിലേക്ക് നടക്കുമ്പോൾ സെക്ഷൻ 13-ലെ ദുആയുമായി തുടരുക.",
+        "ar": "ولا يوجد دعاء محدد منفصل موصوف لهذه الزاوية. استمر في الدعاء في القسم 13 أثناء سيرك نحو الحجر الأسود.",
+        "ur": "اس کونے کے لیے کوئی الگ مخصوص دعا مشروع نہیں ہے۔ حجر اسود کی طرف چلتے ہوئے سیکشن 13 میں دعا کے ساتھ جاری رکھیں۔",
+        "fr": "Il n’y a pas de dua spécifique distinct prescrit pour ce coin. Continuez avec le dua dans la section 13 en marchant vers la Pierre Noire.",
+        "tr": "Bu köşe için ayrı ayrı belirlenmiş bir dua yoktur. Hacer-i Haram'a doğru yürürken 13. bölümdeki duaya devam edin.",
+        "id": "Tidak ada doa khusus terpisah yang ditentukan untuk sudut ini. Lanjutkan dengan doa di bagian 13 sambil berjalan menuju Hajar Aswad.",
+        "bn": "এই কোণার জন্য কোন পৃথক নির্দিষ্ট দুআ নির্ধারিত নেই। আপনি কালো পাথরের দিকে হাঁটার সাথে সাথে 13 ধারায় দুআ চালিয়ে যান।",
+        "ms": "Tiada doa khusus berasingan yang ditetapkan untuk sudut ini. Teruskan dengan doa di bahagian 13 semasa anda berjalan ke arah Hajar Aswad."
+      },
+      "classification": {
+        "en": "Practical ritual instruction; no separate specific dua established",
+        "ta": "நடைமுறை சடங்கு அறிவுறுத்தல்; தனி குறிப்பிட்ட துவா நிறுவப்படவில்லை",
+        "ml": "പ്രായോഗിക ആചാരപരമായ നിർദ്ദേശം; പ്രത്യേക പ്രത്യേക ദുആ സ്ഥാപിച്ചിട്ടില്ല",
+        "ar": "تعليمات طقوس عملية؛ لم يتم إنشاء دعاء محدد منفصل",
+        "ur": "عملی رسم کی ہدایات؛ کوئی الگ مخصوص دعا قائم نہیں",
+        "fr": "Instruction rituelle pratique ; aucun dua spécifique distinct établi",
+        "tr": "Pratik ritüel eğitimi; ayrı bir özel dua oluşturulmamıştır",
+        "id": "Instruksi ritual praktis; tidak ada doa khusus yang terpisah yang dibuat",
+        "bn": "ব্যবহারিক আচার নির্দেশ; কোন পৃথক সুনির্দিষ্ট দুআ প্রতিষ্ঠিত হয়নি",
+        "ms": "Arahan ritual praktikal; tiada doa khusus yang berasingan ditubuhkan"
+      },
+      "notes": {
+        "en": "If possible, touch the Yemeni Corner with the right hand. Do not kiss it or gesture towards it when unable to touch it.",
+        "ta": "முடிந்தால், யெமன் மூலையை வலது கையால் தொடவும். அதைத் தொட முடியாதபோது முத்தமிடவோ அல்லது அதை நோக்கி சைகை செய்யவோ கூடாது.",
+        "ml": "കഴിയുമെങ്കിൽ വലതു കൈകൊണ്ട് യെമൻ കോർണറിൽ സ്പർശിക്കുക. തൊടാൻ കഴിയാതെ വരുമ്പോൾ ചുംബിക്കുകയോ ആംഗ്യം കാണിക്കുകയോ ചെയ്യരുത്.",
+        "ar": "وإن أمكن، لمس الركن اليماني باليد اليمنى. لا تقبله أو تشير إليه عندما لا تتمكن من لمسه.",
+        "ur": "اگر ممکن ہو تو دائیں ہاتھ سے یمنی کونے کو چھوئے۔ جب اسے چھونے سے قاصر ہو تو اسے نہ چومیں اور نہ ہی اس کی طرف اشارہ کریں۔",
+        "fr": "Si possible, touchez le coin yéménite avec la main droite. Ne l'embrassez pas et ne faites pas de gestes vers lui lorsque vous êtes incapable de le toucher.",
+        "tr": "Mümkünse sağ elinizle Yemen Köşesine dokunun. Dokunamayacağınız durumlarda onu öpmeyin veya ona doğru hareket etmeyin.",
+        "id": "Jika memungkinkan, sentuh Sudut Yaman dengan tangan kanan. Jangan menciumnya atau memberi isyarat ke arahnya ketika tidak dapat menyentuhnya.",
+        "bn": "সম্ভব হলে ডান হাত দিয়ে ইয়েমেনি কর্নার স্পর্শ করুন। এটি স্পর্শ করতে অক্ষম হলে এটিকে চুম্বন করবেন না বা এর দিকে অঙ্গভঙ্গি করবেন না।",
+        "ms": "Jika boleh, sentuh Sudut Yaman dengan tangan kanan. Jangan menciumnya atau memberi isyarat ke arahnya apabila tidak dapat menyentuhnya."
+      }
+    },
+    {
+      "number": 15,
+      "section": "E",
+      "title": {
+        "en": "After completing Tawaf",
+        "ta": "தவாஃப் முடித்த பிறகு",
+        "ml": "ത്വവാഫ് പൂർത്തിയാക്കിയ ശേഷം",
+        "ar": "بعد الانتهاء من الطواف",
+        "ur": "طواف مکمل کرنے کے بعد",
+        "fr": "Après avoir terminé le Tawaf",
+        "tr": "Tavafı tamamladıktan sonra",
+        "id": "Setelah menyelesaikan Tawaf",
+        "bn": "তাওয়াফ শেষ করার পর",
+        "ms": "Selepas selesai Tawaf"
+      },
+      "translation": {
+        "en": "And take the standing place of Ibrahim as a place of prayer.",
+        "ta": "மேலும் இப்ராஹீம் நின்ற இடத்தை தொழுகைக்கான இடமாக எடுத்துக் கொள்ளுங்கள்.",
+        "ml": "ഇബ്‌റാഹീം നിൽക്കുന്ന സ്ഥലത്തെ പ്രാർത്ഥനാ സ്ഥലമായി എടുക്കുക.",
+        "ar": "واتخذوا من مقام إبراهيم مصلى.",
+        "ur": "اور مقام ابراہیم کو نماز کی جگہ سمجھو۔",
+        "fr": "Et prenez la place debout d'Ibrahim comme lieu de prière.",
+        "tr": "İbrahim'in makamını da namazgâh edin.",
+        "id": "Dan jadikanlah tempat berdirinya Ibrahim sebagai tempat shalat.",
+        "bn": "আর ইব্রাহীমের দাঁড়ানো স্থানকে নামাজের স্থান হিসেবে গ্রহণ কর।",
+        "ms": "Dan jadikanlah maqam Ibrahim sebagai tempat shalat."
+      },
+      "classification": {
+        "en": "Qur'anic instruction and practical ritual note",
+        "ta": "குர்ஆன் அறிவுறுத்தல் மற்றும் நடைமுறை சடங்கு குறிப்பு",
+        "ml": "ഖുർആനിക പ്രബോധനവും പ്രായോഗിക അനുഷ്ഠാന കുറിപ്പും",
+        "ar": "التعليمات القرآنية ومذكرة الطقوس العملية",
+        "ur": "قرآنی ہدایات اور عملی رسم نوٹ",
+        "fr": "Instruction coranique et note rituelle pratique",
+        "tr": "Kur'an eğitimi ve pratik ritüel notu",
+        "id": "Instruksi Al-Qur'an dan catatan ritual praktis",
+        "bn": "কোরানের নির্দেশ এবং ব্যবহারিক আচার নোট",
+        "ms": "Arahan al-Quran dan nota ritual praktikal"
+      },
+      "notes": {
+        "en": "Pray two Rak'ahs behind Maqam Ibrahim if possible. There is no authentic fixed dua specifically prescribed immediately after completing Tawaf.",
+        "ta": "முடிந்தால் மகம் இப்ராஹிமின் பின்னால் இரண்டு ரக்அத்கள் தொழுங்கள். தவாஃப் முடிந்த உடனேயே குறிப்பாக பரிந்துரைக்கப்பட்ட உண்மையான நிலையான துவா எதுவும் இல்லை.",
+        "ml": "കഴിയുമെങ്കിൽ മഖാം ഇബ്രാഹിമിന് പിന്നിൽ രണ്ട് റക്അത്ത് നമസ്കരിക്കുക. ത്വവാഫ് പൂർത്തിയാക്കിയ ഉടൻ തന്നെ പ്രത്യേകമായി നിർദ്ദേശിച്ചിട്ടുള്ള ആധികാരിക സ്ഥിരമായ ദുആകളൊന്നുമില്ല.",
+        "ar": "- يصلي ركعتين خلف مقام إبراهيم إن أمكن. ليس هناك دعاء ثابت صحيح يوصف مباشرة بعد الانتهاء من الطواف.",
+        "ur": "اگر ممکن ہو تو مقام ابراہیم کے پیچھے دو رکعت نماز پڑھیں۔ طواف مکمل کرنے کے فوراً بعد کوئی مستند مقررہ دعا خاص طور پر مشروع نہیں ہے۔",
+        "fr": "Priez deux Rak'ahs derrière Maqam Ibrahim si possible. Il n'y a pas de dua fixe authentique spécifiquement prescrit immédiatement après avoir terminé le Tawaf.",
+        "tr": "Mümkünse Makam İbrahim'in arkasında iki rekat namaz kılın. Tavafın tamamlanmasından hemen sonra özel olarak belirlenmiş özgün bir sabit dua yoktur.",
+        "id": "Sholat dua rakaat di belakang Maqam Ibrahim jika memungkinkan. Tidak ada doa tetap otentik yang secara khusus ditentukan segera setelah menyelesaikan Tawaf.",
+        "bn": "সম্ভব হলে মাকামে ইব্রাহিমের পিছনে দুই রাকাত নামায পড়ুন। তাওয়াফ শেষ করার পরপরই নির্দিষ্টভাবে নির্ধারিত কোনো নির্ভরযোগ্য দুআ নেই।",
+        "ms": "Sembahyang dua rakaat di belakang Maqam Ibrahim jika boleh. Tidak ada doa tetap sahih yang disyariatkan secara khusus sejurus selepas selesai Tawaf."
+      }
+    },
+    {
+      "number": 16,
+      "section": "F",
+      "title": {
+        "en": "Upon approaching Safa for the first time",
+        "ta": "முதல் முறையாக ஸஃபாவை நெருங்கியதும்",
+        "ml": "ആദ്യമായി സഫയെ സമീപിച്ചപ്പോൾ",
+        "ar": "عند الاقتراب من الصفا لأول مرة",
+        "ur": "پہلی بار صفا کے قریب پہنچ کر",
+        "fr": "En approchant de Safa pour la première fois",
+        "tr": "Safa'ya ilk kez yaklaşıldığında",
+        "id": "Saat mendekati Safa untuk pertama kalinya",
+        "bn": "প্রথমবার সাফায় আসার পর",
+        "ms": "Apabila menghampiri Safa buat kali pertama"
+      },
+      "translation": {
+        "en": "Indeed, Safa and Marwah are among the symbols of Allah.\n\nI begin with that which Allah began with.",
+        "ta": "உண்மையில் ஸஃபாவும் மர்வாவும் அல்லாஹ்வின் அடையாளங்களில் ஒன்றாகும்.\n\nஅல்லாஹ் ஆரம்பித்ததிலிருந்து நான் ஆரம்பிக்கிறேன்.",
+        "ml": "തീർച്ചയായും സഫയും മർവയും അല്ലാഹുവിൻ്റെ ചിഹ്നങ്ങളിൽ പെട്ടതാണ്.\n\nഅല്ലാഹു ആരംഭിച്ചതിൽ നിന്നാണ് ഞാൻ ആരംഭിക്കുന്നത്.",
+        "ar": "إن الصفا والمروة من شعائر الله.\n\nأبدأ بما بدأ الله به.",
+        "ur": "بے شک صفا اور مروہ اللہ کی نشانیوں میں سے ہیں۔\n\nمیں اس سے شروع کرتا ہوں جس سے اللہ نے شروع کیا۔",
+        "fr": "En effet, Safa et Marwah font partie des symboles d'Allah.\n\nJe commence par ce par quoi Allah a commencé.",
+        "tr": "Şüphesiz Safa ile Merve Allah'ın işaretlerindendir.\n\nAllah'ın başlattığı şeyle başlıyorum.",
+        "id": "Sesungguhnya Safa dan Marwah termasuk simbol-simbol Allah.\n\nSaya memulai dengan apa yang Allah mulai dengannya.",
+        "bn": "নিঃসন্দেহে সাফা ও মারওয়া আল্লাহর নিদর্শনসমূহের অন্তর্ভুক্ত।\n\nআল্লাহ যা দিয়ে শুরু করেছেন তা দিয়েই শুরু করছি।",
+        "ms": "Sesungguhnya Safa dan Marwah adalah antara syiar Allah.\n\nSaya mulakan dengan apa yang Allah mulakan."
+      },
+      "classification": {
+        "en": "Qur'anic verse and prophetic instruction",
+        "ta": "குர்ஆன் வசனம் மற்றும் தீர்க்கதரிசன அறிவுறுத்தல்",
+        "ml": "ഖുറാൻ സൂക്തവും പ്രവാചക പ്രബോധനവും",
+        "ar": "الآية القرآنية والتعليمات النبوية",
+        "ur": "قرآنی آیت اور نبوی ہدایت",
+        "fr": "Verset coranique et instruction prophétique",
+        "tr": "Kur'an ayeti ve peygamberlik talimatı",
+        "id": "Ayat Alquran dan petunjuk kenabian",
+        "bn": "কোরানের আয়াত এবং ভবিষ্যদ্বাণীমূলক নির্দেশ",
+        "ms": "ayat al-Quran dan petunjuk kenabian"
+      },
+      "notes": {
+        "en": "Recite the Qur'anic verse:\n\nThen say: “I begin with that which Allah began with.”",
+        "ta": "குர்ஆன் வசனத்தை ஓதுங்கள்:\n\nபின்னர் கூறுங்கள்: \"அல்லாஹ் தொடங்கியதிலிருந்து நான் ஆரம்பிக்கிறேன்.\"",
+        "ml": "ഖുറാൻ സൂക്തം പാരായണം ചെയ്യുക:\n\nഎന്നിട്ട് പറയുക: \"അല്ലാഹു ആരംഭിച്ചതിൽ നിന്ന് ഞാൻ ആരംഭിക്കുന്നു.\"",
+        "ar": "إقرأ الآية القرآنية:\n\nثم قل: أبدأ بما بدأ الله به.",
+        "ur": "قرآنی آیت کی تلاوت کریں:\n\nپھر کہو: میں اس سے شروع کرتا ہوں جس سے اللہ نے شروع کیا تھا۔",
+        "fr": "Récitez le verset coranique :\n\nEnsuite, dites : « Je commence par ce par quoi Allah a commencé. »",
+        "tr": "Kur'an ayetini okuyun:\n\nSonra de ki: \"Ben Allah'ın başladığı şeyle başlıyorum.\"",
+        "id": "Bacalah ayat Al-Qur'an:\n\nKemudian katakanlah: “Aku memulai dengan apa yang Allah mulai dengannya.”",
+        "bn": "কুরআনের আয়াতটি তিলাওয়াত করুন:\n\nঅতঃপর বলুনঃ আমি তা দিয়ে শুরু করি যা দিয়ে আল্লাহ শুরু করেছেন।",
+        "ms": "Bacalah ayat al-Quran:\n\nKemudian katakanlah: \"Aku mulakan dengan apa yang Allah mulakan.\""
+      }
+    },
+    {
+      "number": 17,
+      "section": "F",
+      "title": {
+        "en": "Dhikr at Safa",
+        "ta": "ஸஃபாவில் திக்ர்",
+        "ml": "സഫയിൽ ദിക്ർ",
+        "ar": "الذكر عند الصفا",
+        "ur": "صفا میں ذکر",
+        "fr": "Dhikr à Safa",
+        "tr": "Safa'da Zikir",
+        "id": "Dzikir di Safa",
+        "bn": "সাফায় যিকির",
+        "ms": "Zikir di Safa"
+      },
+      "translation": {
+        "en": "Allah is the Greatest, Allah is the Greatest, Allah is the Greatest.\n\nThere is no deity worthy of worship except Allah alone. He has no partner. His is the dominion and His is the praise, and He has power over all things.\n\nThere is no deity worthy of worship except Allah alone. He fulfilled His promise, helped His servant and defeated the confederate forces alone.",
+        "ta": "அல்லாஹ் மிகப் பெரியவன், அல்லாஹ் மிகப் பெரியவன், அல்லாஹ் மிகப் பெரியவன்.\n\nவணக்கத்திற்குரிய இறைவன் அல்லாஹ்வைத் தவிர வேறு யாரும் இல்லை. அவருக்கு துணை இல்லை. ஆதிக்கம் அவனுடையது, புகழும் அவனுடையது, மேலும் அவன் எல்லாப் பொருட்களின் மீதும் ஆற்றலுடையவன்.\n\nவணக்கத்திற்குரிய இறைவன் அல்லாஹ்வைத் தவிர வேறு யாரும் இல்லை. அவர் தனது வாக்குறுதியை நிறைவேற்றினார், தனது வேலைக்காரனுக்கு உதவினார் மற்றும் கூட்டமைப்புப் படைகளை மட்டும் தோற்கடித்தார்.",
+        "ml": "അല്ലാഹുവാണ് ഏറ്റവും വലിയവൻ, അള്ളാഹുവാണ് ഏറ്റവും വലിയവൻ, അള്ളാഹുവാണ് ഏറ്റവും വലിയവൻ.\n\nഅള്ളാഹു അല്ലാതെ ആരാധന അർഹിക്കുന്ന ഒരു ദൈവവുമില്ല. അവന് പങ്കാളിയില്ല. ആധിപത്യം അവനുള്ളതാണ്, സ്തുതിയും അവനാണ്, അവൻ എല്ലാറ്റിനും അധികാരമുള്ളവനാണ്.\n\nഅള്ളാഹു അല്ലാതെ ആരാധന അർഹിക്കുന്ന ഒരു ദൈവവുമില്ല. അവൻ തൻ്റെ വാഗ്ദാനം നിറവേറ്റുകയും തൻ്റെ ദാസനെ സഹായിക്കുകയും ഏകീകൃത സേനയെ ഒറ്റയ്ക്ക് പരാജയപ്പെടുത്തുകയും ചെയ്തു.",
+        "ar": "الله أكبر، الله أكبر، الله أكبر.\n\nولا إله يستحق العبادة إلا الله وحده. ليس لديه شريك. له الملك وله الحمد، وهو على كل شيء قدير.\n\nولا إله يستحق العبادة إلا الله وحده. لقد حقق وعده وساعد عبده وهزم القوات المتحالفة وحده.",
+        "ur": "اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے۔\n\nاللہ کے سوا کوئی عبادت کے لائق نہیں۔ اس کا کوئی شریک نہیں۔ اسی کی بادشاہی ہے اور اسی کی حمد ہے اور وہ ہر چیز پر قادر ہے۔\n\nاللہ کے سوا کوئی عبادت کے لائق نہیں۔ اس نے اپنا وعدہ پورا کیا، اپنے بندے کی مدد کی اور اتحادی افواج کو تنہا شکست دی۔",
+        "fr": "Allah est le plus grand, Allah est le plus grand, Allah est le plus grand.\n\nIl n’y a de divinité digne d’adoration qu’Allah seul. Il n'a pas de partenaire. À lui appartient la domination et à lui la louange, et il a pouvoir sur toutes choses.\n\nIl n’y a de divinité digne d’adoration qu’Allah seul. Il a tenu sa promesse, a aidé son serviteur et a vaincu seul les forces confédérées.",
+        "tr": "Allah en büyüktür, Allah en büyüktür, Allah en büyüktür.\n\nYalnızca Allah'tan başka ibadete layık ilah yoktur. Ortağı yoktur. Mülk O'nundur, hamd O'nundur ve O, her şeye gücü yetendir.\n\nYalnızca Allah'tan başka ibadete layık ilah yoktur. Vaadini yerine getirdi, kuluna yardım etti ve İtilaf güçlerini tek başına mağlup etti.",
+        "id": "Allahu Akbar Allahu Akbar Allahu Akbar.\n\nTidak ada Tuhan yang berhak disembah kecuali Allah saja. Dia tidak punya pasangan. Milik-Nya kekuasaan dan milik-Nya pujian, dan Dia Mahakuasa atas segala sesuatu.\n\nTidak ada Tuhan yang berhak disembah kecuali Allah saja. Dia memenuhi janji-Nya, membantu hamba-Nya dan mengalahkan pasukan konfederasi sendirian.",
+        "bn": "আল্লাহ সর্বশ্রেষ্ঠ, আল্লাহ সর্বশ্রেষ্ঠ, আল্লাহ সর্বশ্রেষ্ঠ।\n\nএকমাত্র আল্লাহ ছাড়া ইবাদতের যোগ্য কোনো উপাস্য নেই। তার কোন শরীক নেই। রাজত্ব তাঁরই এবং তাঁরই প্রশংসা এবং তিনিই সব কিছুর উপর ক্ষমতাবান।\n\nএকমাত্র আল্লাহ ছাড়া ইবাদতের যোগ্য কোনো উপাস্য নেই। তিনি তাঁর প্রতিশ্রুতি পূর্ণ করেছিলেন, তাঁর দাসকে সাহায্য করেছিলেন এবং একাই কনফেডারেট বাহিনীকে পরাজিত করেছিলেন।",
+        "ms": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar.\n\nTiada tuhan yang berhak disembah melainkan Allah sahaja. Dia tiada pasangan. Kepunyaan-Nya kerajaan dan kepunyaan-Nya pujian, dan Dia Maha Kuasa atas segala sesuatu.\n\nTiada tuhan yang berhak disembah melainkan Allah sahaja. Dia memenuhi janji-Nya, menolong hamba-Nya dan mengalahkan pasukan konfederasi seorang diri."
+      },
+      "classification": {
+        "en": "Prophetic remembrance",
+        "ta": "தீர்க்கதரிசன நினைவு",
+        "ml": "പ്രവാചക സ്മരണ",
+        "ar": "الاذكار النبوية",
+        "ur": "نبوی ذکر",
+        "fr": "Souvenir prophétique",
+        "tr": "Peygamberlik anma",
+        "id": "Ingatan Nabi",
+        "bn": "ভাববাদী স্মরণ",
+        "ms": "Zikir kenabian"
+      },
+      "notes": {
+        "en": "Face the Ka'bah, raise your hands and recite. The Prophet ﷺ recited this remembrance three times, making supplication between the repetitions.",
+        "ta": "கஅபாவை எதிர்கொண்டு, கைகளை உயர்த்தி ஓதவும். நபிகள் நாயகம் (ஸல்) அவர்கள் இந்த நினைவை மூன்று முறை ஓதினார்கள், திரும்பத் திரும்ப துஆச் செய்தார்கள்.",
+        "ml": "കഅബക്ക് അഭിമുഖമായി, കൈകൾ ഉയർത്തി പാരായണം ചെയ്യുക. ആവർത്തനങ്ങൾക്കിടയിൽ പ്രാർത്ഥിച്ചുകൊണ്ട് നബി(സ) ഈ സ്മരണ മൂന്ന് പ്രാവശ്യം ചൊല്ലി.",
+        "ar": "استقبل الكعبة وارفع يديك وقرأ. وقد قرأ النبي صلى الله عليه وسلم هذا الذكر ثلاث مرات، ودعا بين التكرارات.",
+        "ur": "کعبہ کی طرف منہ کریں، ہاتھ اٹھائیں اور تلاوت کریں۔ رسول اللہ صلی اللہ علیہ وسلم نے اس ذکر کو تین مرتبہ پڑھا، تکرار کے درمیان دعا کی۔",
+        "fr": "Faites face à la Kaaba, levez les mains et récitez. Le Prophète ﷺ a récité ce souvenir trois fois, faisant des supplications entre les répétitions.",
+        "tr": "Kabe'ye dönün, ellerinizi kaldırın ve okuyun. Peygamber Efendimiz (sav) bu zikri üç defa okudu ve tekrarlar arasında dua etti.",
+        "id": "Hadapi Ka'bah, angkat tangan dan bacalah. Nabi ﷺ membacakan dzikir ini tiga kali, membuat doa di antara pengulangannya.",
+        "bn": "কাবার দিকে মুখ করুন, হাত তুলে তেলাওয়াত করুন। রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এই স্মরণটি তিনবার পাঠ করেছেন এবং পুনরাবৃত্তির মধ্যে দুআ করেছেন।",
+        "ms": "Menghadap Ka'bah, angkat tangan dan bacalah. Nabi ﷺ membaca zikir ini tiga kali, membuat doa di antara pengulangan."
+      }
+    },
+    {
+      "number": 18,
+      "section": "F",
+      "title": {
+        "en": "Dua at Safa",
+        "ta": "ஸஃபாவில் துஆ",
+        "ml": "സഫയിൽ ദുആ",
+        "ar": "دعاء عند الصفا",
+        "ur": "صفا میں دعا",
+        "fr": "Dua à Safa",
+        "tr": "Safa'da Dua",
+        "id": "Doa di Shafa",
+        "bn": "সাফায় দুআ",
+        "ms": "Doa di Safa"
+      },
+      "translation": {
+        "en": "There is no additional fixed wording that must be recited. After the remembrance in section 17, make supplication. Repeat the remembrance and supplication as narrated.",
+        "ta": "ஓதப்பட வேண்டிய கூடுதல் நிலையான வார்த்தைகள் எதுவும் இல்லை. பிரிவு 17 இல் நினைவுபடுத்தப்பட்ட பிறகு, பிரார்த்தனை செய்யுங்கள். விவரிக்கப்பட்டுள்ளபடி நினைவு மற்றும் பிரார்த்தனையை மீண்டும் செய்யவும்.",
+        "ml": "പാരായണം ചെയ്യേണ്ട അധിക സ്ഥിരമായ പദങ്ങളൊന്നുമില്ല. സെക്ഷൻ 17 ലെ അനുസ്മരണത്തിന് ശേഷം, പ്രാർത്ഥന നടത്തുക. വിവരിച്ചതുപോലെ സ്മരണയും പ്രാർത്ഥനയും ആവർത്തിക്കുക.",
+        "ar": "ولا توجد صيغة ثابتة إضافية يجب تلاوتها. وبعد الذكر في الباب 17 قم بالدعاء. كرر الذكر والدعاء كما روي.",
+        "ur": "کوئی اضافی مقررہ الفاظ نہیں ہیں جو پڑھنا ضروری ہیں۔ دفعہ 17 کے ذکر کے بعد دعا کریں۔ ذکر اور دعا کو دہرائیں جیسا کہ بیان کیا گیا ہے۔",
+        "fr": "Il n’y a pas de formulation fixe supplémentaire qui doit être récitée. Après le souvenir de la section 17, faites une supplication. Répétez le souvenir et la supplication comme indiqué.",
+        "tr": "Okunması gereken ek sabit ifadeler yoktur. 17. bölümdeki zikirden sonra dua edin. Zikretmeyi ve duayı rivayet edildiği gibi tekrarlayın.",
+        "id": "Tidak ada kata-kata tetap tambahan yang harus diucapkan. Setelah zikir pada bagian 17, berdoalah. Mengulangi zikir dan doa sebagaimana diriwayatkan.",
+        "bn": "আবৃত্তি করতে হবে এমন কোন অতিরিক্ত নির্দিষ্ট শব্দ নেই। 17 ধারায় স্মরণের পরে, প্রার্থনা করুন। বর্ণিত হিসাবে স্মরণ এবং প্রার্থনা পুনরাবৃত্তি করুন.",
+        "ms": "Tiada lafaz tetap tambahan yang mesti dibaca. Selepas zikir dalam seksyen 17, buatlah doa. Ulang zikir dan doa seperti yang diriwayatkan."
+      },
+      "classification": {
+        "en": "Personal supplication; no additional fixed wording",
+        "ta": "தனிப்பட்ட விண்ணப்பம்; கூடுதல் நிலையான சொற்கள் இல்லை",
+        "ml": "വ്യക്തിപരമായ അപേക്ഷ; അധിക സ്ഥിരമായ പദങ്ങളൊന്നുമില്ല",
+        "ar": "الدعاء الشخصي؛ لا توجد صيغة ثابتة إضافية",
+        "ur": "ذاتی دعا؛ کوئی اضافی مقررہ الفاظ نہیں۔",
+        "fr": "Supplication personnelle ; pas de formulation fixe supplémentaire",
+        "tr": "Kişisel dua; ek sabit ifade yok",
+        "id": "Doa pribadi; tidak ada kata-kata tetap tambahan",
+        "bn": "ব্যক্তিগত মিনতি; কোন অতিরিক্ত নির্দিষ্ট শব্দ",
+        "ms": "Doa peribadi; tiada tambahan perkataan tetap"
+      }
+    },
+    {
+      "number": 19,
+      "section": "F",
+      "title": {
+        "en": "Dhikr while walking from Safa to Marwah",
+        "ta": "ஸஃபாவிலிருந்து மர்வாவுக்கு நடந்து செல்லும் போது திக்ர்",
+        "ml": "സഫയിൽ നിന്ന് മർവയിലേക്ക് നടക്കുമ്പോൾ ദിക്ർ",
+        "ar": "الذكر أثناء السير من الصفا إلى المروة",
+        "ur": "صفا سے مروہ کی طرف چلتے وقت ذکر",
+        "fr": "Dhikr en marchant de Safa à Marwah",
+        "tr": "Safa'dan Merve'ye yürürken zikir",
+        "id": "Dzikir sambil berjalan dari Safa ke Marwah",
+        "bn": "সাফা থেকে মারওয়া পর্যন্ত হাঁটার সময় যিকির করা",
+        "ms": "Berzikir ketika berjalan dari Safa ke Marwah"
+      },
+      "translation": {
+        "en": "There is no specific fixed dua for the walking stretches. Continue with general Dhikr or Qur'an recitation.",
+        "ta": "நடைபயிற்சி நீட்டிப்புகளுக்கு குறிப்பிட்ட நிலையான துவா இல்லை. பொதுவான திக்ர் ​​அல்லது குர்ஆன் ஓதலை தொடரவும்.",
+        "ml": "വാക്കിംഗ് സ്ട്രെച്ചുകൾക്ക് പ്രത്യേക നിശ്ചിത ദുആ ഇല്ല. പൊതുവായ ദിക്ർ അല്ലെങ്കിൽ ഖുർആൻ പാരായണം തുടരുക.",
+        "ar": "لا يوجد دعاء ثابت محدد لامتدادات المشي. تواصل مع الذكر العام أو تلاوة القرآن.",
+        "ur": "چہل قدمی کے لیے کوئی مخصوص دعا نہیں ہے۔ عام ذکر یا قرآن کی تلاوت جاری رکھیں۔",
+        "fr": "Il n’y a pas de dua fixe spécifique pour les tronçons de marche. Continuez avec la récitation générale du Dhikr ou du Coran.",
+        "tr": "Yürüme esnemeleri için belirli bir sabit dua yoktur. Genel Zikir veya Kur'an tilaveti ile devam edin.",
+        "id": "Tidak ada doa khusus yang pasti untuk peregangan jalan kaki. Dilanjutkan dengan Dzikir umum atau pembacaan Al-Qur'an.",
+        "bn": "হাঁটার জন্য নির্দিষ্ট কোন দুআ নেই। সাধারণ জিকির বা কোরআন তেলাওয়াত চালিয়ে যান।",
+        "ms": "Tidak ada doa tetap khusus untuk peregangan berjalan. Teruskan dengan Zikir am atau bacaan Al-Quran."
+      },
+      "classification": {
+        "en": "General Dhikr or Qur'an recitation; no fixed dua",
+        "ta": "பொது திக்ர் ​​அல்லது குர்ஆன் ஓதுதல்; நிலையான துவா இல்லை",
+        "ml": "ജനറൽ ദിക്ർ അല്ലെങ്കിൽ ഖുർആൻ പാരായണം; സ്ഥിരമായ ദുആ ഇല്ല",
+        "ar": "الذكر العام أو تلاوة القرآن. لا دعاء ثابت",
+        "ur": "عام ذکر یا قرآن کی تلاوت؛ کوئی مقررہ دعا نہیں۔",
+        "fr": "Récitation générale du Dhikr ou du Coran ; pas de dua fixe",
+        "tr": "Genel Zikir veya Kur'an tilaveti; sabit dua yok",
+        "id": "Dzikir Umum atau pembacaan Al-Qur'an; tidak ada doa tetap",
+        "bn": "সাধারণ জিকির বা কোরআন তেলাওয়াত; কোন নির্দিষ্ট দুআ",
+        "ms": "Zikir Am atau bacaan Al-Quran; tiada doa tetap"
+      }
+    },
+    {
+      "number": 20,
+      "section": "F",
+      "title": {
+        "en": "Dhikr at Marwah",
+        "ta": "மர்வாவில் திக்ர்",
+        "ml": "മർവയിലെ ദിക്ർ",
+        "ar": "ذكر المروة",
+        "ur": "مروہ میں ذکر",
+        "fr": "Dhikr à Marwah",
+        "tr": "Merve'de Zikir",
+        "id": "Dzikir di Marwah",
+        "bn": "মারওয়াতে যিকির",
+        "ms": "Zikir di Marwah"
+      },
+      "translation": {
+        "en": "Allah is the Greatest, Allah is the Greatest, Allah is the Greatest.\n\nThere is no deity worthy of worship except Allah alone. He has no partner. His is the dominion and His is the praise, and He has power over all things.\n\nThere is no deity worthy of worship except Allah alone. He fulfilled His promise, helped His servant and defeated the confederate forces alone.",
+        "ta": "அல்லாஹ் மிகப் பெரியவன், அல்லாஹ் மிகப் பெரியவன், அல்லாஹ் மிகப் பெரியவன்.\n\nவணக்கத்திற்குரிய இறைவன் அல்லாஹ்வைத் தவிர வேறு யாரும் இல்லை. அவருக்கு துணை இல்லை. ஆதிக்கம் அவனுடையது, புகழும் அவனுடையது, மேலும் அவன் எல்லாப் பொருட்களின் மீதும் ஆற்றலுடையவன்.\n\nவணக்கத்திற்குரிய இறைவன் அல்லாஹ்வைத் தவிர வேறு யாரும் இல்லை. அவர் தனது வாக்குறுதியை நிறைவேற்றினார், தனது வேலைக்காரனுக்கு உதவினார் மற்றும் கூட்டமைப்புப் படைகளை மட்டும் தோற்கடித்தார்.",
+        "ml": "അല്ലാഹുവാണ് ഏറ്റവും വലിയവൻ, അള്ളാഹുവാണ് ഏറ്റവും വലിയവൻ, അള്ളാഹുവാണ് ഏറ്റവും വലിയവൻ.\n\nഅള്ളാഹു അല്ലാതെ ആരാധന അർഹിക്കുന്ന ഒരു ദൈവവുമില്ല. അവന് പങ്കാളിയില്ല. ആധിപത്യം അവനുള്ളതാണ്, സ്തുതിയും അവനാണ്, അവൻ എല്ലാറ്റിനും അധികാരമുള്ളവനാണ്.\n\nഅള്ളാഹു അല്ലാതെ ആരാധന അർഹിക്കുന്ന ഒരു ദൈവവുമില്ല. അവൻ തൻ്റെ വാഗ്ദാനം നിറവേറ്റുകയും തൻ്റെ ദാസനെ സഹായിക്കുകയും ഏകീകൃത സേനയെ ഒറ്റയ്ക്ക് പരാജയപ്പെടുത്തുകയും ചെയ്തു.",
+        "ar": "الله أكبر، الله أكبر، الله أكبر.\n\nولا إله يستحق العبادة إلا الله وحده. ليس لديه شريك. له الملك وله الحمد، وهو على كل شيء قدير.\n\nولا إله يستحق العبادة إلا الله وحده. لقد حقق وعده وساعد عبده وهزم القوات المتحالفة وحده.",
+        "ur": "اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے۔\n\nاللہ کے سوا کوئی عبادت کے لائق نہیں۔ اس کا کوئی شریک نہیں۔ اسی کی بادشاہی ہے اور اسی کی حمد ہے اور وہ ہر چیز پر قادر ہے۔\n\nاللہ کے سوا کوئی عبادت کے لائق نہیں۔ اس نے اپنا وعدہ پورا کیا، اپنے بندے کی مدد کی اور اتحادی افواج کو تنہا شکست دی۔",
+        "fr": "Allah est le plus grand, Allah est le plus grand, Allah est le plus grand.\n\nIl n’y a de divinité digne d’adoration qu’Allah seul. Il n'a pas de partenaire. À lui appartient la domination et à lui la louange, et il a pouvoir sur toutes choses.\n\nIl n’y a de divinité digne d’adoration qu’Allah seul. Il a tenu sa promesse, a aidé son serviteur et a vaincu seul les forces confédérées.",
+        "tr": "Allah en büyüktür, Allah en büyüktür, Allah en büyüktür.\n\nYalnızca Allah'tan başka ibadete layık ilah yoktur. Ortağı yoktur. Mülk O'nundur, hamd O'nundur ve O, her şeye gücü yetendir.\n\nYalnızca Allah'tan başka ibadete layık ilah yoktur. Vaadini yerine getirdi, kuluna yardım etti ve İtilaf güçlerini tek başına mağlup etti.",
+        "id": "Allahu Akbar Allahu Akbar Allahu Akbar.\n\nTidak ada Tuhan yang berhak disembah kecuali Allah saja. Dia tidak punya pasangan. Milik-Nya kekuasaan dan milik-Nya pujian, dan Dia Mahakuasa atas segala sesuatu.\n\nTidak ada Tuhan yang berhak disembah kecuali Allah saja. Dia memenuhi janji-Nya, membantu hamba-Nya dan mengalahkan pasukan konfederasi sendirian.",
+        "bn": "আল্লাহ সর্বশ্রেষ্ঠ, আল্লাহ সর্বশ্রেষ্ঠ, আল্লাহ সর্বশ্রেষ্ঠ।\n\nএকমাত্র আল্লাহ ছাড়া ইবাদতের যোগ্য কোনো উপাস্য নেই। তার কোন শরীক নেই। রাজত্ব তাঁরই এবং তাঁরই প্রশংসা এবং তিনিই সব কিছুর উপর ক্ষমতাবান।\n\nএকমাত্র আল্লাহ ছাড়া ইবাদতের যোগ্য কোনো উপাস্য নেই। তিনি তাঁর প্রতিশ্রুতি পূর্ণ করেছিলেন, তাঁর দাসকে সাহায্য করেছিলেন এবং একাই কনফেডারেট বাহিনীকে পরাজিত করেছিলেন।",
+        "ms": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar.\n\nTiada tuhan yang berhak disembah melainkan Allah sahaja. Dia tiada pasangan. Kepunyaan-Nya kerajaan dan kepunyaan-Nya pujian, dan Dia Maha Kuasa atas segala sesuatu.\n\nTiada tuhan yang berhak disembah melainkan Allah sahaja. Dia memenuhi janji-Nya, menolong hamba-Nya dan mengalahkan pasukan konfederasi seorang diri."
+      },
+      "classification": {
+        "en": "Prophetic remembrance",
+        "ta": "தீர்க்கதரிசன நினைவு",
+        "ml": "പ്രവാചക സ്മരണ",
+        "ar": "الاذكار النبوية",
+        "ur": "نبوی ذکر",
+        "fr": "Souvenir prophétique",
+        "tr": "Peygamberlik anma",
+        "id": "Ingatan Nabi",
+        "bn": "ভাববাদী স্মরণ",
+        "ms": "Zikir kenabian"
+      },
+      "notes": {
+        "en": "When reaching Marwah, face the Ka'bah and recite the same remembrance as at Safa.",
+        "ta": "மர்வாவை அடையும் போது, ​​கஅபாவை எதிர்கொண்டு, ஸஃபாவில் உள்ள அதே நினைவை ஓதவும்.",
+        "ml": "മർവയിൽ എത്തുമ്പോൾ, കഅബയ്ക്ക് അഭിമുഖമായി, സഫയിലെ അതേ സ്മരണകൾ വായിക്കുക.",
+        "ar": "وعندما تصل المروة، توجه إلى الكعبة وتلاوة نفس الذكر عند الصفا.",
+        "ur": "مروہ پہنچ کر کعبہ کی طرف منہ کریں اور صفا کی طرح ہی ذکر کریں۔",
+        "fr": "En arrivant à Marwah, faites face à la Kaaba et récitez le même souvenir qu'à Safa.",
+        "tr": "Merve'ye vardığınızda Kabe'ye dönün ve Safa'daki zikrin aynısını okuyun.",
+        "id": "Ketika mencapai Marwah, menghadap Ka'bah dan membaca zikir yang sama seperti di Safa.",
+        "bn": "মারওয়ায় পৌঁছে কাবার দিকে মুখ করে সাফার মতো যিকির পাঠ করুন।",
+        "ms": "Apabila sampai Marwah, menghadap Ka'bah dan membaca zikir yang sama seperti di Safa."
+      }
+    },
+    {
+      "number": 21,
+      "section": "F",
+      "title": {
+        "en": "Completing the seven rounds of Sa'i",
+        "ta": "சாயின் ஏழு சுற்றுகளை நிறைவு செய்தல்",
+        "ml": "സായിയുടെ ഏഴ് റൗണ്ടുകൾ പൂർത്തിയാക്കുന്നു",
+        "ar": "استكمال أشواط السعي السبعة",
+        "ur": "سعی کے سات چکر مکمل کرنا",
+        "fr": "Terminer les sept tours de Sa'i",
+        "tr": "Sa'i'nin yedi turunu tamamlamak",
+        "id": "Menyelesaikan tujuh putaran Sa'i",
+        "bn": "সাঈয়ের সাত রাউন্ড সম্পূর্ণ করা",
+        "ms": "Menyelesaikan tujuh pusingan Sa'i"
+      },
+      "translation": {
+        "en": "There is no established specific completion dua.",
+        "ta": "நிறுவப்பட்ட குறிப்பிட்ட நிறைவு துவா இல்லை.",
+        "ml": "സ്ഥാപിതമായ നിർദ്ദിഷ്ട പൂർത്തീകരണ ദുആ ഇല്ല.",
+        "ar": "لا يوجد دعاء إكمال محدد.",
+        "ur": "تکمیل کی کوئی مخصوص دعا نہیں ہے۔",
+        "fr": "Il n’y a pas de dua d’achèvement spécifique établi.",
+        "tr": "Belirli bir tamamlama duası yoktur.",
+        "id": "Tidak ada doa penyelesaian khusus yang ditetapkan.",
+        "bn": "কোন প্রতিষ্ঠিত সুনির্দিষ্ট সমাপ্তির দুআ নেই।",
+        "ms": "Tidak ada doa penyelesaian khusus yang ditetapkan."
+      },
+      "classification": {
+        "en": "Practical ritual instruction; no specific completion dua established",
+        "ta": "நடைமுறை சடங்கு அறிவுறுத்தல்; குறிப்பிட்ட நிறைவு துவா நிறுவப்படவில்லை",
+        "ml": "പ്രായോഗിക ആചാരപരമായ നിർദ്ദേശം; നിർദ്ദിഷ്ട പൂർത്തീകരണ ദുആ സ്ഥാപിച്ചിട്ടില്ല",
+        "ar": "تعليمات طقوس عملية؛ لم يتم إنشاء دعاء إكمال محدد",
+        "ur": "عملی رسم کی ہدایات؛ تکمیل کی کوئی خاص دعا قائم نہیں ہوئی۔",
+        "fr": "Instruction rituelle pratique ; aucun dua d'achèvement spécifique établi",
+        "tr": "Pratik ritüel eğitimi; belirli bir tamamlama duası oluşturulmadı",
+        "id": "Instruksi ritual praktis; tidak ada doa penyelesaian khusus yang ditetapkan",
+        "bn": "ব্যবহারিক আচার নির্দেশ; কোনো নির্দিষ্ট সমাপ্তির দুআ প্রতিষ্ঠিত হয়নি",
+        "ms": "Arahan ritual praktikal; tiada doa penyempurnaan khusus ditubuhkan"
+      },
+      "notes": {
+        "en": "The seven journeys are counted as:\n\nSafa to Marwah: 1\n\nMarwah to Safa: 2\n\nSafa to Marwah: 3\n\nMarwah to Safa: 4\n\nSafa to Marwah: 5\n\nMarwah to Safa: 6\n\nSafa to Marwah: 7",
+        "ta": "ஏழு பயணங்கள் கணக்கிடப்படுகின்றன:\n\nஸஃபா முதல் மர்வா வரை: 1\n\nமர்வா முதல் ஸஃபா வரை: 2\n\nஸஃபா முதல் மர்வா வரை: 3\n\nமர்வா முதல் ஸஃபா வரை: 4\n\nஸஃபா முதல் மர்வா வரை: 5\n\nமர்வா முதல் ஸஃபா வரை: 6\n\nஸஃபா முதல் மர்வா வரை: 7",
+        "ml": "ഏഴ് യാത്രകൾ ഇങ്ങനെ കണക്കാക്കുന്നു:\n\nസഫ മുതൽ മർവ വരെ: 1\n\nമർവ മുതൽ സഫ വരെ: 2\n\nസഫ മുതൽ മർവ വരെ: 3\n\nമർവ മുതൽ സഫ വരെ: 4\n\nസഫ മുതൽ മർവ വരെ: 5\n\nമർവ മുതൽ സഫ വരെ: 6\n\nസഫ മുതൽ മർവ വരെ: 7",
+        "ar": "وتحسب الرحلات السبع على النحو التالي:\n\nالصفا إلى المروة: 1\n\nمن المروة إلى الصفا: 2\n\nالصفا إلى المروة: 3\n\nالمروة إلى الصفا: 4\n\nالصفا إلى المروة: ٥\n\nالمروة إلى الصفا: 6\n\nالصفا إلى المروة: 7",
+        "ur": "سات سفروں کو شمار کیا جاتا ہے:\n\nصفا تا مروہ: 1\n\nمروہ تا صفا: 2\n\nصفا تا مروہ: 3\n\nمروہ تا صفا: 4\n\nصفا تا مروہ: 5\n\nمروہ تا صفا: 6\n\nصفا تا مروہ: 7",
+        "fr": "Les sept voyages sont comptés comme suit :\n\nSafa à Marwah : 1\n\nMarwah à Safa: 2\n\nSafa à Marwah: 3\n\nMarwah à Safa : 4\n\nSafa à Marwah: 5\n\nMarwah à Safa : 6\n\nSafa à Marwah: 7",
+        "tr": "Yedi yolculuk şu şekilde sayılır:\n\nSafa'dan Merve'ye: 1\n\nMerve'den Safa'ya: 2\n\nSafa'dan Merve'ye: 3\n\nMerve'den Safa'ya: 4\n\nSafa'dan Merve'ye: 5\n\nMerve'den Safa'ya: 6\n\nSafa'dan Merve'ye: 7",
+        "id": "Tujuh perjalanan dihitung sebagai:\n\nSafa ke Marwah : 1\n\nMarwah ke Safa : 2\n\nSafa ke Marwah: 3\n\nMarwah ke Safa : 4\n\nSafa ke Marwah: 5\n\nMarwah ke Safa : 6\n\nSafa ke Marwah: 7",
+        "bn": "সাতটি যাত্রা হিসাবে গণনা করা হয়:\n\nসাফা থেকে মারওয়াহ : ১\n\nমারওয়াহ থেকে সাফা : ২\n\nসাফা থেকে মারওয়াহ : ৩\n\nমারওয়াহ থেকে সাফাঃ ৪\n\nসাফা থেকে মারওয়াঃ ৫\n\nমারওয়াহ থেকে সাফাঃ ৬\n\nসাফা থেকে মারওয়াঃ ৭",
+        "ms": "Tujuh perjalanan itu dikira sebagai:\n\nSafa ke Marwah: 1\n\nMarwah ke Safa: 2\n\nSafa ke Marwah: 3\n\nMarwah ke Safa: 4\n\nSafa ke Marwah: 5\n\nMarwah ke Safa: 6\n\nSafa ke Marwah: 7"
+      }
+    },
+    {
+      "number": 22,
+      "section": "G",
+      "title": {
+        "en": "After Sa'i and before shaving or trimming hair",
+        "ta": "சாயிக்குப் பிறகு மற்றும் முடியை ஷேவிங் செய்வதற்கு அல்லது டிரிம் செய்வதற்கு முன்",
+        "ml": "സായിക്ക് ശേഷം മുടി ഷേവ് ചെയ്യുന്നതിനോ ട്രിം ചെയ്യുന്നതിനോ മുമ്പും",
+        "ar": "بعد السعي وقبل الحلاقة أو قص الشعر",
+        "ur": "سعی کے بعد اور بال منڈوانے یا تراشنے سے پہلے",
+        "fr": "Après Sa'i et avant de se raser ou de couper les cheveux",
+        "tr": "Sa'i'den sonra ve saçları tıraş etmeden veya kesmeden önce",
+        "id": "Setelah Sa'i dan sebelum mencukur atau memangkas rambut",
+        "bn": "সায়ী করার পর এবং চুল কামানো বা ছাঁটার আগে",
+        "ms": "Selepas Sa'i dan sebelum mencukur atau menggunting rambut"
+      },
+      "translation": {
+        "en": "There is no specific authentic prophetic dua prescribed for this exact moment.",
+        "ta": "இந்த சரியான தருணத்திற்கு குறிப்பிட்ட உண்மையான தீர்க்கதரிசன துவா எதுவும் பரிந்துரைக்கப்படவில்லை.",
+        "ml": "ഈ കൃത്യമായ നിമിഷത്തിനായി നിർദ്ദിഷ്ട ആധികാരിക പ്രവാചക ദുആകളൊന്നും നിർദ്ദേശിച്ചിട്ടില്ല.",
+        "ar": "لا يوجد دعاء نبوي أصيل محدد موصوف لهذه اللحظة بالتحديد.",
+        "ur": "اس عین وقت کے لیے کوئی خاص مستند نبوی دعا تجویز نہیں کی گئی ہے۔",
+        "fr": "Il n’y a pas de dua prophétique authentique spécifique prescrit pour ce moment précis.",
+        "tr": "Tam olarak bu an için belirlenmiş spesifik bir peygamberlik duası yoktur.",
+        "id": "Tidak ada doa kenabian spesifik yang spesifik yang ditentukan untuk momen yang tepat ini.",
+        "bn": "এই সঠিক মুহূর্তটির জন্য নির্ধারিত কোন নির্দিষ্ট খাঁটি ভবিষ্যদ্বাণীমূলক দুআ নেই।",
+        "ms": "Tidak ada doa kenabian sahih khusus yang ditetapkan untuk masa yang tepat ini."
+      },
+      "classification": {
+        "en": "Explanatory note; no specific prophetic dua established",
+        "ta": "விளக்கக் குறிப்பு; குறிப்பிட்ட தீர்க்கதரிசன துவா நிறுவப்படவில்லை",
+        "ml": "വിശദീകരണ കുറിപ്പ്; നിർദ്ദിഷ്ട പ്രവാചക ദുആ സ്ഥാപിച്ചിട്ടില്ല",
+        "ar": "مذكرة توضيحية؛ لم يتم تأسيس دعاء نبوي محدد",
+        "ur": "وضاحتی نوٹ؛ کوئی خاص نبوی دعا قائم نہیں ہوئی۔",
+        "fr": "Note explicative ; aucun dua prophétique spécifique établi",
+        "tr": "Açıklayıcı not; belirli bir peygamberlik duası oluşturulmamıştır",
+        "id": "Catatan penjelasan; tidak ada doa kenabian khusus yang ditetapkan",
+        "bn": "ব্যাখ্যামূলক নোট; কোন সুনির্দিষ্ট ভবিষ্যদ্বাণীমূলক দুআ প্রতিষ্ঠিত হয়নি",
+        "ms": "Nota penerangan; tiada doa kenabian khusus yang ditetapkan"
+      }
+    },
+    {
+      "number": 23,
+      "section": "G",
+      "title": {
+        "en": "After shaving or trimming hair",
+        "ta": "முடியை ஷேவிங் செய்த பிறகு அல்லது டிரிம் செய்த பிறகு",
+        "ml": "മുടി ഷേവ് ചെയ്യുകയോ ട്രിം ചെയ്യുകയോ ചെയ്ത ശേഷം",
+        "ar": "بعد الحلاقة أو قص الشعر",
+        "ur": "بال مونڈنے یا تراشنے کے بعد",
+        "fr": "Après le rasage ou la coupe des cheveux",
+        "tr": "Saçları tıraş ettikten veya kestikten sonra",
+        "id": "Setelah mencukur atau memangkas rambut",
+        "bn": "শেভ বা চুল ছাঁটা পরে",
+        "ms": "Selepas mencukur atau memotong rambut"
+      },
+      "translation": {
+        "en": "O Allah, forgive those who shave their heads.",
+        "ta": "யா அல்லாஹ் தலையை மொட்டையடிப்பவர்களை மன்னிப்பாயாக.",
+        "ml": "അല്ലാഹുവേ, തല മൊട്ടയടിക്കുന്നവരോട് പൊറുക്കേണമേ.",
+        "ar": "اللهمّ اغفر للمحلقين رؤوسهم.",
+        "ur": "اے اللہ سر منڈوانے والوں کو معاف فرما۔",
+        "fr": "Ô Allah, pardonne à ceux qui se rasent la tête.",
+        "tr": "Allah'ım saçlarını tıraş edenleri bağışla.",
+        "id": "Ya Allah ampunilah orang yang mencukur rambutnya.",
+        "bn": "হে আল্লাহ, যারা মাথা মুণ্ডন করে তাদের ক্ষমা করে দাও।",
+        "ms": "Ya Allah, ampunilah orang yang mencukur rambutnya."
+      },
+      "classification": {
+        "en": "Prophetic supplication; explanatory note",
+        "ta": "தீர்க்கதரிசன பிரார்த்தனை; விளக்கக் குறிப்பு",
+        "ml": "പ്രവാചക പ്രാർത്ഥന; വിശദീകരണ കുറിപ്പ്",
+        "ar": "الدعاء النبوي؛ مذكرة توضيحية",
+        "ur": "نبوی دعا؛ وضاحتی نوٹ",
+        "fr": "Supplication prophétique; note explicative",
+        "tr": "Peygamberlik duası; açıklayıcı not",
+        "id": "Doa kenabian; catatan penjelasan",
+        "bn": "ভবিষ্যদ্বাণীমূলক প্রার্থনা; ব্যাখ্যামূলক নোট",
+        "ms": "Doa kenabian; nota penerangan"
+      },
+      "notes": {
+        "en": "There is no established special dua that the pilgrim must recite after cutting their hair.\n\nThe Prophet ﷺ supplicated this. He repeated this supplication and then included those who shortened their hair.",
+        "ta": "யாத்ரீகர் தங்கள் முடியை வெட்டிய பிறகு ஓத வேண்டும் என்று நிறுவப்பட்ட சிறப்பு துவா எதுவும் இல்லை.\n\nநபி (ஸல்) அவர்கள் இதைப் பிரார்த்தித்தார்கள். அவர் இந்த வேண்டுகோளை மீண்டும் மீண்டும் செய்தார், பின்னர் தலைமுடியை சுருக்கியவர்களையும் சேர்த்தார்.",
+        "ml": "മുടി മുറിച്ച ശേഷം തീർത്ഥാടകൻ നിർബന്ധമായും ചൊല്ലേണ്ട പ്രത്യേക ദുആകളൊന്നുമില്ല.\n\nനബി ﷺ ഇത് പ്രാർത്ഥിച്ചു. അവൻ ഈ പ്രാർത്ഥന ആവർത്തിച്ചു, തുടർന്ന് മുടി ചെറുതാക്കിയവരെ ഉൾപ്പെടുത്തി.",
+        "ar": "ليس هناك دعاء خاص ثابت يجب على الحاج أن يقوله بعد قص شعره.\n\nوقد دعا النبي ﷺ بهذا. فأعاد هذا الدعاء، ثم دخل فيمن قصروا رؤوسهم.",
+        "ur": "حجاج کو بال کٹوانے کے بعد پڑھنے کی کوئی خاص دعا نہیں ہے۔\n\nرسول اللہ صلی اللہ علیہ وسلم نے یہ دعا فرمائی۔ آپ نے یہ دعا دہرائی اور پھر بال کٹوانے والوں کو بھی شامل کیا۔",
+        "fr": "Il n’existe pas de dua spéciale établie que le pèlerin doit réciter après s’être coupé les cheveux.\n\nLe Prophète ﷺ l'a supplié. Il répéta cette supplication et inclua ensuite ceux qui avaient raccourci leurs cheveux.",
+        "tr": "Hacıların saçlarını kestikten sonra okuması gereken özel bir dua yoktur.\n\nPeygamber Efendimiz (s.a.v.) bu duayı yaptı. Bu duayı tekrarladı ve ardından saçlarını kısaltanları da arasına kattı.",
+        "id": "Tidak ada doa khusus yang harus dibaca oleh jamaah haji setelah memotong rambutnya.\n\nNabi ﷺ mendoakan hal ini. Dia mengulangi doa ini dan kemudian memasukkan orang-orang yang memendekkan rambutnya.",
+        "bn": "তীর্থযাত্রীকে চুল কাটার পর পড়তে হবে এমন কোন বিশেষ দুআ নেই।\n\nরাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ দোয়া করলেন। তিনি এই দোয়াটি পুনরাবৃত্তি করলেন এবং তারপর যারা তাদের চুল ছোট করেছেন তাদের অন্তর্ভুক্ত করলেন।",
+        "ms": "Tidak ada doa khusus yang ditetapkan oleh jemaah haji selepas memotong rambut mereka.\n\nNabi ﷺ mendoakan ini. Dia mengulangi doa ini dan kemudian termasuk orang-orang yang memendekkan rambut mereka."
+      }
+    },
+    {
+      "number": 24,
+      "section": "H",
+      "title": {
+        "en": "Talbiyah while travelling to Mina",
+        "ta": "மினாவிற்கு பயணம் செய்யும் போது தல்பியா",
+        "ml": "മിനയിലേക്ക് യാത്ര ചെയ്യുമ്പോൾ തല്ബിയ",
+        "ar": "التلبية أثناء السفر إلى منى",
+        "ur": "منیٰ جاتے ہوئے تلبیہ",
+        "fr": "Talbiyah lors d'un voyage à Mina",
+        "tr": "Mina'ya giderken Telbiye",
+        "id": "Talbiyah saat bepergian ke Mina",
+        "bn": "মিনায় গমনের সময় তালবিয়াহ",
+        "ms": "Talbiyah semasa dalam perjalanan ke Mina"
+      },
+      "translation": {
+        "en": "Here I am, O Allah, here I am. Here I am; You have no partner; here I am. Surely all praise, blessings and sovereignty belong to You. You have no partner.",
+        "ta": "இதோ, யா அல்லாஹ், இதோ இருக்கிறேன். இதோ நான்; உனக்கு துணை இல்லை; இதோ நான் இருக்கிறேன். நிச்சயமாக எல்லா புகழும், ஆசீர்வாதமும், இறையாண்மையும் உனக்கே சொந்தம். உனக்கு துணை இல்லை.",
+        "ml": "ഇതാ ഞാൻ, അല്ലാഹുവേ, ഇതാ ഞാൻ. ഞാൻ ഇവിടെയുണ്ട്; നിനക്ക് പങ്കാളിയില്ല; ഞാൻ ഇവിടെയുണ്ട്. തീർച്ചയായും എല്ലാ സ്തുതിയും അനുഗ്രഹവും പരമാധികാരവും നിനക്കുള്ളതാണ്. നിനക്ക് പങ്കാളിയില്ല.",
+        "ar": "ها أنا، يا الله، ها أنا. هنا أنا؛ ليس لديك شريك؛ هنا أنا. إن لك كل الحمد والبركة والملك. ليس لديك شريك.",
+        "ur": "میں حاضر ہوں، اے اللہ، میں حاضر ہوں۔ میں یہاں ہوں؛ تیرا کوئی شریک نہیں۔ میں یہاں ہوں بے شک تمام تعریفیں، نعمتیں اور بادشاہتیں تیرے لیے ہیں۔ تمہارا کوئی شریک نہیں ہے۔",
+        "fr": "Me voici, ô Allah, me voici. Me voici; Vous n'avez pas de partenaire ; me voici. Assurément, toutes les louanges, bénédictions et souveraineté vous appartiennent. Vous n'avez pas de partenaire.",
+        "tr": "İşte buradayım Allah'ım buradayım. İşte buradayım; Ortağınız yok; işte buradayım. Şüphesiz hamd, bereket ve hükümranlık Sana aittir. Ortağınız yok.",
+        "id": "Inilah aku, ya Allah, inilah aku. Inilah saya; Anda tidak memiliki pasangan; inilah aku. Sesungguhnya segala puji, nikmat dan kedaulatan milik-Mu. Anda tidak memiliki pasangan.",
+        "bn": "এখানে আমি, হে আল্লাহ, আমি এখানে। এখানে আমি; তোমার কোন অংশীদার নেই; এখানে আমি নিশ্চয়ই সকল প্রশংসা, আশীর্বাদ ও সার্বভৌমত্ব তোমারই। তোমার কোন অংশীদার নেই।",
+        "ms": "Inilah aku, Ya Allah, inilah aku. Ini saya; Anda tidak mempunyai pasangan; di sini saya. Sesungguhnya segala pujian, nikmat dan kedaulatan adalah milikMu. Anda tiada pasangan."
+      },
+      "classification": {
+        "en": "Prophetic remembrance",
+        "ta": "தீர்க்கதரிசன நினைவு",
+        "ml": "പ്രവാചക സ്മരണ",
+        "ar": "الاذكار النبوية",
+        "ur": "نبوی ذکر",
+        "fr": "Souvenir prophétique",
+        "tr": "Peygamberlik anma",
+        "id": "Ingatan Nabi",
+        "bn": "ভাববাদী স্মরণ",
+        "ms": "Zikir kenabian"
+      }
+    },
+    {
+      "number": 25,
+      "section": "H",
+      "title": {
+        "en": "Upon reaching Mina",
+        "ta": "மினாவை அடைந்ததும்",
+        "ml": "മിനയിൽ എത്തിയപ്പോൾ",
+        "ar": "عند الوصول إلى منى",
+        "ur": "منیٰ پہنچ کر",
+        "fr": "En arrivant à Mina",
+        "tr": "Mina'ya varınca",
+        "id": "Sesampainya di Mina",
+        "bn": "মিনায় পৌঁছে",
+        "ms": "Apabila sampai ke Mina"
+      },
+      "translation": {
+        "en": "There is no authentic specific entry dua for Mina.",
+        "ta": "மினாவிற்கு உண்மையான குறிப்பிட்ட நுழைவு துவா எதுவும் இல்லை.",
+        "ml": "മിനയ്ക്ക് ആധികാരികമായ പ്രത്യേക എൻട്രി ദുആ ഇല്ല.",
+        "ar": "لا يوجد دعاء دخول محدد أصيل لمنى.",
+        "ur": "مینا کے لیے کوئی مستند مخصوص اندراج کی دعا نہیں ہے۔",
+        "fr": "Il n’existe pas de dua d’entrée authentique et spécifique pour Mina.",
+        "tr": "Mina'ya özgü özgün bir giriş duası yoktur.",
+        "id": "Tidak ada entri doa khusus yang otentik untuk Mina.",
+        "bn": "মিনার জন্য কোন খাঁটি নির্দিষ্ট প্রবেশ দুআ নেই।",
+        "ms": "Tiada doa entri khusus yang sahih untuk Mina."
+      },
+      "classification": {
+        "en": "Explanatory note and established general Dhikr",
+        "ta": "விளக்கக் குறிப்பு மற்றும் நிறுவப்பட்ட பொது திக்ர்",
+        "ml": "വിശദീകരണ കുറിപ്പും സ്ഥാപിതമായ പൊതു ദിക്റും",
+        "ar": "مذكرة توضيحية وثبت الأذكار العامة",
+        "ur": "وضاحتی نوٹ اور قائم عمومی ذکر",
+        "fr": "Note explicative et Dhikr général établi",
+        "tr": "Açıklayıcı not ve yerleşik genel Zikir",
+        "id": "Catatan penjelasan dan dzikir umum yang ditetapkan",
+        "bn": "ব্যাখ্যামূলক নোট এবং প্রতিষ্ঠিত সাধারণ Dhikr",
+        "ms": "Nota penerangan dan Dzikir am yang ditetapkan"
+      },
+      "notes": {
+        "en": "Continue Talbiyah, Takbir, Tahlil and other established Dhikr.",
+        "ta": "தல்பியா, தக்பீர், தஹ்லில் மற்றும் பிற நிறுவப்பட்ட திக்ரைத் தொடரவும்.",
+        "ml": "തൽബിയ, തക്ബീർ, തഹ്‌ലീൽ, മറ്റ് സ്ഥാപിത ദിക്ർ എന്നിവ തുടരുക.",
+        "ar": "مواصلة التلبية والتكبير والتهليل وغيرها من الأذكار الثابتة.",
+        "ur": "تلبیہ، تکبیر، تہلیل اور دیگر قائم کردہ ذکر جاری رکھیں۔",
+        "fr": "Continuez Talbiyah, Takbir, Tahlil et autres Dhikr établis.",
+        "tr": "Telbiye, Tekbir, Tahlil ve diğer yerleşik Zikirlere devam edin.",
+        "id": "Lanjutkan Talbiyah, Takbir, Tahlil dan Dzikir mapan lainnya.",
+        "bn": "তালবিয়া, তাকবীর, তাহলিল এবং অন্যান্য প্রতিষ্ঠিত যিকির চালিয়ে যান।",
+        "ms": "Teruskan Talbiyah, Takbir, Tahlil dan Zikir-zikir lain yang mapan."
+      }
+    },
+    {
+      "number": 26,
+      "section": "I",
+      "title": {
+        "en": "Upon reaching the plain of Arafah",
+        "ta": "அரஃபா சமவெளியை அடைந்ததும்",
+        "ml": "അറഫ സമതലത്തിൽ എത്തിയപ്പോൾ",
+        "ar": "عند الوصول إلى عرفة",
+        "ur": "میدان عرفہ میں پہنچ کر",
+        "fr": "En arrivant dans la plaine d'Arafah",
+        "tr": "Arafat ovasına varınca",
+        "id": "Sesampainya di dataran Arafah",
+        "bn": "আরাফার ময়দানে পৌঁছে",
+        "ms": "Apabila sampai di dataran Arafah"
+      },
+      "translation": {
+        "en": "There is no authentic specific dua for entering Arafah.",
+        "ta": "அரஃபாவிற்குள் நுழைவதற்கு உண்மையான குறிப்பிட்ட துஆ எதுவும் இல்லை.",
+        "ml": "അറഫയിൽ പ്രവേശിക്കുന്നതിന് ആധികാരികമായ പ്രത്യേക ദുആകളൊന്നുമില്ല.",
+        "ar": "لا يوجد دعاء محدد صحيح لدخول عرفة.",
+        "ur": "عرفہ میں داخل ہونے کی کوئی مستند مخصوص دعا نہیں ہے۔",
+        "fr": "Il n’existe pas de dua authentique et spécifique pour entrer à Arafah.",
+        "tr": "Arafat'a girmek için sahih bir dua yoktur.",
+        "id": "Tidak ada doa khusus yang sahih untuk memasuki Arafah.",
+        "bn": "আরাফাতে প্রবেশের জন্য কোন সহীহ সুনির্দিষ্ট দুআ নেই।",
+        "ms": "Tidak ada doa khusus yang sahih untuk memasuki Arafah."
+      },
+      "classification": {
+        "en": "Explanatory note and general remembrance",
+        "ta": "விளக்கக் குறிப்பு மற்றும் பொதுவான நினைவு",
+        "ml": "വിശദീകരണ കുറിപ്പും പൊതുവായ ഓർമ്മപ്പെടുത്തലും",
+        "ar": "مذكرة توضيحية وتذكير عام",
+        "ur": "وضاحتی نوٹ اور عام یاد",
+        "fr": "Note explicative et souvenir général",
+        "tr": "Açıklayıcı not ve genel hatırlatma",
+        "id": "Catatan penjelasan dan peringatan umum",
+        "bn": "ব্যাখ্যামূলক নোট এবং সাধারণ স্মরণ",
+        "ms": "Nota penerangan dan zikir am"
+      },
+      "notes": {
+        "en": "Continue Talbiyah and remembrance.",
+        "ta": "தல்பியாவையும் நினைவு கூறுதலையும் தொடருங்கள்.",
+        "ml": "തല്ബിയയും അനുസ്മരണവും തുടരുക.",
+        "ar": "متابعة التلبية والذكر.",
+        "ur": "تلبیہ اور ذکر کو جاری رکھیں۔",
+        "fr": "Continuez la Talbiyah et le souvenir.",
+        "tr": "Telbiye ve zikre devam edin.",
+        "id": "Lanjutkan Talbiyah dan zikir.",
+        "bn": "তালবিয়া ও যিকির চালিয়ে যান।",
+        "ms": "Teruskan Talbiyah dan zikir."
+      }
+    },
+    {
+      "number": 27,
+      "section": "I",
+      "title": {
+        "en": "At Jabal al-Rahmah (Mount of Mercy)",
+        "ta": "ஜபல் அல்-ரஹ்மாவில் (கருணை மலை)",
+        "ml": "ജബൽ അൽ-റഹ്മയിൽ (കരുണയുടെ പർവ്വതം)",
+        "ar": "في جبل الرحمة (جبل الرحمة)",
+        "ur": "جبل الرحمہ (رحمت کے پہاڑ) میں",
+        "fr": "À Jabal al-Rahmah (Mont de la Miséricorde)",
+        "tr": "Jabal al-Rahmah'da (Rahmet Dağı)",
+        "id": "Di Jabal al-Rahmah (Gunung Rahmat)",
+        "bn": "জাবাল আল-রহমাহ (রহমতের পাহাড়) এ",
+        "ms": "Di Jabal ar-Rahmah (Gunung Rahmat)"
+      },
+      "translation": {
+        "en": "There is no authentic specific dua for climbing Jabal al-Rahmah, touching its stones, standing on its summit or facing its pillar. There is also no special dua established specifically for the mountain itself.",
+        "ta": "ஜபல் அல்-ரஹ்மாவில் ஏறுவதற்கும், அதன் கற்களைத் தொடுவதற்கும், அதன் உச்சியில் நிற்பதற்கும் அல்லது அதன் தூணை நோக்கிச் செல்வதற்கும் உண்மையான குறிப்பிட்ட துவா எதுவும் இல்லை. மலைக்கென பிரத்யேக துவா எதுவும் நிறுவப்படவில்லை.",
+        "ml": "ജബൽ അൽ-റഹ്മയിൽ കയറുന്നതിനോ അതിൻ്റെ കല്ലുകളിൽ തൊടുന്നതിനോ അതിൻ്റെ കൊടുമുടിയിൽ നിൽക്കുന്നതിനോ സ്തംഭത്തിന് അഭിമുഖമായി നിൽക്കുന്നതിനോ ആധികാരികമായ പ്രത്യേക ദുആകളൊന്നുമില്ല. പർവതത്തിന് പ്രത്യേകമായി പ്രത്യേക ദുആയും സ്ഥാപിച്ചിട്ടില്ല.",
+        "ar": "ليس هناك دعاء محدد صحيح لصعود جبل الرحمة أو لمس حجارته أو الوقوف على قمته أو استقبال عموده. كما لا يوجد أيضًا دعاء خاص تم إنشاؤه خصيصًا للجبل نفسه.",
+        "ur": "جبل الرحمہ پر چڑھنے، اس کے پتھروں کو چھونے، اس کی چوٹی پر کھڑے ہونے یا اس کے ستون کی طرف منہ کرنے کی کوئی مستند مخصوص دعا نہیں ہے۔ پہاڑ کے لیے بھی کوئی خاص دعا قائم نہیں کی گئی ہے۔",
+        "fr": "Il n'existe pas d'authentique dua spécifique pour gravir Jabal al-Rahmah, toucher ses pierres, se tenir debout sur son sommet ou faire face à son pilier. Il n’existe pas non plus de dua spécial établi spécifiquement pour la montagne elle-même.",
+        "tr": "Cebel-i Rahme'ye tırmanmak, taşlarına dokunmak, zirvesinde durmak veya sütununa dönmek için sahih bir dua yoktur. Ayrıca dağa özel olarak oluşturulmuş özel bir dua da yoktur.",
+        "id": "Tidak ada doa khusus yang sahih untuk mendaki Jabal al-Rahmah, menyentuh bebatuannya, berdiri di puncaknya, atau menghadap pilarnya. Juga tidak ada doa khusus yang dipanjatkan khusus untuk gunung itu sendiri.",
+        "bn": "জাবাল আল-রাহমায় আরোহণ করা, এর পাথর স্পর্শ করা, এর চূড়ায় দাঁড়ানো বা এর স্তম্ভের মুখোমুখি হওয়ার জন্য কোন নির্ভরযোগ্য সুনির্দিষ্ট দুআ নেই। পাহাড়ের জন্য বিশেষভাবে প্রতিষ্ঠিত কোন বিশেষ দুআও নেই।",
+        "ms": "Tidak ada doa khusus yang sahih untuk mendaki Jabal ar-Rahmah, menyentuh batu-batunya, berdiri di puncaknya atau menghadap tiangnya. Juga tidak ada doa khusus yang ditubuhkan khusus untuk gunung itu sendiri."
+      },
+      "classification": {
+        "en": "Explanatory note and personal supplication",
+        "ta": "விளக்கக் குறிப்பு மற்றும் தனிப்பட்ட வேண்டுகோள்",
+        "ml": "വിശദീകരണ കുറിപ്പും വ്യക്തിപരമായ അപേക്ഷയും",
+        "ar": "مذكرة توضيحية والدعاء الشخصي",
+        "ur": "وضاحتی نوٹ اور ذاتی دعا",
+        "fr": "Note explicative et supplication personnelle",
+        "tr": "Açıklayıcı not ve kişisel dua",
+        "id": "Catatan penjelasan dan permohonan pribadi",
+        "bn": "ব্যাখ্যামূলক নোট এবং ব্যক্তিগত অনুরোধ",
+        "ms": "Nota penerangan dan doa peribadi"
+      },
+      "notes": {
+        "en": "The Sunnah is to make supplication throughout the standing at Arafah, wherever one is within the boundaries of Arafah.",
+        "ta": "அரஃபாவின் எல்லைக்குள் ஒருவர் எங்கிருந்தாலும் அரஃபாவில் நின்று பிரார்த்தனை செய்வதே சுன்னாவாகும்.",
+        "ml": "അറഫയുടെ അതിരുകൾക്കുള്ളിൽ എവിടെയായിരുന്നാലും അറഫയിലെ നിലയിലുടനീളം പ്രാർത്ഥന നടത്തലാണ് സുന്നത്ത്.",
+        "ar": "والسنة الدعاء في جميع أنحاء الوقوف بعرفة حيثما كان في حدود عرفة.",
+        "ur": "عرفہ میں جہاں بھی میدان عرفہ میں ہو وہاں پورے قیام کے دوران دعا مانگنا سنت ہے۔",
+        "fr": "La Sunna est de faire des supplications pendant toute la durée d'Arafah, partout où l'on se trouve dans les limites d'Arafah.",
+        "tr": "Arafat sınırları içinde nerede bulunursa bulunsun, Arafat'ta namaz kıldığı süre boyunca dua etmek sünnettir.",
+        "id": "Sunnahnya adalah berdoa sambil berdiri di Arafah, dimanapun seseorang berada dalam batas Arafah.",
+        "bn": "আরাফার সীমানার মধ্যে যেখানেই থাকুক না কেন, আরাফায় দাঁড়িয়েই দুআ করা সুন্নত।",
+        "ms": "Sunnah adalah berdoa sepanjang berdiri di Arafah, di mana sahaja seseorang berada dalam sempadan Arafah."
+      }
+    },
+    {
+      "number": 28,
+      "section": "I",
+      "title": {
+        "en": "The best Dhikr of the Day of Arafah",
+        "ta": "அரஃபா நாளின் சிறந்த திக்ர்",
+        "ml": "അറഫാ ദിനത്തിലെ ഏറ്റവും മികച്ച ദിക്ർ",
+        "ar": "أفضل أذكار يوم عرفة",
+        "ur": "عرفہ کے دن کا بہترین ذکر",
+        "fr": "Le meilleur dhikr du jour d'Arafah",
+        "tr": "Arefe gününün en güzel zikri",
+        "id": "Dzikir Terbaik Hari Arafah",
+        "bn": "আরাফার দিনের শ্রেষ্ঠ যিকির",
+        "ms": "Zikir terbaik hari Arafah"
+      },
+      "translation": {
+        "en": "There is no deity worthy of worship except Allah alone. He has no partner. His is the dominion and His is the praise, and He has power over all things.",
+        "ta": "வணக்கத்திற்குரிய இறைவன் அல்லாஹ்வைத் தவிர வேறு யாரும் இல்லை. அவருக்கு துணை இல்லை. ஆதிக்கம் அவனுடையது, புகழும் அவனுடையது, மேலும் அவன் எல்லாப் பொருட்களின் மீதும் ஆற்றலுடையவன்.",
+        "ml": "അള്ളാഹു അല്ലാതെ ആരാധന അർഹിക്കുന്ന ഒരു ദൈവവുമില്ല. അവന് പങ്കാളിയില്ല. ആധിപത്യം അവനുള്ളതാണ്, സ്തുതിയും അവനാണ്, അവൻ എല്ലാറ്റിനും അധികാരമുള്ളവനാണ്.",
+        "ar": "ولا إله يستحق العبادة إلا الله وحده. ليس لديه شريك. له الملك وله الحمد، وهو على كل شيء قدير.",
+        "ur": "اللہ کے سوا کوئی عبادت کے لائق نہیں۔ اس کا کوئی شریک نہیں۔ اسی کی بادشاہی ہے اور اسی کی حمد ہے اور وہ ہر چیز پر قادر ہے۔",
+        "fr": "Il n’y a de divinité digne d’adoration qu’Allah seul. Il n'a pas de partenaire. À lui appartient la domination et à lui la louange, et il a pouvoir sur toutes choses.",
+        "tr": "Yalnızca Allah'tan başka ibadete layık ilah yoktur. Ortağı yoktur. Mülk O'nundur, hamd O'nundur ve O, her şeye gücü yetendir.",
+        "id": "Tidak ada Tuhan yang berhak disembah kecuali Allah saja. Dia tidak punya pasangan. Milik-Nya kekuasaan dan milik-Nya pujian, dan Dia Mahakuasa atas segala sesuatu.",
+        "bn": "একমাত্র আল্লাহ ছাড়া ইবাদতের যোগ্য কোনো উপাস্য নেই। তার কোন শরীক নেই। রাজত্ব তাঁরই এবং তাঁরই প্রশংসা এবং তিনিই সব কিছুর উপর ক্ষমতাবান।",
+        "ms": "Tiada tuhan yang berhak disembah melainkan Allah sahaja. Dia tiada pasangan. Kepunyaan-Nya kerajaan dan kepunyaan-Nya pujian, dan Dia Maha Kuasa atas segala sesuatu."
+      },
+      "classification": {
+        "en": "Reported prophetic remembrance",
+        "ta": "தீர்க்கதரிசன நினைவு அறிக்கை",
+        "ml": "റിപ്പോർട്ട് ചെയ്യപ്പെട്ട പ്രവാചക സ്മരണ",
+        "ar": "الأذكار النبوية المبلغ عنها",
+        "ur": "نبوی یاد کی اطلاع دی۔",
+        "fr": "Souvenir prophétique rapporté",
+        "tr": "Bildirilen kehanet anısı",
+        "id": "Dilaporkan zikir kenabian",
+        "bn": "রিপোর্ট ভবিষ্যদ্বাণীপূর্ণ স্মরণ",
+        "ms": "Dilaporkan zikir kenabian"
+      },
+      "notes": {
+        "en": "Reported in Hadith.",
+        "ta": "ஹதீஸில் பதிவாகியுள்ளது.",
+        "ml": "ഹദീസിൽ റിപ്പോർട്ട് ചെയ്തിട്ടുണ്ട്.",
+        "ar": "ورد في الحديث.",
+        "ur": "حدیث میں بیان ہوا ہے۔",
+        "fr": "Rapporté dans un Hadith.",
+        "tr": "Hadislerde haber verilmiştir.",
+        "id": "Dilaporkan dalam Hadits.",
+        "bn": "হাদীসে বর্ণিত।",
+        "ms": "Diriwayatkan dalam Hadis."
+      }
+    },
+    {
+      "number": 29,
+      "section": "I",
+      "title": {
+        "en": "Dua for the Day of Arafah",
+        "ta": "அரஃபா நாளுக்கான துஆ",
+        "ml": "അറഫാ ദിനത്തിനായുള്ള ദുആ",
+        "ar": "دعاء يوم عرفة",
+        "ur": "عرفہ کے دن کی دعا",
+        "fr": "Dua pour le jour d'Arafah",
+        "tr": "Arefe Günü Duası",
+        "id": "Doa di Hari Arafah",
+        "bn": "আরাফাহ দিবসের দুআ",
+        "ms": "Doa untuk Hari Arafah"
+      },
+      "translation": {
+        "en": "The best supplication is the supplication made on the Day of Arafah, and the best thing that I and the Prophets before me have said is:\n\nThere is no deity worthy of worship except Allah alone. He has no partner. His is the dominion and His is the praise, and He has power over all things.",
+        "ta": "அரஃபா நாளில் செய்யப்படும் பிரார்த்தனையே சிறந்த பிரார்த்தனையாகும், நானும் எனக்கு முன்னிருந்த நபிமார்களும் கூறிய சிறந்த விஷயம்:\n\nவணக்கத்திற்குரிய இறைவன் அல்லாஹ்வைத் தவிர வேறு யாரும் இல்லை. அவருக்கு துணை இல்லை. ஆதிக்கம் அவனுடையது, புகழும் அவனுடையது, மேலும் அவன் எல்லாப் பொருட்களின் மீதும் ஆற்றலுடையவன்.",
+        "ml": "അറഫാ ദിനത്തിൽ നടത്തുന്ന പ്രാർത്ഥനയാണ് ഏറ്റവും നല്ല പ്രാർത്ഥന, ഞാനും എനിക്ക് മുമ്പുള്ള പ്രവാചകന്മാരും പറഞ്ഞ ഏറ്റവും നല്ല കാര്യം ഇതാണ്:\n\nഅള്ളാഹു അല്ലാതെ ആരാധന അർഹിക്കുന്ന ഒരു ദൈവവുമില്ല. അവന് പങ്കാളിയില്ല. ആധിപത്യം അവനുള്ളതാണ്, സ്തുതിയും അവനാണ്, അവൻ എല്ലാറ്റിനും അധികാരമുള്ളവനാണ്.",
+        "ar": "خير الدعاء دعاء يوم عرفة، وخير ما قلت أنا والنبيون من قبلي:\n\nولا إله يستحق العبادة إلا الله وحده. ليس لديه شريك. له الملك وله الحمد، وهو على كل شيء قدير.",
+        "ur": "افضل ترین دعا عرفہ کے دن کی جانے والی دعا ہے اور سب سے اچھی بات جو میں نے اور مجھ سے پہلے انبیاء نے کہی ہے وہ یہ ہے:\n\nاللہ کے سوا کوئی عبادت کے لائق نہیں۔ اس کا کوئی شریک نہیں۔ اسی کی بادشاہی ہے اور اسی کی حمد ہے اور وہ ہر چیز پر قادر ہے۔",
+        "fr": "La meilleure supplication est celle faite le jour d'Arafah, et la meilleure chose que moi et les prophètes avant moi avons dite est :\n\nIl n’y a de divinité digne d’adoration qu’Allah seul. Il n'a pas de partenaire. À lui appartient la domination et à lui la louange, et il a pouvoir sur toutes choses.",
+        "tr": "Duanın en hayırlısı Arefe günü yapılan duadır ve benim ve benden önceki peygamberlerin söylediği en hayırlı söz şudur:\n\nYalnızca Allah'tan başka ibadete layık ilah yoktur. Ortağı yoktur. Mülk O'nundur, hamd O'nundur ve O, her şeye gücü yetendir.",
+        "id": "Doa yang paling utama adalah doa yang dipanjatkan pada hari Arafah, dan doa yang paling utama yang pernah aku dan para nabi sebelumku ucapkan adalah:\n\nTidak ada Tuhan yang berhak disembah kecuali Allah saja. Dia tidak punya pasangan. Milik-Nya kekuasaan dan milik-Nya pujian, dan Dia Mahakuasa atas segala sesuatu.",
+        "bn": "সর্বোত্তম দুআ হল আরাফার দিনে করা দুআ এবং আমি এবং আমার পূর্ববর্তী নবীগণ সর্বোত্তম যেটি বলেছেন:\n\nএকমাত্র আল্লাহ ছাড়া ইবাদতের যোগ্য কোনো উপাস্য নেই। তার কোন শরীক নেই। রাজত্ব তাঁরই এবং তাঁরই প্রশংসা এবং তিনিই সব কিছুর উপর ক্ষমতাবান।",
+        "ms": "Sebaik-baik doa ialah doa pada hari Arafah, dan sebaik-baik doa yang aku dan para Nabi sebelumku katakan ialah:\n\nTiada tuhan yang berhak disembah melainkan Allah sahaja. Dia tiada pasangan. Kepunyaan-Nya kerajaan dan kepunyaan-Nya pujian, dan Dia Maha Kuasa atas segala sesuatu."
+      },
+      "classification": {
+        "en": "Reported supplication; grading discussed by hadith scholars",
+        "ta": "அறிக்கையிடப்பட்ட வேண்டுகோள்; ஹதீஸ் அறிஞர்களால் விவாதிக்கப்படும் தரம்",
+        "ml": "റിപ്പോർട്ട് ചെയ്യപ്പെട്ട അപേക്ഷ; ഹദീസ് പണ്ഡിതന്മാർ ചർച്ച ചെയ്യുന്ന ഗ്രേഡിംഗ്",
+        "ar": "الدعاء المبلغ عنه؛ الدرجات التي ناقشها علماء الحديث",
+        "ur": "اطلاع دی گئی دعا؛ درجہ بندی جس پر علمائے حدیث نے بحث کی۔",
+        "fr": "Supplication signalée ; la notation discutée par les spécialistes du hadith",
+        "tr": "Bildirilen dua; Hadis alimlerinin tartıştığı derecelendirme",
+        "id": "Doa yang dilaporkan; grading yang dibahas oleh para ulama hadis",
+        "bn": "রিপোর্টকৃত মিনতি; হাদিস বিশারদদের দ্বারা আলোচিত গ্রেডিং",
+        "ms": "Doa yang dilaporkan; pemeringkatan yang dibincangkan oleh ulama hadis"
+      },
+      "notes": {
+        "en": "The following is the reported statement about the best supplication of the Day of Arafah.\n\nThe report's grading has been discussed by hadith scholars.",
+        "ta": "அரஃபா நாளின் சிறந்த துஆ பற்றிய அறிக்கை கீழே கொடுக்கப்பட்டுள்ளது.\n\nஇந்த அறிக்கையின் தரவரிசை ஹதீஸ் அறிஞர்களால் விவாதிக்கப்பட்டது.",
+        "ml": "അറഫാ ദിനത്തിലെ ഏറ്റവും ശ്രേഷ്ഠമായ പ്രാർത്ഥനയെ കുറിച്ച് റിപ്പോർട്ട് ചെയ്യപ്പെട്ട പ്രസ്താവനയാണ് താഴെ കൊടുത്തിരിക്കുന്നത്.\n\nറിപ്പോർട്ടിൻ്റെ ഗ്രേഡിംഗ് ഹദീസ് പണ്ഡിതന്മാർ ചർച്ച ചെയ്തിട്ടുണ്ട്.",
+        "ar": "وفيما يلي البيان الوارد عن أفضل الدعاء في يوم عرفة.\n\nوقد ناقش علماء الحديث تصنيف التقرير.",
+        "ur": "عرفہ کے دن کی بہترین دعا کے بارے میں درج ذیل بیان کیا گیا ہے۔\n\nرپورٹ کی درجہ بندی پر علمائے حدیث نے بحث کی ہے۔",
+        "fr": "Ce qui suit est la déclaration rapportée sur la meilleure supplication du jour d'Arafah.\n\nLa notation du rapport a été discutée par des spécialistes du hadith.",
+        "tr": "Arefe gününün en güzel duası hakkında rivayet edilen ifadeler aşağıdadır.\n\nRaporun derecelendirmesi hadis alimleri tarafından tartışılmıştır.",
+        "id": "Berikut ini adalah laporan tentang doa terbaik di hari Arafah.\n\nPemeringkatan laporan tersebut telah dibahas oleh para ulama hadis.",
+        "bn": "নিম্নে আরাফাহ দিবসের সর্বোত্তম দোয়া সম্পর্কে বর্ণিত বিবৃতি রয়েছে।\n\nপ্রতিবেদনের গ্রেডিং নিয়ে আলোচনা করেছেন হাদীস বিশারদগণ।",
+        "ms": "Berikut adalah kenyataan yang dilaporkan tentang doa terbaik hari Arafah.\n\nPemeringkatan laporan tersebut telah dibincangkan oleh ulama hadith."
+      }
+    },
+    {
+      "number": 30,
+      "section": "I",
+      "title": {
+        "en": "Dhikr and supplication throughout Arafah",
+        "ta": "அரஃபா முழுவதும் திக்ர் ​​மற்றும் பிரார்த்தனை",
+        "ml": "അറഫയിലുടനീളം ദിക്റും പ്രാർത്ഥനയും",
+        "ar": "الذكر والدعاء في عرفة",
+        "ur": "پورے عرفہ میں ذکر اور دعا",
+        "fr": "Dhikr et supplication dans tout Arafah",
+        "tr": "Arafat'ta zikir ve dua",
+        "id": "Dzikir dan doa sepanjang Arafah",
+        "bn": "আরাফাহ জুড়ে যিকির ও দোয়া",
+        "ms": "Zikir dan doa sepanjang Arafah"
+      },
+      "translation": {
+        "en": "Repeat the remembrance in section 28, along with Talbiyah, Takbir and personal supplication.",
+        "ta": "தல்பியா, தக்பீர் மற்றும் தனிப்பட்ட பிரார்த்தனையுடன் பிரிவு 28 இல் நினைவூட்டலை மீண்டும் செய்யவும்.",
+        "ml": "തൽബിയ, തക്ബീർ, വ്യക്തിപരമായ പ്രാർത്ഥന എന്നിവയ്‌ക്കൊപ്പം സെക്ഷൻ 28-ലെ സ്‌മരണ ആവർത്തിക്കുക.",
+        "ar": "كرر الذكر في القسم 28 مع التلبية والتكبير والدعاء الشخصي.",
+        "ur": "تلبیہ، تکبیر اور ذاتی دعا کے ساتھ دفعہ 28 میں یاد کو دہرائیں۔",
+        "fr": "Répétez le souvenir de la section 28, avec Talbiyah, Takbir et la supplication personnelle.",
+        "tr": "Telbiye, tekbir ve kişisel dua ile birlikte 28. bölümdeki zikri tekrarlayın.",
+        "id": "Mengulangi zikir pada bagian 28, disertai talbiyah, takbir dan doa pribadi.",
+        "bn": "তালবিয়া, তাকবীর এবং ব্যক্তিগত দোয়া সহ ২৮ ধারায় স্মরণটি পুনরাবৃত্তি করুন।",
+        "ms": "Ulang zikir di bahagian 28, bersama Talbiyah, Takbir dan doa peribadi."
+      },
+      "classification": {
+        "en": "General remembrance and personal supplication; no fixed hourly duas",
+        "ta": "பொது நினைவு மற்றும் தனிப்பட்ட வேண்டுகோள்; நிலையான மணிநேர துவாக்கள் இல்லை",
+        "ml": "പൊതുവായ സ്മരണയും വ്യക്തിപരമായ അപേക്ഷയും; നിശ്ചിത മണിക്കൂർ ദുആകൾ ഇല്ല",
+        "ar": "الأذكار العامة والدعاء الشخصي؛ لا أدعية ثابتة في الساعة",
+        "ur": "عام یاد اور ذاتی دعا؛ کوئی مقررہ گھنٹے کی دعا نہیں",
+        "fr": "Souvenir général et supplication personnelle ; pas de duas horaires fixes",
+        "tr": "Genel zikir ve kişisel dua; sabit saatlik dua yok",
+        "id": "Peringatan umum dan permohonan pribadi; tidak ada doa tetap setiap jam",
+        "bn": "সাধারণ স্মরণ এবং ব্যক্তিগত প্রার্থনা; কোনো নির্দিষ্ট ঘণ্টায় দুআ নেই",
+        "ms": "Zikir am dan doa peribadi; tiada doa setiap jam tetap"
+      },
+      "notes": {
+        "en": "There is no fixed set of Arabic duas assigned to particular hours of Arafah.",
+        "ta": "அரஃபாவின் குறிப்பிட்ட நேரத்திற்கு ஒதுக்கப்பட்ட அரபு துவாக்களின் நிலையான தொகுப்பு எதுவும் இல்லை.",
+        "ml": "അറഫയുടെ പ്രത്യേക സമയങ്ങളിൽ നിശ്ചിത അറബി ദുആകൾ നിശ്ചയിച്ചിട്ടില്ല.",
+        "ar": "لا توجد مجموعة ثابتة من الأدعية العربية المخصصة لساعات معينة من عرفة.",
+        "ur": "عرفہ کے مخصوص اوقات کے لیے عربی دعاؤں کا کوئی مقررہ مجموعہ نہیں ہے۔",
+        "fr": "Il n’existe pas d’ensemble fixe de duas arabes attribués à des heures particulières d’Arafah.",
+        "tr": "Arefe'nin belirli saatlerine tahsis edilmiş sabit bir Arapça dua dizisi yoktur.",
+        "id": "Tidak ada kumpulan doa Arab yang ditetapkan untuk jam-jam tertentu di Arafah.",
+        "bn": "আরাফার নির্দিষ্ট সময়ের জন্য নির্ধারিত আরবি দুআগুলোর কোনো নির্দিষ্ট সেট নেই।",
+        "ms": "Tidak ada set tetap doa Arab yang ditetapkan untuk jam-jam tertentu Arafah."
+      }
+    },
+    {
+      "number": 31,
+      "section": "J",
+      "title": {
+        "en": "Talbiyah while leaving Arafah",
+        "ta": "அரஃபாவை விட்டு வெளியேறும் போது தல்பியா",
+        "ml": "അറഫയിൽ നിന്ന് പുറപ്പെടുമ്പോൾ തല്ബിയ",
+        "ar": "التلبية أثناء الخروج من عرفة",
+        "ur": "عرفہ سے نکلتے وقت تلبیہ",
+        "fr": "Talbiyah en quittant Arafah",
+        "tr": "Arafat'tan ayrılırken Telbiye",
+        "id": "Talbiyah saat meninggalkan Arafah",
+        "bn": "আরাফাহ থেকে বের হওয়ার সময় তালবিয়া",
+        "ms": "Talbiyah semasa meninggalkan Arafah"
+      },
+      "translation": {
+        "en": "Here I am, O Allah, here I am. Here I am; You have no partner; here I am. Surely all praise, blessings and sovereignty belong to You. You have no partner.",
+        "ta": "இதோ, யா அல்லாஹ், இதோ இருக்கிறேன். இதோ நான்; உனக்கு துணை இல்லை; இதோ நான் இருக்கிறேன். நிச்சயமாக எல்லா புகழும், ஆசீர்வாதமும், இறையாண்மையும் உனக்கே சொந்தம். உனக்கு துணை இல்லை.",
+        "ml": "ഇതാ ഞാൻ, അല്ലാഹുവേ, ഇതാ ഞാൻ. ഞാൻ ഇവിടെയുണ്ട്; നിനക്ക് പങ്കാളിയില്ല; ഞാൻ ഇവിടെയുണ്ട്. തീർച്ചയായും എല്ലാ സ്തുതിയും അനുഗ്രഹവും പരമാധികാരവും നിനക്കുള്ളതാണ്. നിനക്ക് പങ്കാളിയില്ല.",
+        "ar": "ها أنا، يا الله، ها أنا. هنا أنا؛ ليس لديك شريك؛ هنا أنا. إن لك كل الحمد والبركة والملك. ليس لديك شريك.",
+        "ur": "میں حاضر ہوں، اے اللہ، میں حاضر ہوں۔ میں یہاں ہوں؛ تیرا کوئی شریک نہیں۔ میں یہاں ہوں بے شک تمام تعریفیں، نعمتیں اور بادشاہتیں تیرے لیے ہیں۔ تمہارا کوئی شریک نہیں ہے۔",
+        "fr": "Me voici, ô Allah, me voici. Me voici; Vous n'avez pas de partenaire ; me voici. Assurément, toutes les louanges, bénédictions et souveraineté vous appartiennent. Vous n'avez pas de partenaire.",
+        "tr": "İşte buradayım Allah'ım buradayım. İşte buradayım; Ortağınız yok; işte buradayım. Şüphesiz hamd, bereket ve hükümranlık Sana aittir. Ortağınız yok.",
+        "id": "Inilah aku, ya Allah, inilah aku. Inilah saya; Anda tidak memiliki pasangan; inilah aku. Sesungguhnya segala puji, nikmat dan kedaulatan milik-Mu. Anda tidak memiliki pasangan.",
+        "bn": "এখানে আমি, হে আল্লাহ, আমি এখানে। এখানে আমি; তোমার কোন অংশীদার নেই; এখানে আমি নিশ্চয়ই সকল প্রশংসা, আশীর্বাদ ও সার্বভৌমত্ব তোমারই। তোমার কোন অংশীদার নেই।",
+        "ms": "Inilah aku, Ya Allah, inilah aku. Ini saya; Anda tidak mempunyai pasangan; di sini saya. Sesungguhnya segala pujian, nikmat dan kedaulatan adalah milikMu. Anda tiada pasangan."
+      },
+      "classification": {
+        "en": "Prophetic remembrance; explanatory note",
+        "ta": "தீர்க்கதரிசன நினைவு; விளக்கக் குறிப்பு",
+        "ml": "പ്രവാചക സ്മരണ; വിശദീകരണ കുറിപ്പ്",
+        "ar": "الأذكار النبوية؛ مذكرة توضيحية",
+        "ur": "نبوی ذکر؛ وضاحتی نوٹ",
+        "fr": "Souvenir prophétique; note explicative",
+        "tr": "Peygamberlik anısı; açıklayıcı not",
+        "id": "Ingatan kenabian; catatan penjelasan",
+        "bn": "ভাববাদী স্মরণ; ব্যাখ্যামূলক নোট",
+        "ms": "Zikir kenabian; nota penerangan"
+      },
+      "notes": {
+        "en": "There is no separate prescribed departure dua for Arafah.",
+        "ta": "அரஃபாவிற்கு தனித்தனியாக பரிந்துரைக்கப்பட்ட புறப்பாடு துவா இல்லை.",
+        "ml": "അറഫയ്ക്കായി പ്രത്യേകം പ്രത്യേകം നിർദ്ദേശിച്ചിട്ടുള്ള പുറപ്പെടൽ ദുആ ഇല്ല.",
+        "ar": "ليس هناك دعاء منفصل محدد للخروج إلى عرفة.",
+        "ur": "عرفہ کے لیے روانگی کی الگ سے کوئی دعا نہیں ہے۔",
+        "fr": "Il n’y a pas de dua de départ distinct pour Arafah.",
+        "tr": "Arefe için ayrı bir ayrılış duası yoktur.",
+        "id": "Tidak ada doa keberangkatan yang ditentukan secara terpisah untuk Arafah.",
+        "bn": "আরাফার জন্য আলাদা কোনো নির্ধারিত যাত্রার দুআ নেই।",
+        "ms": "Tiada doa berlepas yang disyariatkan berasingan untuk Arafah."
+      }
+    },
+    {
+      "number": 32,
+      "section": "K",
+      "title": {
+        "en": "Upon reaching Muzdalifah",
+        "ta": "முஸ்தலிஃபாவை அடைந்ததும்",
+        "ml": "മുസ്ദലിഫയിൽ എത്തിയപ്പോൾ",
+        "ar": "عند الوصول إلى مزدلفة",
+        "ur": "مزدلفہ پہنچ کر",
+        "fr": "En arrivant à Muzdalifah",
+        "tr": "Müzdelife'ye varınca",
+        "id": "Sesampainya di Muzdalifah",
+        "bn": "মুযদালিফায় পৌঁছে",
+        "ms": "Apabila sampai di Muzdalifah"
+      },
+      "translation": {
+        "en": "There is no specific authentic entry dua.",
+        "ta": "குறிப்பிட்ட உண்மையான நுழைவு துவா இல்லை.",
+        "ml": "പ്രത്യേക ആധികാരിക എൻട്രി ദുആ ഇല്ല.",
+        "ar": "لا يوجد دعاء دخول حقيقي محدد.",
+        "ur": "کوئی خاص مستند اندراج دعا نہیں ہے۔",
+        "fr": "Il n’y a pas de dua d’entrée authentique spécifique.",
+        "tr": "Belirli bir otantik giriş duası yoktur.",
+        "id": "Tidak ada entri doa otentik yang spesifik.",
+        "bn": "কোন নির্দিষ্ট খাঁটি এন্ট্রি দুআ নেই.",
+        "ms": "Tiada entri sahih khusus dua."
+      },
+      "classification": {
+        "en": "Explanatory note; no specific authentic dua established",
+        "ta": "விளக்கக் குறிப்பு; குறிப்பிட்ட உண்மையான துவா நிறுவப்படவில்லை",
+        "ml": "വിശദീകരണ കുറിപ്പ്; നിർദ്ദിഷ്ട ആധികാരിക ദുആ സ്ഥാപിച്ചിട്ടില്ല",
+        "ar": "مذكرة توضيحية؛ لم يتم إنشاء دعاء حقيقي محدد",
+        "ur": "وضاحتی نوٹ؛ کوئی خاص مستند دعا قائم نہیں۔",
+        "fr": "Note explicative ; aucun dua authentique spécifique établi",
+        "tr": "Açıklayıcı not; belirli bir özgün dua oluşturulmadı",
+        "id": "Catatan penjelasan; tidak ada doa otentik tertentu yang ditetapkan",
+        "bn": "ব্যাখ্যামূলক নোট; কোন সুনির্দিষ্ট খাঁটি দুআ প্রতিষ্ঠিত হয়নি",
+        "ms": "Nota penerangan; tiada doa sahih yang khusus ditubuhkan"
+      }
+    },
+    {
+      "number": 33,
+      "section": "K",
+      "title": {
+        "en": "After Fajr at al-Mash'ar al-Haram",
+        "ta": "அல்-மஷ்அர் அல்-ஹராமில் ஃபஜ்ருக்குப் பிறகு",
+        "ml": "അൽ മശ്അർ അൽ ഹറാമിൽ ഫജറിന് ശേഷം",
+        "ar": "بعد الفجر في المشعر الحرام",
+        "ur": "مشعر الحرام میں فجر کے بعد",
+        "fr": "Après Fajr à al-Mash'ar al-Haram",
+        "tr": "Meş'ar-ı Haram'da sabah namazından sonra",
+        "id": "Setelah Subuh di al-Mash'ar al-Haram",
+        "bn": "আল-মাশআর আল-হারামে ফজরের পর",
+        "ms": "Selepas Subuh di al-Masy'ar al-Haram"
+      },
+      "translation": {
+        "en": "There is no deity worthy of worship except Allah alone. He has no partner. His is the dominion and His is the praise, and He has power over all things.",
+        "ta": "வணக்கத்திற்குரிய இறைவன் அல்லாஹ்வைத் தவிர வேறு யாரும் இல்லை. அவருக்கு துணை இல்லை. ஆதிக்கம் அவனுடையது, புகழும் அவனுடையது, மேலும் அவன் எல்லாப் பொருட்களின் மீதும் ஆற்றலுடையவன்.",
+        "ml": "അള്ളാഹു അല്ലാതെ ആരാധന അർഹിക്കുന്ന ഒരു ദൈവവുമില്ല. അവന് പങ്കാളിയില്ല. ആധിപത്യം അവനുള്ളതാണ്, സ്തുതിയും അവനാണ്, അവൻ എല്ലാറ്റിനും അധികാരമുള്ളവനാണ്.",
+        "ar": "ولا إله يستحق العبادة إلا الله وحده. ليس لديه شريك. له الملك وله الحمد، وهو على كل شيء قدير.",
+        "ur": "اللہ کے سوا کوئی عبادت کے لائق نہیں۔ اس کا کوئی شریک نہیں۔ اسی کی بادشاہی ہے اور اسی کی حمد ہے اور وہ ہر چیز پر قادر ہے۔",
+        "fr": "Il n’y a de divinité digne d’adoration qu’Allah seul. Il n'a pas de partenaire. À lui appartient la domination et à lui la louange, et il a pouvoir sur toutes choses.",
+        "tr": "Yalnızca Allah'tan başka ibadete layık ilah yoktur. Ortağı yoktur. Mülk O'nundur, hamd O'nundur ve O, her şeye gücü yetendir.",
+        "id": "Tidak ada Tuhan yang berhak disembah kecuali Allah saja. Dia tidak punya pasangan. Milik-Nya kekuasaan dan milik-Nya pujian, dan Dia Mahakuasa atas segala sesuatu.",
+        "bn": "একমাত্র আল্লাহ ছাড়া ইবাদতের যোগ্য কোনো উপাস্য নেই। তার কোন শরীক নেই। রাজত্ব তাঁরই এবং তাঁরই প্রশংসা এবং তিনিই সব কিছুর উপর ক্ষমতাবান।",
+        "ms": "Tiada tuhan yang berhak disembah melainkan Allah sahaja. Dia tiada pasangan. Kepunyaan-Nya kerajaan dan kepunyaan-Nya pujian, dan Dia Maha Kuasa atas segala sesuatu."
+      },
+      "classification": {
+        "en": "Prophetic remembrance and ritual instruction",
+        "ta": "தீர்க்கதரிசன நினைவு மற்றும் சடங்கு அறிவுறுத்தல்",
+        "ml": "പ്രവാചക അനുസ്മരണവും അനുഷ്ഠാന പ്രബോധനവും",
+        "ar": "الأذكار النبوية والتعليمات الطقسية",
+        "ur": "نبوی یاد اور رسم کی ہدایت",
+        "fr": "Souvenir prophétique et instruction rituelle",
+        "tr": "Peygamberlik anma ve ritüel talimat",
+        "id": "Peringatan kenabian dan instruksi ritual",
+        "bn": "ভবিষ্যদ্বাণীমূলক স্মরণ এবং আচারের নির্দেশ",
+        "ms": "Zikir kenabian dan arahan ritual"
+      },
+      "notes": {
+        "en": "Face the Qiblah, praise Allah, recite Takbir and Tahlil, and make supplication. Continue remembrance and supplication until the sky becomes bright, before sunrise.",
+        "ta": "கிப்லாவை எதிர்கொண்டு, அல்லாஹ்வைப் புகழ்ந்து, தக்பீர் மற்றும் தஹ்லீல் ஓதி, பிரார்த்தனை செய்யுங்கள். சூரிய உதயத்திற்கு முன், வானம் பிரகாசமாக மாறும் வரை நினைவு மற்றும் பிரார்த்தனையைத் தொடரவும்.",
+        "ml": "ഖിബ്ലയെ അഭിമുഖീകരിക്കുക, അല്ലാഹുവിനെ സ്തുതിക്കുക, തക്ബീറും തഹ്ലീലും ചൊല്ലുക, പ്രാർത്ഥിക്കുക. സൂര്യോദയത്തിനുമുമ്പ് ആകാശം പ്രകാശപൂരിതമാകുന്നതുവരെ സ്മരണയും പ്രാർത്ഥനയും തുടരുക.",
+        "ar": "استقبل القبلة، وحمد الله، وكبر وتهلل، ودع. واستمر في الذكر والدعاء حتى تشرق السماء قبل طلوع الشمس.",
+        "ur": "قبلہ رخ ہو کر اللہ کی حمد و ثنا کریں، تکبیر و تہلیل پڑھیں اور دعا کریں۔ ذکر اور دعا کرتے رہیں یہاں تک کہ سورج طلوع ہونے سے پہلے آسمان روشن ہو جائے۔",
+        "fr": "Faites face à la Qiblah, louez Allah, récitez le Takbir et le Tahlil et faites des supplications. Continuez le souvenir et la supplication jusqu'à ce que le ciel devienne lumineux, avant le lever du soleil.",
+        "tr": "Kıbleye yönelin, Allah'a hamd edin, tekbir ve tehlil okuyun ve dua edin. Gün doğmadan, gökyüzü aydınlanıncaya kadar zikre ve duaya devam edin.",
+        "id": "Menghadap kiblat, memuji Allah, membaca Takbir dan Tahlil, dan berdoa. Lanjutkan zikir dan do’a hingga langit menjadi cerah, sebelum matahari terbit.",
+        "bn": "কেবলার দিকে মুখ করে আল্লাহর প্রশংসা করুন, তাকবীর ও তাহলীল পাঠ করুন এবং দোয়া করুন। সূর্যোদয়ের আগে আকাশ উজ্জ্বল না হওয়া পর্যন্ত স্মরণ ও প্রার্থনা চালিয়ে যান।",
+        "ms": "Menghadap kiblat, memuji Allah, bertakbir dan tahlil, dan berdoa. Teruskan zikir dan doa hingga langit cerah, sebelum matahari terbit."
+      }
+    },
+    {
+      "number": 34,
+      "section": "K",
+      "title": {
+        "en": "Leaving Muzdalifah for Mina",
+        "ta": "முஸ்தலிஃபாவை விட்டு மினாவிற்கு",
+        "ml": "മുസ്ദലിഫയിൽ നിന്ന് മിനയിലേക്ക്",
+        "ar": "- الخروج من مزدلفة إلى منى",
+        "ur": "مزدلفہ سے منیٰ کے لیے نکلنا",
+        "fr": "Quitter Muzdalifah pour Mina",
+        "tr": "Müzdelife'den Mina'ya hareket",
+        "id": "Meninggalkan Muzdalifah menuju Mina",
+        "bn": "মুযদালিফা ত্যাগ করে মিনার উদ্দেশ্যে",
+        "ms": "Meninggalkan Muzdalifah menuju ke Mina"
+      },
+      "translation": {
+        "en": "Here I am, O Allah, here I am. Here I am; You have no partner; here I am. Surely all praise, blessings and sovereignty belong to You. You have no partner.",
+        "ta": "இதோ, யா அல்லாஹ், இதோ இருக்கிறேன். இதோ நான்; உனக்கு துணை இல்லை; இதோ நான் இருக்கிறேன். நிச்சயமாக எல்லா புகழும், ஆசீர்வாதமும், இறையாண்மையும் உனக்கே சொந்தம். உனக்கு துணை இல்லை.",
+        "ml": "ഇതാ ഞാൻ, അല്ലാഹുവേ, ഇതാ ഞാൻ. ഞാൻ ഇവിടെയുണ്ട്; നിനക്ക് പങ്കാളിയില്ല; ഞാൻ ഇവിടെയുണ്ട്. തീർച്ചയായും എല്ലാ സ്തുതിയും അനുഗ്രഹവും പരമാധികാരവും നിനക്കുള്ളതാണ്. നിനക്ക് പങ്കാളിയില്ല.",
+        "ar": "ها أنا، يا الله، ها أنا. هنا أنا؛ ليس لديك شريك؛ هنا أنا. إن لك كل الحمد والبركة والملك. ليس لديك شريك.",
+        "ur": "میں حاضر ہوں، اے اللہ، میں حاضر ہوں۔ میں یہاں ہوں؛ تیرا کوئی شریک نہیں۔ میں یہاں ہوں بے شک تمام تعریفیں، نعمتیں اور بادشاہتیں تیرے لیے ہیں۔ تمہارا کوئی شریک نہیں ہے۔",
+        "fr": "Me voici, ô Allah, me voici. Me voici; Vous n'avez pas de partenaire ; me voici. Assurément, toutes les louanges, bénédictions et souveraineté vous appartiennent. Vous n'avez pas de partenaire.",
+        "tr": "İşte buradayım Allah'ım buradayım. İşte buradayım; Ortağınız yok; işte buradayım. Şüphesiz hamd, bereket ve hükümranlık Sana aittir. Ortağınız yok.",
+        "id": "Inilah aku, ya Allah, inilah aku. Inilah saya; Anda tidak memiliki pasangan; inilah aku. Sesungguhnya segala puji, nikmat dan kedaulatan milik-Mu. Anda tidak memiliki pasangan.",
+        "bn": "এখানে আমি, হে আল্লাহ, আমি এখানে। এখানে আমি; তোমার কোন অংশীদার নেই; এখানে আমি নিশ্চয়ই সকল প্রশংসা, আশীর্বাদ ও সার্বভৌমত্ব তোমারই। তোমার কোন অংশীদার নেই।",
+        "ms": "Inilah aku, Ya Allah, inilah aku. Ini saya; Anda tidak mempunyai pasangan; di sini saya. Sesungguhnya segala pujian, nikmat dan kedaulatan adalah milikMu. Anda tiada pasangan."
+      },
+      "classification": {
+        "en": "Prophetic remembrance",
+        "ta": "தீர்க்கதரிசன நினைவு",
+        "ml": "പ്രവാചക സ്മരണ",
+        "ar": "الاذكار النبوية",
+        "ur": "نبوی ذکر",
+        "fr": "Souvenir prophétique",
+        "tr": "Peygamberlik anma",
+        "id": "Ingatan Nabi",
+        "bn": "ভাববাদী স্মরণ",
+        "ms": "Zikir kenabian"
+      },
+      "notes": {
+        "en": "Continue Talbiyah.",
+        "ta": "தல்பியாவைத் தொடரவும்.",
+        "ml": "തല്ബിയ തുടരുക.",
+        "ar": "واصل الطالبية.",
+        "ur": "تلبیہ جاری رکھیں۔",
+        "fr": "Continuez Talbiyah.",
+        "tr": "Telbiye'ye devam edin.",
+        "id": "Lanjutkan Talbiyah.",
+        "bn": "তালবিয়া চালিয়ে যান।",
+        "ms": "Teruskan Talbiyah."
+      }
+    },
+    {
+      "number": 35,
+      "section": "L",
+      "title": {
+        "en": "Talbiyah before stoning Jamarat al-Aqabah",
+        "ta": "ஜமாரத் அல் அகபா மீது கல்லெறியும் முன் தல்பியா",
+        "ml": "ജമറത്തുൽ അഖബയെ കല്ലെറിയുന്നതിന് മുമ്പ് തല്ബിയ",
+        "ar": "التلبية قبل رمي جمرة العقبة",
+        "ur": "جمرات عقبہ میں رجم سے پہلے تلبیہ",
+        "fr": "Talbiyah avant de lapider Jamarat al-Aqabah",
+        "tr": "Cemarat el-Akabe'yi taşlamadan önce Telbiye",
+        "id": "Talbiyah sebelum melempari Jamarat al-Aqabah",
+        "bn": "জামারাতুল আকাবাতে পাথর মারার আগে তালবিয়া",
+        "ms": "Talbiyah sebelum merejam Jamarat al-Aqabah"
+      },
+      "translation": {
+        "en": "Here I am, O Allah, here I am. Here I am; You have no partner; here I am. Surely all praise, blessings and sovereignty belong to You. You have no partner.",
+        "ta": "இதோ, யா அல்லாஹ், இதோ இருக்கிறேன். இதோ நான்; உனக்கு துணை இல்லை; இதோ நான் இருக்கிறேன். நிச்சயமாக எல்லா புகழும், ஆசீர்வாதமும், இறையாண்மையும் உனக்கே சொந்தம். உனக்கு துணை இல்லை.",
+        "ml": "ഇതാ ഞാൻ, അല്ലാഹുവേ, ഇതാ ഞാൻ. ഞാൻ ഇവിടെയുണ്ട്; നിനക്ക് പങ്കാളിയില്ല; ഞാൻ ഇവിടെയുണ്ട്. തീർച്ചയായും എല്ലാ സ്തുതിയും അനുഗ്രഹവും പരമാധികാരവും നിനക്കുള്ളതാണ്. നിനക്ക് പങ്കാളിയില്ല.",
+        "ar": "ها أنا، يا الله، ها أنا. هنا أنا؛ ليس لديك شريك؛ هنا أنا. إن لك كل الحمد والبركة والملك. ليس لديك شريك.",
+        "ur": "میں حاضر ہوں، اے اللہ، میں حاضر ہوں۔ میں یہاں ہوں؛ تیرا کوئی شریک نہیں۔ میں یہاں ہوں بے شک تمام تعریفیں، نعمتیں اور بادشاہتیں تیرے لیے ہیں۔ تمہارا کوئی شریک نہیں ہے۔",
+        "fr": "Me voici, ô Allah, me voici. Me voici; Vous n'avez pas de partenaire ; me voici. Assurément, toutes les louanges, bénédictions et souveraineté vous appartiennent. Vous n'avez pas de partenaire.",
+        "tr": "İşte buradayım Allah'ım buradayım. İşte buradayım; Ortağınız yok; işte buradayım. Şüphesiz hamd, bereket ve hükümranlık Sana aittir. Ortağınız yok.",
+        "id": "Inilah aku, ya Allah, inilah aku. Inilah saya; Anda tidak memiliki pasangan; inilah aku. Sesungguhnya segala puji, nikmat dan kedaulatan milik-Mu. Anda tidak memiliki pasangan.",
+        "bn": "এখানে আমি, হে আল্লাহ, আমি এখানে। এখানে আমি; তোমার কোন অংশীদার নেই; এখানে আমি নিশ্চয়ই সকল প্রশংসা, আশীর্বাদ ও সার্বভৌমত্ব তোমারই। তোমার কোন অংশীদার নেই।",
+        "ms": "Inilah aku, Ya Allah, inilah aku. Ini saya; Anda tidak mempunyai pasangan; di sini saya. Sesungguhnya segala pujian, nikmat dan kedaulatan adalah milikMu. Anda tiada pasangan."
+      },
+      "classification": {
+        "en": "Prophetic remembrance",
+        "ta": "தீர்க்கதரிசன நினைவு",
+        "ml": "പ്രവാചക സ്മരണ",
+        "ar": "الاذكار النبوية",
+        "ur": "نبوی ذکر",
+        "fr": "Souvenir prophétique",
+        "tr": "Peygamberlik anma",
+        "id": "Ingatan Nabi",
+        "bn": "ভাববাদী স্মরণ",
+        "ms": "Zikir kenabian"
+      },
+      "notes": {
+        "en": "Continue Talbiyah until beginning the stoning of Jamarat al-Aqabah.",
+        "ta": "ஜமாரத் அல்-அகாபா மீது கல்லெறியும் வரை தல்பியாவைத் தொடரவும்.",
+        "ml": "ജമറത്തുൽ അഖബയുടെ കല്ലേറ് ആരംഭിക്കുന്നത് വരെ തൽബിയ തുടരുക.",
+        "ar": "مواصلة التلبية حتى البدء في رمي جمرة العقبة.",
+        "ur": "جمرات عقبہ کی رجم شروع ہونے تک تلبیہ جاری رکھیں۔",
+        "fr": "Continuez la Talbiyah jusqu'au début de la lapidation de Jamarat al-Aqabah.",
+        "tr": "Akabe Cemiyeti'nin taşlanmasına kadar Telbiye'ye devam edin.",
+        "id": "Lanjutkan Talbiyah sampai dimulainya rajam Jamarat al-Aqabah.",
+        "bn": "জামারাত আল-আকাবার পাথর নিক্ষেপ শুরু না হওয়া পর্যন্ত তালবিয়াহ চালিয়ে যান।",
+        "ms": "Teruskan Talbiyah sehingga bermulanya rejam Jamarat al-Aqabah."
+      }
+    },
+    {
+      "number": 36,
+      "section": "L",
+      "title": {
+        "en": "Takbir when throwing pebbles at Jamarat al-Aqabah",
+        "ta": "ஜமாரத் அல் அகபாவில் கூழாங்கற்களை எறியும் போது தக்பீர்",
+        "ml": "ജമറത്തുൽ അഖബയിലേക്ക് ഉരുളൻ കല്ലുകൾ എറിയുമ്പോൾ തക്ബീർ",
+        "ar": "التكبير عند رمي جمرة العقبة",
+        "ur": "جمرات عقبہ میں کنکریاں مارتے وقت تکبیر",
+        "fr": "Takbir en lançant des cailloux sur Jamarat al-Aqabah",
+        "tr": "Akabe Cemiyeti'ne taş atarken tekbir",
+        "id": "Takbir saat melempar kerikil ke Jamarat al-Aqabah",
+        "bn": "জামারাতুল আকাবায় নুড়ি নিক্ষেপ করার সময় তাকবীর",
+        "ms": "Takbir ketika melontar batu kerikil di Jamarat al-Aqabah"
+      },
+      "translation": {
+        "en": "Allah is the Greatest.",
+        "ta": "அல்லாஹ் மிகப் பெரியவன்.",
+        "ml": "അല്ലാഹുവാണ് ഏറ്റവും വലിയവൻ.",
+        "ar": "الله أكبر.",
+        "ur": "اللہ سب سے بڑا ہے۔",
+        "fr": "Allah est le plus grand.",
+        "tr": "Allah en büyüktür.",
+        "id": "Allah Maha Besar.",
+        "bn": "আল্লাহ সর্বশ্রেষ্ঠ।",
+        "ms": "Allah Maha Besar."
+      },
+      "classification": {
+        "en": "Prophetic remembrance and ritual instruction",
+        "ta": "தீர்க்கதரிசன நினைவு மற்றும் சடங்கு அறிவுறுத்தல்",
+        "ml": "പ്രവാചക അനുസ്മരണവും അനുഷ്ഠാന പ്രബോധനവും",
+        "ar": "الأذكار النبوية والتعليمات الطقسية",
+        "ur": "نبوی یاد اور رسم کی ہدایت",
+        "fr": "Souvenir prophétique et instruction rituelle",
+        "tr": "Peygamberlik anma ve ritüel talimat",
+        "id": "Peringatan kenabian dan instruksi ritual",
+        "bn": "ভবিষ্যদ্বাণীমূলক স্মরণ এবং আচারের নির্দেশ",
+        "ms": "Zikir kenabian dan arahan ritual"
+      },
+      "notes": {
+        "en": "Say this with each of the seven pebbles. There is no separate prescribed dua after this particular Jamarah.",
+        "ta": "ஏழு கூழாங்கற்கள் ஒவ்வொன்றிலும் இதைச் சொல்லுங்கள். இந்த குறிப்பிட்ட ஜமாராவிற்குப் பிறகு தனியான பரிந்துரைக்கப்பட்ட துஆ எதுவும் இல்லை.",
+        "ml": "ഏഴ് ഉരുളൻ കല്ലുകൾ കൊണ്ട് ഇങ്ങനെ പറയുക. ഈ പ്രത്യേക ജമറയ്ക്ക് ശേഷം പ്രത്യേകം നിർദ്ദേശിച്ച ദുആ ഇല്ല.",
+        "ar": "قل هذا مع كل حصاة من السبع حصيات. وليس هناك دعاء مستقل بعد هذه الجمرة بالذات.",
+        "ur": "سات کنکریوں میں سے ہر ایک کے ساتھ یہ کہیں۔ اس خاص جمرہ کے بعد کوئی الگ سے مشروع دعا نہیں ہے۔",
+        "fr": "Dites ceci avec chacun des sept cailloux. Il n’y a pas de dua prescrit distinct après cette Jamarah particulière.",
+        "tr": "Bunu yedi çakıl taşının her biri için söyleyin. Bu özel Cemreden sonra ayrı bir farz kılınmış dua yoktur.",
+        "id": "Ucapkan ini pada ketujuh kerikil tersebut. Tidak ada doa terpisah yang ditentukan setelah Jamarah khusus ini.",
+        "bn": "সাতটি নুড়ির প্রতিটি দিয়ে এটি বলুন। এই নির্দিষ্ট জামারার পরে আলাদা কোন দুআ নেই।",
+        "ms": "Katakan ini dengan setiap tujuh kerikil. Tidak ada doa yang disyariatkan secara berasingan selepas Jamarah ini."
+      }
+    },
+    {
+      "number": 37,
+      "section": "L",
+      "title": {
+        "en": "Dua during animal sacrifice (Hady)",
+        "ta": "மிருக பலியின் போது துவா (ஹாடி)",
+        "ml": "മൃഗബലി സമയത്ത് ദുആ (ഹാദി)",
+        "ar": "الدعاء أثناء التضحية بالحيوان (هادي)",
+        "ur": "جانور کی قربانی کے وقت کی دعا (ہدی)",
+        "fr": "Dua pendant le sacrifice d'animaux (Hady)",
+        "tr": "Kurban sırasında okunacak dua (Hady)",
+        "id": "Doa saat kurban hewan (Hady)",
+        "bn": "পশু কোরবানির সময় দুআ (হাদী)",
+        "ms": "Doa semasa korban binatang (Hady)"
+      },
+      "translation": {
+        "en": "In the name of Allah, and Allah is the Greatest.",
+        "ta": "அல்லாஹ்வின் பெயரால், அல்லாஹ் மிகப் பெரியவன்.",
+        "ml": "അല്ലാഹുവിൻ്റെ നാമത്തിൽ, അല്ലാഹു ഏറ്റവും വലിയവനാണ്.",
+        "ar": "بسم الله والله أكبر.",
+        "ur": "اللہ کے نام سے، اور اللہ سب سے بڑا ہے۔",
+        "fr": "Au nom d'Allah, et Allah est le plus grand.",
+        "tr": "Allah'ın adıyla, Allah en büyüktür.",
+        "id": "Dengan menyebut nama Allah, dan Allah Maha Besar.",
+        "bn": "আল্লাহর নামে, এবং আল্লাহ সর্বশ্রেষ্ঠ।",
+        "ms": "Dengan nama Allah, dan Allah Maha Besar."
+      },
+      "classification": {
+        "en": "Prophetic remembrance",
+        "ta": "தீர்க்கதரிசன நினைவு",
+        "ml": "പ്രവാചക സ്മരണ",
+        "ar": "الاذكار النبوية",
+        "ur": "نبوی ذکر",
+        "fr": "Souvenir prophétique",
+        "tr": "Peygamberlik anma",
+        "id": "Ingatan Nabi",
+        "bn": "ভাববাদী স্মরণ",
+        "ms": "Zikir kenabian"
+      }
+    },
+    {
+      "number": 38,
+      "section": "L",
+      "title": {
+        "en": "Shaving or shortening the hair",
+        "ta": "முடியை ஷேவிங் செய்வது அல்லது சுருக்குவது",
+        "ml": "മുടി ഷേവിംഗ് അല്ലെങ്കിൽ ചുരുക്കുക",
+        "ar": "حلاقة الشعر أو تقصيره",
+        "ur": "بال مونڈنا یا چھوٹا کرنا",
+        "fr": "Raser ou raccourcir les cheveux",
+        "tr": "Saçları tıraş etmek veya kısaltmak",
+        "id": "Mencukur atau memendekkan rambut",
+        "bn": "চুল কামানো বা ছোট করা",
+        "ms": "Mencukur atau memendekkan rambut"
+      },
+      "translation": {
+        "en": "O Allah, forgive those who shave their heads.",
+        "ta": "யா அல்லாஹ் தலையை மொட்டையடிப்பவர்களை மன்னிப்பாயாக.",
+        "ml": "അല്ലാഹുവേ, തല മൊട്ടയടിക്കുന്നവരോട് പൊറുക്കേണമേ.",
+        "ar": "اللهمّ اغفر للمحلقين رؤوسهم.",
+        "ur": "اے اللہ سر منڈوانے والوں کو معاف فرما۔",
+        "fr": "Ô Allah, pardonne à ceux qui se rasent la tête.",
+        "tr": "Allah'ım saçlarını tıraş edenleri bağışla.",
+        "id": "Ya Allah ampunilah orang yang mencukur rambutnya.",
+        "bn": "হে আল্লাহ, যারা মাথা মুণ্ডন করে তাদের ক্ষমা করে দাও।",
+        "ms": "Ya Allah, ampunilah orang yang mencukur rambutnya."
+      },
+      "classification": {
+        "en": "Prophetic supplication",
+        "ta": "தீர்க்கதரிசன பிரார்த்தனை",
+        "ml": "പ്രവാചക പ്രാർത്ഥന",
+        "ar": "الدعاء النبوي",
+        "ur": "دعائے نبوت",
+        "fr": "Supplication prophétique",
+        "tr": "Peygamberlik duası",
+        "id": "Doa kenabian",
+        "bn": "ভবিষ্যদ্বাণীমূলক প্রার্থনা",
+        "ms": "Doa kenabian"
+      },
+      "notes": {
+        "en": "The Prophet ﷺ made this supplication. He repeated it and then supplicated for those who shortened their hair.",
+        "ta": "நபி (ஸல்) அவர்கள் இந்த துஆ செய்தார்கள். அவர் அதைத் திரும்பத் திரும்பச் சொன்னார், பின்னர் தலைமுடியைக் குறைப்பவர்களுக்காக மன்றாடினார்.",
+        "ml": "നബി ﷺ ഈ പ്രാർത്ഥന നടത്തി. അവൻ അത് ആവർത്തിക്കുകയും മുടി ചെറുതാക്കിയവർക്കുവേണ്ടി പ്രാർത്ഥിക്കുകയും ചെയ്തു.",
+        "ar": "وقد دعا النبي صلى الله عليه وسلم بهذا الدعاء. فأعادها ثم دعا للمقصرين.",
+        "ur": "رسول اللہ صلی اللہ علیہ وسلم نے یہ دعا فرمائی۔ آپ نے اسے دہرایا اور پھر بال کٹوانے والوں کے لیے دعا کی۔",
+        "fr": "Le Prophète ﷺ a fait cette supplication. Il l'a répété puis a supplié ceux qui avaient raccourci leurs cheveux.",
+        "tr": "Peygamber Efendimiz bu duayı yaptı. Bunu tekrarladı ve saçlarını kısaltanlara dua etti.",
+        "id": "Nabi ﷺ membuat permohonan ini. Beliau mengulanginya lalu berdoa bagi orang-orang yang memendekkan rambutnya.",
+        "bn": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ দোয়া করেছেন। তিনি এটি পুনরাবৃত্তি করলেন এবং তারপর যারা তাদের চুল ছোট করে তাদের জন্য দুআ করলেন।",
+        "ms": "Rasulullah ﷺ membuat doa ini. Beliau mengulanginya dan kemudian mendoakan bagi mereka yang memendekkan rambutnya."
+      }
+    },
+    {
+      "number": 39,
+      "section": "M",
+      "title": {
+        "en": "At Hajar al-Aswad",
+        "ta": "ஹஜர் அல் அஸ்வத்தில்",
+        "ml": "ഹജർ അൽ അസ്വാദിൽ",
+        "ar": "في الحجر الأسود",
+        "ur": "حجر اسود میں",
+        "fr": "À Hajar al-Aswad",
+        "tr": "Hacer-i Esved'de",
+        "id": "Di Hajar al-Aswad",
+        "bn": "হাজর আল-আসওয়াদে",
+        "ms": "Di Hajar al-Aswad"
+      },
+      "translation": {
+        "en": "In the name of Allah. Allah is the Greatest.",
+        "ta": "அல்லாஹ்வின் பெயரால். அல்லாஹ் மிகப் பெரியவன்.",
+        "ml": "അല്ലാഹുവിൻ്റെ നാമത്തിൽ. അല്ലാഹുവാണ് ഏറ്റവും വലിയവൻ.",
+        "ar": "بسم الله. الله أكبر.",
+        "ur": "اللہ کے نام پر۔ اللہ سب سے بڑا ہے۔",
+        "fr": "Au nom d'Allah. Allah est le plus grand.",
+        "tr": "Allah'ın adıyla. Allah en büyüktür.",
+        "id": "Dengan menyebut nama Allah. Allah Maha Besar.",
+        "bn": "আল্লাহর নামে। আল্লাহ সর্বশ্রেষ্ঠ।",
+        "ms": "Dengan nama Allah. Allah Maha Besar."
+      },
+      "classification": {
+        "en": "Prophetic remembrance",
+        "ta": "தீர்க்கதரிசன நினைவு",
+        "ml": "പ്രവാചക സ്മരണ",
+        "ar": "الاذكار النبوية",
+        "ur": "نبوی ذکر",
+        "fr": "Souvenir prophétique",
+        "tr": "Peygamberlik anma",
+        "id": "Ingatan Nabi",
+        "bn": "ভাববাদী স্মরণ",
+        "ms": "Zikir kenabian"
+      }
+    },
+    {
+      "number": 40,
+      "section": "M",
+      "title": {
+        "en": "During the seven rounds",
+        "ta": "ஏழு சுற்றுகளின் போது",
+        "ml": "ഏഴു റൗണ്ടുകൾക്കിടയിൽ",
+        "ar": "خلال الجولات السبعة",
+        "ur": "سات چکروں کے دوران",
+        "fr": "Pendant les sept tours",
+        "tr": "Yedi tur boyunca",
+        "id": "Selama tujuh putaran",
+        "bn": "সাত রাউন্ড চলাকালীন",
+        "ms": "Semasa tujuh pusingan"
+      },
+      "translation": {
+        "en": "Use the same established and permissible remembrances as in the first Tawaf:\n\nTakbir: Allah is the Greatest.\n\nTahmid: All praise belongs to Allah.\n\nTasbih: Glory be to Allah.\n\nTahlil: There is no deity worthy of worship except Allah.",
+        "ta": "முதல் தவாஃபில் உள்ள அதே நிறுவப்பட்ட மற்றும் அனுமதிக்கப்பட்ட நினைவுகளைப் பயன்படுத்தவும்:\n\nதக்பீர்: அல்லாஹ் மிகப் பெரியவன்.\n\nதஹ்மித்: எல்லாப் புகழும் அல்லாஹ்வுக்கே.\n\nதஸ்பிஹ்: அல்லாஹ்வுக்கே மகிமை.\n\nதஹ்லீல்: வணக்கத்திற்குரிய இறைவன் அல்லாஹ்வைத் தவிர வேறு யாருமில்லை.",
+        "ml": "ആദ്യ ത്വവാഫിലെ പോലെ സ്ഥാപിതവും അനുവദനീയവുമായ സ്മരണകൾ ഉപയോഗിക്കുക:\n\nതക്ബീർ: അല്ലാഹുവാണ് ഏറ്റവും വലിയവൻ.\n\nതഹ്മിദ്: എല്ലാ സ്തുതിയും അല്ലാഹുവിനാണ്.\n\nതസ്ബിഹ്: അല്ലാഹുവിന് മഹത്വം.\n\nതഹ്‌ലീൽ: അള്ളാഹു അല്ലാതെ ആരാധന അർഹിക്കുന്ന ഒരു ദൈവവുമില്ല.",
+        "ar": "استعمال نفس الأذكار الثابتة والمباحة كما في الطواف الأول:\n\nالتكبير : الله أكبر .\n\nتحميد: الحمد لله.\n\nالتسبيح: سبحان الله.\n\nالتهليل: لا إله إلا الله.",
+        "ur": "پہلے طواف کی طرح قائم شدہ اور جائز یادیں استعمال کریں:\n\nتکبیر: اللہ سب سے بڑا ہے۔\n\nتحمید: تمام تعریفیں اللہ کے لیے ہیں۔\n\nتسبیح: اللہ پاک ہے۔\n\nتہلیل: اللہ کے سوا کوئی عبادت کے لائق نہیں۔",
+        "fr": "Utilisez les mêmes souvenirs établis et autorisés que dans le premier Tawaf :\n\nTakbir : Allah est le plus grand.\n\nTahmid : Toute louange appartient à Allah.\n\nTasbih : Gloire à Allah.\n\nTahlil : Il n’y a de divinité digne d’être adorée qu’Allah.",
+        "tr": "İlk Tavaf'ta olduğu gibi aynı yerleşik ve izin verilen hatıraları kullanın:\n\nTekbir: Allah en büyüktür.\n\nTahmid: Hamd Allah'a mahsustur.\n\nTesbih: Allah'ı tesbih ederim.\n\nTahlil: Allah'tan başka ibadete layık ilah yoktur.",
+        "id": "Gunakanlah zikir yang sah dan diperbolehkan seperti pada Tawaf pertama:\n\nTakbir: Allah Maha Besar.\n\nTahmid : Segala puji hanya milik Allah.\n\nTasbih: Maha Suci Allah.\n\nTahlil: Tidak ada Tuhan yang patut disembah selain Allah.",
+        "bn": "প্রথম তাওয়াফের মতো একই প্রতিষ্ঠিত এবং অনুমোদিত স্মরণ ব্যবহার করুন:\n\nতাকবীর: আল্লাহ সর্বশ্রেষ্ঠ।\n\nতাহমিদ: সমস্ত প্রশংসা আল্লাহর।\n\nতাসবিহ: মহান আল্লাহ।\n\nতাহলিল: আল্লাহ ছাড়া ইবাদতের যোগ্য কোনো উপাস্য নেই।",
+        "ms": "Gunakan zikir-zikir yang mapan dan mubah seperti dalam Tawaf pertama:\n\nTakbir: Allah Maha Besar.\n\nTahmid: Segala puji bagi Allah.\n\nTasbih: Maha Suci Allah.\n\nTahlil: Tiada tuhan yang berhak disembah melainkan Allah."
+      },
+      "classification": {
+        "en": "General permissible Dhikr",
+        "ta": "பொதுவாக அனுமதிக்கப்பட்ட திக்ர்",
+        "ml": "പൊതുവായ അനുവദനീയമായ ദിക്ർ",
+        "ar": "الأذكار العامة المسموح بها",
+        "ur": "عمومی جائز ذکر",
+        "fr": "Dhikr général autorisé",
+        "tr": "Genel olarak izin verilen Zikir",
+        "id": "Dzikir yang diperbolehkan secara umum",
+        "bn": "সাধারণ জায়েয যিকির",
+        "ms": "Dzikir umum yang dibenarkan"
+      }
+    },
+    {
+      "number": 41,
+      "section": "M",
+      "title": {
+        "en": "Between Rukn al-Yamani and Hajar al-Aswad",
+        "ta": "ருக்ன் அல்-யமானி மற்றும் ஹஜர் அல்-அஸ்வத் இடையே",
+        "ml": "റുക്ൻ അൽ-യമാനിക്കും ഹജർ അൽ-അസ്‌വാദിനും ഇടയിൽ",
+        "ar": "بين ركن اليماني والحجر الأسود",
+        "ur": "رکن یمانی اور حجر اسود کے درمیان",
+        "fr": "Entre Rukn al-Yamani et Hajar al-Aswad",
+        "tr": "Rükn-i Yemani ile Hacer-i Esved arası",
+        "id": "Antara Rukun al-Yamani dan Hajar al-Aswad",
+        "bn": "রুকন আল-ইয়ামানি এবং হাজর আল-আসওয়াদের মধ্যে",
+        "ms": "Antara Rukn al-Yamani dan Hajar al-Aswad"
+      },
+      "translation": {
+        "en": "Our Lord, grant us good in this world and good in the Hereafter, and protect us from the punishment of the Fire.",
+        "ta": "எங்கள் இறைவா, எங்களுக்கு இவ்வுலகிலும் நன்மையையும் மறுமையிலும் நன்மையை வழங்குவாயாக, மேலும் எங்களை நெருப்பின் தண்டனையிலிருந்து காப்பாற்றுவாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങൾക്ക് ഇഹത്തിലും പരത്തിലും നന്മ നൽകുകയും നരകശിക്ഷയിൽ നിന്ന് ഞങ്ങളെ കാത്തുരക്ഷിക്കുകയും ചെയ്യേണമേ.",
+        "ar": "ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار.",
+        "ur": "اے ہمارے رب ہمیں دنیا میں بھی بھلائی اور آخرت میں بھی بھلائی عطا فرما اور ہمیں آگ کے عذاب سے بچا۔",
+        "fr": "Notre Seigneur, accorde-nous le bien dans ce monde et le bien dans l'au-delà, et protège-nous du châtiment du Feu.",
+        "tr": "Rabbimiz, bize dünyada da iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru.",
+        "id": "Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami dari siksa Neraka.",
+        "bn": "হে আমাদের পালনকর্তা, আমাদেরকে দুনিয়াতে কল্যাণ দান করুন এবং পরকালেও কল্যাণ দিন এবং আমাদেরকে আগুনের শাস্তি থেকে রক্ষা করুন।",
+        "ms": "Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami dari siksa neraka."
+      },
+      "classification": {
+        "en": "Qur'anic supplication",
+        "ta": "குர்ஆன் பிரார்த்தனை",
+        "ml": "ഖുർആനിക പ്രാർത്ഥന",
+        "ar": "الدعاء القرآني",
+        "ur": "قرآنی دعا",
+        "fr": "supplication coranique",
+        "tr": "Kuran duası",
+        "id": "Doa Al-Qur'an",
+        "bn": "কোরআনের দোয়া",
+        "ms": "Doa Al-Quran"
+      }
+    },
+    {
+      "number": 42,
+      "section": "M",
+      "title": {
+        "en": "After Tawaf al-Ifadah",
+        "ta": "தவாஃப் அல்-இஃபாதாவுக்குப் பிறகு",
+        "ml": "ത്വവാഫ് അൽ-ഇഫാദക്ക് ശേഷം",
+        "ar": "بعد طواف الإفاضة",
+        "ur": "طواف افاضہ کے بعد",
+        "fr": "Après Tawaf al-Ifadah",
+        "tr": "İfade tavafından sonra",
+        "id": "Setelah Tawaf al-Ifadah",
+        "bn": "তাওয়াফ আল-ইফাদার পর",
+        "ms": "Selepas Tawaf al-Ifadah"
+      },
+      "translation": {
+        "en": "There is no separate authentic completion dua for Tawaf al-Ifadah.",
+        "ta": "தவாஃப் அல்-இஃபாதாவிற்கு தனியான உண்மையான நிறைவு துவா இல்லை.",
+        "ml": "തവാഫ് അൽ-ഇഫാദയ്ക്ക് പ്രത്യേക ആധികാരിക പൂർത്തീകരണ ദുആ ഇല്ല.",
+        "ar": "ليس هناك دعاء صحيح منفصل لطواف الإفاضة.",
+        "ur": "طواف افاضہ کے لیے کوئی الگ مستند تکمیل دعا نہیں ہے۔",
+        "fr": "Il n’existe pas de dua d’achèvement authentique distinct pour Tawaf al-Ifadah.",
+        "tr": "İfade tavafının ayrı bir sahih tamamlama duası yoktur.",
+        "id": "Tidak ada doa penyelesaian otentik yang terpisah untuk Tawaf al-Ifadah.",
+        "bn": "তাওয়াফ আল-ইফাদাহ-এর জন্য আলাদা কোনো প্রামাণিক সমাপ্তির দুআ নেই।",
+        "ms": "Tidak ada doa khatam yang sahih untuk Tawaf al-Ifadah."
+      },
+      "classification": {
+        "en": "Practical ritual instruction; no separate completion dua established",
+        "ta": "நடைமுறை சடங்கு அறிவுறுத்தல்; தனி நிறைவு துவா நிறுவப்படவில்லை",
+        "ml": "പ്രായോഗിക ആചാരപരമായ നിർദ്ദേശം; പ്രത്യേക പൂർത്തീകരണ ദുആ സ്ഥാപിച്ചിട്ടില്ല",
+        "ar": "تعليمات طقوس عملية؛ لم يتم إنشاء دعاء إكمال منفصل",
+        "ur": "عملی رسم کی ہدایات؛ کوئی علیحدہ تکمیل دعا قائم نہیں ہے۔",
+        "fr": "Instruction rituelle pratique ; aucun dua d'achèvement séparé n'est établi",
+        "tr": "Pratik ritüel eğitimi; ayrı bir tamamlama duası oluşturulmamıştır",
+        "id": "Instruksi ritual praktis; tidak ada doa penyelesaian terpisah yang dibuat",
+        "bn": "ব্যবহারিক আচার নির্দেশ; কোন পৃথক সমাপ্তি দুআ প্রতিষ্ঠিত",
+        "ms": "Arahan ritual praktikal; tiada doa penyempurnaan berasingan ditubuhkan"
+      },
+      "notes": {
+        "en": "Pray two Rak'ahs if possible, following the same practice as the earlier Tawaf.",
+        "ta": "முடிந்தால் இரண்டு ரக்அத்கள் தொழுங்கள், முந்தைய தவாஃப் நடைமுறையைப் பின்பற்றுங்கள்.",
+        "ml": "സാധ്യമെങ്കിൽ രണ്ട് റക്അത്ത് നമസ്കരിക്കുക, നേരത്തെ ത്വവാഫ് ചെയ്ത അതേ രീതി പിന്തുടരുക.",
+        "ar": "يصلي ركعتين إن أمكن، على نفس طريقة الطواف السابق.",
+        "ur": "اگر ممکن ہو تو دو رکعتیں ادا کریں، اسی عمل پر عمل کریں جو پہلے طواف کرتے تھے۔",
+        "fr": "Priez deux Rak'ahs si possible, en suivant la même pratique que le Tawaf précédent.",
+        "tr": "Mümkünse iki rekât namaz kılın ve daha önceki tavaftakinin aynısını yapın.",
+        "id": "Sholatlah dua rakaat jika memungkinkan, dengan mengikuti amalan yang sama seperti Tawaf sebelumnya.",
+        "bn": "যদি সম্ভব হয় দুই রাকাত নামায পড়ুন, আগের তাওয়াফের মতো একই অভ্যাস অনুসরণ করুন।",
+        "ms": "Solat dua rakaat jika boleh, mengikut amalan yang sama seperti Tawaf yang terdahulu."
+      }
+    },
+    {
+      "number": 43,
+      "section": "N",
+      "title": {
+        "en": "First Jamarah – Small Jamarah",
+        "ta": "முதல் ஜமரா - சிறிய ஜமரா",
+        "ml": "ആദ്യ ജമറ - ചെറിയ ജമറ",
+        "ar": "الجمرة الأولى – الجمرة الصغيرة",
+        "ur": "پہلا جمرہ - چھوٹا جمرہ",
+        "fr": "Première Jamarah – Petite Jamarah",
+        "tr": "Birinci Cemara – Küçük Cemara",
+        "id": "Jamarah Pertama – Jamarah Kecil",
+        "bn": "প্রথম জামারা- ছোট জামারাহ",
+        "ms": "Jamarah Pertama – Jamarah Kecil"
+      },
+      "translation": {
+        "en": "Allah is the Greatest.",
+        "ta": "அல்லாஹ் மிகப் பெரியவன்.",
+        "ml": "അല്ലാഹുവാണ് ഏറ്റവും വലിയവൻ.",
+        "ar": "الله أكبر.",
+        "ur": "اللہ سب سے بڑا ہے۔",
+        "fr": "Allah est le plus grand.",
+        "tr": "Allah en büyüktür.",
+        "id": "Allah Maha Besar.",
+        "bn": "আল্লাহ সর্বশ্রেষ্ঠ।",
+        "ms": "Allah Maha Besar."
+      },
+      "classification": {
+        "en": "Prophetic remembrance and personal supplication",
+        "ta": "தீர்க்கதரிசன நினைவு மற்றும் தனிப்பட்ட பிரார்த்தனை",
+        "ml": "പ്രവാചക സ്മരണയും വ്യക്തിപരമായ പ്രാർത്ഥനയും",
+        "ar": "الأذكار النبوية والدعاء الشخصي",
+        "ur": "نبوی ذکر اور ذاتی دعا",
+        "fr": "Souvenir prophétique et supplication personnelle",
+        "tr": "Peygamberlik anma ve kişisel dua",
+        "id": "Zikir kenabian dan permohonan pribadi",
+        "bn": "ভবিষ্যদ্বাণী স্মরণ এবং ব্যক্তিগত প্রার্থনা",
+        "ms": "Zikir kenabian dan doa peribadi"
+      },
+      "notes": {
+        "en": "Throw seven pebbles, saying Takbir with each pebble. After throwing the seven pebbles, move aside, face the Qiblah if possible, raise your hands and make supplication. There is no fixed wording for this supplication.",
+        "ta": "ஒவ்வொரு கூழாங்கல்லுடனும் தக்பீர் சொல்லி ஏழு கூழாங்கற்களை எறியுங்கள். ஏழு கூழாங்கற்களை எறிந்த பிறகு, ஓரமாக நகர்ந்து, முடிந்தால் கிப்லாவை எதிர்கொண்டு, கைகளை உயர்த்தி பிரார்த்தனை செய்யுங்கள். இந்த வேண்டுதலுக்கு நிலையான வார்த்தைகள் எதுவும் இல்லை.",
+        "ml": "ഏഴ് ഉരുളകൾ എറിയുക, ഓരോ കല്ലിലും തക്ബീർ ചൊല്ലുക. ഏഴ് ഉരുളൻ കല്ലുകൾ എറിഞ്ഞ ശേഷം, മാറി മാറി, സാധ്യമെങ്കിൽ ഖിബ്ലക്ക് അഭിമുഖമായി, കൈകൾ ഉയർത്തി പ്രാർത്ഥിക്കുക. ഈ പ്രാർത്ഥനയ്ക്ക് സ്ഥിരമായ പദങ്ങളൊന്നുമില്ല.",
+        "ar": "ارمي سبع حصيات، وكبر مع كل حصاة. وبعد رمي الحصيات السبع تنحى جانبا، واستقبل القبلة إن أمكن، وارفع يديك، وادع. ليس هناك صيغة ثابتة لهذا الدعاء.",
+        "ur": "ہر کنکری کے ساتھ تکبیر کہہ کر سات کنکریاں پھینکیں۔ سات کنکریاں مارنے کے بعد ایک طرف ہٹ جائیں، ممکن ہو تو قبلہ کی طرف منہ کریں، ہاتھ اٹھا کر دعا کریں۔ اس دعا کے لیے کوئی متعین الفاظ نہیں ہیں۔",
+        "fr": "Lancez sept cailloux en disant Takbir avec chaque caillou. Après avoir lancé les sept cailloux, écartez-vous, faites face à la Qiblah si possible, levez les mains et faites la supplication. Il n’y a pas de formulation fixe pour cette supplication.",
+        "tr": "Her çakılla birlikte tekbir getirerek yedi çakıl taşı atın. Yedi taşı attıktan sonra kenara çekilin, mümkünse kıbleye dönün, ellerinizi kaldırın ve dua edin. Bu duanın sabit bir ifadesi yoktur.",
+        "id": "Lemparlah tujuh kerikil sambil mengucapkan takbir pada setiap kerikil. Setelah melempar ketujuh kerikil tersebut, minggir, menghadap kiblat jika memungkinkan, angkat tangan dan berdoa. Tidak ada kata-kata pasti untuk permohonan ini.",
+        "bn": "প্রতিটি নুড়ির সাথে তাকবীর বলে সাতটি কঙ্কর নিক্ষেপ করা। সাতটি কঙ্কর নিক্ষেপ করার পর, একপাশে সরে যান, সম্ভব হলে কেবলার দিকে মুখ করুন, হাত তুলে দোয়া করুন। এই প্রার্থনার জন্য কোন নির্দিষ্ট শব্দ নেই।",
+        "ms": "Lempar tujuh kerikil sambil bertakbir dengan setiap kerikil. Selepas melemparkan tujuh kerikil, bergerak ke tepi, menghadap kiblat jika boleh, angkat tangan dan berdoa. Tiada lafaz yang tetap untuk doa ini."
+      }
+    },
+    {
+      "number": 44,
+      "section": "N",
+      "title": {
+        "en": "Second Jamarah – Middle Jamarah",
+        "ta": "இரண்டாவது ஜமாரா - மத்திய ஜமாரா",
+        "ml": "രണ്ടാം ജമറ - മിഡിൽ ജമറ",
+        "ar": "الجمرة الثانية – الجمرة الوسطى",
+        "ur": "دوسری جمرہ - درمیانی جمرہ",
+        "fr": "Deuxième Jamarah – Jamarah centrale",
+        "tr": "İkinci Jamara – Orta Jamarah",
+        "id": "Jamarah Kedua – Jamarah Tengah",
+        "bn": "দ্বিতীয় জামারা- মধ্য জামারাহ",
+        "ms": "Jamarah Kedua – Jamarah Tengah"
+      },
+      "translation": {
+        "en": "Allah is the Greatest.",
+        "ta": "அல்லாஹ் மிகப் பெரியவன்.",
+        "ml": "അല്ലാഹുവാണ് ഏറ്റവും വലിയവൻ.",
+        "ar": "الله أكبر.",
+        "ur": "اللہ سب سے بڑا ہے۔",
+        "fr": "Allah est le plus grand.",
+        "tr": "Allah en büyüktür.",
+        "id": "Allah Maha Besar.",
+        "bn": "আল্লাহ সর্বশ্রেষ্ঠ।",
+        "ms": "Allah Maha Besar."
+      },
+      "classification": {
+        "en": "Prophetic remembrance and personal supplication",
+        "ta": "தீர்க்கதரிசன நினைவு மற்றும் தனிப்பட்ட பிரார்த்தனை",
+        "ml": "പ്രവാചക സ്മരണയും വ്യക്തിപരമായ പ്രാർത്ഥനയും",
+        "ar": "الأذكار النبوية والدعاء الشخصي",
+        "ur": "نبوی ذکر اور ذاتی دعا",
+        "fr": "Souvenir prophétique et supplication personnelle",
+        "tr": "Peygamberlik anma ve kişisel dua",
+        "id": "Zikir kenabian dan permohonan pribadi",
+        "bn": "ভবিষ্যদ্বাণী স্মরণ এবং ব্যক্তিগত প্রার্থনা",
+        "ms": "Zikir kenabian dan doa peribadi"
+      },
+      "notes": {
+        "en": "Throw seven pebbles. After throwing the seven pebbles, move aside and make supplication. There is no fixed wording for this supplication.",
+        "ta": "ஏழு கூழாங்கற்களை எறியுங்கள். ஏழு கூழாங்கற்களை எறிந்த பிறகு, ஒருபுறம் நகர்ந்து பிரார்த்தனை செய்யுங்கள். இந்த வேண்டுதலுக்கு நிலையான வார்த்தைகள் எதுவும் இல்லை.",
+        "ml": "ഏഴ് കല്ലുകൾ എറിയുക. ഏഴ് ഉരുളൻ കല്ലുകൾ എറിഞ്ഞ ശേഷം മാറി മാറി പ്രാർത്ഥിക്കുക. ഈ പ്രാർത്ഥനയ്ക്ക് സ്ഥിരമായ പദങ്ങളൊന്നുമില്ല.",
+        "ar": "رمي سبع حصيات. وبعد رمي الجمرات السبع تنحي جانبا وادع. ليس هناك صيغة ثابتة لهذا الدعاء.",
+        "ur": "سات کنکریاں پھینکیں۔ سات کنکریاں پھینکنے کے بعد ایک طرف ہٹ جائیں اور دعا کریں۔ اس دعا کے لیے کوئی متعین الفاظ نہیں ہیں۔",
+        "fr": "Jetez sept cailloux. Après avoir lancé les sept cailloux, écartez-vous et faites une supplication. Il n’y a pas de formulation fixe pour cette supplication.",
+        "tr": "Yedi çakıl taşı atın. Yedi taşı attıktan sonra kenara çekilip dua edin. Bu duanın sabit bir ifadesi yoktur.",
+        "id": "Lemparkan tujuh kerikil. Setelah melempar tujuh kerikil, minggir dan berdoa. Tidak ada kata-kata pasti untuk permohonan ini.",
+        "bn": "সাতটি নুড়ি নিক্ষেপ। সাতটি নুড়ি নিক্ষেপ করার পর, একপাশে সরে গিয়ে প্রার্থনা করুন। এই প্রার্থনার জন্য কোন নির্দিষ্ট শব্দ নেই।",
+        "ms": "Baling tujuh kerikil. Selepas melemparkan tujuh kerikil, bergerak ke tepi dan berdoa. Tiada lafaz yang tetap untuk doa ini."
+      }
+    },
+    {
+      "number": 45,
+      "section": "N",
+      "title": {
+        "en": "Third Jamarah – Jamarat al-Aqabah",
+        "ta": "மூன்றாவது ஜமாரா - ஜமாரத் அல்-அகபா",
+        "ml": "മൂന്നാമത്തെ ജമറ - ജമറത്ത് അൽ-അഖബ",
+        "ar": "الجمرة الثالثة – جمرة العقبة",
+        "ur": "تیسرا جمرہ - جمرات العقبہ",
+        "fr": "Troisième Jamarah – Jamarat al-Aqabah",
+        "tr": "Üçüncü Cemara – Cemerat el-Akabe",
+        "id": "Jamarah Ketiga – Jamarat al-Aqabah",
+        "bn": "তৃতীয় জামারাহ - জামারাত আল-আকাবাহ",
+        "ms": "Jamarah Ketiga – Jamarat al-Aqabah"
+      },
+      "translation": {
+        "en": "Allah is the Greatest.",
+        "ta": "அல்லாஹ் மிகப் பெரியவன்.",
+        "ml": "അല്ലാഹുവാണ് ഏറ്റവും വലിയവൻ.",
+        "ar": "الله أكبر.",
+        "ur": "اللہ سب سے بڑا ہے۔",
+        "fr": "Allah est le plus grand.",
+        "tr": "Allah en büyüktür.",
+        "id": "Allah Maha Besar.",
+        "bn": "আল্লাহ সর্বশ্রেষ্ঠ।",
+        "ms": "Allah Maha Besar."
+      },
+      "classification": {
+        "en": "Prophetic remembrance and ritual instruction",
+        "ta": "தீர்க்கதரிசன நினைவு மற்றும் சடங்கு அறிவுறுத்தல்",
+        "ml": "പ്രവാചക അനുസ്മരണവും അനുഷ്ഠാന പ്രബോധനവും",
+        "ar": "الأذكار النبوية والتعليمات الطقسية",
+        "ur": "نبوی یاد اور رسم کی ہدایت",
+        "fr": "Souvenir prophétique et instruction rituelle",
+        "tr": "Peygamberlik anma ve ritüel talimat",
+        "id": "Peringatan kenabian dan instruksi ritual",
+        "bn": "ভবিষ্যদ্বাণীমূলক স্মরণ এবং আচারের নির্দেশ",
+        "ms": "Zikir kenabian dan arahan ritual"
+      },
+      "notes": {
+        "en": "Throw seven pebbles. Do not stop for the extended supplication after this Jamarah. There is no prescribed additional dua after it. Reference for the three Jamarat practices: Sahih al-Bukhari 1751.",
+        "ta": "ஏழு கூழாங்கற்களை எறியுங்கள். இந்த ஜமராவிற்குப் பிறகு நீட்டிக்கப்பட்ட பிரார்த்தனையை நிறுத்த வேண்டாம். அதற்குப் பிறகு பரிந்துரைக்கப்பட்ட கூடுதல் துஆ எதுவும் இல்லை. மூன்று ஜமாரத் நடைமுறைகளுக்கான குறிப்பு: ஸஹீஹ் அல்-புகாரி 1751.",
+        "ml": "ഏഴ് കല്ലുകൾ എറിയുക. ഈ ജമറയ്ക്ക് ശേഷം നീണ്ടുനിൽക്കുന്ന പ്രാർത്ഥനകൾ നിർത്തരുത്. അതിന് ശേഷം അധിക ദുആയൊന്നും നിശ്ചയിച്ചിട്ടില്ല. മൂന്ന് ജമറാത്ത് സമ്പ്രദായങ്ങൾക്കുള്ള റഫറൻസ്: സഹീഹ് അൽ-ബുഖാരി 1751.",
+        "ar": "رمي سبع حصيات. ولا تتوقف عن الدعاء الممتد بعد هذه الجمرة. وليس هناك دعاء إضافي مقرر بعده. مرجع الجمرات الثلاث: صحيح البخاري 1751.",
+        "ur": "سات کنکریاں پھینکیں۔ اس جمرہ کے بعد لمبی دعا کے لیے نہ رکیں۔ اس کے بعد کوئی اضافی دعا مشروع نہیں ہے۔ تین جمرات کا حوالہ: صحیح البخاری 1751۔",
+        "fr": "Jetez sept cailloux. Ne vous arrêtez pas pour la longue supplication après cette Jamarah. Il n’y a pas de dua supplémentaire prescrit après cela. Référence des trois pratiques du Jamarat : Sahih al-Bukhari 1751.",
+        "tr": "Yedi çakıl taşı atın. Bu cemreden sonra uzun süreli duaya ara vermeyin. Bundan sonra emredilmiş ek bir dua yoktur. Üç Jamarat uygulamasına ilişkin referans: Sahih el-Buhari 1751.",
+        "id": "Lemparkan tujuh kerikil. Jangan berhenti untuk shalat panjang setelah Jamarah ini. Tidak ada doa tambahan yang diwajibkan setelahnya. Referensi tiga amalan Jamarat: Sahih al-Bukhari 1751.",
+        "bn": "সাতটি নুড়ি নিক্ষেপ। এই জামারাহর পর বর্ধিত দোয়ার জন্য থামবেন না। এর পর কোনো নির্ধারিত অতিরিক্ত দুআ নেই। তিনটি জামারাত অনুশীলনের রেফারেন্স: সহীহ আল-বুখারী 1751।",
+        "ms": "Baling tujuh kerikil. Jangan berhenti untuk doa yang dipanjangkan selepas Jamarah ini. Tidak ada doa tambahan yang disyariatkan selepasnya. Rujukan untuk tiga amalan Jamarat: Sahih al-Bukhari 1751."
+      }
+    },
+    {
+      "number": 46,
+      "section": "O",
+      "title": {
+        "en": "Starting the Farewell Tawaf",
+        "ta": "பிரியாவிடை தவாஃப் ஆரம்பம்",
+        "ml": "വിടവാങ്ങൽ ത്വവാഫ് ആരംഭിക്കുന്നു",
+        "ar": "ابتداء طواف الوداع",
+        "ur": "الوداعی طواف شروع کرنا",
+        "fr": "Commencer le Tawaf d'adieu",
+        "tr": "Veda Tavafına Başlamak",
+        "id": "Memulai Tawaf Perpisahan",
+        "bn": "বিদায়ী তাওয়াফ শুরু করা",
+        "ms": "Memulakan Tawaf Perpisahan"
+      },
+      "translation": {
+        "en": "In the name of Allah. Allah is the Greatest.",
+        "ta": "அல்லாஹ்வின் பெயரால். அல்லாஹ் மிகப் பெரியவன்.",
+        "ml": "അല്ലാഹുവിൻ്റെ നാമത്തിൽ. അല്ലാഹുവാണ് ഏറ്റവും വലിയവൻ.",
+        "ar": "بسم الله. الله أكبر.",
+        "ur": "اللہ کے نام پر۔ اللہ سب سے بڑا ہے۔",
+        "fr": "Au nom d'Allah. Allah est le plus grand.",
+        "tr": "Allah'ın adıyla. Allah en büyüktür.",
+        "id": "Dengan menyebut nama Allah. Allah Maha Besar.",
+        "bn": "আল্লাহর নামে। আল্লাহ সর্বশ্রেষ্ঠ।",
+        "ms": "Dengan nama Allah. Allah Maha Besar."
+      },
+      "classification": {
+        "en": "Prophetic remembrance",
+        "ta": "தீர்க்கதரிசன நினைவு",
+        "ml": "പ്രവാചക സ്മരണ",
+        "ar": "الاذكار النبوية",
+        "ur": "نبوی ذکر",
+        "fr": "Souvenir prophétique",
+        "tr": "Peygamberlik anma",
+        "id": "Ingatan Nabi",
+        "bn": "ভাববাদী স্মরণ",
+        "ms": "Zikir kenabian"
+      }
+    },
+    {
+      "number": 47,
+      "section": "O",
+      "title": {
+        "en": "During the Farewell Tawaf",
+        "ta": "பிரியாவிடை தவாஃபின் போது",
+        "ml": "വിടവാങ്ങൽ ത്വവാഫിനിടെ",
+        "ar": "أثناء طواف الوداع",
+        "ur": "الوداعی طواف کے دوران",
+        "fr": "Pendant le Tawaf d'adieu",
+        "tr": "Veda Tavafı sırasında",
+        "id": "Saat Tawaf Perpisahan",
+        "bn": "বিদায়ী তাওয়াফের সময়",
+        "ms": "Semasa Tawaf Perpisahan"
+      },
+      "translation": {
+        "en": "Glory be to Allah.\n\nAll praise belongs to AAllah.\n\nAll praise belongs to Allah.\n\nAllah is the Greatest.\n\nThere is no deity worthy of worship except Allah.",
+        "ta": "மகிமை அல்லாஹ்வுக்கே.\n\nஎல்லாப் புகழும் அல்லாஹ்வுக்கே.\n\nஎல்லாப் புகழும் அல்லாஹ்வுக்கே.\n\nஅல்லாஹ் மிகப் பெரியவன்.\n\nவணக்கத்திற்குரிய இறைவன் அல்லாஹ்வைத் தவிர வேறு யாருமில்லை.",
+        "ml": "അള്ളാഹുവിന് മഹത്വം.\n\nഎല്ലാ സ്തുതിയും അള്ളാഹുവിനുള്ളതാണ്.\n\nഎല്ലാ സ്തുതിയും അല്ലാഹുവിനാണ്.\n\nഅല്ലാഹുവാണ് ഏറ്റവും വലിയവൻ.\n\nഅള്ളാഹു അല്ലാതെ ആരാധന അർഹിക്കുന്ന ഒരു ദൈവവുമില്ല.",
+        "ar": "سبحان الله.\n\nالحمد لله.\n\nالحمد لله.\n\nالله أكبر.\n\nولا إله يستحق العبادة إلا الله.",
+        "ur": "اللہ پاک ہے۔\n\nتمام تعریفیں اللہ کے لیے ہیں۔\n\nتمام تعریفیں اللہ کے لیے ہیں۔\n\nاللہ سب سے بڑا ہے۔\n\nاللہ کے سوا کوئی عبادت کے لائق نہیں۔",
+        "fr": "Gloire à Allah.\n\nToute louange appartient à Allah.\n\nToute louange appartient à Allah.\n\nAllah est le plus grand.\n\nIl n’y a de divinité digne d’être adorée qu’Allah.",
+        "tr": "Allah'a hamd olsun.\n\nHamd tamamıyla Allah'a mahsustur.\n\nBütün övgüler Allah'a aittir.\n\nAllah en büyüktür.\n\nAllah'tan başka ibadete layık ilah yoktur.",
+        "id": "Maha Suci Allah.\n\nSegala puji hanya milik AAllah.\n\nSegala puji milik Allah.\n\nAllah Maha Besar.\n\nTidak ada tuhan yang berhak disembah kecuali Allah.",
+        "bn": "মহান আল্লাহ পাক।\n\nসকল প্রশংসা আল্লাহর জন্য।\n\nসকল প্রশংসা আল্লাহর।\n\nআল্লাহ সর্বশ্রেষ্ঠ।\n\nআল্লাহ ছাড়া উপাসনার যোগ্য কোন মাবুদ নেই।",
+        "ms": "Maha Suci Allah.\n\nSegala puji milik Allah.\n\nSegala puji bagi Allah.\n\nAllah Maha Besar.\n\nTiada tuhan yang berhak disembah melainkan Allah."
+      },
+      "classification": {
+        "en": "General permissible Dhikr; source wording flagged for review",
+        "ta": "பொதுவாக அனுமதிக்கப்பட்ட திக்ர்; மூல வார்த்தைகள் மதிப்பாய்வுக்காக கொடியிடப்பட்டன",
+        "ml": "പൊതുവായ അനുവദനീയമായ ദിക്ർ; ഉറവിട പദങ്ങൾ അവലോകനത്തിനായി ഫ്ലാഗുചെയ്‌തു",
+        "ar": "الأذكار العامة المسموح بها؛ تم وضع علامة على صياغة المصدر للمراجعة",
+        "ur": "عام جائز ذکر؛ ماخذ الفاظ کو نظرثانی کے لیے جھنڈا لگایا گیا ہے۔",
+        "fr": "Dhikr général autorisé ; le libellé source a été signalé pour examen",
+        "tr": "Genel olarak izin verilen Zikir; kaynak ifadeleri incelenmek üzere işaretlendi",
+        "id": "Dzikir yang diperbolehkan secara umum; kata-kata sumber ditandai untuk ditinjau",
+        "bn": "সাধারণ জায়েয যিকির; উত্স শব্দগুলি পর্যালোচনার জন্য পতাকাঙ্কিত৷",
+        "ms": "Dzikir umum yang dibenarkan; perkataan sumber dibenderakan untuk semakan"
+      },
+      "notes": {
+        "en": "The supplied English includes an apparent duplicated or mistyped line (“All praise belongs to AAllah.”). It is preserved in the source wording and flagged for human review, not silently corrected.",
+        "ta": "வழங்கப்பட்ட ஆங்கிலத்தில் வெளிப்படையான நகல் அல்லது தவறாக தட்டச்சு செய்யப்பட்ட வரி அடங்கும் (\"எல்லாப் புகழும் அல்லாஹ்வுக்கே உரியது.\"). இது மூல வார்த்தைகளில் பாதுகாக்கப்பட்டு மனித மதிப்பாய்வுக்காக கொடியிடப்பட்டது, அமைதியாக சரி செய்யப்படவில்லை.",
+        "ml": "വിതരണം ചെയ്ത ഇംഗ്ലീഷിൽ പ്രത്യക്ഷത്തിൽ തനിപ്പകർപ്പ് അല്ലെങ്കിൽ തെറ്റായി ടൈപ്പ് ചെയ്ത ഒരു വരി ഉൾപ്പെടുന്നു (\"എല്ലാ സ്തുതിയും അള്ളാഹുവിനുള്ളതാണ്.\"). ഇത് ഉറവിട പദങ്ങളിൽ സൂക്ഷിക്കുകയും മനുഷ്യ അവലോകനത്തിനായി ഫ്ലാഗ് ചെയ്യുകയും ചെയ്യുന്നു, നിശബ്ദമായി ശരിയാക്കില്ല.",
+        "ar": "تتضمن اللغة الإنجليزية المرفقة سطرًا مكررًا أو مكتوبًا بشكل خاطئ (\"الحمد لله\".). ويتم حفظه في صياغة المصدر ووضع علامة عليه للمراجعة البشرية، ولا يتم تصحيحه بصمت.",
+        "ur": "فراہم کردہ انگریزی میں بظاہر ڈپلیکیٹ یا غلط ٹائپ شدہ لائن شامل ہے (\"تمام تعریفیں اللہ کے لیے ہیں۔\")۔ یہ ماخذ الفاظ میں محفوظ ہے اور انسانی جائزہ کے لیے جھنڈا لگایا گیا ہے، خاموشی سے درست نہیں کیا گیا ہے۔",
+        "fr": "L'anglais fourni comprend une ligne apparemment dupliquée ou mal orthographiée (« Toute louange appartient à AAllah. »). Il est conservé dans le texte source et marqué pour examen humain, et non corrigé silencieusement.",
+        "tr": "Sağlanan İngilizcede açıkça kopyalanmış veya yanlış yazılmış bir satır bulunmaktadır (\"Tüm övgüler AAllah'a aittir.\"). Kaynak ifadesinde korunur ve insanların incelemesi için işaretlenir, sessizce düzeltilmez.",
+        "id": "Bahasa Inggris yang disediakan mencakup baris yang jelas-jelas terduplikasi atau salah ketik (“Segala puji milik AAllah.”). Ini disimpan dalam kata-kata sumber dan ditandai untuk ditinjau oleh manusia, tidak dikoreksi secara diam-diam.",
+        "bn": "সরবরাহ করা ইংরেজিতে একটি আপাত সদৃশ বা ভুল টাইপ করা লাইন রয়েছে (\"সমস্ত প্রশংসা আল্লাহর জন্য।\")। এটি উৎস শব্দে সংরক্ষিত এবং মানুষের পর্যালোচনার জন্য পতাকাঙ্কিত, নীরবে সংশোধন করা হয় না।",
+        "ms": "Bahasa Inggeris yang dibekalkan termasuk baris pendua atau salah taip yang jelas (“Segala pujian kepunyaan AAllah.”). Ia disimpan dalam perkataan sumber dan dibenderakan untuk semakan manusia, bukan diperbetulkan secara senyap."
+      }
+    },
+    {
+      "number": 48,
+      "section": "O",
+      "title": {
+        "en": "Between Rukn al-Yamani and Hajar al-Aswad",
+        "ta": "ருக்ன் அல்-யமானி மற்றும் ஹஜர் அல்-அஸ்வத் இடையே",
+        "ml": "റുക്ൻ അൽ-യമാനിക്കും ഹജർ അൽ-അസ്‌വാദിനും ഇടയിൽ",
+        "ar": "بين ركن اليماني والحجر الأسود",
+        "ur": "رکن یمانی اور حجر اسود کے درمیان",
+        "fr": "Entre Rukn al-Yamani et Hajar al-Aswad",
+        "tr": "Rükn-i Yemani ile Hacer-i Esved arası",
+        "id": "Antara Rukun al-Yamani dan Hajar al-Aswad",
+        "bn": "রুকন আল-ইয়ামানি এবং হাজর আল-আসওয়াদের মধ্যে",
+        "ms": "Antara Rukn al-Yamani dan Hajar al-Aswad"
+      },
+      "translation": {
+        "en": "Our Lord, grant us good in this world and good in the Hereafter, and protect us from the punishment of the Fire.",
+        "ta": "எங்கள் இறைவா, எங்களுக்கு இவ்வுலகிலும் நன்மையையும் மறுமையிலும் நன்மையை வழங்குவாயாக, மேலும் எங்களை நெருப்பின் தண்டனையிலிருந்து காப்பாற்றுவாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങൾക്ക് ഇഹത്തിലും പരത്തിലും നന്മ നൽകുകയും നരകശിക്ഷയിൽ നിന്ന് ഞങ്ങളെ കാത്തുരക്ഷിക്കുകയും ചെയ്യേണമേ.",
+        "ar": "ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار.",
+        "ur": "اے ہمارے رب ہمیں دنیا میں بھی بھلائی اور آخرت میں بھی بھلائی عطا فرما اور ہمیں آگ کے عذاب سے بچا۔",
+        "fr": "Notre Seigneur, accorde-nous le bien dans ce monde et le bien dans l'au-delà, et protège-nous du châtiment du Feu.",
+        "tr": "Rabbimiz, bize dünyada da iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru.",
+        "id": "Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami dari siksa Neraka.",
+        "bn": "হে আমাদের পালনকর্তা, আমাদেরকে দুনিয়াতে কল্যাণ দান করুন এবং পরকালেও কল্যাণ দিন এবং আমাদেরকে আগুনের শাস্তি থেকে রক্ষা করুন।",
+        "ms": "Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami dari siksa neraka."
+      },
+      "classification": {
+        "en": "Qur'anic supplication",
+        "ta": "குர்ஆன் பிரார்த்தனை",
+        "ml": "ഖുർആനിക പ്രാർത്ഥന",
+        "ar": "الدعاء القرآني",
+        "ur": "قرآنی دعا",
+        "fr": "supplication coranique",
+        "tr": "Kuran duası",
+        "id": "Doa Al-Qur'an",
+        "bn": "কোরআনের দোয়া",
+        "ms": "Doa Al-Quran"
+      }
+    },
+    {
+      "number": 49,
+      "section": "O",
+      "title": {
+        "en": "Leaving Masjid al-Haram",
+        "ta": "மஸ்ஜிதுல் ஹராமிலிருந்து வெளியேறுதல்",
+        "ml": "മസ്ജിദുൽ ഹറാം വിട്ടു",
+        "ar": "الخروج من المسجد الحرام",
+        "ur": "مسجد الحرام سے نکلنا",
+        "fr": "Quitter la mosquée Masjid al-Haram",
+        "tr": "Mescid-i Haram'dan çıkmak",
+        "id": "Meninggalkan Masjidil Haram",
+        "bn": "মসজিদুল হারাম থেকে বের হওয়া",
+        "ms": "Meninggalkan Masjidil Haram"
+      },
+      "translation": {
+        "en": "In the name of Allah. May peace and blessings be upon the Messenger of Allah.\n\nO Allah, I ask You for Your bounty.",
+        "ta": "அல்லாஹ்வின் பெயரால். அல்லாஹ்வின் தூதர் மீது சாந்தியும் சமாதானமும் உண்டாவதாக.\n\nயா அல்லாஹ், உன்னுடைய அருளை நான் உன்னிடம் கேட்கிறேன்.",
+        "ml": "അല്ലാഹുവിൻ്റെ നാമത്തിൽ. അല്ലാഹുവിൻ്റെ റസൂലിന് സമാധാനവും അനുഗ്രഹവും ഉണ്ടാകട്ടെ.\n\nഅല്ലാഹുവേ, ഞാൻ നിന്നോട് നിൻ്റെ ഔദാര്യം ചോദിക്കുന്നു.",
+        "ar": "بسم الله. والصلاة والسلام على رسول الله.\n\nاللهم إني أسألك من فضلك.",
+        "ur": "اللہ کے نام پر۔ درود و سلام ہو اللہ کے رسول پر۔\n\nاے اللہ میں تجھ سے تیرا فضل مانگتا ہوں۔",
+        "fr": "Au nom d'Allah. Que la paix et les bénédictions soient sur le Messager d'Allah.\n\nÔ Allah, je Te demande Ta générosité.",
+        "tr": "Allah'ın adıyla. Allah Resulü'ne salat ve selam olsun.\n\nAllah'ım senden lütfunu isterim.",
+        "id": "Dengan menyebut nama Allah. Semoga shalawat dan salam tercurah kepada Rasulullah.\n\nYa Allah, aku mohon rezeki-Mu.",
+        "bn": "আল্লাহর নামে। আল্লাহর রাসূলের উপর শান্তি ও রহমত বর্ষিত হোক।\n\nহে আল্লাহ, আমি তোমার কাছে তোমার অনুগ্রহ চাই।",
+        "ms": "Dengan nama Allah. Selawat dan salam ke atas Rasulullah.\n\nYa Allah, aku memohon kepada-Mu karunia-Mu."
+      },
+      "classification": {
+        "en": "Prophetic supplication",
+        "ta": "தீர்க்கதரிசன பிரார்த்தனை",
+        "ml": "പ്രവാചക പ്രാർത്ഥന",
+        "ar": "الدعاء النبوي",
+        "ur": "دعائے نبوت",
+        "fr": "Supplication prophétique",
+        "tr": "Peygamberlik duası",
+        "id": "Doa kenabian",
+        "bn": "ভবিষ্যদ্বাণীমূলক প্রার্থনা",
+        "ms": "Doa kenabian"
+      }
+    },
+    {
+      "number": 50,
+      "section": "P",
+      "title": {
+        "en": "Entering Masjid an-Nabawi",
+        "ta": "மஸ்ஜிதுன் நபவிக்குள் நுழைதல்",
+        "ml": "മസ്ജിദുന്നബവിയിൽ പ്രവേശിക്കുന്നു",
+        "ar": "دخول المسجد النبوي",
+        "ur": "مسجد نبوی میں داخل ہونا",
+        "fr": "Entrée dans la mosquée Masjid an-Nabawi",
+        "tr": "Mescid-i Nebevi'ye girmek",
+        "id": "Memasuki Masjid an-Nabawi",
+        "bn": "মসজিদে নববীতে প্রবেশ",
+        "ms": "Memasuki Masjid an-Nabawi"
+      },
+      "translation": {
+        "en": "In the name of Allah. May peace and blessings be upon the Messenger of Allah.\n\nO Allah, open the doors of Your mercy for me.",
+        "ta": "அல்லாஹ்வின் பெயரால். அல்லாஹ்வின் தூதர் மீது சாந்தியும் சமாதானமும் உண்டாவதாக.\n\nயா அல்லாஹ், உனது கருணையின் கதவுகளை எனக்காகத் திறந்துவிடு.",
+        "ml": "അല്ലാഹുവിൻ്റെ നാമത്തിൽ. അല്ലാഹുവിൻ്റെ റസൂലിന് സമാധാനവും അനുഗ്രഹവും ഉണ്ടാകട്ടെ.\n\nഅല്ലാഹുവേ, നിൻ്റെ കാരുണ്യത്തിൻ്റെ വാതിലുകൾ എനിക്കായി തുറക്കേണമേ.",
+        "ar": "بسم الله. والصلاة والسلام على رسول الله.\n\nاللهمّ افتح لي أبواب رحمتك.",
+        "ur": "اللہ کے نام پر۔ درود و سلام ہو اللہ کے رسول پر۔\n\nاے اللہ میرے لیے اپنی رحمت کے دروازے کھول دے۔",
+        "fr": "Au nom d'Allah. Que la paix et les bénédictions soient sur le Messager d'Allah.\n\nÔ Allah, ouvre-moi les portes de Ta miséricorde.",
+        "tr": "Allah'ın adıyla. Allah Resulü'ne salat ve selam olsun.\n\nAllahım bana rahmetinin kapılarını aç.",
+        "id": "Dengan menyebut nama Allah. Semoga shalawat dan salam tercurah kepada Rasulullah.\n\nYa Allah, bukakan pintu rahmat-Mu untukku.",
+        "bn": "আল্লাহর নামে। আল্লাহর রাসূলের উপর শান্তি ও রহমত বর্ষিত হোক।\n\nহে আল্লাহ আমার জন্য তোমার রহমতের দরজা খুলে দাও।",
+        "ms": "Dengan nama Allah. Selawat dan salam ke atas Rasulullah.\n\nYa Allah, bukakanlah untukku pintu-pintu rahmatMu."
+      },
+      "classification": {
+        "en": "Prophetic supplication and explanatory note",
+        "ta": "தீர்க்கதரிசன பிரார்த்தனை மற்றும் விளக்கக் குறிப்பு",
+        "ml": "പ്രവാചക പ്രാർത്ഥനയും വിശദീകരണ കുറിപ്പും",
+        "ar": "الدعاء النبوي والمذكرة التفسيرية",
+        "ur": "نبوی دعا اور وضاحتی نوٹ",
+        "fr": "Supplication prophétique et note explicative",
+        "tr": "Peygamberlik duası ve açıklayıcı not",
+        "id": "Doa kenabian dan catatan penjelasan",
+        "bn": "ভবিষ্যদ্বাণীমূলক প্রার্থনা এবং ব্যাখ্যামূলক নোট",
+        "ms": "Doa kenabian dan nota penerangan"
+      },
+      "notes": {
+        "en": "Visiting Madinah is not a ritual of Hajj or Umrah, but many pilgrims visit the Prophet's Mosque.",
+        "ta": "மதீனாவுக்குச் செல்வது ஹஜ் அல்லது உம்ராவின் ஒரு சடங்கு அல்ல, ஆனால் பல யாத்ரீகர்கள் நபியின் மசூதிக்கு வருகை தருகின்றனர்.",
+        "ml": "മദീന സന്ദർശിക്കുന്നത് ഹജ്ജിൻ്റെയോ ഉംറയുടെയോ ഒരു ചടങ്ങല്ല, എന്നാൽ നിരവധി തീർഥാടകർ പ്രവാചകൻ്റെ പള്ളി സന്ദർശിക്കുന്നു.",
+        "ar": "زيارة المدينة المنورة ليست من طقوس الحج أو العمرة، لكن الكثير من الحجاج يزورون المسجد النبوي.",
+        "ur": "مدینہ منورہ جانا حج یا عمرہ کی رسم نہیں ہے، لیکن بہت سے زائرین مسجد نبوی کی زیارت کرتے ہیں۔",
+        "fr": "La visite de Médine n'est pas un rituel du Hajj ou de la Omra, mais de nombreux pèlerins visitent la mosquée du Prophète.",
+        "tr": "Medine'yi ziyaret etmek bir Hac veya Umre ritüeli değildir ancak birçok hacı Mescid-i Nebevî'yi ziyaret eder.",
+        "id": "Mengunjungi Madinah bukanlah sebuah ritual haji atau umrah, namun banyak jamaah yang mengunjungi Masjid Nabawi.",
+        "bn": "মদিনা পরিদর্শন হজ বা ওমরার অনুষ্ঠান নয়, তবে অনেক তীর্থযাত্রী মসজিদে নববীতে যান।",
+        "ms": "Mengunjungi Madinah bukanlah ibadah haji atau umrah, tetapi ramai jemaah yang mengunjungi Masjid Nabawi."
+      }
+    },
+    {
+      "number": 51,
+      "section": "P",
+      "title": {
+        "en": "Sending Salam to Prophet Muhammad ﷺ",
+        "ta": "முஹம்மது நபி ஸல்லல்லாஹு அலைஹி வஸல்லம் அவர்களுக்கு சலாம் அனுப்புதல்",
+        "ml": "മുഹമ്മദ് നബി(സ)ക്ക് സലാം അയക്കുന്നു",
+        "ar": "تسليم السلام على النبي محمد ﷺ",
+        "ur": "نبی کریم صلی اللہ علیہ وسلم پر سلام بھیجنا",
+        "fr": "Envoi de Salam au Prophète Muhammad ﷺ",
+        "tr": "Peygamberimiz Muhammed'e (s.a.v.) selam göndermek",
+        "id": "Mengirim Salam kepada Nabi Muhammad ﷺ",
+        "bn": "নবী মুহাম্মদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর প্রতি সালাম পাঠানো",
+        "ms": "Mengucapkan salam kepada Nabi Muhammad ﷺ"
+      },
+      "translation": {
+        "en": "Peace be upon you, O Messenger of Allah, and the mercy of Allah and His blessings.",
+        "ta": "அல்லாஹ்வின் தூதரே, உங்கள் மீது சாந்தியும், அல்லாஹ்வின் கருணையும் அவனது அருளும் உண்டாவதாக.",
+        "ml": "അല്ലാഹുവിൻ്റെ ദൂതരേ, നിങ്ങൾക്ക് സമാധാനവും അല്ലാഹുവിൻ്റെ കാരുണ്യവും അനുഗ്രഹങ്ങളും ഉണ്ടാകട്ടെ.",
+        "ar": "السلام عليك يا رسول الله ورحمة الله وبركاته.",
+        "ur": "سلام ہو آپ پر اے اللہ کے رسول صلی اللہ علیہ وسلم اور اللہ کی رحمت اور اس کی برکات۔",
+        "fr": "La paix soit sur toi, ô Messager d'Allah, et la miséricorde d'Allah et Ses bénédictions.",
+        "tr": "Selam sana ey Allah'ın Resulü, Allah'ın rahmeti ve bereketi üzerinize olsun.",
+        "id": "Salam sejahtera bagimu wahai Rasulullah, rahmat Allah dan berkah-Nya.",
+        "bn": "হে আল্লাহর রাসূল, আপনার উপর শান্তি বর্ষিত হোক এবং আল্লাহর রহমত ও অনুগ্রহ বর্ষিত হোক।",
+        "ms": "Salam sejahtera ke atasmu wahai Rasulullah, dan rahmat Allah serta keberkatan-Nya."
+      },
+      "classification": {
+        "en": "Permissible greeting",
+        "ta": "அனுமதிக்கப்பட்ட வாழ்த்து",
+        "ml": "അനുവദനീയമായ അഭിവാദ്യം",
+        "ar": "تحية مسموحة",
+        "ur": "جائز سلام",
+        "fr": "Salutation autorisée",
+        "tr": "İzin verilen selamlama",
+        "id": "Salam diperbolehkan",
+        "bn": "অনুমতিযোগ্য অভিবাদন",
+        "ms": "Salam yang dibenarkan"
+      },
+      "notes": {
+        "en": "This is a permissible wording of greeting, not a compulsory fixed formula.",
+        "ta": "இது வாழ்த்துக்கான அனுமதிக்கப்பட்ட வார்த்தையாகும், கட்டாய நிலையான சூத்திரம் அல்ல.",
+        "ml": "ഇത് അഭിവാദ്യത്തിൻ്റെ അനുവദനീയമായ പദമാണ്, നിർബന്ധിത നിശ്ചിത ഫോർമുലയല്ല.",
+        "ar": "وهذه لفظة تحية جائزة وليست صيغة ثابتة إلزامية.",
+        "ur": "یہ سلام کا ایک جائز لفظ ہے، لازمی مقررہ فارمولہ نہیں۔",
+        "fr": "Il s’agit d’une formule de salutation autorisée et non d’une formule fixe obligatoire.",
+        "tr": "Bu, zorunlu sabit bir formül değil, izin verilen bir selamlama ifadesidir.",
+        "id": "Ini adalah kata-kata salam yang diperbolehkan, bukan rumusan tetap yang wajib.",
+        "bn": "এটি অভিবাদনের একটি অনুমতিযোগ্য শব্দ, একটি বাধ্যতামূলক নির্দিষ্ট সূত্র নয়।",
+        "ms": "Ini adalah lafaz salam yang dibenarkan, bukan formula tetap wajib."
+      }
+    },
+    {
+      "number": 52,
+      "section": "P",
+      "title": {
+        "en": "Sending Salam to Abu Bakr رضي الله عنه",
+        "ta": "அபுபக்கர் رضي الله عنه அவர்களுக்கு சலாம் அனுப்புதல்",
+        "ml": "അബൂബക്കറിന് സലാം അയക്കുന്നു رضي الله عنه",
+        "ar": "السلام على أبي بكر رضي الله عنه",
+        "ur": "ابوبکر رضی اللہ عنہ پر سلام بھیجنا",
+        "fr": "Envoi de Salam à Abou Bakr رضي الله عنه",
+        "tr": "Ebubekir'e selam göndermek رضي الله عنه",
+        "id": "Mengirim Salam kepada Abu Bakar رضي الله عنه",
+        "bn": "আবু বকর রাদিয়াল্লাহু আনহুকে সালাম পাঠানো",
+        "ms": "Menghantar Salam kepada Abu Bakar رضي الله عنه"
+      },
+      "translation": {
+        "en": "Peace be upon you, O Abu Bakr as-Siddiq, and the mercy of Allah and His blessings.",
+        "ta": "ஓ அபூபக்கர் அஸ்-சித்திக், உங்கள் மீது சாந்தியும், அல்லாஹ்வின் கருணையும் அவனது ஆசீர்வாதங்களும் உண்டாவதாக.",
+        "ml": "അബൂബക്കർ സിദ്ദീഖ്, നിങ്ങൾക്ക് സമാധാനം, അല്ലാഹുവിൻ്റെ കാരുണ്യവും അനുഗ്രഹവും.",
+        "ar": "السلام عليك يا أبا بكر الصديق ورحمة الله وبركاته.",
+        "ur": "سلام ہو آپ پر اے ابوبکر صدیق اور اللہ کی رحمت اور اس کی برکات۔",
+        "fr": "La paix soit sur toi, ô Abu Bakr as-Siddiq, et la miséricorde d'Allah et Ses bénédictions.",
+        "tr": "Selam sana ey Ebubekir es-Sıddık, Allah'ın rahmeti ve bereketi senin üzerine olsun.",
+        "id": "Salam sejahtera wahai Abu Bakar as-Siddiq, dan rahmat Allah dan berkah-Nya.",
+        "bn": "হে আবু বকর আস-সিদ্দিক, আপনার উপর শান্তি বর্ষিত হোক এবং আল্লাহর রহমত ও বরকত বর্ষিত হোক।",
+        "ms": "Salam sejahtera ke atasmu wahai Abu Bakar as-Siddiq, dan rahmat Allah dan keberkatan-Nya."
+      },
+      "classification": {
+        "en": "Permissible greeting",
+        "ta": "அனுமதிக்கப்பட்ட வாழ்த்து",
+        "ml": "അനുവദനീയമായ അഭിവാദ്യം",
+        "ar": "تحية مسموحة",
+        "ur": "جائز سلام",
+        "fr": "Salutation autorisée",
+        "tr": "İzin verilen selamlama",
+        "id": "Salam diperbolehkan",
+        "bn": "অনুমতিযোগ্য অভিবাদন",
+        "ms": "Salam yang dibenarkan"
+      }
+    },
+    {
+      "number": 53,
+      "section": "P",
+      "title": {
+        "en": "Sending Salam to Umar ibn al-Khattab رضي الله عنه",
+        "ta": "உமர் இபின் அல்-கத்தாப் رضي الله عنه க்கு சலாம் அனுப்புதல்",
+        "ml": "ഉമർ ഇബ്നു അൽ ഖത്താബ് رضي الله عنه ന് സലാം അയക്കുന്നു",
+        "ar": "السلام على عمر بن الخطاب رضي الله عنه",
+        "ur": "عمر بن الخطاب رضی اللہ عنہ کو سلام بھیجنا",
+        "fr": "Envoi de Salam à Umar ibn al-Khattab رضي الله عنه",
+        "tr": "Ömer ibn el-Hattab'a selam göndermek رضي الله عنه",
+        "id": "Mengirim Salam kepada Umar bin al-Khattab رضي الله عنه",
+        "bn": "উমর ইবনুল খাত্তাব রাদিয়াল্লাহু আনহুকে সালাম পাঠানো",
+        "ms": "Menyampaikan Salam kepada Umar ibn al-Khattab رضي الله عنه"
+      },
+      "translation": {
+        "en": "Peace be upon you, O Umar ibn al-Khattab, and the mercy of Allah and His blessings.",
+        "ta": "உமர் இப்னுல் கத்தாப் அவர்களே, உங்கள் மீது சாந்தியும், அல்லாஹ்வின் கருணையும் அவனது ஆசீர்வாதங்களும் உண்டாவதாக.",
+        "ml": "ഉമർ ഇബ്നുൽ ഖത്താബ്, അല്ലാഹുവിൻ്റെ കാരുണ്യവും അനുഗ്രഹങ്ങളും നിങ്ങൾക്ക് സമാധാനം.",
+        "ar": "السلام عليك يا عمر بن الخطاب ورحمة الله وبركاته.",
+        "ur": "سلام ہو آپ پر اے عمر بن الخطاب اور اللہ کی رحمت اور اس کی برکات۔",
+        "fr": "La paix soit sur toi, O Umar ibn al-Khattab, et la miséricorde d'Allah et Ses bénédictions.",
+        "tr": "Selam sana ey Ömer ibn el-Hattab, Allah'ın rahmeti ve bereketi senin üzerine olsun.",
+        "id": "Salam sejahtera wahai Umar bin Khattab, dan rahmat Allah dan berkah-Nya.",
+        "bn": "হে উমর ইবনুল খাত্তাব আপনার উপর শান্তি বর্ষিত হোক এবং আল্লাহর রহমত ও বরকত বর্ষিত হোক।",
+        "ms": "Salam sejahtera ke atasmu, wahai Umar ibn al-Khattab, dan rahmat Allah dan rahmat-Nya."
+      },
+      "classification": {
+        "en": "Permissible greeting",
+        "ta": "அனுமதிக்கப்பட்ட வாழ்த்து",
+        "ml": "അനുവദനീയമായ അഭിവാദ്യം",
+        "ar": "تحية مسموحة",
+        "ur": "جائز سلام",
+        "fr": "Salutation autorisée",
+        "tr": "İzin verilen selamlama",
+        "id": "Salam diperbolehkan",
+        "bn": "অনুমতিযোগ্য অভিবাদন",
+        "ms": "Salam yang dibenarkan"
+      }
+    },
+    {
+      "number": 54,
+      "section": "P",
+      "title": {
+        "en": "Leaving Masjid an-Nabawi",
+        "ta": "மஸ்ஜித் அந்-நபவியை விட்டு வெளியேறுதல்",
+        "ml": "മസ്ജിദുന്നബവി വിട്ടു",
+        "ar": "مغادرة المسجد النبوي",
+        "ur": "مسجد نبوی سے نکلنا",
+        "fr": "Quitter Masjid an-Nabawi",
+        "tr": "Mescid-i Nebevi'den çıkmak",
+        "id": "Meninggalkan Masjid an-Nabawi",
+        "bn": "মসজিদে নববী থেকে বের হওয়া",
+        "ms": "Meninggalkan Masjid an-Nabawi"
+      },
+      "translation": {
+        "en": "In the name of Allah. May peace and blessings be upon the Messenger of Allah.\n\nO Allah, I ask You for Your bounty.",
+        "ta": "அல்லாஹ்வின் பெயரால். அல்லாஹ்வின் தூதர் மீது சாந்தியும் சமாதானமும் உண்டாவதாக.\n\nயா அல்லாஹ், உன்னுடைய அருளை நான் உன்னிடம் கேட்கிறேன்.",
+        "ml": "അല്ലാഹുവിൻ്റെ നാമത്തിൽ. അല്ലാഹുവിൻ്റെ റസൂലിന് സമാധാനവും അനുഗ്രഹവും ഉണ്ടാകട്ടെ.\n\nഅല്ലാഹുവേ, ഞാൻ നിന്നോട് നിൻ്റെ ഔദാര്യം ചോദിക്കുന്നു.",
+        "ar": "بسم الله. والصلاة والسلام على رسول الله.\n\nاللهم إني أسألك من فضلك.",
+        "ur": "اللہ کے نام پر۔ درود و سلام ہو اللہ کے رسول پر۔\n\nاے اللہ میں تجھ سے تیرا فضل مانگتا ہوں۔",
+        "fr": "Au nom d'Allah. Que la paix et les bénédictions soient sur le Messager d'Allah.\n\nÔ Allah, je Te demande Ta générosité.",
+        "tr": "Allah'ın adıyla. Allah Resulü'ne salat ve selam olsun.\n\nAllah'ım senden lütfunu isterim.",
+        "id": "Dengan menyebut nama Allah. Semoga shalawat dan salam tercurah kepada Rasulullah.\n\nYa Allah, aku mohon rezeki-Mu.",
+        "bn": "আল্লাহর নামে। আল্লাহর রাসূলের উপর শান্তি ও রহমত বর্ষিত হোক।\n\nহে আল্লাহ, আমি তোমার কাছে তোমার অনুগ্রহ চাই।",
+        "ms": "Dengan nama Allah. Selawat dan salam ke atas Rasulullah.\n\nYa Allah, aku memohon kepada-Mu karunia-Mu."
+      },
+      "classification": {
+        "en": "Prophetic supplication",
+        "ta": "தீர்க்கதரிசன பிரார்த்தனை",
+        "ml": "പ്രവാചക പ്രാർത്ഥന",
+        "ar": "الدعاء النبوي",
+        "ur": "دعائے نبوت",
+        "fr": "Supplication prophétique",
+        "tr": "Peygamberlik duası",
+        "id": "Doa kenabian",
+        "bn": "ভবিষ্যদ্বাণীমূলক প্রার্থনা",
+        "ms": "Doa kenabian"
+      }
+    }
+  ]
+}

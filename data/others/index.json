@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "section_id": "others",
+  "status": "partial",
+  "collections": [
+    {
+      "id": "asma-ul-husna",
+      "title": { "en": "Asma Ul Husna" },
+      "metadata_file": "asma-ul-husna/metadata.json",
+      "data_file": "asma-ul-husna/names.json",
+      "status": "available",
+      "expected_record_count": 99
+    },
+    {
+      "id": "asma-ul-anbiya",
+      "title": { "en": "Asma Ul Anbiya" },
+      "metadata_file": "asma-ul-anbiya/metadata.json",
+      "data_file": "asma-ul-anbiya/prophets.json",
+      "status": "available",
+      "expected_record_count": 25
+    },
+    {
+      "id": "asma-un-nabi",
+      "title": { "en": "Asma Un Nabi" },
+      "metadata_file": "duas/categories/asma-un-nabi/metadata.json",
+      "data_file": "duas/categories/asma-un-nabi/duas.json",
+      "status": "partial",
+      "source_status": "User-provided compilation; independent source verification pending."
+    }
+  ]
+}

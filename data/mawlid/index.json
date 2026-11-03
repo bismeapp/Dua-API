@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "section_id": "mawlid",
+  "status": "available",
+  "collections": [
+    {
+      "id": "manqoos-mawlid",
+      "title": { "en": "Manqoos Mawlid" },
+      "metadata_file": "duas/categories/mawlid/metadata.json",
+      "data_file": "duas/categories/mawlid/manqoos.json",
+      "status": "available",
+      "source_category_id": "mawlid"
+    },
+    {
+      "id": "subuhana-mawlid",
+      "title": { "en": "Subuhana Mawlid" },
+      "metadata_file": "duas/categories/mawlid/metadata.json",
+      "data_file": "duas/categories/mawlid/subuhana.json",
+      "status": "available",
+      "source_category_id": "mawlid",
+      "translation_status": "machine-drafted; human review required"
+    }
+  ]
+}

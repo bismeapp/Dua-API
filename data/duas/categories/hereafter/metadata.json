@@ -1,16 +1,16 @@
 {
   "id": "hereafter",
   "name": {
-    "en": "Hereafter",
-    "ta": "மறுமை",
-    "ml": "പരലോകം",
-    "ar": "الآخرة",
-    "ur": "آخرت",
-    "fr": "L’au-delà",
-    "tr": "Ahiret",
-    "id": "Akhirat",
-    "bn": "আখিরাত",
-    "ms": "Akhirat"
+    "en": "Day of Judgment",
+    "ta": "மறுமை நாள்",
+    "ml": "അന്ത്യദിനം",
+    "ar": "يوم القيامة",
+    "ur": "یومِ قیامت",
+    "fr": "Jour du Jugement",
+    "tr": "Kıyamet Günü",
+    "id": "Hari Kiamat",
+    "bn": "কিয়ামতের দিন",
+    "ms": "Hari Kiamat"
   },
   "description": {
     "en": "Duas concerning the Hereafter and life after death.",

@@ -1,0 +1,56 @@
+{
+  "schema_version": "3.0.0",
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "flag": "ðŸ‡¬ðŸ‡§"
+    },
+    {
+      "code": "ta",
+      "name": "தமிழ்",
+      "flag": "ðŸ‡®ðŸ‡³"
+    },
+    {
+      "code": "ml",
+      "name": "മലയാളം",
+      "flag": "ðŸ‡®ðŸ‡³"
+    },
+    {
+      "code": "ar",
+      "name": "العربية",
+      "flag": "ðŸ‡¸ðŸ‡¦"
+    },
+    {
+      "code": "ur",
+      "name": "اردو",
+      "flag": "ðŸ‡µðŸ‡°"
+    },
+    {
+      "code": "fr",
+      "name": "Français",
+      "flag": "ðŸ‡«ðŸ‡·"
+    },
+    {
+      "code": "tr",
+      "name": "Türkçe",
+      "flag": "ðŸ‡¹ðŸ‡·"
+    },
+    {
+      "code": "id",
+      "name": "Bahasa Indonesia",
+      "flag": "ðŸ‡®ðŸ‡©"
+    },
+    {
+      "code": "bn",
+      "name": "বাংলা",
+      "flag": "ðŸ‡§ðŸ‡©"
+    },
+    {
+      "code": "ms",
+      "name": "Bahasa Melayu",
+      "flag": "ðŸ‡²ðŸ‡¾"
+    }
+  ],
+  "notes": "Language codes follow ISO-639-1. Every localized field is an object keyed by these codes. Not every record provides every language; consumers must fall back to 'en'."
+}

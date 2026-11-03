@@ -1,10 +1,23 @@
 import { useState, useMemo, useEffect, useRef } from 'react';
 import { ArrowLeft, ArrowUp } from 'lucide-react';
 import duasData from './data/allData.json';
+import manifestData from '../data/manifest.json';
+import publicDuaCategoriesData from '../data/duas/public-categories.json';
+import dhikrIndexData from '../data/dhikr/index.json';
+import adhkarData from '../data/dhikr/daily-dhikir.json';
+import mawlidIndexData from '../data/mawlid/index.json';
+import baithIndexData from '../data/baith/index.json';
+import salawathIndexData from '../data/salawath/index.json';
+import rathibIndexData from '../data/rathib/index.json';
+import othersIndexData from '../data/others/index.json';
+import salawathContentData from '../data/duas/categories/salawat/duas.json';
 import { ThemeProvider, useTheme } from './contexts/ThemeContext';
 import { BookmarksProvider, useBookmarks } from './contexts/BookmarksContext';
 import { NotificationsProvider } from './contexts/NotificationsContext';
 import CategoryCard from './components/CategoryCard';
+import CollectionBrowser, { type BrowserItem, type BrowserSection } from './components/CollectionBrowser';
+import AlamSalawathView from './components/AlamSalawathView';
+import RathibPdfViewer from './components/RathibPdfViewer';
 import DuaDetail from './components/DuaDetail';
 import Header from './components/Header';
 import SearchBar from './components/SearchBar';
@@ -14,6 +27,7 @@ import AsmaUlHusnaView from './components/AsmaUlHusnaView';
 import AsmaUlAnbiyaView from './components/AsmaUlAnbiyaView';
 import AsmaUnNabiView from './components/AsmaUnNabiView';
 import MawlidView from './components/MawlidView';
+import DhikrView, { type DhikrRecord } from './components/DhikrView';
 import QaseedahBurdahView from './components/QaseedahBurdahView';
 import HajjUmrahView from './components/HajjUmrahView';
 import DuaReminder from './components/DuaReminder';
@@ -29,6 +43,7 @@ interface Dua {
   translation: Record<string, string>;
   transliteration?: string;
   section_id?: string;
+  translation_status?: string;
   reference?: string | { source?: string; reference_text?: string };
   times: number;
   item_number?: number;
@@ -78,9 +93,20 @@ interface AppHistoryState {
   depth: number;
   categoryId: string | null;
   duaId: string | null;
+  sectionId: string | null;
+  collectionId: string | null;
   viewMode: ViewMode;
   searchQuery: string;
 }
+
+const catalogIndexes = {
+  dhikr: dhikrIndexData.categories,
+  mawlid: mawlidIndexData.collections,
+  baith: baithIndexData.collections,
+  salawath: salawathIndexData.collections,
+  rathib: rathibIndexData.collections,
+  others: othersIndexData.collections,
+};
 
 // Lower-cases and strips Arabic diacritics, Latin accents and apostrophe-like marks
 // so that "a'laa", "aalaa" style spellings and Arabic with/without harakat all match.
@@ -95,6 +121,15 @@ const normalize = (s: string) =>
 
 const referenceText = (ref: Dua['reference'] | undefined) =>
   !ref ? '' : typeof ref === 'string' ? ref : [ref.source, ref.reference_text].filter(Boolean).join(' ');
+
+const localizedLabel = (labels: Record<string, string> | undefined, language: string) =>
+  labels?.[language] || labels?.en;
+
+const localizedStrings = (values: object): Record<string, string> =>
+  Object.entries(values).reduce<Record<string, string>>((result, [key, value]) => {
+    if (typeof value === 'string') result[key] = value;
+    return result;
+  }, {});
 
 const duaSearchText = (dua: Dua, additionalTitles: string[] = []) =>
   normalize([
@@ -113,6 +148,8 @@ const duaSearchText = (dua: Dua, additionalTitles: string[] = []) =>
 function AppContent() {
   const [selectedCategory, setSelectedCategory] = useState<Category | null>(null);
   const [selectedDua, setSelectedDua] = useState<Dua | null>(null);
+  const [selectedSectionId, setSelectedSectionId] = useState<string | null>(null);
+  const [selectedCollectionId, setSelectedCollectionId] = useState<string | null>(null);
   const [language, setLanguage] = useState<LanguageCode>('en');
   const [searchQuery, setSearchQuery] = useState('');
   const [showLanguageMenu, setShowLanguageMenu] = useState(false);
@@ -124,7 +161,29 @@ function AppContent() {
   const { bookmarks } = useBookmarks();
 
   const categories = useMemo(() => {
+    const sourceRecord = salawathContentData.duas.find(dua => dua.id === 'alam-salawath');
+    const alamSalawath: Dua | undefined = sourceRecord ? {
+      id: sourceRecord.id,
+      title: localizedStrings(sourceRecord.title),
+      arabic: sourceRecord.arabic,
+      translation: localizedStrings(sourceRecord.translation),
+      times: sourceRecord.repetition_count ?? 1,
+    } : undefined;
     const duaCategories = (duasData.categories as Category[])
+      .map(category => {
+        if (
+          category.id !== 'salawat' ||
+          !alamSalawath ||
+          category.duas.some(dua => dua.id === alamSalawath.id)
+        ) {
+          return category;
+        }
+
+        return {
+          ...category,
+          duas: [...category.duas, alamSalawath],
+        };
+      })
       .filter(category => category.duas.length > 0);
 
     // Keep the catch-all "Others" category at the very end of the list.
@@ -135,6 +194,72 @@ function AppContent() {
     ];
   }, []);
   const languages = duasData.languages;
+  const browserSections = useMemo<BrowserSection[]>(() => {
+    const duaItems: BrowserItem[] = publicDuaCategoriesData.categories.map(item => {
+      const source = categories.find(category => category.id === item.source_category_id);
+      return {
+        id: item.id,
+        title: source?.name[language] || source?.name.en || item.id,
+        status: 'available',
+        statusLabel: `${source?.duas.length ?? 0} duas`,
+        count: source?.duas.length ?? 0,
+        targetCategoryId: item.source_category_id,
+      };
+    });
+
+    return manifestData.main_sections.map(section => {
+      if (section.id === 'duas') {
+        return {
+          id: section.id,
+          title: localizedLabel(section.title as Record<string, string>, language) || section.title.en,
+          items: duaItems,
+        };
+      }
+
+      const entries = catalogIndexes[section.id as keyof typeof catalogIndexes] || [];
+      const items: BrowserItem[] = entries.map(entry => {
+        const salawatRecord = section.id === 'salawath' && 'record_id' in entry
+          ? categories.find(category => category.id === 'salawat')?.duas.find(dua => dua.id === entry.record_id)
+          : undefined;
+        const title = salawatRecord?.title[language] || localizedLabel(
+          entry.title as Record<string, string> | undefined,
+          language
+        ) || entry.id;
+        const targetCategoryId = section.id === 'mawlid'
+          ? 'mawlid'
+          : section.id === 'baith'
+            ? entry.id === 'ashrakal-baith' ? 'mawlid' : entry.id === 'qaseedah-burdah' ? 'qaseedah-burdah' : undefined
+            : section.id === 'salawath'
+              ? salawatRecord ? 'salawat' : undefined
+              : section.id === 'others'
+                ? entry.id
+                : undefined;
+        const expectedCount = 'expected_record_count' in entry ? entry.expected_record_count : undefined;
+        const recordCount = expectedCount ?? ('record_count' in entry ? entry.record_count : undefined);
+        const pdfUrl = 'pdf_file' in entry ? entry.pdf_file : undefined;
+        return {
+          id: entry.id,
+          title,
+          status: entry.status || 'pending_verified_source',
+          statusLabel: section.id === 'dhikr' || (section.id === 'rathib' && pdfUrl)
+            ? section.id === 'rathib' ? 'PDF available' : 'Available'
+            : targetCategoryId
+              ? typeof recordCount === 'number' ? `${recordCount} records` : 'Available'
+              : 'Pending verified content',
+          ...(typeof recordCount === 'number' ? { count: recordCount } : {}),
+          ...(targetCategoryId ? { targetCategoryId } : {}),
+          ...(salawatRecord ? { targetDuaId: salawatRecord.id } : {}),
+          ...(pdfUrl ? { pdfUrl, interactive: true } : {}),
+          ...(section.id === 'dhikr' ? { interactive: true } : {}),
+        };
+      });
+      return {
+        id: section.id,
+        title: localizedLabel(section.title as Record<string, string>, language) || section.title.en,
+        items,
+      };
+    });
+  }, [categories, language]);
 
   useEffect(() => {
     const existingState = window.history.state;
@@ -144,6 +269,8 @@ function AppContent() {
       depth: 0,
       categoryId: null,
       duaId: null,
+      sectionId: null,
+      collectionId: null,
       viewMode: 'categories',
       searchQuery: '',
     };
@@ -154,6 +281,8 @@ function AppContent() {
       const dua = category?.duas.find(item => item.id === state.duaId) || null;
       setSelectedCategory(category);
       setSelectedDua(dua);
+      setSelectedSectionId(state.sectionId || null);
+      setSelectedCollectionId(state.collectionId || null);
       setViewMode(state.viewMode === 'bookmarks' ? 'bookmarks' : 'categories');
       setSearchQuery(state.searchQuery || '');
       historyDepth.current = state.depth;
@@ -169,6 +298,8 @@ function AppContent() {
       historyDepth.current = 0;
       setSelectedCategory(null);
       setSelectedDua(null);
+      setSelectedSectionId(null);
+      setSelectedCollectionId(null);
       setViewMode('categories');
     };
 
@@ -188,22 +319,50 @@ function AppContent() {
     const dua = category?.duas.find(item => item.id === state.duaId) || null;
     setSelectedCategory(category);
     setSelectedDua(dua);
+    setSelectedSectionId(state.sectionId || null);
+    setSelectedCollectionId(state.collectionId || null);
     setViewMode(state.viewMode);
     setSearchQuery(state.searchQuery);
     historyDepth.current = state.depth;
   };
 
-  const navigateTo = (categoryId: string | null, duaId: string | null, mode = viewMode) => {
+  const navigateTo = (
+    categoryId: string | null,
+    duaId: string | null,
+    mode = viewMode,
+    collectionId: string | null = null,
+  ) => {
     const state: AppHistoryState = {
       bismeDuas: true,
       depth: historyDepth.current + 1,
       categoryId,
       duaId,
+      sectionId: selectedSectionId,
+      collectionId,
       viewMode: mode,
       searchQuery,
     };
     window.history.pushState(state, '');
     applyNavigationState(state);
+  };
+
+  const navigateToSection = (sectionId: string) => {
+    const state: AppHistoryState = {
+      bismeDuas: true,
+      depth: historyDepth.current + 1,
+      categoryId: null,
+      duaId: null,
+      sectionId,
+      collectionId: null,
+      viewMode: 'categories',
+      searchQuery,
+    };
+    window.history.pushState(state, '');
+    applyNavigationState(state);
+  };
+
+  const openCatalogItem = (sectionId: string, item: BrowserItem) => {
+    navigateTo(item.targetCategoryId || null, item.targetDuaId || null, 'categories', item.id);
   };
 
   const goBack = () => {
@@ -218,6 +377,8 @@ function AppContent() {
       depth: 0,
       categoryId: null,
       duaId: null,
+      sectionId: null,
+      collectionId: null,
       viewMode: 'categories',
       searchQuery,
     };
@@ -231,6 +392,8 @@ function AppContent() {
       depth: 0,
       categoryId: null,
       duaId: null,
+      sectionId: null,
+      collectionId: null,
       viewMode: 'categories',
       searchQuery,
     };
@@ -290,6 +453,15 @@ function AppContent() {
     : searchResults;
 
   const currentLanguage = languages.find(l => l.code === language) || languages[0];
+  const selectedRathibCollection = selectedSectionId === 'rathib'
+    ? rathibIndexData.collections.find(item => item.id === selectedCollectionId)
+    : undefined;
+  const selectedRathibPdf = selectedRathibCollection && 'pdf_file' in selectedRathibCollection
+    ? selectedRathibCollection.pdf_file
+    : null;
+  const selectedRathibTitle = selectedRathibCollection
+    ? localizedLabel(selectedRathibCollection.title as Record<string, string>, language) || 'Rathib PDF'
+    : 'Rathib PDF';
   const handleDuaClickFromBookmarks = (dua: any, categoryId: string) => {
     const category = categories.find(c => c.id === categoryId);
     if (category) {
@@ -298,16 +470,16 @@ function AppContent() {
   };
 
   const bannerText = {
-    en: 'Select a category to view duas',
-    ar: 'اختر فئة لعرض الأدعية',
-    ur: 'دعائیں دیکھنے کے لیے ایک زمرہ منتخب کریں',
-    fr: 'Sélectionnez une catégorie pour voir les duas',
-    tr: 'Duaları görmek için bir kategori seçin',
-    id: 'Pilih kategori untuk melihat doa',
-    bn: 'দোয়া দেখতে একটি বিভাগ নির্বাচন করুন',
-    ms: 'Pilih kategori untuk melihat doa',
-    ta: 'துஆக்களைப் பார்க்க ஒரு வகையைத் தேர்ந்தெடுக்கவும்',
-    ml: 'ദുആകൾ കാണാൻ ഒരു വിഭാഗം തിരഞ്ഞെടുക്കുക',
+    en: 'Select a section to browse its collections',
+    ar: 'اختر قسماً لتصفح مجموعاته',
+    ur: 'مجموعے دیکھنے کے لیے ایک حصہ منتخب کریں',
+    fr: 'Sélectionnez une section pour parcourir ses collections',
+    tr: 'Koleksiyonlara göz atmak için bir bölüm seçin',
+    id: 'Pilih bagian untuk melihat koleksinya',
+    bn: 'সংগ্রহ দেখতে একটি বিভাগ বেছে নিন',
+    ms: 'Pilih bahagian untuk melihat koleksinya',
+    ta: 'தொகுப்புகளைக் காண ஒரு பிரிவைத் தேர்ந்தெடுக்கவும்',
+    ml: 'ശേഖരങ്ങൾ കാണാൻ ഒരു വിഭാഗം തിരഞ്ഞെടുക്കുക',
   };
 
   return (
@@ -315,20 +487,24 @@ function AppContent() {
       dir={language === 'ar' || language === 'ur' ? 'rtl' : 'ltr'}
       className={`min-h-screen overflow-x-clip bg-[var(--bisme-bg-primary)] text-white ${language === 'ar' ? 'arabic-locale' : ''}`}
     >
-      <Header 
-        language={language} 
-        languages={languages} 
-        showLanguageMenu={showLanguageMenu} 
-        setShowLanguageMenu={setShowLanguageMenu} 
-        setLanguage={setLanguage} 
+      {!selectedRathibPdf && <Header
+        language={language}
+        languages={languages}
+        showLanguageMenu={showLanguageMenu}
+        setShowLanguageMenu={setShowLanguageMenu}
+        setLanguage={setLanguage}
         currentLanguage={currentLanguage}
         onHomeClick={goHome}
         viewMode={viewMode}
         setViewMode={setViewMode}
         bookmarksCount={bookmarks.length}
-      />
+      />}
       
-      <main className="max-w-7xl mx-auto px-[9px] sm:px-6 lg:px-8 py-4 sm:py-8">
+      <main className={selectedRathibPdf ? 'h-[100dvh] w-full p-0' : 'max-w-7xl mx-auto px-[9px] sm:px-6 lg:px-8 py-4 sm:py-8'}>
+        {selectedRathibPdf ? (
+          <RathibPdfViewer src={selectedRathibPdf} title={selectedRathibTitle} onBack={goBack} />
+        ) : (
+          <>
         {/* Search bar with the compact custom-reminders box beside it */}
         <div className="mb-4 flex flex-col md:flex-row md:items-start gap-3 sm:mb-5">
           <SearchBar searchQuery={searchQuery} setSearchQuery={setSearchQuery} language={language} />
@@ -338,7 +514,7 @@ function AppContent() {
         </div>
 
         {/* View Mode Toggle */}
-        {viewMode === 'categories' && !selectedCategory && !selectedDua && !isSearching && (
+        {viewMode === 'categories' && !selectedCategory && !selectedDua && !selectedSectionId && !isSearching && (
           <div className="mb-4 text-center sm:mb-5">
             <p className="text-[15px] font-semibold text-[var(--bisme-gold)]">
               {bannerText[language as keyof typeof bannerText] || bannerText.en}
@@ -347,9 +523,41 @@ function AppContent() {
         )}
 
         {/* Categories Grid */}
-        {viewMode === 'categories' && !selectedCategory && !selectedDua && filteredCategories.length > 0 && (
+        {viewMode === 'categories' && !selectedCategory && !selectedDua && !isSearching &&
+          !(selectedSectionId === 'dhikr' && selectedCollectionId) && !selectedRathibPdf && (
+          <CollectionBrowser
+            sections={browserSections}
+            activeSectionId={selectedSectionId}
+            language={language}
+            isDark={isDark}
+            onSelectSection={navigateToSection}
+            onSelectItem={openCatalogItem}
+            onBack={goBack}
+          />
+        )}
+
+        {viewMode === 'categories' && selectedSectionId === 'dhikr' && selectedCollectionId && (() => {
+          const category = dhikrIndexData.categories.find(item => item.id === selectedCollectionId);
+          const section = manifestData.main_sections.find(item => item.id === 'dhikr');
+          const recordIds = new Set(category?.record_ids || []);
+          const records = (adhkarData.adhkar as DhikrRecord[])
+            .filter(record => recordIds.has(record.id));
+          return category ? (
+            <DhikrView
+              categoryTitle={localizedLabel(
+                section?.title as Record<string, string> | undefined,
+                language
+              ) || 'Daily Dhikir'}
+              records={records}
+              language={language}
+              onBack={goBack}
+            />
+          ) : null;
+        })()}
+
+        {viewMode === 'categories' && !selectedCategory && !selectedDua && isSearching && filteredCategories.length > 0 && (
           <div className="grid grid-cols-1 gap-[9px] sm:grid-cols-2 sm:gap-3 lg:grid-cols-3 xl:grid-cols-4">
-            {filteredCategories.map((category) => (
+            {filteredCategories.map(category => (
               <CategoryCard
                 key={category.id}
                 category={category}
@@ -417,9 +625,11 @@ function AppContent() {
         {selectedCategory && !selectedDua && selectedCategory.id === 'mawlid' && selectedCategory.sections && !isSearching && (
           <MawlidView
             entries={selectedCategory.duas as (Dua & { section_id: string; verse_number: number })[]}
-            sections={selectedCategory.sections}
+            sections={selectedCategory.sections.filter(section => !selectedCollectionId || section.id === selectedCollectionId)}
             language={language}
             displayTitle={selectedCategory.displayTitle || selectedCategory.name}
+            initialSectionId={selectedCollectionId}
+            backLabel={selectedSectionId === 'baith' ? 'Back to Baith' : undefined}
             onBack={goBack}
           />
         )}
@@ -501,8 +711,19 @@ function AppContent() {
           </div>
         )}
 
+        {selectedDua?.id === 'alam-salawath' && selectedCategory?.id === 'salawat' && (
+          <AlamSalawathView
+            arabic={selectedDua.arabic}
+            title={selectedDua.title}
+            translation={selectedDua.translation}
+            translationStatus={selectedDua.translation_status}
+            language={language}
+            onBack={goBack}
+          />
+        )}
+
         {/* Dua Detail View */}
-        {selectedDua && selectedCategory && selectedCategory.id !== 'qaseedah-burdah' && (
+        {selectedDua && selectedCategory && selectedCategory.id !== 'qaseedah-burdah' && selectedDua.id !== 'alam-salawath' && (
           <DuaDetail
             dua={selectedDua}
             category={selectedCategory}
@@ -510,9 +731,11 @@ function AppContent() {
             onBack={goBack}
           />
         )}
+          </>
+        )}
       </main>
 
-      {showScrollToTop && (
+      {!selectedRathibPdf && showScrollToTop && (
         <button
           type="button"
           aria-label={language === 'ar' ? 'انتقل إلى الأعلى' : language === 'ur' ? 'اوپر جائیں' : language === 'fr' ? 'Remonter en haut' : language === 'tr' ? 'Yukarı çık' : language === 'id' ? 'Gulir ke atas' : language === 'bn' ? 'উপরে যান' : language === 'ms' ? 'Tatal ke atas' : language === 'ta' ? 'மேலே செல்லவும்' : language === 'ml' ? 'മുകളിലേക്ക് പോകുക' : 'Scroll to top'}
@@ -528,13 +751,13 @@ function AppContent() {
       )}
 
       {/* Footer */}
-      <footer className="app-footer mt-16 border-t py-8">
+      {!selectedRathibPdf && <footer className="app-footer mt-16 border-t py-8">
         <div className="max-w-7xl mx-auto px-4 text-center">
           <p className="text-sm font-semibold tracking-wide text-[var(--bisme-gold)]">BISME RADIO</p>
         </div>
-      </footer>
+      </footer>}
 
-      <Settings language={language} />
+      {!selectedRathibPdf && <Settings language={language} />}
     </div>
   );
 }

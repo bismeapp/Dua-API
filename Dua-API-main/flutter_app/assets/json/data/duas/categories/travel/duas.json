@@ -1,0 +1,329 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "travel",
+  "count": 7,
+  "duas": [
+    {
+      "id": "trv-1",
+      "category_id": "travel",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Travel Dua (Riding Vehicle)",
+        "ar": "دعاء السفر",
+        "ur": "سفر کی دعا",
+        "fr": "Doua du Voyage",
+        "tr": "Yolculuk Duası",
+        "id": "Doa Perjalanan",
+        "bn": "সফরের দোয়া",
+        "ms": "Doa Perjalanan",
+        "ta": "பிரயாண துஆ",
+        "ml": "യാത്രാ ദുആ"
+      },
+      "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ. اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَٰذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَٰذَا وَاطْوِ عَنَّا بُعْدَهُ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَلِيفَةُ فِي الأَهْلِ",
+      "translation": {
+        "en": "Glory be to the One Who has subjected this for us, as we could never have accomplished this on our own. And surely unto our Lord we shall return. O Allah, we ask You in this journey of ours for righteousness and piety, and for deeds that You are pleased with. O Allah, make this journey easy for us and shorten its distance. O Allah, You are the Companion in the journey and the Guardian over the family.",
+        "ar": "سبحان الذي سخر لنا هذا وما كنا له مقرنين وإنا إلى ربنا لمنقلبون، اللهم إنا نسألك في سفرنا هذا البر والتقوى ومن العمل ما ترضى، اللهم هون علينا سفرنا هذا واطو عنا بعده، اللهم أنت الصاحب في السفر والخليفة في الأهل",
+        "ur": "پاک ہے وہ جس نے اسے ہمارے لیے مسخر کر دیا اور ہم اس کے قابو میں نہ تھے اور بے شک ہم اپنے رب کی طرف لوٹنے والے ہیں۔ اے اللہ! ہم اس سفر میں تجھ سے نیکی اور تقویٰ اور تجھے پسندیدہ عمل مانگتے ہیں۔ اے اللہ! ہمارے لیے یہ سفر آسان فرما اور اس کی دوری کو ہمارے لیے سمیٹ لے۔ اے اللہ! تو سفر میں ساتھی ہے اور اہل میں جانشین ہے۔",
+        "fr": "Gloire à Celui qui nous a soumis ceci, car nous n'aurions jamais pu y parvenir par nous-mêmes. Et c'est vers notre Seigneur que nous retournerons. Ô Allah, nous Te demandons dans ce voyage la piété et la crainte, et des actes qui Te plaisent. Ô Allah, facilite ce voyage pour nous et raccourcis sa distance. Ô Allah, Tu es le Compagnon dans le voyage et le Gardien de la famille.",
+        "tr": "Bunu bize boyun eğdiren Allah'ı tesbih ederim, yoksa biz buna güç yetiremezdik. Ve şüphesiz Rabbimize döneceğiz. Allah'ım! Bu yolculuğumuzda Senden iyilik, takva ve razı olduğun ameller istiyoruz. Allah'ım! Bu yolculuğumuzu kolaylaştır ve mesafesini kısalt. Allah'ım! Sen yolculukta yoldaş ve ailede halifesin.",
+        "id": "Maha Suci Allah yang telah menundukkan ini untuk kami, padahal kami tidak mampu menguasainya. Dan sesungguhnya kami akan kembali kepada Tuhan kami. Ya Allah, kami memohon kepada-Mu dalam perjalanan kami ini kebaikan, ketakwaan, dan amal yang Engkau ridhai. Ya Allah, mudahkanlah perjalanan kami ini dan dekatkanlah jaraknya. Ya Allah, Engkau adalah teman dalam perjalanan dan penjaga keluarga.",
+        "bn": "পবিত্র তিনি যিনি এটিকে আমাদের বশীভূত করেছেন, আর আমরা কখনো এর অধিকারী ছিলাম না। এবং নিশ্চয়ই আমরা আমাদের রবের দিকে প্রত্যাবর্তনকারী। হে আল্লাহ, আমরা এই সফরে তোমার কাছে নেকি, তাকওয়া এবং তোমার পছন্দনীয় আমল চাই। হে আল্লাহ, আমাদের এই সফর সহজ করো এবং এর দূরত্ব কমিয়ে দাও। হে আল্লাহ, তুমি সফরে সঙ্গী এবং পরিবারে অভিভাবক।",
+        "ms": "Maha Suci Allah yang telah menundukkan ini untuk kami, padahal kami tidak mampu menguasainya. Dan sesungguhnya kami akan kembali kepada Tuhan kami. Ya Allah, kami memohon kepada-Mu dalam perjalanan kami ini kebaikan, ketakwaan, dan amal yang Engkau redhai. Ya Allah, mudahkanlah perjalanan kami ini dan dekatkanlah jaraknya. Ya Allah, Engkau adalah teman dalam perjalanan dan penjaga keluarga.",
+        "ta": "இதை நமக்கு வசப்படுத்தியவன் மிகவும் பரிசுத்தமானவன், நாங்கள் இதை நம்மால் சாதித்திருக்க முடியாது. நிச்சயமாக நாம் நம் இறைவனிடமே திரும்புவோம். இறைவா! எங்கள் இந்த பிரயாணத்தில் நீதி, பயபக்தி மற்றும் நீர் பொருந்தும் செயல்களை உம்மிடம் கேட்கிறோம். இறைவா! இந்த பிரயாணத்தை எங்களுக்கு எளிதாக்கு, அதன் தூரத்தை குறைப்பாயாக. இறைவா! பிரயாணத்தில் துணைவனும், குடும்பத்தில் பாதுகாவலனும் நீரே.",
+        "ml": "ഇത് ഞങ്ങൾക്ക് വശമാക്കിത്തന്നവൻ അതിപരിശുദ്ധനാണ്, ഇത് ഞങ്ങൾക്ക് സ്വന്തമായി സാധിക്കുമായിരുന്നില്ല. തീർച്ചയായും ഞങ്ങൾ ഞങ്ങളുടെ രക്ഷിതാവിങ്കലേക്ക് മടങ്ങും. അല്ലാഹുവേ, ഈ യാത്രയിൽ നീതി, ഭക്തി, നിന്റെ പ്രീതിക്കുള്ള പ്രവൃത്തികൾ എന്നിവ ഞങ്ങൾ നിന്നോട് ചോദിക്കുന്നു. അല്ലാഹുവേ, ഈ യാത്ര ഞങ്ങൾക്ക് എളുപ്പമാക്കുകയും ദൂരം കുറയ്ക്കുകയും ചെയ്യണമേ. അല്ലാഹുവേ, യാത്രയിലെ കൂട്ടാളിയും കുടുംബത്തിലെ കാവൽക്കാരനും നീയാണ്."
+      },
+      "reference": {
+        "source": "Muslim",
+        "reference_text": "Muslim 2/978"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "trv-2",
+      "category_id": "travel",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "Dua of the Traveler",
+        "ar": "دعوة المسافر",
+        "ur": "مسافر کی دعا",
+        "fr": "Invocation du Voyageur",
+        "tr": "Yolcunun Duası",
+        "id": "Doa Musafir",
+        "bn": "মুসাফিরের দোয়া",
+        "ms": "Doa Musafir",
+        "ta": "பிரயாணி துஆ",
+        "ml": "യാത്രക്കാരന്റെ ദുആ"
+      },
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِعِلْمِكَ الْغَيْبِ وَقُدْرَتِكَ عَلَى الْخَلْقِ أَحْيِنِي مَا عَلِمْتَ الْحَيَاةَ خَيْرًا لِي، وَتَوَفَّنِي إِذَا عَلِمْتَ الْوَفَاةَ خَيْرًا لِي",
+      "translation": {
+        "en": "O Allah, I ask You by Your knowledge of the unseen and Your power over creation, keep me alive as long as life is good for me, and cause me to die when death is good for me.",
+        "ar": "اللهم إني أسألك بعلمك الغيب وقدرتك على الخلق أحيني ما علمت الحياة خيرا لي وتوفني إذا علمت الوفاة خيرا لي",
+        "ur": "اے اللہ! میں تجھ سے تیرے علمِ غیب اور مخلوق پر تیری قدرت کے واسطے سے مانگتا ہوں کہ جب تک تو جانتا ہے کہ زندگی میرے لیے بہتر ہے مجھے زندہ رکھ اور جب تو جانے کہ موت میرے لیے بہتر ہے تو مجھے وفات دے دے۔",
+        "fr": "Ô Allah, je Te demande par Ta connaissance de l'invisible et Ton pouvoir sur la création, maintiens-moi en vie tant que la vie est bonne pour moi, et fais-moi mourir quand la mort est bonne pour moi.",
+        "tr": "Allah'ım! Gayb ilminle ve yaratığa olan kudretinle senden istiyorum, hayatın benim için hayırlı olduğunu bildiğin sürece beni yaşat ve ölümün benim için hayırlı olduğunu bildiğinde beni vefat ettir.",
+        "id": "Ya Allah, aku memohon kepada-Mu dengan ilmu-Mu tentang yang gaib dan kekuasaan-Mu atas makhluk, hidupkanlah aku selama Engkau mengetahui kehidupan itu baik bagiku, dan matikanlah aku ketika Engkau mengetahui kematian itu baik bagiku.",
+        "bn": "হে আল্লাহ, আমি তোমার অদৃশ্যের জ্ঞান এবং সৃষ্টির উপর তোমার ক্ষমতার মাধ্যমে তোমার কাছে চাই, যতদিন তুমি জানো জীবন আমার জন্য ভালো ততদিন আমাকে বাঁচিয়ে রাখো এবং যখন তুমি জানো মৃত্যু আমার জন্য ভালো তখন আমাকে মৃত্যু দাও।",
+        "ms": "Ya Allah, aku memohon kepada-Mu dengan ilmu-Mu tentang yang ghaib dan kekuasaan-Mu atas makhluk, hidupkanlah aku selama Engkau mengetahui kehidupan itu baik bagiku, dan matikanlah aku ketika Engkau mengetahui kematian itu baik bagiku.",
+        "ta": "இறைவா! மறைவானதைப் பற்றிய உமது அறிவாலும், படைப்பின் மீது உமது வல்லமையாலும் உம்மிடம் கேட்கிறேன், வாழ்க்கை எனக்கு நன்மையானது என்று நீர் அறியும் வரை என்னை வாழ வைப்பாயாக, மரணம் எனக்கு நன்மையானது என்று நீர் அறியும் போது என்னை மரணமடையச் செய்வாயாக.",
+        "ml": "അല്ലാഹുവേ, അദൃശ്യത്തെക്കുറിച്ചുള്ള നിന്റെ അറിവിലൂടെയും സൃഷ്ടിയുടെ മേലുള്ള നിന്റെ ശക്തിയിലൂടെയും ഞാൻ നിന്നോട് ചോദിക്കുന്നു, ജീവിതം എനിക്ക് നല്ലതാണെന്ന് നീ അറിയുന്നിടത്തോളം എന്നെ ജീവിപ്പിക്കുകയും, മരണം എനിക്ക് നല്ലതാണെന്ന് നീ അറിയുമ്പോൾ എന്നെ മരിപ്പിക്കുകയും ചെയ്യണമേ."
+      },
+      "reference": {
+        "source": "Nasa'i",
+        "reference_text": "Nasa'i 3/234"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "d103-9",
+      "category_id": "travel",
+      "subcategory_id": null,
+      "order": 9,
+      "title": {
+        "en": "Dua for Protection from Harm During Travel",
+        "ta": "பயணங்களில் நடக்கும் தீங்கிலிருந்து பாதுகாப்புக்கான துஆ",
+        "ml": "യാത്രയ്ക്കിടെ ഉണ്ടാകുന്ന ഉപദ്രവങ്ങളിൽ നിന്ന് രക്ഷയ്ക്കുള്ള ദുആ",
+        "ar": "دعاء للحماية من الأذى أثناء السفر",
+        "ur": "سفر کے دوران نقصان سے حفاظت کی دعا",
+        "fr": "Invocation pour être protégé du mal pendant le voyage",
+        "tr": "Yolculuk sırasında zarardan korunma duası",
+        "id": "Doa memohon perlindungan dari bahaya selama perjalanan",
+        "bn": "ভ্রমণের সময় ক্ষতি থেকে সুরক্ষার দোয়া",
+        "ms": "Doa perlindungan daripada bahaya semasa perjalanan"
+      },
+      "arabic": "اِعْتَصَمْتُ بِكَ يَا رَبِّ مِنْ شَرِّ مَا أَجِدُ فِي نَفْسِيْ فَاعْصِمْنِيْ مِنْ ذٰلِكَ‏",
+      "transliteration": "i-a'tasamto beka yaa rabbe min sharre maa ajedo fee nafsee fa-a'simnee min zaaleka.",
+      "translation": {
+        "en": "O my Creator! I seek Thy shelter from the mischief of the danger that is linking in my heart, protect me from it.",
+        "ar": "يا خالقي! ألوذ بك من شرّ الخطر الذي يساور قلبي، فاحمني منه.",
+        "ur": "اے میرے خالق! میں اپنے دل میں کھٹکنے والے خطرے کے شر سے تیری پناہ مانگتا ہوں، مجھے اس سے محفوظ رکھ۔",
+        "fr": "Ô mon Créateur ! Je cherche refuge auprès de Toi contre le mal du danger qui me hante le cœur ; protège-m’en.",
+        "tr": "Ey Yaratıcım! Kalbimde beliren tehlikenin şerrinden Sana sığınırım; beni ondan koru.",
+        "id": "Wahai Penciptaku! Aku berlindung kepada-Mu dari keburukan bahaya yang mengusik hatiku; lindungilah aku darinya.",
+        "bn": "হে আমার স্রষ্টা! আমার মনে জেগে ওঠা বিপদের অনিষ্ট থেকে আমি তোমার আশ্রয় চাই; আমাকে তা থেকে রক্ষা করো।",
+        "ms": "Wahai Penciptaku! Aku berlindung kepada-Mu daripada keburukan bahaya yang mengusik hatiku; lindungilah aku daripadanya.",
+        "ta": "என் படைப்பாளரே! என் உள்ளத்தில் எழும் ஆபத்தின் தீமையிலிருந்து உன்னிடம் பாதுகாப்புத் தேடுகிறேன்; அதிலிருந்து என்னைக் காப்பாயாக.",
+        "ml": "എന്റെ സ്രഷ്ടാവേ! എന്റെ ഹൃദയത്തിൽ ഉയരുന്ന അപകടത്തിന്റെ തിന്മയിൽ നിന്ന് ഞാൻ നിന്നോട് അഭയം തേടുന്നു; അതിൽ നിന്ന് എന്നെ കാത്തുരക്ഷിക്കേണമേ."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 9\nFor avoiding bad omens for traveller\nAccording to Imam Moosa Kazim (a.s.)\n\nSeven things are unlucky for a traveller, (i) the cawing of the crow on his right hand, (ii) the dog with his tail straight up. (iii) the fox sitting with is face towards the tail, howling at the sight of the traveller, (iv) the deer which cuts the travellers way from the tight side and goes off towards his left (v) the screeching of an owl, (vi) the arrival of an old woman with white hair with shorn of ears; when one of these things comes before the traveller and he is beset with doubts and fear on account of them he should recite. (vii) the coming in front of a donkey with shorn of ears; when one of these things comes before the traveller and he is beset with doubts and fear on account of them he should recite.\n\nاِعْتَصَمْتُ بِكَ يَا رَبِّ مِنْ شَرِّ مَا أَجِدُ فِي نَفْسِيْ فَاعْصِمْنِيْ مِنْ ذٰلِكَ‏\n\nTransliteration:\ni-a’tasamto beka yaa rabbe min sharre maa ajedo fee nafsee fa-a’simnee min zaaleka.\n\nTranslation:\nO my Creator! I seek Thy shelter from the mischief of the danger that is linking in my heart, protect me from it.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    },
+    {
+      "id": "d103-11",
+      "category_id": "travel",
+      "subcategory_id": null,
+      "order": 11,
+      "title": {
+        "en": "Dua for a Traveller to Recite",
+        "ta": "பயணி ஓத வேண்டிய துஆ",
+        "ml": "യാത്രക്കാരൻ ചൊല്ലേണ്ട ദുആ",
+        "ar": "دعاء يقرؤه المسافر",
+        "ur": "مسافر کے پڑھنے کی دعا",
+        "fr": "Invocation à réciter par le voyageur",
+        "tr": "Yolcunun okuyacağı dua",
+        "id": "Doa yang dibaca oleh musafir",
+        "bn": "ভ্রমণকারীর পাঠ করার দোয়া",
+        "ms": "Doa yang dibaca oleh musafir"
+      },
+      "arabic": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ. بِاللَّهِ بِاللَّهِ بِاللَّهِ أَسْأَلُكَ يَا مَلِكَ الْمُلُوكِ الْأَوَّلَ الْقَدِيمَ الْأَبَدِيَّ الَّذِي لَا يَزُولُ وَ لَا يَحُولُ أَنْتَ اللَّهُ الْعَظِيمُ الْكَـافِي كُلَّ شَيْ‏ءٍ الْمُحِيْطُ بِكُـلِّ شَيْ‏ءٍ اَللّٰهُمَّ اكْفِنِيْ بِاسْمِكَ الْأَعْظَمِ الْأَجَلِّ الْوَاحِدِ الْأَحَدِ الصَّمَدِ الَّذِيْ لَمْ يَلِدْ وَ لَمْ يُولَدْ وَ لَمْ يَكُنْ لَهٗ كُفُواً أَحَدٌ احْجُبْ عَنِّي شُرُوْرَهُمْ وَ شُرُوْرَ الْأَعْدَاءِ كُلِّهِمْ وَ سُيُوْفِهِمْ وَ بَأْسَهُمْ وَ اللَّهُ مِنْ وَرَائِهِمْ مُحِيْطٌ اَللّٰهُمَّ احْجُبْ عَنِّي شَرَّ مَنْ أَرَادَنِيْ بِسُوءٍ بِحِجَابِكَ الَّذِي احْتَجَبْتَ بِهٖ فَلَمْ يَنْظُرْ إِلَيْهِ أَحَدٌ مِنْ شَرِّ فَسَقَةِ الْجِنِّ وَ الْإِنْسِ وَ مِنْ شَرِّ سِلَاحِهِمْ وَ مِنَ الْحَدِيْدِ وَ مِنْ شَرِّ كُلِّ مَا نَتَخَوَّفُ وَ نَحْذَرُ وَ مِنْ شَرِّ كُلِّ شِدَّةٍ وَ بَلِيَّةٍ وَ مِنْ شَرِّ مَا أَنْتَ بِهٖ أَعْلَمُ وَ عَلَيْهِ أَقْدَرُ إِنَّكَ عَلٰى‏ كُلِّ شَيْ‏ءٍ قَدِيْرٌ وَ صَلَّى اللَّهُ عَلٰى مُحَمَّدٍ نَبِيِّهٖ وَ آلِهٖ وَ سَلَّمَ تَسْلِيْماً كَثِيْرًا.",
+      "transliteration": "bismil laahir rahmaanir raheem. Billaahe billaahe billaahe as-aloka yaa malekal molookil awwalal qadeemal abadiyyil lazee laa yazoolo wa laa yahoolo antal laahul a'zeemul kaafee kulla shay-il moheeto be-kulle shay-in allaahummak fenee bis-mekal a-a'zamil ajallil waahedil ahadis samadil laze lam yalid wa lam yoolad wa lam yakun lahu kofowan ahadun ohjob a'nnee shoroorahum wa shorooral a-a'daa-e kullehim wa soyoofehim wa baasahum wallaaho min waraa-ehim moheetun allaahummah jub a'nnee sharra man araadanee be-sooo-in be-hejaabekal lazih tajabta behi falam yanzur elayhe ahadun min sharre fasaqatil jinne wal-inse wa min sharre salaahehim wa menal hadeede wa min sharre kulle maa natakhawwafo wa nahzaro wa min sharre kulle shiddatin wa baliyyatin wa min sharre maa anta behi a-a'lamo wa a'layhe aqdaro innaka a'laa kulle shay-in qadeerun wa sallal laaho a'laa mohammadin nabiyyehi wa aalehi wa sallama tasleeman kaseeran.",
+      "translation": {
+        "en": "In the name of Allah the Beneficent the Merciful. By Allah! By Allah! By Allah! O the First and Eternal King of Kings! O He whose personality exists from times eternal and for whom there is no change or times eternal and for whom there is no change or deterioration (fall). I beg of Thee Who is the Almighty God, enough for everything and Who holds everything under His sway: O Allah on behalf of Thy Great name, Uniqueness and needlessness from Whom no one is born and Who is born of no one and Who does not have a single partner, look after me and protect me from the mischief of men, my enemies and their swords and put a stop to all types of torture. When God has surrounded them from all sides then where links the danger. O Allah do protect me from the danger who intend harming me, cover me with avail as is Thy sacred veil which does not let the mischief of bad and mad people come near Thee or be hurt by the swords, the iron and all those which ordinarily people are afraid of and keep away from and all the difficulties and mischief of all these things which are well known to Thee or be hurt by the swords, the iron and all those which ordinarily people are afraid and keep away from, and all the difficulties and the mischief of all those things which are well known to thee and on whom thou hast complete authority. No doubt Thy power encompasses everything. Shower Thy blessing on Thy prophet and his dear and near ones and a greeting which they have the right of.",
+        "ar": "بسم الله الرحمن الرحيم. بالله! بالله! بالله! يا ملك الملوك الأول القديم الأبدي! يا من كانت ذاته منذ الأزل، ولا يعتريه تغيير ولا زوال. أسألك، يا الله العظيم، الكافي لكل شيء، المحيط بكل شيء: اللهم باسمك العظيم، الواحد الأحد الصمد، الذي لم يلد ولم يولد ولم يكن له كفواً أحد، اكفني واحفظني من شر الناس وأعدائي وسيوفهم، واصرف عني أنواع الأذى. وإذا كان الله قد أحاط بهم من كل جانب، فأين يكون الخطر؟ اللهم احجب عني شر من أراد بي سوءاً، واسترني بحجابك المقدس الذي لا يدع شر أهل الفساد من الجن والإنس يصل إليك، واحفظني من شر أسلحتهم والحديد وكل ما يخافه الناس عادة ويتجنبونه، ومن كل شدة وبلاء وشر ما تعلمه، وأنت عليه قادر. إنك على كل شيء قدير. وصلِّ على نبيك وآله وسلم تسليماً كثيراً، كما يليق بهم.",
+        "ur": "اللہ کے نام سے، جو نہایت مہربان، بے حد رحم کرنے والا ہے۔ اللہ کی قسم! اللہ کی قسم! اللہ کی قسم! اے بادشاہوں کے بادشاہ، اول اور ابدی! اے وہ ذات جو ازل سے موجود ہے اور جسے نہ زوال ہے نہ تبدیلی۔ میں تجھ سے سوال کرتا ہوں، اے عظیم اللہ، جو ہر چیز کے لیے کافی اور ہر چیز پر محیط ہے: اے اللہ! اپنے عظیم نام، یکتا، بے نیاز، نہ کسی کو جننے والے اور نہ کسی سے پیدا ہونے والے، اور جس کا کوئی ہمسر نہیں، کے واسطے سے میری کفایت فرما اور مجھے لوگوں، میرے دشمنوں اور ان کی تلواروں کے شر سے بچا، اور ہر قسم کی اذیت کو دور فرما۔ جب اللہ نے انہیں ہر طرف سے گھیر رکھا ہے تو خطرہ کہاں ہے؟ اے اللہ! جو کوئی مجھے نقصان پہنچانا چاہے اس کے شر سے میری حفاظت فرما، مجھے اپنے اس مقدس پردے میں ڈھانپ لے جس کے پاس جن و انس کے بدکاروں کا شر نہیں پہنچتا، اور مجھے ان کے ہتھیاروں، لوہے اور ہر اس چیز کے شر سے بچا جس سے لوگ عموماً ڈرتے اور دور رہتے ہیں، نیز ہر سختی، مصیبت اور اس چیز کے شر سے جسے تو جانتا ہے اور جس پر تجھے پوری قدرت ہے۔ بے شک تیری قدرت ہر چیز پر محیط ہے۔ اپنے نبی اور ان کے اہلِ بیت پر رحمت نازل فرما اور بہت زیادہ سلام بھیج، جیسا ان کا حق ہے۔",
+        "fr": "Au nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. Par Allah ! Par Allah ! Par Allah ! Ô premier et éternel Roi des rois ! Ô Toi dont l’Être existe de toute éternité, qui ne subis ni changement ni disparition. Je T’implore, Toi, le Dieu Tout-Puissant, qui suffis à toute chose et qui embrasses toute chose : ô Allah, par Ton Nom sublime, Toi l’Unique, l’Absolu, qui n’engendres pas et n’as pas été engendré, et à qui nul n’est égal, protège-moi et préserve-moi du mal des gens, de mes ennemis et de leurs épées, et écarte toute forme de tourment. Si Allah les a cernés de toutes parts, où est donc le danger ? Ô Allah, protège-moi du mal de quiconque veut me nuire et couvre-moi de Ton voile sacré, auquel ne peut parvenir le mal des pervers parmi les djinns et les humains. Préserve-moi du mal de leurs armes, du fer et de tout ce que les gens craignent ordinairement et cherchent à éviter, ainsi que de toute épreuve, de tout malheur et de tout mal que Tu connais et sur lequel Tu as plein pouvoir. Certes, Ta puissance embrasse toute chose. Répands Tes bénédictions sur Ton Prophète et ses proches, et accorde-leur une abondante salutation, comme ils y ont droit.",
+        "tr": "Rahmân ve Rahîm olan Allah’ın adıyla. Allah’a yemin olsun! Allah’a yemin olsun! Allah’a yemin olsun! Ey kralların ilk ve ebedî hükümdarı! Ey zatı ezelden beri var olan, değişmeyen ve yok olmayan! Her şeye yeten ve her şeyi kuşatan yüce Allah’ım, Senden niyaz ediyorum: Ey Allah’ım, yüce adın, tek ve samed oluşun; doğurmayan, doğurulmayan ve hiçbir dengi olmayan oluşun hürmetine beni koru; insanların, düşmanlarımın ve kılıçlarının şerrinden beni muhafaza et ve her türlü eziyeti benden uzaklaştır. Allah onları her yönden kuşatmışken tehlike nerede? Ey Allah’ım, bana kötülük etmek isteyenlerin şerrinden beni koru ve beni, cinlerin ve insanların bozguncularının şerrinin ulaşamadığı kutsal perdenle ört. Silahlarının, demirin ve insanların genellikle korktuğu ve uzak durduğu her şeyin şerrinden; bütün sıkıntı ve belalardan ve Senin bildiğin, üzerinde tam kudret sahibi olduğun her türlü kötülükten beni koru. Şüphesiz Senin gücün her şeyi kuşatır. Peygamberine ve yakınlarına salât eyle ve onlara layık oldukları şekilde bol selam gönder.",
+        "id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang. Demi Allah! Demi Allah! Demi Allah! Wahai Raja segala raja, Yang Awal dan Kekal! Wahai Dia yang Zat-Nya ada sejak azali, yang tidak berubah dan tidak binasa. Aku memohon kepada-Mu, wahai Allah Yang Mahakuasa, yang mencukupi segala sesuatu dan meliputi segala sesuatu: Ya Allah, demi nama-Mu yang agung, Yang Maha Esa, tempat bergantung, tidak beranak dan tidak diperanakkan, serta tiada seorang pun yang setara dengan-Nya, cukuplah Engkau bagiku dan lindungilah aku dari kejahatan manusia, musuh-musuhku dan pedang mereka, serta jauhkanlah segala macam siksaan. Jika Allah telah mengepung mereka dari segala arah, di manakah bahayanya? Ya Allah, lindungilah aku dari kejahatan siapa pun yang bermaksud mencelakakanku, dan selubungilah aku dengan tabir suci-Mu yang menahan kejahatan orang-orang fasik dari kalangan jin dan manusia agar tidak sampai kepada-Mu. Lindungilah aku dari kejahatan senjata mereka, besi, dan segala sesuatu yang biasanya ditakuti dan dihindari orang, serta dari segala kesulitan, bencana, dan kejahatan yang Engkau ketahui dan yang sepenuhnya berada dalam kuasa-Mu. Sungguh, kekuasaan-Mu meliputi segala sesuatu. Limpahkanlah rahmat kepada Nabi-Mu dan keluarga dekatnya, serta salam yang berlimpah sebagaimana hak mereka.",
+        "bn": "পরম করুণাময়, অসীম দয়ালু আল্লাহর নামে। আল্লাহর কসম! আল্লাহর কসম! আল্লাহর কসম! হে রাজাধিরাজ, আদি ও চিরন্তন! হে সেই সত্তা, যাঁর অস্তিত্ব অনাদিকাল থেকে এবং যাঁর কোনো পরিবর্তন বা বিলয় নেই। আমি আপনার কাছে প্রার্থনা করি, হে সর্বশক্তিমান আল্লাহ, যিনি সব কিছুর জন্য যথেষ্ট এবং সব কিছুকে পরিবেষ্টন করে আছেন: হে আল্লাহ, আপনার মহান নামের, এক ও অমুখাপেক্ষী সত্তার—যিনি কাউকে জন্ম দেননি, জন্মগ্রহণও করেননি এবং যাঁর সমতুল্য কেউ নেই—উসিলায় আমাকে রক্ষা করুন এবং মানুষের, আমার শত্রুদের ও তাদের তরবারির অনিষ্ট থেকে আমাকে বাঁচান; সব ধরনের যন্ত্রণা দূর করুন। আল্লাহ যখন তাদের চারদিক থেকে ঘিরে রেখেছেন, তখন বিপদেরই বা স্থান কোথায়? হে আল্লাহ, যে আমার ক্ষতি করতে চায় তার অনিষ্ট থেকে আমাকে রক্ষা করুন এবং আপনার পবিত্র আচ্ছাদনে আমাকে ঢেকে রাখুন, যাতে জিন ও মানুষের দুষ্কৃতকারীদের অনিষ্ট আপনার কাছে পৌঁছাতে না পারে। তাদের অস্ত্র, লোহা এবং সাধারণত মানুষ যে সবকিছুকে ভয় করে ও এড়িয়ে চলে, সেসবের অনিষ্ট থেকে; সব কষ্ট, বিপদ এবং আপনার জানা এমন সব অনিষ্ট থেকে আমাকে রক্ষা করুন, যার ওপর আপনার পূর্ণ ক্ষমতা রয়েছে। নিশ্চয়ই আপনার ক্ষমতা সব কিছুকে পরিবেষ্টন করে। আপনার নবী ও তাঁর নিকটজনদের ওপর রহমত বর্ষণ করুন এবং তাঁদের প্রাপ্য যথাযথ সালামসহ প্রচুর শান্তি বর্ষণ করুন।",
+        "ms": "Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang. Demi Allah! Demi Allah! Demi Allah! Wahai Raja segala raja, Yang Awal dan Kekal! Wahai Dia yang Zat-Nya wujud sejak azali, yang tidak berubah dan tidak binasa. Aku memohon kepada-Mu, wahai Allah Yang Maha Berkuasa, yang mencukupi segala sesuatu dan meliputi segala sesuatu: Ya Allah, dengan nama-Mu yang agung, Yang Maha Esa, tempat bergantung, tidak beranak dan tidak diperanakkan, serta tiada sesuatu pun yang setara dengan-Nya, cukupilah aku dan lindungilah aku daripada kejahatan manusia, musuh-musuhku dan pedang mereka, serta jauhkanlah segala jenis seksaan. Jika Allah telah mengepung mereka dari segenap arah, di manakah bahayanya? Ya Allah, lindungilah aku daripada kejahatan sesiapa yang berniat mencederakanku, dan tutupilah aku dengan tabir suci-Mu yang menahan kejahatan golongan derhaka daripada kalangan jin dan manusia daripada sampai kepada-Mu. Lindungilah aku daripada kejahatan senjata mereka, besi dan segala yang biasanya ditakuti serta dijauhi orang, juga daripada segala kesukaran, bencana dan kejahatan yang Engkau ketahui dan yang berada sepenuhnya dalam kekuasaan-Mu. Sesungguhnya kekuasaan-Mu meliputi segala sesuatu. Limpahkanlah rahmat kepada Nabi-Mu dan kaum kerabat baginda, serta salam yang banyak sebagaimana yang selayaknya bagi mereka.",
+        "ta": "அளவற்ற அருளாளனும் நிகரற்ற அன்புடையோனுமாகிய அல்லாஹ்வின் பெயரால். அல்லாஹ்வின் மீது ஆணையாக! அல்லாஹ்வின் மீது ஆணையாக! அல்லாஹ்வின் மீது ஆணையாக! அரசர்களின் அரசரே, முதலானவரும் என்றும் நிலைத்திருப்பவரும் ஆனவரே! உமது இருப்பு ஆதிகாலத்திலிருந்தே இருந்து, மாற்றமோ அழிவோ இல்லாதவரே! எல்லாவற்றுக்கும் போதுமானவரும் எல்லாவற்றையும் சூழ்ந்தவருமான வல்லமையுள்ள இறைவனே, உம்மிடம் வேண்டுகிறேன்: அல்லாஹ்வே, உமது மகத்தான பெயரின் பொருட்டும், ஒருவனும் தேவையற்றவனும், யாரையும் பெற்றெடுக்காதவனும், யாராலும் பெற்றெடுக்கப்படாதவனும், ஒப்பானவர் எவருமில்லாதவனுமான உமது தன்மையின் பொருட்டும், என்னைப் பாதுகாத்து, மக்களின் தீங்கிலிருந்தும், என் பகைவர்களிடமிருந்தும் அவர்களுடைய வாள்களிலிருந்தும் என்னைக் காத்தருள்வாயாக; எல்லா வகையான துன்பங்களையும் அகற்றுவாயாக. அல்லாஹ் அவர்களை எல்லாத் திசைகளிலிருந்தும் சூழ்ந்திருக்கும்போது ஆபத்துக்கு இடம் எங்கே? அல்லாஹ்வே, எனக்குத் தீங்கு செய்ய நினைப்பவர்களின் தீங்கிலிருந்து என்னைக் காத்து, ஜின்கள் மற்றும் மனிதர்களில் தீயவர்களின் தீங்கு உம்மை அணுகாத உமது புனிதத் திரையால் என்னை மூடுவாயாக. அவர்களுடைய ஆயுதங்கள், இரும்பு, பொதுவாக மக்கள் அஞ்சித் தவிர்க்கும் அனைத்தின் தீங்கிலிருந்தும், எல்லா இடுக்கண்கள், துன்பங்கள், மேலும் நீ அறிந்தும் முழு ஆற்றல் கொண்டும் இருக்கும் அனைத்துத் தீங்கிலிருந்தும் என்னைக் காத்தருள்வாயாக. நிச்சயமாக உமது ஆற்றல் அனைத்தையும் சூழ்ந்துள்ளது. உமது நபி மீதும் அவருடைய நெருங்கிய உறவினர்கள் மீதும் அருள் பொழிந்து, அவர்களுக்குரிய முறையில் ஏராளமான ஸலாமை வழங்குவாயாக.",
+        "ml": "പരമകാരുണികനും കരുണാനിധിയുമായ അല്ലാഹുവിന്റെ നാമത്തിൽ. അല്ലാഹുവാണെ! അല്ലാഹുവാണെ! അല്ലാഹുവാണെ! രാജാക്കന്മാരുടെ രാജാവേ, ആദ്യനും നിത്യനുമായവനേ! നിന്റെ സത്ത അനാദികാലം മുതൽ നിലനിൽക്കുകയും മാറ്റമോ നാശമോ ഇല്ലാതിരിക്കുകയും ചെയ്യുന്നവനേ! എല്ലാത്തിനും മതിയായവനും എല്ലാറ്റിനെയും ചൂഴ്ന്നുനിൽക്കുന്നവനുമായ സർവശക്തനായ അല്ലാഹുവേ, നിന്നോട് ഞാൻ പ്രാർത്ഥിക്കുന്നു: അല്ലാഹുവേ, നിന്റെ മഹത്തായ നാമത്തിന്റെ, ഏകനും സ്വയംപര്യാപ്തനുമായ, ജനിപ്പിക്കാത്തവനും ജനിക്കാത്തവനും തുല്യനായി ആരുമില്ലാത്തവനുമായ നിന്റെ സത്തയുടെ പേരിൽ, എന്നെ കാത്തുകൊള്ളുകയും മനുഷ്യരുടെ, എന്റെ ശത്രുക്കളുടെ, അവരുടെ വാളുകളുടെ ഉപദ്രവങ്ങളിൽ നിന്ന് എന്നെ രക്ഷിക്കുകയും എല്ലാ തരത്തിലുള്ള പീഡനങ്ങളും നീക്കുകയും ചെയ്യേണമേ. അല്ലാഹു അവരെ എല്ലാ വശത്തുനിന്നും വലയം ചെയ്തിരിക്കെ അപകടത്തിന് എവിടെയാണ് സ്ഥാനം? അല്ലാഹുവേ, എനിക്ക് ദോഷം ചെയ്യാൻ ഉദ്ദേശിക്കുന്നവരുടെ തിന്മയിൽ നിന്ന് എന്നെ കാത്തുകൊള്ളുകയും ജിന്നുകളിലും മനുഷ്യരിലുമുള്ള ദുഷ്ടന്മാരുടെ തിന്മ നിന്നിലേക്ക് എത്താതിരിക്കുന്ന നിന്റെ പവിത്രമായ മറകൊണ്ട് എന്നെ മൂടുകയും ചെയ്യേണമേ. അവരുടെ ആയുധങ്ങളുടെയും ഇരുമ്പിന്റെയും സാധാരണയായി ആളുകൾ ഭയപ്പെടുകയും ഒഴിവാക്കുകയും ചെയ്യുന്ന എല്ലാറ്റിന്റെയും തിന്മയിൽ നിന്നും, എല്ലാ പ്രയാസങ്ങളിൽ നിന്നും വിപത്തുകളിൽ നിന്നും, നീ അറിയുന്നതും പൂർണ അധികാരമുള്ളതുമായ എല്ലാത്തിന്റെയും തിന്മയിൽ നിന്നും എന്നെ രക്ഷിക്കേണമേ. തീർച്ചയായും നിന്റെ ശക്തി എല്ലാറ്റിനെയും ഉൾക്കൊള്ളുന്നു. നിന്റെ പ്രവാചകനിലും അദ്ദേഹത്തിന്റെ അടുത്ത ബന്ധുക്കളിലും അനുഗ്രഹം ചൊരിയുകയും അവർക്ക് അർഹമായ വിധത്തിൽ ധാരാളം സമാധാനം നൽകുകയും ചെയ്യേണമേ."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 11\nFor talisman to be keep by traveller\nBeside other talisman which ought to be kept while going on travel there is a talisman which is stated to be in the scabbard of the Holy Prophet (s.a.w.a.)”s sword. This is that talisman.\n\nبِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ. بِاللَّهِ بِاللَّهِ بِاللَّهِ أَسْأَلُكَ يَا مَلِكَ الْمُلُوكِ الْأَوَّلَ الْقَدِيمَ الْأَبَدِيَّ الَّذِي لَا يَزُولُ وَ لَا يَحُولُ أَنْتَ اللَّهُ الْعَظِيمُ الْكَـافِي كُلَّ شَيْ‏ءٍ الْمُحِيْطُ بِكُـلِّ شَيْ‏ءٍ اَللّٰهُمَّ اكْفِنِيْ بِاسْمِكَ الْأَعْظَمِ الْأَجَلِّ الْوَاحِدِ الْأَحَدِ الصَّمَدِ الَّذِيْ لَمْ يَلِدْ وَ لَمْ يُولَدْ وَ لَمْ يَكُنْ لَهٗ كُفُواً أَحَدٌ احْجُبْ عَنِّي شُرُوْرَهُمْ وَ شُرُوْرَ الْأَعْدَاءِ كُلِّهِمْ وَ سُيُوْفِهِمْ وَ بَأْسَهُمْ وَ اللَّهُ مِنْ وَرَائِهِمْ مُحِيْطٌ اَللّٰهُمَّ احْجُبْ عَنِّي شَرَّ مَنْ أَرَادَنِيْ بِسُوءٍ بِحِجَابِكَ الَّذِي احْتَجَبْتَ بِهٖ فَلَمْ يَنْظُرْ إِلَيْهِ أَحَدٌ مِنْ شَرِّ فَسَقَةِ الْجِنِّ وَ الْإِنْسِ وَ مِنْ شَرِّ سِلَاحِهِمْ وَ مِنَ الْحَدِيْدِ وَ مِنْ شَرِّ كُلِّ مَا نَتَخَوَّفُ وَ نَحْذَرُ وَ مِنْ شَرِّ كُلِّ شِدَّةٍ وَ بَلِيَّةٍ وَ مِنْ شَرِّ مَا أَنْتَ بِهٖ أَعْلَمُ وَ عَلَيْهِ أَقْدَرُ إِنَّكَ عَلٰى‏ كُلِّ شَيْ‏ءٍ قَدِيْرٌ وَ صَلَّى اللَّهُ عَلٰى مُحَمَّدٍ نَبِيِّهٖ وَ آلِهٖ وَ سَلَّمَ تَسْلِيْماً كَثِيْرًا.\n\nTransliteration:\nbismil laahir rahmaanir raheem. Billaahe billaahe billaahe as-aloka yaa malekal molookil awwalal qadeemal abadiyyil lazee laa yazoolo wa laa yahoolo antal laahul a’zeemul kaafee kulla shay-il moheeto be-kulle shay-in allaahummak fenee bis-mekal a-a’zamil ajallil waahedil ahadis samadil laze lam yalid wa lam yoolad wa lam yakun lahu kofowan ahadun ohjob a’nnee shoroorahum wa shorooral a-a’daa-e kullehim wa soyoofehim wa baasahum wallaaho min waraa-ehim moheetun allaahummah jub a'nnee sharra man araadanee be-sooo-in be-hejaabekal lazih tajabta behi falam yanzur elayhe ahadun min sharre fasaqatil jinne wal-inse wa min sharre salaahehim wa menal hadeede wa min sharre kulle maa natakhawwafo wa nahzaro wa min sharre kulle shiddatin wa baliyyatin wa min sharre maa anta behi a-a'lamo wa a'layhe aqdaro innaka a'laa kulle shay-in qadeerun wa sallal laaho a'laa mohammadin nabiyyehi wa aalehi wa sallama tasleeman kaseeran.\n\nTranslation:\nIn the name of Allah the Beneficent the Merciful. By Allah! By Allah! By Allah! O the First and Eternal King of Kings! O He whose personality exists from times eternal and for whom there is no change or times eternal and for whom there is no change or deterioration (fall). I beg of Thee Who is the Almighty God, enough for everything and Who holds everything under His sway: O Allah on behalf of Thy Great name, Uniqueness and needlessness from Whom no one is born and Who is born of no one and Who does not have a single partner, look after me and protect me from the mischief of men, my enemies and their swords and put a stop to all types of torture. When God has surrounded them from all sides then where links the danger. O Allah do protect me from the danger who intend harming me, cover me with avail as is Thy sacred veil which does not let the mischief of bad and mad people come near Thee or be hurt by the swords, the iron and all those which ordinarily people are afraid of and keep away from and all the difficulties and mischief of all these things which are well known to Thee or be hurt by the swords, the iron and all those which ordinarily people are afraid and keep away from, and all the difficulties and the mischief of all those things which are well known to thee and on whom thou hast complete authority. No doubt Thy power encompasses everything. Shower Thy blessing on Thy prophet and his dear and near ones and a greeting which they have the right of.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    },
+    {
+      "id": "d103-12",
+      "category_id": "travel",
+      "subcategory_id": null,
+      "order": 12,
+      "title": {
+        "en": "For a traveller’s family",
+        "ar": "لأسرة المسافر",
+        "ur": "مسافر کے اہلِ خانہ کے لیے",
+        "fr": "Pour la famille d’un voyageur",
+        "tr": "Bir yolcunun ailesi için",
+        "id": "Untuk keluarga seorang musafir",
+        "bn": "একজন মুসাফিরের পরিবারের জন্য",
+        "ms": "Untuk keluarga seorang musafir",
+        "ta": "ஒரு பயணியின் குடும்பத்திற்காக",
+        "ml": "ഒരു യാത്രക്കാരന്റെ കുടുംബത്തിനായി"
+      },
+      "arabic": "اَللّٰهُمَّ إِنِّيْ أَسْتَوْدِعُكَ نَفْسِيْ وَ أَهْلِيْ وَ مَالِيْ وَ دِيْنِيْ وَ دُنْيَايَ وَ آخِرَتِيْ وَ أَمَانَتِيْ وَ خَوَاتِيْمَ عَمَلِيْ‏",
+      "transliteration": "allaahumma innee astaw-de-o'ka nafsee wa ahlee wa maalee wa deenee wa dunyaaya wa aakheratee wa amaanatee wa khawaateema a'malee.",
+      "translation": {
+        "en": "O Allah! I leave unto Thy care my life, my wife and children, my merchandise, my generation, my world here and hereafter, deposits under my custody and place my end of life Thy hands.",
+        "ar": "اللهم إني أستودعك نفسي وزوجتي وأولادي وتجاراتي وذريتي ودنياي وآخرتي وأماناتي التي في عهدتي، وأضع خاتمة عمري بين يديك.",
+        "ur": "اے اللہ! میں اپنی جان، اپنی بیوی اور بچوں، اپنے مالِ تجارت، اپنی نسل، اپنی دنیا اور آخرت، اپنی امانتوں جو میرے سپرد ہیں، تیری امان میں دیتا ہوں اور اپنی زندگی کا خاتمہ تیرے حوالے کرتا ہوں۔",
+        "fr": "Ô Allah ! Je confie à Ta garde ma vie, mon épouse et mes enfants, mes biens commerciaux, ma descendance, ma vie présente et mon au-delà, ainsi que les dépôts qui m’ont été confiés, et je remets entre Tes mains la fin de ma vie.",
+        "tr": "Allah’ım! Canımı, eşimi ve çocuklarımı, ticaret mallarımı, neslimi, bu dünyamı ve ahiretimi, emanet olarak bana bırakılanları Sana emanet ediyorum; hayatımın sonunu da Senin ellerine bırakıyorum.",
+        "id": "Ya Allah! Aku menitipkan kepada-Mu diriku, istri dan anak-anakku, barang daganganku, keturunanku, kehidupanku di dunia dan akhirat, serta amanah-amanah yang berada dalam tanggung jawabku; dan aku menyerahkan akhir hidupku ke dalam tangan-Mu.",
+        "bn": "হে আল্লাহ! আমি আমার জীবন, আমার স্ত্রী ও সন্তানদের, আমার ব্যবসার সামগ্রী, আমার বংশধরদের, আমার ইহকাল ও পরকাল এবং আমার জিম্মায় থাকা আমানতগুলো তোমার হেফাজতে সোপর্দ করছি; আর আমার জীবনের পরিণতি তোমার হাতে অর্পণ করছি।",
+        "ms": "Ya Allah! Aku menyerahkan kepada pemeliharaan-Mu diriku, isteriku dan anak-anakku, barang daganganku, keturunanku, kehidupanku di dunia dan akhirat, serta amanah-amanah yang berada dalam jagaanku; dan aku meletakkan pengakhiran hidupku di tangan-Mu.",
+        "ta": "அல்லாஹ்வே! என் உயிரையும், என் மனைவி மற்றும் பிள்ளைகளையும், என் வணிகப் பொருட்களையும், என் சந்ததியினரையும், என் இம்மை மற்றும் மறுமையையும், என் பொறுப்பில் உள்ள அமானிதங்களையும் உன் பாதுகாப்பில் ஒப்படைக்கிறேன்; என் வாழ்வின் முடிவையும் உன் கைகளில் ஒப்படைக்கிறேன்.",
+        "ml": "അല്ലാഹുവേ! എന്റെ ജീവനും, എന്റെ ഭാര്യയെയും മക്കളെയും, എന്റെ വ്യാപാരസാധനങ്ങളെയും, എന്റെ സന്തതികളെയും, എന്റെ ഇഹലോകവും പരലോകവും, എന്റെ ഉത്തരവാദിത്തത്തിലുള്ള ഏൽപ്പിക്കപ്പെട്ട വസ്തുക്കളെയും നിന്റെ സംരക്ഷണത്തിൽ ഏൽപ്പിക്കുന്നു; എന്റെ ജീവിതത്തിന്റെ അന്ത്യവും നിന്റെ കൈകളിൽ സമർപ്പിക്കുന്നു."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 12\nFor a traveller’s family\nAccording to the Holy Prophet (s.a.w.a.)\n\nthe best care-taker of your family, who will look after them while your are travelling is, that at the time of departure you should offer two rak’at prayers and recite:\n\nاَللّٰهُمَّ إِنِّيْ أَسْتَوْدِعُكَ نَفْسِيْ وَ أَهْلِيْ وَ مَالِيْ وَ دِيْنِيْ وَ دُنْيَايَ وَ آخِرَتِيْ وَ أَمَانَتِيْ وَ خَوَاتِيْمَ عَمَلِيْ‏\n\nTransliteration:\nallaahumma innee astaw-de-o’ka nafsee wa ahlee wa maalee wa deenee wa dunyaaya wa aakheratee wa amaanatee wa khawaateema a’malee.\n\nTranslation:\nO Allah! I leave unto Thy care my life, my wife and children, my merchandise, my generation, my world here and hereafter, deposits under my custody and place my end of life Thy hands.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    },
+    {
+      "id": "d103-15",
+      "category_id": "travel",
+      "subcategory_id": null,
+      "order": 15,
+      "title": {
+        "en": "At the time of arrival in new place",
+        "ar": "عند الوصول إلى مكان جديد",
+        "ur": "نئی جگہ پہنچنے کے وقت",
+        "fr": "Au moment d’arriver dans un nouvel endroit",
+        "tr": "Yeni bir yere varırken",
+        "id": "Saat tiba di tempat baru",
+        "bn": "নতুন স্থানে পৌঁছানোর সময়",
+        "ms": "Ketika tiba di tempat baharu",
+        "ta": "புதிய இடத்திற்கு வந்தடையும் நேரத்தில்",
+        "ml": "പുതിയ സ്ഥലത്ത് എത്തിച്ചേരുമ്പോൾ"
+      },
+      "arabic": "اَللّٰهُمَّ أَنْزِلْنِيْ مُنْزَلًا مُبَارَكًا وَ أَنْتَ خَيْرُ الْمُنْزِلِيْنَ.",
+      "transliteration": "Allaahumma anzilnee munzalan mobaarakan wa anta khayrul munzeleen.",
+      "translation": {
+        "en": "O Allah make my arrival over here rewarding, for Thou art the best host and care-taker.",
+        "ar": "اللهم اجعل وصولي إلى هذا المكان مباركًا، فأنت خير المضيفين والقائمين على الرعاية.",
+        "ur": "اے اللہ! یہاں میرا پہنچنا بابرکت بنا، کیونکہ تو بہترین میزبان اور نگہبان ہے۔",
+        "fr": "Ô Allah, rends mon arrivée ici bénéfique, car Tu es le meilleur hôte et le meilleur protecteur.",
+        "tr": "Allah’ım, buraya varışımı bereketli kıl; çünkü Sen ağırlayanların ve gözetip kollayanların en hayırlısısın.",
+        "id": "Ya Allah, jadikanlah kedatanganku di sini membawa kebaikan, karena Engkaulah sebaik-baik tuan rumah dan penjaga.",
+        "bn": "হে আল্লাহ, এখানে আমার আগমনকে কল্যাণময় করুন, কারণ আপনিই সর্বোত্তম আতিথ্যদানকারী ও তত্ত্বাবধায়ক।",
+        "ms": "Ya Allah, jadikanlah ketibaanku di sini membawa kebaikan, kerana Engkaulah sebaik-baik tuan rumah dan penjaga.",
+        "ta": "அல்லாஹ்வே, இங்கு நான் வந்திருப்பதை நற்பயன் அளிப்பதாக ஆக்குவாயாக; ஏனெனில் விருந்தோம்புபவர்களிலும் பாதுகாப்பவர்களிலும் நீயே மிகச் சிறந்தவன்.",
+        "ml": "അല്ലാഹുവേ, ഇവിടേക്കുള്ള എന്റെ വരവ് അനുഗ്രഹപൂർണമാക്കണമേ; കാരണം, ആതിഥേയരിലും സംരക്ഷകരിലും ഏറ്റവും ഉത്തമൻ നീയാണ്."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 15\nAt the time of arrival in new place\nAnother tradition states that\n\nthe Holy Prophet (s.a.w.a.) asked Hazrat Ali (a.s.) to recite the following Dua when alighting on a destination that he may avail of all the benefits of the place and remain safe from its mischief.\n\nاَللّٰهُمَّ أَنْزِلْنِيْ مُنْزَلًا مُبَارَكًا وَ أَنْتَ خَيْرُ الْمُنْزِلِيْنَ.\n\nTransliteration:\nAllaahumma anzilnee munzalan mobaarakan wa anta khayrul munzeleen.\n\nTranslation:\nO Allah make my arrival over here rewarding, for Thou art the best host and care-taker.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    },
+    {
+      "id": "d103-17",
+      "category_id": "travel",
+      "subcategory_id": null,
+      "order": 17,
+      "title": {
+        "en": "Dua and prayer at the time of storm in the sea",
+        "ar": "الدعاء والصلاة عند هبوب العاصفة في البحر",
+        "ur": "سمندر میں طوفان کے وقت دعا اور نماز",
+        "fr": "Invocation et prière au moment d’une tempête en mer",
+        "tr": "Denizde fırtına sırasında dua ve namaz",
+        "id": "Doa dan salat saat badai di laut",
+        "bn": "সমুদ্রে ঝড়ের সময় দোয়া ও নামাজ",
+        "ms": "Doa dan solat ketika ribut di laut",
+        "ta": "கடலில் புயல் வீசும் நேரத்தில் துஆவும் தொழுகையும்",
+        "ml": "കടലിൽ കൊടുങ്കാറ്റുണ്ടാകുമ്പോഴുള്ള പ്രാർത്ഥനയും നമസ്കാരവും"
+      },
+      "arabic": "اَللهُ الَّذِىْ نَزَّلَ الْكِتَابَ، وَ هُوَ يَتَوَلَّى الصَّالِحِيْنَ.\nوَ مَا قَدَرُوْا اللهَ حَقَّ قَدْرِهٖ، وَ الْاَرْضُ جَمِيْعًا قَبْضَتُهٗ يَوْمَ الْقِيَامَةِ وَ السَّمٰوَاتُ مَطْوِيَّاتٌۢ بِيَمِيْنِهٖ، سُبْحَانَهٗ وَ تَعَالٰى عَمَّا يُشْرِكُوْنَ.",
+      "transliteration": "Allaahul laze nazzalal ketaaba, wa howa yatawallas saaleheen.\n\nwa maa qadarul laaha haqqa qadrehi, wal-arzo jamee-a'n qabzatohu yawmal qeyaamate was-samaawaato matwiyyaatum be-yameenehi, subhaanahu wa ta-a'alaa a'mmaa yushrekoon.",
+      "translation": {
+        "en": "He is Allah who sent down the book (Quran) and He guardeth the virtuous one.[2]\n\nThey have esteemed not Allah, as is His due: While the whole earth shall be in His grip on the day of Judgement and heavens rolled up (shall be) in the right hand: Hallowed is He and Exalted is He, high above what they associate (with Him).[3]",
+        "ar": "هو الله الذي أنزل الكتاب (القرآن)، وهو يتولى الصالحين.[2]\n\nوما قدروا الله حق قدره، والأرض جميعًا قبضته يوم القيامة، والسماوات مطويات بيمينه؛ سبحانه وتعالى عما يشركون.[3]",
+        "ur": "وہ اللہ ہے جس نے کتاب (قرآن) نازل کی، اور وہ نیک لوگوں کی سرپرستی کرتا ہے۔[2]\n\nانہوں نے اللہ کی قدر نہ کی جیسی اس کی قدر کرنے کا حق تھا؛ حالاں کہ قیامت کے دن پوری زمین اس کی مٹھی میں ہوگی اور آسمان اس کے دائیں ہاتھ میں لپٹے ہوئے ہوں گے۔ وہ پاک ہے اور ان چیزوں سے بلند و برتر ہے جنہیں وہ اس کا شریک ٹھہراتے ہیں۔[3]",
+        "fr": "C’est Allah qui a fait descendre le Livre (le Coran), et Il prend soin des justes.[2]\n\nIls n’ont pas estimé Allah à Sa juste valeur : le Jour du Jugement, la terre entière sera dans Son poing et les cieux seront pliés dans Sa main droite. Gloire à Lui et exaltation ! Il est bien au-dessus de ce qu’ils Lui associent.[3]",
+        "tr": "Kitabı (Kur’an’ı) indiren Allah’tır ve O, iyileri koruyup gözetir.[2]\n\nAllah’ı gereği gibi takdir etmediler. Oysa kıyamet günü yeryüzünün tamamı O’nun avucundadır; gökler de O’nun sağ elinde dürülmüş olacaktır. O, onların ortak koştuklarından münezzeh ve yücedir.[3]",
+        "id": "Dialah Allah yang menurunkan Kitab (Al-Qur’an), dan Dia mengurus orang-orang saleh.[2]\n\nMereka tidak mengagungkan Allah sebagaimana semestinya. Padahal pada hari Kiamat seluruh bumi berada dalam genggaman-Nya dan langit tergulung di tangan kanan-Nya. Mahasuci dan Mahatinggi Dia dari apa yang mereka persekutukan dengan-Nya.[3]",
+        "bn": "তিনিই আল্লাহ, যিনি কিতাব (কুরআন) অবতীর্ণ করেছেন এবং তিনি সৎকর্মশীলদের অভিভাবকত্ব করেন।[2]\n\nতারা আল্লাহকে যথাযথ মর্যাদা দেয়নি; অথচ কিয়ামতের দিন সমগ্র পৃথিবী থাকবে তাঁর মুঠিতে, আর আকাশমণ্ডলী থাকবে তাঁর ডান হাতে গুটানো। তিনি পবিত্র ও মহান; তারা যাদেরকে তাঁর শরিক করে, তিনি তা থেকে বহু ঊর্ধ্বে।[3]",
+        "ms": "Dialah Allah yang menurunkan Kitab (al-Quran), dan Dia menjaga orang-orang yang soleh.[2]\n\nMereka tidak mengagungkan Allah dengan pengagungan yang sewajarnya, sedangkan pada hari kiamat seluruh bumi berada dalam genggaman-Nya dan langit tergulung di tangan kanan-Nya. Maha Suci dan Maha Tinggi Dia daripada apa yang mereka sekutukan dengan-Nya.[3]",
+        "ta": "வேதத்தை (குர்ஆனை) இறக்கிய அல்லாஹ்தான் அவன்; மேலும், அவன் நல்லோரைக் காத்தருள்கிறான்.[2]\n\nஅவர்கள் அல்லாஹ்வை அவனுக்குரிய முறையில் மதிக்கவில்லை. தீர்ப்பு நாளில் பூமி முழுவதும் அவனது பிடிக்குள் இருக்கும்; வானங்கள் அவனது வலது கையில் சுருட்டப்பட்டிருக்கும். அவர்கள் அவனுக்கு இணையாகக் கற்பிப்பவற்றை விட்டும் அவன் தூயவனும் உயர்ந்தவனும் ஆவான்.[3]",
+        "ml": "വേദഗ്രന്ഥം (ഖുർആൻ) അവതരിപ്പിച്ച അല്ലാഹുവാണ് അവൻ; സദ്‌വൃത്തരെ അവൻ സംരക്ഷിക്കുകയും പരിപാലിക്കുകയും ചെയ്യുന്നു.[2]\n\nഅല്ലാഹുവിനെ അവനർഹമായ വിധത്തിൽ അവർ മഹത്വപ്പെടുത്തിയില്ല. എന്നാൽ, ന്യായവിധി നാളിൽ ഭൂമി മുഴുവൻ അവന്റെ പിടിയിലായിരിക്കും; ആകാശങ്ങൾ അവന്റെ വലതുകൈയിൽ ചുരുട്ടപ്പെട്ടിരിക്കും. അവർ അവനോട് പങ്കുചേർക്കുന്നതിൽ നിന്നെല്ലാം അവൻ പരിശുദ്ധനും അത്യുന്നതനുമാകുന്നു.[3]"
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 17\nDua and prayer at the time of storm in the sea\nThe reporter of this tradition states that whenever there was a storm at sea he used to recite the following prayers shown by Imam Ja’far-e-Sadiq (a.s.): it seemed that there was no storm at all, as the raging sea would suddenly and certainly go clam”.\n\nاَللهُ الَّذِىْ نَزَّلَ الْكِتَابَ، وَ هُوَ يَتَوَلَّى الصَّالِحِيْنَ.\n\nوَ مَا قَدَرُوْا اللهَ حَقَّ قَدْرِهٖ، وَ الْاَرْضُ جَمِيْعًا قَبْضَتُهٗ يَوْمَ الْقِيَامَةِ وَ السَّمٰوَاتُ مَطْوِيَّاتٌۢ بِيَمِيْنِهٖ، سُبْحَانَهٗ وَ تَعَالٰى عَمَّا يُشْرِكُوْنَ.\n\nTransliteration:\nAllaahul laze nazzalal ketaaba, wa howa yatawallas saaleheen.\n\nwa maa qadarul laaha haqqa qadrehi, wal-arzo jamee-a’n qabzatohu yawmal qeyaamate was-samaawaato matwiyyaatum be-yameenehi, subhaanahu wa ta-a’alaa a’mmaa yushrekoon.\n\nTranslation:\nHe is Allah who sent down the book (Quran) and He guardeth the virtuous one.[2]\n\nThey have esteemed not Allah, as is His due: While the whole earth shall be in His grip on the day of Judgement and heavens rolled up (shall be) in the right hand: Hallowed is He and Exalted is He, high above what they associate (with Him).[3]",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    }
+  ]
+}

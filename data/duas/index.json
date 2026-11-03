@@ -1,7 +1,9 @@
 {
   "schema_version": "3.0.0",
   "collection_id": "duas",
-  "total_categories": 38,
-  "total_records": 598,
-  "categories_index": "categories/index.json"
+  "total_categories": 40,
+  "total_records": 698,
+  "categories_index": "duas/categories/index.json",
+  "api_categories_index": "duas/public-categories.json",
+  "collections_index": "duas/collections-index.json"
 }

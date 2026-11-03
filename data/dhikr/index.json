@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0.0",
+  "section_id": "dhikr",
+  "status": "available",
+  "content_policy": "This section contains the ten records supplied for Daily Dhikir. References are reproduced as supplied and should be checked against the cited editions.",
+  "categories": [
+    {
+      "id": "subhanallah",
+      "title": {
+        "ar": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+        "en": "SubhanAllah",
+        "ta": "சுப்ஹானல்லாஹ்",
+        "ml": "സുബ്ഹാനല്ലാഹ്",
+        "ur": "سبحان اللہ",
+        "fr": "Gloire à Allah",
+        "tr": "Sübhanallah",
+        "id": "SubhanAllah",
+        "bn": "সুবহানাল্লাহ",
+        "ms": "SubhanAllah"
+      },
+      "status": "available",
+      "record_ids": [
+        "subhanallah"
+      ],
+      "data_file": "dhikr/daily-dhikir.json",
+      "source_category_ids": [
+        "daily-dhikir"
+      ]
+    },
+    {
+      "id": "alhamdulillah",
+      "title": {
+        "ar": "الْحَمْدُ لِلَّهِ",
+        "en": "Alhamdulillah",
+        "ta": "அல்ஹம்துலில்லாஹ்",
+        "ml": "അൽഹംദുലില്ലാഹ്",
+        "ur": "الحمد للہ",
+        "fr": "Louange à Allah",
+        "tr": "Elhamdülillah",
+        "id": "Alhamdulillah",
+        "bn": "আলহামদুলিল্লাহ",
+        "ms": "Alhamdulillah"
+      },
+      "status": "available",
+      "record_ids": [
+        "alhamdulillah"
+      ],
+      "data_file": "dhikr/daily-dhikir.json",
+      "source_category_ids": [
+        "daily-dhikir"
+      ]
+    },
+    {
+      "id": "allahu-akbar",
+      "title": {
+        "ar": "اللَّهُ أَكْبَرُ",
+        "en": "Allahu Akbar",
+        "ta": "அல்லாஹு அக்பர்",
+        "ml": "അല്ലാഹു അക്ബർ",
+        "ur": "اللہ اکبر",
+        "fr": "Allah est le plus grand",
+        "tr": "Allahu Ekber",
+        "id": "Allahu Akbar",
+        "bn": "আল্লাহু আকবার",
+        "ms": "Allahu Akbar"
+      },
+      "status": "available",
+      "record_ids": [
+        "allahu-akbar"
+      ],
+      "data_file": "dhikr/daily-dhikir.json",
+      "source_category_ids": [
+        "daily-dhikir"
+      ]
+    },
+    {
+      "id": "la-ilaha-illallah",
+      "title": {
+        "ar": "لَا إِلَٰهَ إِلَّا اللَّهُ",
+        "en": "La ilaha illallah",
+        "ta": "லா இலாஹ இல்லல்லாஹ்",
+        "ml": "ലാ ഇലാഹ ഇല്ലല്ലാഹ്",
+        "ur": "لا الٰہ الا اللہ",
+        "fr": "Il n’y a de divinité qu’Allah",
+        "tr": "La ilahe illallah",
+        "id": "La ilaha illallah",
+        "bn": "লা ইলাহা ইল্লাল্লাহ",
+        "ms": "La ilaha illallah"
+      },
+      "status": "available",
+      "record_ids": [
+        "la-ilaha-illallah"
+      ],
+      "data_file": "dhikr/daily-dhikir.json",
+      "source_category_ids": [
+        "daily-dhikir"
+      ]
+    },
+    {
+      "id": "astaghfirullah",
+      "title": {
+        "ar": "أَسْتَغْفِرُ اللَّهَ",
+        "en": "Astaghfirullah",
+        "ta": "அஸ்தக்ஃபிருல்லாஹ்",
+        "ml": "അസ്തഗ്ഫിറുല്ലാഹ്",
+        "ur": "استغفر اللہ",
+        "fr": "Je demande pardon à Allah",
+        "tr": "Estağfirullah",
+        "id": "Astaghfirullah",
+        "bn": "আস্তাগফিরুল্লাহ",
+        "ms": "Astaghfirullah"
+      },
+      "status": "available",
+      "record_ids": [
+        "astaghfirullah"
+      ],
+      "data_file": "dhikr/daily-dhikir.json",
+      "source_category_ids": [
+        "daily-dhikir"
+      ]
+    },
+    {
+      "id": "two_weighty-phrases",
+      "title": {
+        "ar": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+        "en": "SubhanAllahi wa bihamdihi, SubhanAllahil Azeem",
+        "ta": "சுப்ஹானல்லாஹி வபிஹம்திஹி, சுப்ஹானல்லாஹில் அழீம்",
+        "ml": "സുബ്ഹാനല്ലാഹി വബിഹംദിഹി, സുബ്ഹാനല്ലാഹിൽ അളീം",
+        "ur": "سبحان اللہ وبحمدہ، سبحان اللہ العظیم",
+        "fr": "Gloire et louange à Allah, gloire à Allah le Très-Grand",
+        "tr": "Sübhanallahi ve bihamdihi, Sübhanallahil Azim",
+        "id": "SubhanAllahi wa bihamdihi, SubhanAllahil Azeem",
+        "bn": "সুবহানাল্লাহি ওয়া বিহামদিহি, সুবহানাল্লাহিল আযীম",
+        "ms": "SubhanAllahi wa bihamdihi, SubhanAllahil Azeem"
+      },
+      "status": "available",
+      "record_ids": [
+        "two_weighty-phrases"
+      ],
+      "data_file": "dhikr/daily-dhikir.json",
+      "source_category_ids": [
+        "daily-dhikir"
+      ]
+    },
+    {
+      "id": "la-hawla-wa-la-quwwata",
+      "title": {
+        "ar": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "en": "La hawla wa la quwwata illa billah",
+        "ta": "லா ஹவ்ல வலா குவ்வத்த இல்லா பில்லாஹ்",
+        "ml": "ലാ ഹൗല വലാ ഖുവ്വത്ത ഇല്ലാ ബില്ലാഹ്",
+        "ur": "لا حول ولا قوة الا باللہ",
+        "fr": "Il n’y a de force ni de puissance qu’en Allah",
+        "tr": "La havle ve la kuvvete illa billah",
+        "id": "La hawla wa la quwwata illa billah",
+        "bn": "লা হাওলা ওয়ালা কুওয়াতা ইল্লা বিল্লাহ",
+        "ms": "La hawla wa la quwwata illa billah"
+      },
+      "status": "available",
+      "record_ids": [
+        "la-hawla-wa-la-quwwata"
+      ],
+      "data_file": "dhikr/daily-dhikir.json",
+      "source_category_ids": [
+        "daily-dhikir"
+      ]
+    },
+    {
+      "id": "hasbunallahu-wa-nimal-wakeel",
+      "title": {
+        "ar": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+        "en": "Hasbunallahu wa ni’mal wakeel",
+        "ta": "ஹஸ்புனல்லாஹு வ நிஃமல் வகீல்",
+        "ml": "ഹസ്ബുനല്ലാഹു വ നിഅ്മൽ വകീൽ",
+        "ur": "حسبنا اللہ ونعم الوکیل",
+        "fr": "Allah nous suffit, Il est le meilleur garant",
+        "tr": "Hasbunallahu ve ni’mel vekil",
+        "id": "Hasbunallahu wa ni’mal wakeel",
+        "bn": "হাসবুনাল্লাহু ওয়া নি‘মাল ওয়াকিল",
+        "ms": "Hasbunallahu wa ni’mal wakeel"
+      },
+      "status": "available",
+      "record_ids": [
+        "hasbunallahu-wa-nimal-wakeel"
+      ],
+      "data_file": "dhikr/daily-dhikir.json",
+      "source_category_ids": [
+        "daily-dhikir"
+      ]
+    },
+    {
+      "id": "rabbi-zidni-ilma",
+      "title": {
+        "ar": "رَبِّ زِدْنِي عِلْمًا",
+        "en": "Rabbi zidni ilma",
+        "ta": "ரப்பி ஸித்னீ இல்மா",
+        "ml": "റബ്ബി സിദ്നീ ഇൽമാ",
+        "ur": "رَبِّ زِدْنِي عِلْمًا",
+        "fr": "Seigneur, accrois mon savoir",
+        "tr": "Rabbi zidni ilma",
+        "id": "Rabbi zidni ilma",
+        "bn": "রব্বি যিদনি ইলমা",
+        "ms": "Rabbi zidni ilma"
+      },
+      "status": "available",
+      "record_ids": [
+        "rabbi-zidni-ilma"
+      ],
+      "data_file": "dhikr/daily-dhikir.json",
+      "source_category_ids": [
+        "daily-dhikir"
+      ]
+    },
+    {
+      "id": "salawat-upon-prophet",
+      "title": {
+        "ar": "الصَّلَاةُ عَلَى النَّبِيِّ ﷺ",
+        "en": "Sending Salawat upon the Prophet ﷺ",
+        "ta": "நபி ﷺ அவர்கள்மீது ஸலவாத் கூறுதல்",
+        "ml": "നബി ﷺ യുടെ മേൽ സ്വലാത്ത് ചൊല്ലൽ",
+        "ur": "نبی ﷺ پر درود بھیجنا",
+        "fr": "Prière sur le Prophète ﷺ",
+        "tr": "Peygamber ﷺ’e salavat getirmek",
+        "id": "Berselawat kepada Nabi ﷺ",
+        "bn": "নবী ﷺ-এর প্রতি দরুদ পাঠ",
+        "ms": "Berselawat ke atas Nabi ﷺ"
+      },
+      "status": "available",
+      "record_ids": [
+        "salawat-upon-prophet"
+      ],
+      "data_file": "dhikr/daily-dhikir.json",
+      "source_category_ids": [
+        "daily-dhikir"
+      ]
+    }
+  ],
+  "records_file": "dhikr/daily-dhikir.json",
+  "record_count": 10
+}

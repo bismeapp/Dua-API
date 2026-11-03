@@ -1,11 +1,33 @@
 import { describe, it, expect, beforeEach, vi } from 'vitest';
-import { render, screen, fireEvent, cleanup, within } from '@testing-library/react';
+import { render, screen, fireEvent, cleanup, within, waitFor } from '@testing-library/react';
+import { getDocument } from 'pdfjs-dist';
 import App from '../src/App';
 import data from '../src/data/allData.json';
 import manqoosSource from '../data/duas/categories/mawlid/manqoos.json';
 import ashrakalBaithSource from '../data/duas/categories/mawlid/ashrakal_baith.json';
+import adhkarSource from '../data/dhikr/daily-dhikir.json';
 import subuhanaSource from '../data/duas/categories/mawlid/subuhana.json';
 import burdahSource from '../data/duas/categories/qaseedah-burdah/content.json';
+import salawathSource from '../data/duas/categories/salawat/duas.json';
+import rathibSource from '../data/rathib/index.json';
+
+vi.mock('pdfjs-dist', () => ({
+  GlobalWorkerOptions: { workerSrc: '' },
+  getDocument: vi.fn(() => ({
+    promise: Promise.resolve({
+      numPages: 1,
+      getPage: async () => ({
+        pageNumber: 1,
+        getViewport: ({ scale = 1 }: { scale?: number }) => ({
+          width: 100 * scale,
+          height: 100 * scale,
+        }),
+        render: () => ({ promise: Promise.resolve(), cancel: vi.fn() }),
+      }),
+    }),
+    destroy: async () => {},
+  })),
+}));
 
 const errors: string[] = [];
 beforeEach(() => {
@@ -16,6 +38,300 @@ beforeEach(() => {
 
 const cats = data.categories as any[];
 const back = () => { const b = screen.queryAllByRole('button').find(x => /back|retour|العودة|geri|kembali|واپس|ফিরে|திரும்பு|മടങ്ങ/i.test(x.textContent || '')); if (b) fireEvent.click(b); return !!b; };
+const openSection = (sectionId: string) => {
+  const section = document.querySelector(`[data-section-id="${sectionId}"]`);
+  if (section) fireEvent.click(section);
+};
+const openCategory = (categoryId: string) => {
+  const sectionId = categoryId === 'mawlid' ? 'mawlid'
+    : categoryId === 'qaseedah-burdah' ? 'baith'
+      : categoryId === 'salawat' ? 'salawath'
+        : categoryId.startsWith('asma-') ? 'others' : 'duas';
+  openSection(sectionId);
+  const category = document.querySelector(`[data-target-category-id="${categoryId}"]`);
+  if (category) fireEvent.click(category);
+};
+
+describe('section browser', () => {
+  it('shows all seven sections and their requested nested lists', () => {
+    render(<App />);
+    expect(document.querySelectorAll('[data-section-id]')).toHaveLength(7);
+    for (const [sectionId, expectedCount] of [
+      ['duas', 33],
+      ['dhikr', 10],
+      ['mawlid', 2],
+      ['baith', 2],
+      ['salawath', 11],
+      ['rathib', 2],
+      ['others', 3],
+    ] as const) {
+      cleanup();
+      render(<App />);
+      openSection(sectionId);
+      expect(document.querySelectorAll('[data-collection-id]')).toHaveLength(expectedCount);
+      if (sectionId === 'rathib') {
+        expect(document.querySelector('[data-collection-id="rathib-jalaliyah"]')?.tagName).toBe('BUTTON');
+        expect(document.querySelector('[data-collection-id="rathib-haddad"]')?.tagName).toBe('BUTTON');
+        expect(document.body.textContent).toContain('Ratib al-Haddad');
+      }
+    }
+  });
+
+  it('opens the Rathib Jalaliyah PDF and returns to the Rathib collection list', async () => {
+    vi.spyOn(HTMLCanvasElement.prototype, 'getContext').mockReturnValue({} as CanvasRenderingContext2D);
+
+    render(<App />);
+    openSection('rathib');
+    fireEvent.click(document.querySelector('[data-collection-id="rathib-jalaliyah"]')!);
+
+    await waitFor(() => {
+      expect(screen.getByLabelText('PDF page 1')).toBeTruthy();
+    });
+    expect(screen.getByRole('button', { name: 'Back to Rathib' })).toBeTruthy();
+    expect(screen.queryAllByRole('button')).toHaveLength(1);
+    expect(screen.queryAllByRole('link')).toHaveLength(0);
+
+    fireEvent.click(screen.getByRole('button', { name: 'Back to Rathib' }));
+    await waitFor(() => {
+      expect(document.querySelector('[data-collection-id="rathib-jalaliyah"]')).toBeTruthy();
+      expect(document.querySelector('[data-collection-id="rathib-haddad"]')).toBeTruthy();
+    });
+  });
+
+  it('opens the Ratib al-Haddad PDF without exposing download controls and returns to Rathib', async () => {
+    vi.spyOn(HTMLCanvasElement.prototype, 'getContext').mockReturnValue({} as CanvasRenderingContext2D);
+
+    render(<App />);
+    openSection('rathib');
+    fireEvent.click(document.querySelector('[data-collection-id="rathib-haddad"]')!);
+
+    await waitFor(() => {
+      expect(screen.getByLabelText('PDF page 1')).toBeTruthy();
+    });
+    expect(getDocument).toHaveBeenLastCalledWith({ url: '/rathib/ratib-al-haddad.pdf' });
+    expect(screen.getByRole('button', { name: 'Back to Rathib' })).toBeTruthy();
+    expect(screen.queryAllByRole('button')).toHaveLength(1);
+    expect(screen.queryAllByRole('link')).toHaveLength(0);
+
+    fireEvent.click(screen.getByRole('button', { name: 'Back to Rathib' }));
+    await waitFor(() => {
+      expect(document.querySelector('[data-collection-id="rathib-haddad"]')).toBeTruthy();
+      expect(document.querySelector('[data-collection-id="rathib-jalaliyah"]')).toBeTruthy();
+    });
+  });
+
+  it('supports browser back from the PDF to Rathib and then to the main screen', async () => {
+    vi.spyOn(HTMLCanvasElement.prototype, 'getContext').mockReturnValue({} as CanvasRenderingContext2D);
+
+    render(<App />);
+    openSection('rathib');
+    fireEvent.click(document.querySelector('[data-collection-id="rathib-haddad"]')!);
+    await waitFor(() => expect(screen.getByLabelText('PDF page 1')).toBeTruthy());
+
+    window.history.back();
+    await waitFor(() => {
+      expect(document.querySelector('[data-collection-id="rathib-haddad"]')).toBeTruthy();
+    });
+    window.history.back();
+    await waitFor(() => {
+      expect(document.querySelector('[data-section-id="rathib"]')).toBeTruthy();
+    });
+  });
+
+  it('localizes the Ratib al-Haddad collection title for every supported language', () => {
+    const haddad = rathibSource.collections.find(item => item.id === 'rathib-haddad')!;
+    const supportedLanguages = ['en', 'ar', 'ta', 'ml', 'ur', 'fr', 'tr', 'id', 'bn', 'ms'];
+    expect(Object.keys(haddad.title).sort()).toEqual([...supportedLanguages].sort());
+
+    for (const language of supportedLanguages) {
+      cleanup();
+      render(<App />);
+      if (language !== 'en') {
+        const english = data.languages.find(item => item.code === 'en')!;
+        const languageButton = screen.getAllByRole('button').find(button => button.textContent?.includes(english.name));
+        fireEvent.click(languageButton!);
+        const languageOption = screen.getAllByRole('button').find(button =>
+          button.textContent?.includes(data.languages.find(item => item.code === language)!.name) && button !== languageButton
+        );
+        fireEvent.click(languageOption!);
+      }
+
+      openSection('rathib');
+      expect(document.querySelector('[data-collection-id="rathib-haddad"]')?.textContent)
+        .toContain(haddad.title[language]);
+    }
+  });
+
+  it('shows Day of Judgment in all supported languages without changing its records', () => {
+    const category = cats.find(item => item.id === 'hereafter');
+    const labels = {
+      en: 'Day of Judgment',
+      ta: 'மறுமை நாள்',
+      ml: 'അന്ത്യദിനം',
+      ar: 'يوم القيامة',
+      ur: 'یومِ قیامت',
+      fr: 'Jour du Jugement',
+      tr: 'Kıyamet Günü',
+      id: 'Hari Kiamat',
+      bn: 'কিয়ামতের দিন',
+      ms: 'Hari Kiamat',
+    };
+    const originalDuaIds = category.duas.map((dua: any) => dua.id);
+
+    for (const [language, expectedLabel] of Object.entries(labels)) {
+      cleanup();
+      render(<App />);
+      if (language !== 'en') {
+        const english = data.languages.find(item => item.code === 'en')!;
+        const languageButton = screen.getAllByRole('button').find(button => button.textContent?.includes(english.name));
+        fireEvent.click(languageButton!);
+        const languageOption = screen.getAllByRole('button').find(button =>
+          button.textContent?.includes(data.languages.find(item => item.code === language)!.name) && button !== languageButton
+        );
+        fireEvent.click(languageOption!);
+      }
+
+      openSection('duas');
+      expect(document.querySelector('[data-collection-id="hereafter"]')?.textContent).toContain(expectedLabel);
+    }
+
+    expect(category.duas.map((dua: any) => dua.id)).toEqual(originalDuaIds);
+  });
+
+  it('shows the existing Salawat formulas and A\'lam Salawath directly under Salawath', () => {
+    render(<App />);
+    openSection('salawath');
+    const entries = Array.from(document.querySelectorAll('[data-collection-id]'));
+    expect(entries).toHaveLength(11);
+    expect(entries.map(entry => entry.getAttribute('data-collection-id'))).toEqual([
+      'sal-3', 'sal-5', 'sal-6', 'sal-7', 'sal-8', 'sal-9', 'sal-10', 'sal-1', 'sal-2', 'sal-4',
+      'alam-salawath',
+    ]);
+    fireEvent.click(entries[0]);
+    expect(document.body.textContent).toContain('Salawat al-Tanjiyyah');
+    expect(document.body.textContent).toContain(cats.find(category => category.id === 'salawat').duas[0].arabic);
+  });
+
+  it('displays A\'lam Salawath in the selected language and preserves the full Arabic source', () => {
+    const alamSalawath = salawathSource.duas.find(record => record.id === 'alam-salawath')!;
+    const closingDuaMarker = '\n\nالدعاء\n\n';
+    const closingDuaIndex = alamSalawath.arabic.indexOf(closingDuaMarker);
+    const languages = ['en', 'ar', 'ta', 'ml', 'ur', 'fr', 'tr', 'id', 'bn', 'ms'];
+    expect(Object.keys(alamSalawath.title).sort()).toEqual([...languages].sort());
+    expect(Object.keys(alamSalawath.translation).sort()).toEqual([...languages].sort());
+    expect(languages.every(code => alamSalawath.title[code] && alamSalawath.translation[code])).toBe(true);
+
+    for (const language of languages) {
+      cleanup();
+      render(<App />);
+      if (language !== 'en') {
+        const english = data.languages.find(item => item.code === 'en')!;
+        const languageButton = screen.getAllByRole('button').find(button => button.textContent?.includes(english.name));
+        fireEvent.click(languageButton!);
+        const languageOption = screen.getAllByRole('button').find(button =>
+          button.textContent?.includes(data.languages.find(item => item.code === language)!.name) && button !== languageButton
+        );
+        fireEvent.click(languageOption!);
+      }
+      openSection('salawath');
+      fireEvent.click(document.querySelector('[data-collection-id="alam-salawath"]')!);
+
+      expect(screen.getByRole('heading', { name: alamSalawath.title[language] })).toBeTruthy();
+      expect(screen.getByRole('heading', { name: 'الدعاء' })).toBeTruthy();
+      expect(document.body.textContent).toContain(alamSalawath.arabic.slice(0, closingDuaIndex));
+      expect(document.body.textContent).toContain(alamSalawath.arabic.slice(closingDuaIndex + closingDuaMarker.length));
+      expect(document.querySelector('section[aria-label="A\'lam Salawath"] [lang="ar"][dir="rtl"]')).toBeTruthy();
+      if (language === 'ar') {
+        expect(document.querySelector('[aria-label="AR translation"]')).toBeNull();
+      } else {
+        expect(document.querySelector(`[aria-label="${language.toUpperCase()} translation"]`)?.textContent)
+          .toContain(alamSalawath.translation[language]);
+        expect(alamSalawath.translation_status).toContain('human review required');
+      }
+    }
+
+    expect(rathibSource.collections.find(item => item.id === 'rathib-haddad'))
+      .toHaveProperty('pdf_file', '/rathib/ratib-al-haddad.pdf');
+  });
+
+  it('opens Dhikr categories with only the selected translation and audio controls', async () => {
+    render(<App />);
+    openSection('dhikr');
+    fireEvent.click(document.querySelector('[data-collection-id="subhanallah"]')!);
+
+    const record = adhkarSource.adhkar.find(item => item.id === 'subhanallah')!;
+    expect(document.body.textContent).toContain(record.arabic);
+    expect(document.body.textContent).toContain(record.transliteration);
+    expect(document.body.textContent).toContain('Daily Dhikir');
+    expect(document.body.textContent).not.toContain('1 adhkar');
+    expect(document.body.textContent).toContain(record.translation.en);
+    expect(document.body.textContent).not.toContain(record.translation.ta);
+    expect(document.body.textContent).not.toContain(record.translation.ml);
+    expect(document.body.textContent).toContain('Sahih al-Bukhari 6405');
+    expect(document.body.textContent).toContain(record.deeper_meaning.en);
+    expect(screen.getByRole('button', { name: 'Play' })).toBeTruthy();
+
+    fireEvent.click(screen.getByRole('button', { name: 'Play' }));
+    await waitFor(() => expect(window.speechSynthesis.speak).toHaveBeenCalled());
+  });
+
+  it('shows only the active language translation for Dhikr', () => {
+    render(<App />);
+    const languageButton = screen.getAllByRole('button').find(button => button.textContent?.includes('English'));
+    fireEvent.click(languageButton!);
+    const tamilOption = screen.getAllByRole('button').find(button =>
+      button.textContent?.includes('தமிழ்') && button !== languageButton
+    );
+    fireEvent.click(tamilOption!);
+
+    openSection('dhikr');
+    fireEvent.click(document.querySelector('[data-collection-id="subhanallah"]')!);
+
+    const record = adhkarSource.adhkar.find(item => item.id === 'subhanallah')!;
+    expect(document.body.textContent).toContain(record.translation.ta);
+    expect(document.body.textContent).not.toContain(record.translation.en);
+    expect(document.body.textContent).not.toContain(record.translation.ml);
+  });
+
+  it('shows the supplied French Dhikr translation', () => {
+    render(<App />);
+    const languageButton = screen.getAllByRole('button').find(button => button.textContent?.includes('English'));
+    fireEvent.click(languageButton!);
+    const frenchOption = screen.getAllByRole('button').find(button =>
+      button.textContent?.includes('Français') && button !== languageButton
+    );
+    fireEvent.click(frenchOption!);
+
+    openSection('dhikr');
+    fireEvent.click(document.querySelector('[data-collection-id="subhanallah"]')!);
+
+    const record = adhkarSource.adhkar.find(item => item.id === 'subhanallah')!;
+    expect(document.body.textContent).toContain(record.translation.fr);
+    expect(document.body.textContent).not.toContain(record.translation.en);
+    expect(document.body.textContent).not.toContain(record.translation.ta);
+    expect(document.body.textContent).not.toContain(record.translation.ml);
+  });
+
+  it('opens Mawlid and Ashrakal collections directly at their content', async () => {
+    render(<App />);
+    openSection('mawlid');
+    fireEvent.click(document.querySelector('[data-collection-id="manqoos-mawlid"]')!);
+    expect(document.body.textContent).toContain(manqoosSource.parts[0].arabic);
+    expect(document.querySelector('.mawlid-section-card')).toBeNull();
+
+    cleanup();
+    render(<App />);
+    openSection('baith');
+    fireEvent.click(document.querySelector('[data-collection-id="ashrakal-baith"]')!);
+    expect(document.body.textContent).toContain(ashrakalBaithSource.parts[0].arabic);
+    expect(document.querySelector('.mawlid-section-card')).toBeNull();
+    expect(screen.getByRole('button', { name: 'Back to Baith' })).toBeTruthy();
+    fireEvent.click(screen.getByRole('button', { name: 'Back to Baith' }));
+    await waitFor(() => {
+      expect(document.querySelector('[data-collection-id="ashrakal-baith"]')).not.toBeNull();
+    });
+  });
+});
 
 describe('excluded content', () => {
   it('does not include Ruqyah or explicitly Shia-specific supplications', () => {
@@ -54,10 +370,8 @@ describe('Qaseedah Burdah', () => {
     );
     fireEvent.click(frenchOption!);
 
-    const category = screen.getAllByRole('button').find(button =>
-      button.classList.contains('category-card') && (button.textContent || '').startsWith('Qaseedah Burdhah')
-    );
-    fireEvent.click(category!);
+    openSection('baith');
+    fireEvent.click(document.querySelector('[data-collection-id="qaseedah-burdah"]')!);
 
     const translation = screen.getByText(burdahSource.sections[0].verses[0].english);
     expect(translation.getAttribute('dir')).toBe('auto');
@@ -66,10 +380,7 @@ describe('Qaseedah Burdah', () => {
 
   it('keeps all section titles in a horizontally scrollable navigation strip', () => {
     render(<App />);
-    const category = screen.getAllByRole('button').find(button =>
-      button.classList.contains('category-card') && (button.textContent || '').startsWith('Qaseedah Burdhah')
-    );
-    fireEvent.click(category!);
+    openCategory('qaseedah-burdah');
 
     const navigation = screen.getByRole('navigation', { name: 'Qaseedah sections' });
     expect(navigation.className).toContain('overflow-x-auto');
@@ -150,12 +461,8 @@ describe('Mawlid content', () => {
 
   it('shows all Subuhana stanzas together with buttons that jump to each stanza', () => {
     render(<App />);
-    const category = screen.getAllByRole('button').find(button =>
-      button.classList.contains('category-card') && (button.textContent || '').startsWith('Mawlid')
-    );
-    expect(category).toBeTruthy();
-    fireEvent.click(category!);
-    fireEvent.click(screen.getByRole('button', { name: /Subuhana Mawlid/ }));
+    openSection('mawlid');
+    fireEvent.click(document.querySelector('[data-collection-id="subuhana-mawlid"]')!);
     const groups = subuhanaSource.display_groups;
     expect(screen.getAllByRole('heading', { level: 3 }).map(heading => heading.textContent)).toEqual(
       groups.map((group: any) => group.title)
@@ -192,11 +499,8 @@ describe('Mawlid content', () => {
 
   it('lets readers hide and show Subuhana translations', () => {
     render(<App />);
-    const category = screen.getAllByRole('button').find(button =>
-      button.classList.contains('category-card') && (button.textContent || '').startsWith('Mawlid')
-    );
-    fireEvent.click(category!);
-    fireEvent.click(screen.getByRole('button', { name: /Subuhana Mawlid/ }));
+    openSection('mawlid');
+    fireEvent.click(document.querySelector('[data-collection-id="subuhana-mawlid"]')!);
     expect(document.body.textContent).toContain('A small prayer');
     fireEvent.click(screen.getByRole('button', { name: 'Hide translations' }));
     expect(document.body.textContent).not.toContain('A small prayer');
@@ -210,9 +514,7 @@ describe('every category opens, every dua opens, every button works', () => {
   for (const cat of cats) {
     it(`category ${cat.id}`, () => {
       render(<App />);
-      const card = screen.getAllByRole('button').find(b => b.classList.contains('category-card') && (b.textContent || '').startsWith(cat.name.en));
-      expect(card, 'card for ' + cat.id).toBeTruthy();
-      fireEvent.click(card!);
+      openCategory(cat.id);
       expect(document.body.textContent!.length).toBeGreaterThan(50);
       // open each dua in regular categories
       const dc = Array.from(document.querySelectorAll('.dua-card'));
@@ -264,10 +566,7 @@ describe('search', () => {
   });
   it('finds Subuhana entries by their translation while inside Mawlid', () => {
     render(<App />);
-    const category = screen.getAllByRole('button').find(button =>
-      button.classList.contains('category-card') && (button.textContent || '').startsWith('Mawlid')
-    );
-    fireEvent.click(category!);
+    openCategory('mawlid');
     q('May God complete the blessings upon us');
     expect(screen.getByText('Dua results (1)')).toBeTruthy();
     expect(document.querySelector('.dua-card')?.textContent).toContain('May God complete the blessings upon us');

@@ -7,7 +7,7 @@ type HajjDua = {
   arabic: string;
   translation: Record<string, string>;
   transliteration?: string;
-  reference: string | { source?: string; reference_text?: string };
+  reference?: string | { source?: string; reference_text?: string };
   times: number;
   item_number?: number;
   section_letter?: string;

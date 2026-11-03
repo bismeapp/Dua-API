@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "section_id": "baith",
+  "status": "available",
+  "collections": [
+    {
+      "id": "ashrakal-baith",
+      "title": { "en": "Ashrakal Baith" },
+      "metadata_file": "duas/categories/mawlid/metadata.json",
+      "data_file": "duas/categories/mawlid/ashrakal_baith.json",
+      "status": "available",
+      "source_category_id": "mawlid"
+    },
+    {
+      "id": "qaseedah-burdah",
+      "title": { "en": "Qaseedah Burdah" },
+      "metadata_file": "duas/categories/qaseedah-burdah/metadata.json",
+      "data_file": "duas/categories/qaseedah-burdah/content.json",
+      "status": "available",
+      "source_category_id": "qaseedah-burdah",
+      "record_file": "duas/categories/qaseedah-burdah/duas.json",
+      "expected_record_count": 167
+    }
+  ]
+}

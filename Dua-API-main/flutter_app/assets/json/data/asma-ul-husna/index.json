@@ -1,0 +1,31 @@
+{
+  "schema_version": "3.0.0",
+  "collection_id": "asma-ul-husna",
+  "title": {
+    "en": "Asma ul Husna — 99 Names of Allah",
+    "ta": "அஸ்மாவுல் ஹுஸ்னா — அல்லாஹ்வின் 99 பெயர்கள்"
+  },
+  "description": {
+    "en": "The 99 Most Beautiful Names of Allah with transliteration and meanings.",
+    "ta": "அல்லாஹ்வின் 99 அழகான பெயர்கள், படிப்பதும் பொருளும் சேர்த்து."
+  },
+  "total_records": 110,
+  "record_breakdown": {
+    "names": 99,
+    "featured_names": 10,
+    "duas": 1
+  },
+  "languages": [
+    "ar",
+    "en",
+    "tr",
+    "ta",
+    "ml"
+  ],
+  "files": {
+    "metadata": "metadata.json",
+    "names": "names.json",
+    "featured_names": "featured-names.json",
+    "duas": "duas.json"
+  }
+}

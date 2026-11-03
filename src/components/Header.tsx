@@ -51,12 +51,12 @@ export default function Header({
   return (
     <header className="app-header sticky top-0 z-50 border-b">
       <div className="mx-auto max-w-7xl px-3 sm:px-6 lg:px-8">
-        <div className="flex h-[104px] items-center justify-between gap-3 sm:h-28">
-          <div className="flex h-[96px] w-[92px] shrink-0 items-center justify-center sm:h-[104px]">
+        <div className="flex h-[80px] items-center justify-between gap-3 sm:h-28">
+          <div className="flex h-[64px] w-[64px] shrink-0 items-center justify-center sm:h-[104px] sm:w-[92px]">
             <img
               src="/bisme-radio-logo.png"
               alt="Bisme Radio"
-              className="h-[96px] w-auto max-w-[92px] shrink-0 object-contain sm:h-[104px]"
+              className="h-[64px] w-auto max-w-[64px] shrink-0 object-contain sm:h-[104px] sm:max-w-[92px]"
               style={{ filter: 'drop-shadow(0 0 10px rgba(246, 207, 120, 0.75))' }}
             />
             <div className="sr-only">
@@ -112,12 +112,13 @@ export default function Header({
             <div className="relative">
               <button
                 onClick={() => setShowLanguageMenu(!showLanguageMenu)}
+                aria-label={`Language: ${currentLanguage.name}`}
                 aria-haspopup="menu"
                 aria-expanded={showLanguageMenu}
                 className="flex items-center gap-2 rounded-lg border border-[var(--bisme-gold-border)] bg-[#063b2b] px-3 py-2 transition-colors hover:bg-[#084633]"
               >
                 <Languages className="h-4 w-4 text-[var(--bisme-gold)]" aria-hidden="true" />
-                <span className="text-xs font-medium text-white sm:text-sm">{currentLanguage.name}</span>
+                <span className="header-language-label text-xs font-medium text-white sm:text-sm">{currentLanguage.name}</span>
                 <ChevronDown className={`h-4 w-4 text-white/60 transition-transform ${showLanguageMenu ? 'rotate-180' : ''}`} aria-hidden="true" />
               </button>
 

@@ -31,16 +31,18 @@ interface MawlidViewProps {
   sections: MawlidSection[];
   language: string;
   displayTitle: Record<string, string>;
+  initialSectionId?: string | null;
+  backLabel?: string;
   onBack: () => void;
 }
 
 const labels: Record<string, Record<string, string>> = {
-  en: { backCategories: 'Back to Categories', backMawlid: 'Back to Mawlid', part: 'Part', parts: 'parts', englishTranslation: 'Show English translation', showTranslations: 'Show translations', hideTranslations: 'Hide translations' },
+  en: { backCategories: 'Back to Categories', backMawlid: 'Back to Moulid', part: 'Part', parts: 'parts', englishTranslation: 'Show English translation', showTranslations: 'Show translations', hideTranslations: 'Hide translations' },
   ta: { backCategories: 'வகைகளுக்குத் திரும்பு', backMawlid: 'மௌலிதுக்குத் திரும்பு', part: 'பகுதி', parts: 'பகுதிகள்', englishTranslation: 'ஆங்கில மொழிபெயர்ப்பைக் காண்பி', showTranslations: 'மொழிபெயர்ப்புகளைக் காட்டு', hideTranslations: 'மொழிபெயர்ப்புகளை மறை' },
   ml: { backCategories: 'വിഭാഗങ്ങളിലേക്ക് മടങ്ങുക', backMawlid: 'മൗലിദിലേക്ക് മടങ്ങുക', part: 'ഭാഗം', parts: 'ഭാഗങ്ങൾ', englishTranslation: 'ഇംഗ്ലീഷ് പരിഭാഷ കാണിക്കുക', showTranslations: 'പരിഭാഷകൾ കാണിക്കുക', hideTranslations: 'പരിഭാഷകൾ മറയ്ക്കുക' },
   ar: { backCategories: 'العودة إلى الفئات', backMawlid: 'العودة إلى المولد', part: 'الجزء', parts: 'الأجزاء', englishTranslation: 'عرض الترجمة الإنجليزية', showTranslations: 'عرض الترجمات', hideTranslations: 'إخفاء الترجمات' },
   ur: { backCategories: 'زمرہ جات پر واپس', backMawlid: 'مولد پر واپس', part: 'حصہ', parts: 'حصے', englishTranslation: 'انگریزی ترجمہ دکھائیں', showTranslations: 'ترجمے دکھائیں', hideTranslations: 'ترجمے چھپائیں' },
-  fr: { backCategories: 'Retour aux catégories', backMawlid: 'Retour au Mawlid', part: 'Partie', parts: 'parties', englishTranslation: 'Afficher la traduction anglaise', showTranslations: 'Afficher les traductions', hideTranslations: 'Masquer les traductions' },
+  fr: { backCategories: 'Retour aux catégories', backMawlid: 'Retour au Moulid', part: 'Partie', parts: 'parties', englishTranslation: 'Afficher la traduction anglaise', showTranslations: 'Afficher les traductions', hideTranslations: 'Masquer les traductions' },
   tr: { backCategories: 'Kategorilere dön', backMawlid: 'Mevlide dön', part: 'Bölüm', parts: 'bölüm', englishTranslation: 'İngilizce çeviriyi göster', showTranslations: 'Çevirileri göster', hideTranslations: 'Çevirileri gizle' },
   id: { backCategories: 'Kembali ke kategori', backMawlid: 'Kembali ke Maulid', part: 'Bagian', parts: 'bagian', englishTranslation: 'Tampilkan terjemahan bahasa Inggris', showTranslations: 'Tampilkan terjemahan', hideTranslations: 'Sembunyikan terjemahan' },
   bn: { backCategories: 'বিভাগে ফিরে যান', backMawlid: 'মাওলিদে ফিরে যান', part: 'অংশ', parts: 'অংশ', englishTranslation: 'ইংরেজি অনুবাদ দেখান', showTranslations: 'অনুবাদ দেখান', hideTranslations: 'অনুবাদ লুকান' },
@@ -97,10 +99,12 @@ export default function MawlidView({
   sections,
   language,
   displayTitle,
+  initialSectionId = null,
+  backLabel,
   onBack,
 }: MawlidViewProps) {
   const { isDark } = useTheme();
-  const [selectedSectionId, setSelectedSectionId] = useState<string | null>(null);
+  const [selectedSectionId, setSelectedSectionId] = useState<string | null>(initialSectionId);
   const [showTranslations, setShowTranslations] = useState(true);
   const label = labels[language] || labels.en;
   const entriesById = useMemo(() => new Map(entries.map(entry => [entry.id, entry])), [entries]);
@@ -113,11 +117,11 @@ export default function MawlidView({
     <div className="mx-auto max-w-5xl">
       <button
         type="button"
-        onClick={() => selectedSection ? setSelectedSectionId(null) : onBack()}
+        onClick={() => selectedSection && !initialSectionId ? setSelectedSectionId(null) : onBack()}
         className="category-back-button mb-5 inline-flex min-h-10 items-center gap-2 rounded-[13px] border border-[var(--bisme-gold)] px-3 py-2"
       >
         <ArrowLeft className="h-4 w-4" aria-hidden="true" />
-        {selectedSection ? label.backMawlid : label.backCategories}
+        {selectedSection ? backLabel || label.backMawlid : label.backCategories}
       </button>
 
       <header className="category-detail-header mb-6 rounded-2xl p-4 sm:p-6">

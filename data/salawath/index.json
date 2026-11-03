@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0.0",
+  "section_id": "salawath",
+  "status": "available",
+  "collections": [
+    {
+      "id": "sal-3",
+      "record_id": "sal-3",
+      "sequence": 1,
+      "title": { "en": "Salawat al-Tanjiyyah (The Prayer of Deliverance)" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-5",
+      "record_id": "sal-5",
+      "sequence": 2,
+      "title": { "en": "Salawat al-Tafrijiyyah / al-Nariya (The Relief Prayer)" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-6",
+      "record_id": "sal-6",
+      "sequence": 3,
+      "title": { "en": "Salawat al-Fatih (The Opener)" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-7",
+      "record_id": "sal-7",
+      "sequence": 4,
+      "title": { "en": "Salawat Tibb al-Qulub (The Cure of Hearts)" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-8",
+      "record_id": "sal-8",
+      "sequence": 5,
+      "title": { "en": "Salawat Nur al-Anwar (The Light of Lights)" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-9",
+      "record_id": "sal-9",
+      "sequence": 6,
+      "title": { "en": "Salawat al-In'am (The Prayer of Divine Favors)" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-10",
+      "record_id": "sal-10",
+      "sequence": 7,
+      "title": { "en": "Salawat al-Uliya / al-Kamaliyyah (The Supreme Perfection Prayer)" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-1",
+      "record_id": "sal-1",
+      "sequence": 8,
+      "title": { "en": "Salawat al-Ibrahimiyyah (The Grand Prophetic Prayer)" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-2",
+      "record_id": "sal-2",
+      "sequence": 9,
+      "title": { "en": "Salawat Nariyyah" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-4",
+      "record_id": "sal-4",
+      "sequence": 10,
+      "title": { "en": "Simple Salawat" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "alam-salawath",
+      "record_id": "alam-salawath",
+      "sequence": 11,
+      "title": {
+        "en": "A'lam Salawath",
+        "ar": "أَعْظَمُ الصَّلَاةِ",
+        "ta": "அஃலம் ஸலவாத்",
+        "ml": "അഅ്‌ലാം സ്വലാത്ത്",
+        "ur": "اعظم الصلاة",
+        "fr": "A'lam Salawath",
+        "tr": "A'lam Salavatı",
+        "id": "A'lam Salawath",
+        "bn": "আ'লম সালাওয়াত",
+        "ms": "A'lam Selawat"
+      },
+      "translation_status": "Machine-generated; human review required.",
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    }
+  ]
+}

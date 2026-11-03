@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://bismeapp.github.io/Dua-API/schemas/dua-record.schema.json",
+  "title": "Dua record",
+  "type": "object",
+  "required": ["id", "category_id", "arabic"],
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "category_id": { "type": "string", "minLength": 1 },
+    "subcategory_id": { "type": ["string", "null"] },
+    "title": { "type": "object", "minProperties": 1 },
+    "arabic": { "type": "string", "description": "May be empty only for clearly explanatory records that state no fixed Arabic wording is prescribed." },
+    "transliteration": { "oneOf": [{ "type": "string" }, { "type": "object" }] },
+    "translation": { "type": "object" },
+    "translations": { "type": "object" },
+    "reference": { "oneOf": [{ "type": "string" }, { "type": "object" }] },
+    "repetition_count": { "type": ["integer", "null"], "minimum": 0 },
+    "order": { "type": "integer", "minimum": 1 },
+    "sequence": { "type": "integer", "minimum": 1 },
+    "status": { "type": "string" }
+  },
+  "anyOf": [
+    { "required": ["translation"] },
+    { "required": ["translations"] }
+  ],
+  "additionalProperties": true
+}

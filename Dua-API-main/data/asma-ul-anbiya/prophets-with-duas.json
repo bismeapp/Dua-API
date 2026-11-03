@@ -1,0 +1,181 @@
+{
+  "schema_version": "3.0.0",
+  "count": 3,
+  "total_duas": 4,
+  "prophets": [
+    {
+      "prophet_ref": "prophet-01",
+      "prophet_number": 1,
+      "prophet_name": {
+        "ar": "آدَمُ عَلَيْهِ السَّلَامُ",
+        "en": "Adam (AS) - The First Human",
+        "ta": "ஆதம் (அலை) - முதல் மனிதர்",
+        "ml": "ആദം (അ) - ആദ്യ മനുഷ്യൻ"
+      },
+      "prophet_meaning": {
+        "en": "Adam means 'human' or 'created from earth' (from 'adim' meaning earth/soil)",
+        "ta": "ஆதம் என்றால் 'மனிதன்' அல்லது 'மண்ணிலிருந்து படைக்கப்பட்டவர்'",
+        "ml": "ആദം എന്നാൽ 'മനുഷ്യൻ' അല്ലെങ്കിൽ 'മണ്ണിൽ നിന്ന് സൃഷ്ടിക്കപ്പെട്ടവൻ'"
+      },
+      "dua_count": 1,
+      "duas": [
+        {
+          "id": "adam-1",
+          "category_id": "prophet-1",
+          "subcategory_id": null,
+          "order": 1,
+          "title": {
+            "en": "Dua of Repentance after eating from the tree",
+            "ar": "دعاء التوبة بعد الأكل من الشجرة",
+            "ur": "درخت سے کھانے کے بعد توبہ کی دعا",
+            "fr": "Doua de repentance après avoir mangé de l'arbre",
+            "tr": "Ağaçtan yedikten sonra tövbe duası",
+            "id": "Doa Taubat setelah makan dari pohon",
+            "bn": "গাছ থেকে খাওয়ার পরে তাওবার দোয়া",
+            "ms": "Doa Taubat selepas makan dari pokok",
+            "ta": "மரத்திலிருந்து உண்ட பின் பாவமன்னிப்பு துஆ",
+            "ml": "മരത്തിൽ നിന്ന് ഭക്ഷിച്ചതിന് ശേഷം പശ്ചാത്താപ ദുആ"
+          },
+          "arabic": "رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+          "transliteration": "Rabbana zalamna anfusana wa in lam taghfir lana wa tarhamna lanakoonanna minal-khasireen",
+          "translation": {
+            "en": "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.",
+            "ta": "எங்கள் இறைவா, நாங்கள் எங்கள் ஆத்மாக்களுக்கு அநியாயம் செய்தோம், நீர் எங்களை மன்னிக்காவிட்டால் மற்றும் எங்கள் மீது கருணை காட்டாவிட்டால், நிச்சயமாக நாங்கள் நஷ்டமடைபவர்களில் இருப்போம்.",
+            "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങൾ ഞങ്ങളോട് അനീതി ചെയ്തിരിക്കുന്നു, നീ ഞങ്ങളെ പൊറുക്കുകയും ഞങ്ങളോട് കരുണ കാണിക്കുകയും ചെയ്തില്ലെങ്കിൽ ഞങ്ങൾ നഷ്ടമനുഭവിക്കുന്നവരിൽ ഉണ്ടാകും."
+          },
+          "reference": {
+            "source": "Quran",
+            "reference_text": "Quran 7:23"
+          },
+          "context": "Recited by Prophet Adam (AS) and Hawwa (Eve) after eating from the forbidden tree"
+        }
+      ]
+    },
+    {
+      "prophet_ref": "prophet-02",
+      "prophet_number": 2,
+      "prophet_name": {
+        "ar": "إِدْرِيسُ عَلَيْهِ السَّلَامُ",
+        "en": "Idris (AS) - The Truthful Prophet",
+        "ta": "இத்ரீஸ் (அலை) - உண்மையுள்ள நபி",
+        "ml": "ഇദ്‌രീസ് (അ) - സത്യസന്ധനായ നബി"
+      },
+      "prophet_meaning": {
+        "en": "Idris means 'studious' or 'one who studies much' (from 'darasa' meaning to study)",
+        "ta": "இத்ரீஸ் என்றால் 'கற்றறிந்தவர்' அல்லது 'அதிகம் படிப்பவர்'",
+        "ml": "ഇദ്‌രീസ് എന്നാൽ 'പഠനശീലൻ' അല്ലെങ്കിൽ 'വളരെയധികം പഠിക്കുന്നവൻ'"
+      },
+      "dua_count": 1,
+      "duas": [
+        {
+          "id": "idris-1",
+          "category_id": "prophet-2",
+          "subcategory_id": null,
+          "order": 1,
+          "title": {
+            "en": "Dua for Knowledge and Wisdom",
+            "ar": "دعاء للعلم والحكمة",
+            "ur": "علم اور حکمت کی دعا",
+            "fr": "Doua pour la connaissance et la sagesse",
+            "tr": "İlim ve hikmet duası",
+            "id": "Doa untuk ilmu dan hikmah",
+            "bn": "জ্ঞান ও প্রজ্ঞার দোয়া",
+            "ms": "Doa untuk ilmu dan hikmah",
+            "ta": "அறிவு மற்றும் ஞானத்திற்கான துஆ",
+            "ml": "അറിവിനും ജ്ഞാനത്തിനുമുള്ള ദുആ"
+          },
+          "arabic": "رَبِّ زِدْنِي عِلْمًا",
+          "transliteration": "Rabbi zidni 'ilma",
+          "translation": {
+            "en": "My Lord, increase me in knowledge.",
+            "ta": "என் இறைவா, எனக்கு அறிவை அதிகரிப்பாயாக.",
+            "ml": "എന്റെ രക്ഷിതാവേ, എനിക്ക് അറിവ് വർദ്ധിപ്പിച്ചുതരണമേ."
+          },
+          "reference": {
+            "source": "Quran",
+            "reference_text": "Quran 20:114"
+          },
+          "context": "Prophet Idris (AS) was known for his great knowledge and wisdom"
+        }
+      ]
+    },
+    {
+      "prophet_ref": "prophet-03",
+      "prophet_number": 3,
+      "prophet_name": {
+        "ar": "نُوحٌ عَلَيْهِ السَّلَامُ",
+        "en": "Nuh (AS) - Noah",
+        "ta": "னூஹ் (அலை) - நோவா",
+        "ml": "നൂഹ് (അ) - നോഹ"
+      },
+      "prophet_meaning": {
+        "en": "Nuh means 'rest' or 'comfort' (one who brings comfort to believers)",
+        "ta": "னூஹ் என்றால் 'ஓய்வு' அல்லது 'ஆறுதல்'",
+        "ml": "നൂഹ് എന്നാൽ 'വിശ്രമം' അല്ലെങ്കിൽ 'ആശ്വാസം'"
+      },
+      "dua_count": 2,
+      "duas": [
+        {
+          "id": "nuh-1",
+          "category_id": "prophet-3",
+          "subcategory_id": null,
+          "order": 1,
+          "title": {
+            "en": "Dua seeking refuge from asking what he has no knowledge of",
+            "ar": "دعاء الاستعاذة من سؤال ما ليس له به علم",
+            "ur": "جس کا مجھے علم نہیں اس سے پناہ مانگنے کی دعا",
+            "fr": "Doua cherchant refuge contre demander ce dont il n'a pas connaissance",
+            "tr": "Bilmediği şeyi sormaktan sığınma duası",
+            "id": "Doa berlindung dari meminta apa yang tidak diketahuinya",
+            "bn": "যা জানেন না তা চাওয়া থেকে আশ্রয় চাওয়ার দোয়া",
+            "ms": "Doa berlindung daripada meminta apa yang tidak diketahuinya",
+            "ta": "தனக்கு தெரியாததை கேட்பதிலிருந்து புகலடைதல் துஆ",
+            "ml": "അറിയാത്തത് ചോദിക്കുന്നതിൽ നിന്ന് അഭയം തേടുന്ന ദുആ"
+          },
+          "arabic": "رَبِّ إِنِّي أَعُوذُ بِكَ أَنْ أَسْأَلَكَ مَا لَيْسَ لِي بِهِ عِلْمٌ ۖ وَإِلَّا تَغْفِرْ لِي وَتَرْحَمْنِي أَكُن مِّنَ الْخَاسِرِينَ",
+          "transliteration": "Rabbi inni a'udhu bika an as'alaka ma laysa li bihi 'ilm wa illa taghfir li wa tarhamni akun minal-khasireen",
+          "translation": {
+            "en": "My Lord, I seek refuge in You from asking that of which I have no knowledge. And unless You forgive me and have mercy upon me, I will be among the losers.",
+            "ta": "என் இறைவா, எனக்கு அறிவில்லாததை உம்மிடம் கேட்பதிலிருந்து உம்மிடம் புகலளிக்கிறேன். நீர் என்னை மன்னிக்காவிட்டாலும் என் மீது கருணை காட்டாவிட்டாலும், நான் நஷ்டமடைபவர்களில் இருப்பேன்.",
+            "ml": "എന്റെ രക്ഷിതാവേ, എനിക്ക് അറിയാത്തത് നിന്നോട് ചോദിക്കുന്നതിൽ നിന്ന് ഞാൻ നിന്നോട് അഭയം തേടുന്നു. നീ എന്നെ പൊറുക്കുകയും എന്നോട് കരുണ കാണിക്കുകയും ചെയ്തില്ലെങ്കിൽ ഞാൻ നഷ്ടമനുഭവിക്കുന്നവരിൽ ഉണ്ടാകും."
+          },
+          "reference": {
+            "source": "Quran",
+            "reference_text": "Quran 11:47"
+          },
+          "context": "Prophet Nuh (AS) seeking refuge after his son was drowned in the flood"
+        },
+        {
+          "id": "nuh-2",
+          "category_id": "prophet-3",
+          "subcategory_id": null,
+          "order": 2,
+          "title": {
+            "en": "Dua for forgiveness and mercy",
+            "ar": "دعاء المغفرة والرحمة",
+            "ur": "مغفرت اور رحمت کی دعا",
+            "fr": "Doua pour le pardon et la miséricorde",
+            "tr": "Bağışlanma ve merhamet duası",
+            "id": "Doa ampunan dan rahmat",
+            "bn": "ক্ষমা ও রহমতের দোয়া",
+            "ms": "Doa keampunan dan rahmat",
+            "ta": "மன்னிப்பு மற்றும் இரக்கத்திற்கான துஆ",
+            "ml": "പാപമോചനത്തിനും കാരുണ്യത്തിനുമുള്ള ദുആ"
+          },
+          "arabic": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ",
+          "transliteration": "Rabbighfir li wa liwalidayya wa liman dakhala baytiya mu'minan wa lil-mu'minina wal-mu'minat",
+          "translation": {
+            "en": "My Lord, forgive me and my parents and whoever enters my house a believer and the believing men and believing women.",
+            "ta": "என் இறைவா, என்னையும் என் பெற்றோரையும் என் வீட்டில் விசுவாசியாக நுழைபவரையும் விசுவாசிக்கும் ஆண்கள் மற்றும் பெண்களையும் மன்னிப்பாயாக.",
+            "ml": "എന്റെ രക്ഷിതാവേ, എന്നെയും എന്റെ മാതാപിതാക്കളെയും എന്റെ വീട്ടിൽ വിശ്വാസിയായി പ്രവേശിക്കുന്നവരെയും വിശ്വാസികളായ പുരുഷന്മാരെയും സ്ത്രീകളെയും പൊറുക്കണമേ."
+          },
+          "reference": {
+            "source": "Quran",
+            "reference_text": "Quran 71:28"
+          },
+          "context": "Prophet Nuh (AS) praying for forgiveness for himself, his parents, and all believers"
+        }
+      ]
+    }
+  ]
+}

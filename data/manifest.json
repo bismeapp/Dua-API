@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Bismi Radio Dua and Islamic Collections API",
+  "data_format": "json",
+  "default_language": "en",
+  "supported_languages": [
+    "ar",
+    "en",
+    "ta",
+    "ml",
+    "ur",
+    "fr",
+    "id",
+    "ms",
+    "bn",
+    "tr"
+  ],
+  "main_sections": [
+    {
+      "id": "duas",
+      "order": 1,
+      "title": { "en": "Duas" },
+      "index_file": "duas/index.json",
+      "status": "available"
+    },
+    {
+      "id": "dhikr",
+      "order": 2,
+      "title": {
+        "ar": "أذكار يومية",
+        "en": "Daily Dhikir",
+        "ta": "தினசரி திக்ருகள்",
+        "ml": "ദൈനംദിന ദിക്റുകൾ",
+        "ur": "روزانہ اذکار",
+        "fr": "Rappels quotidiens",
+        "tr": "Günlük Zikirler",
+        "id": "Zikir Harian",
+        "bn": "দৈনিক যিকির",
+        "ms": "Zikir Harian"
+      },
+      "index_file": "dhikr/index.json",
+      "status": "available"
+    },
+    {
+      "id": "mawlid",
+      "order": 3,
+      "title": {
+        "ar": "المولد",
+        "en": "Moulid",
+        "ta": "மௌலித்",
+        "ml": "മൗലിദ്",
+        "ur": "مولد",
+        "fr": "Moulid",
+        "tr": "Mevlid",
+        "id": "Maulid",
+        "bn": "মিলাদ",
+        "ms": "Maulid"
+      },
+      "index_file": "mawlid/index.json",
+      "status": "available"
+    },
+    {
+      "id": "baith",
+      "order": 4,
+      "title": { "en": "Baith" },
+      "index_file": "baith/index.json",
+      "status": "partial"
+    },
+    {
+      "id": "salawath",
+      "order": 5,
+      "title": { "en": "Salawath" },
+      "index_file": "salawath/index.json",
+      "status": "partial"
+    },
+    {
+      "id": "rathib",
+      "order": 6,
+      "title": { "en": "Rathib" },
+      "index_file": "rathib/index.json",
+      "status": "pending_verified_content"
+    },
+    {
+      "id": "others",
+      "order": 7,
+      "title": { "en": "Others" },
+      "index_file": "others/index.json",
+      "status": "partial"
+    }
+  ]
+}

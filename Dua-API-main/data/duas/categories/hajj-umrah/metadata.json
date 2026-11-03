@@ -1,0 +1,39 @@
+{
+    "id":  "hajj-umrah",
+    "name":  {
+                 "en":  "Hajj \u0026 Umrah",
+                 "ar":  "الحج والعمرة",
+                 "ur":  "حج اور عمرہ",
+                 "fr":  "Hajj et Omra",
+                 "tr":  "Hac ve Umre",
+                 "id":  "Haji dan Umrah",
+                 "bn":  "হজ ও উমরাহ",
+                 "ms":  "Haji dan Umrah",
+                 "ta":  "ஹஜ் \u0026 உம்ரா",
+                 "ml":  "ഹജ്ജും ഉംറയും"
+             },
+    "description":  {
+                        "en":  "Hajj and Umrah supplications, remembrances, instructions, and explanatory notes organized by ritual stage.",
+                        "ta":  "ஹஜ் மற்றும் உம்ரா துஆக்கள், திக்ர்கள், வழிமுறைகள் மற்றும் விளக்கக் குறிப்புகள் சடங்கு நிலைகளின்படி ஒழுங்கமைக்கப்பட்டுள்ளன.",
+                        "ml":  "ഹജ്ജ്, ഉംറ ദുആകൾ, ദിക്റുകൾ, നിർദേശങ്ങൾ, വിശദീകരണ കുറിപ്പുകൾ എന്നിവ ആചാരഘട്ടങ്ങളായി ക്രമീകരിച്ചിരിക്കുന്നു.",
+                        "ar":  "أدعية وأذكار وتعليمات وملاحظات توضيحية للحج والعمرة مرتبة حسب مراحل المناسك.",
+                        "ur":  "حج اور عمرہ کی دعائیں، اذکار، ہدایات اور وضاحتی نوٹس مناسک کے مراحل کے مطابق ترتیب دیے گئے ہیں۔",
+                        "fr":  "Invocations, évocations, instructions et notes explicatives du Hajj et de la Omra, organisées par étape rituelle.",
+                        "tr":  "Hac ve Umre duaları, zikirleri, talimatları ve açıklayıcı notları ibadet aşamalarına göre düzenlenmiştir.",
+                        "id":  "Doa, zikir, petunjuk, dan catatan penjelasan Haji dan Umrah disusun berdasarkan tahap ibadah.",
+                        "bn":  "হজ ও উমরাহর দোয়া, জিকির, নির্দেশনা ও ব্যাখ্যামূলক নোট আচার-অনুষ্ঠানের ধাপ অনুযায়ী সাজানো হয়েছে।",
+                        "ms":  "Doa, zikir, arahan dan nota penjelasan Haji dan Umrah disusun mengikut peringkat ibadah."
+                    },
+    "parent_id":  null,
+    "order":  28,
+    "theme":  {
+                  "color":  "amber",
+                  "gradient":  "from-amber-500 to-yellow-600",
+                  "bg":  "bg-amber-50",
+                  "border":  "border-amber-200",
+                  "text":  "text-amber-700"
+              },
+    "item_count":  57,
+    "data_file":  "duas.json",
+    "translation_status":  "Machine-generated; human review required."
+}

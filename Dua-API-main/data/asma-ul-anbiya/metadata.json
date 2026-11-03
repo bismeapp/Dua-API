@@ -1,0 +1,46 @@
+{
+  "id": "asma-ul-anbiya",
+  "name": {
+    "en": "Names of Prophets (Asma ul Anbiya)",
+    "ar": "أسماء الأنبياء",
+    "ur": "اسماء الانبیاء",
+    "fr": "Noms des Prophètes",
+    "tr": "Peygamberlerin İsimleri",
+    "id": "Nama-Nama Nabi",
+    "bn": "নবীদের নাম",
+    "ms": "Nama-Nama Nabi",
+    "ta": "நபிமார்களின் பெயர்கள்",
+    "ml": "നബിമാരുടെ നാമങ്ങൾ"
+  },
+  "description": {
+    "en": "The 25 prophets named in the Quran with titles, era notes, meanings of their names, and the duas revealed to them where recorded.",
+    "ta": "குர்ஆனில் குறிப்பிடப்பட்ட 25 நபிமார்களின் பெயர்கள், பட்டங்கள், காலம், பொருள் மற்றும் அவர்களுக்கு வழங்கப்பட்ட துஆக்கள்."
+  },
+  "parent_id": null,
+  "order": 3,
+  "icon": "ðŸ“–",
+  "theme": {
+    "color": "indigo",
+    "gradient": "from-indigo-400 to-blue-500",
+    "bg": "bg-indigo-50",
+    "border": "border-indigo-200",
+    "text": "text-indigo-700"
+  },
+  "item_count": 79,
+  "data_file": "index.json",
+  "counts": {
+    "prophets": 25,
+    "prophets_embedded": 25,
+    "name_meanings": 25,
+    "prophets_with_duas": 3,
+    "prophet_duas": 4,
+    "duas": 1
+  },
+  "data_files": {
+    "prophets": "prophets.json",
+    "prophets_embedded": "prophets-embedded.json",
+    "name_meanings": "name-meanings.json",
+    "prophets_with_duas": "prophets-with-duas.json",
+    "duas": "duas.json"
+  }
+}

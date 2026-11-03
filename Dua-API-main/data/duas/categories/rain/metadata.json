@@ -1,0 +1,29 @@
+{
+  "id": "rain",
+  "name": {
+    "en": "Rain & Weather",
+    "ar": "المطر والطقس",
+    "ur": "بارش اور موسم",
+    "fr": "Pluie et Météo",
+    "tr": "Yağmur ve Hava",
+    "id": "Hujan dan Cuaca",
+    "bn": "বৃষ্টি ও আবহাওয়া",
+    "ms": "Hujan dan Cuaca",
+    "ta": "மழை மற்றும் வானிலை",
+    "ml": "മഴയും കാലാവസ്ഥയും"
+  },
+  "description": {
+    "en": "Category of duas: Rain & Weather"
+  },
+  "parent_id": null,
+  "order": 14,
+  "theme": {
+    "color": "emerald",
+    "gradient": "from-emerald-400 to-teal-500",
+    "bg": "bg-emerald-50",
+    "border": "border-emerald-200",
+    "text": "text-emerald-700"
+  },
+  "item_count": 2,
+  "data_file": "duas.json"
+}

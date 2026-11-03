@@ -6,11 +6,11 @@
     "ta": "நிலைமைக்கேற்பான துஆக்கள்"
   },
   "description": {
-    "en": "The collection is organized into 39 categories.",
-    "ta": "இந்தத் தொகுப்பு 39 வகைகளாக ஒழுங்கமைக்கப்பட்டுள்ளது."
+    "en": "The legacy collection is organized into 40 categories.",
+    "ta": "இந்தத் தொகுப்பு 40 வகைகளாக ஒழுங்கமைக்கப்பட்டுள்ளது."
   },
-  "total_categories": 38,
-  "total_records": 698,
+  "total_categories": 40,
+  "total_records": 699,
   "languages": [
     "en",
     "ta",
@@ -170,7 +170,7 @@
     {
       "id": "salawat",
       "order": 19,
-      "item_count": 10,
+      "item_count": 11,
       "metadata_file": "data/duas/categories/salawat/metadata.json",
       "data_file": "data/duas/categories/salawat/duas.json"
     },

@@ -18898,16 +18898,16 @@
       "id": "hereafter",
       "color": "gray",
       "name": {
-        "en": "Hereafter",
-        "ta": "மறுமை",
-        "ml": "പരലോകം",
-        "ar": "الآخرة",
-        "ur": "آخرت",
-        "fr": "L’au-delà",
-        "tr": "Ahiret",
-        "id": "Akhirat",
-        "bn": "আখিরাত",
-        "ms": "Akhirat"
+        "en": "Day of Judgment",
+        "ta": "மறுமை நாள்",
+        "ml": "അന്ത്യദിനം",
+        "ar": "يوم القيامة",
+        "ur": "یومِ قیامت",
+        "fr": "Jour du Jugement",
+        "tr": "Kıyamet Günü",
+        "id": "Hari Kiamat",
+        "ms": "Hari Kiamat",
+        "bn": "কিয়ামতের দিন"
       },
       "duas": [
         {
@@ -20657,7 +20657,7 @@
       "id": "mawlid",
       "color": "teal",
       "name": {
-        "en": "Mawlid",
+        "en": "Moulid",
         "ta": "மௌலித்",
         "ml": "മൗലിദ്",
         "ar": "المولد",
@@ -20669,7 +20669,7 @@
         "ms": "Maulid"
       },
       "display_title": {
-        "en": "Mawlid",
+        "en": "Moulid",
         "ta": "மௌலித்",
         "ml": "മൗലിദ്",
         "ar": "المولد",

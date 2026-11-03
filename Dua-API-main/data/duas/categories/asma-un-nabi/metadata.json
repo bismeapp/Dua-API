@@ -1,0 +1,29 @@
+{
+  "id": "asma-un-nabi",
+  "name": {
+    "en": "Asma un Nabi",
+    "ta": "நபிகள் நாயகத்தின் திருப்பெயர்கள்",
+    "ml": "പ്രവാചകൻ മുഹമ്മദ് നബിയുടെ നാമങ്ങൾ",
+    "ar": "أسماء النبي محمد ﷺ",
+    "ur": "نبی محمد ﷺ کے اسمائے مبارکہ",
+    "fr": "Les noms du Prophète Muhammad ﷺ",
+    "tr": "Peygamber Muhammed ﷺ’in İsimleri",
+    "id": "Nama-nama Nabi Muhammad ﷺ",
+    "bn": "নবী মুহাম্মদ ﷺ-এর নামসমূহ",
+    "ms": "Nama-nama Nabi Muhammad ﷺ"
+  },
+  "description": {
+    "en": "User-provided compilation of names, titles, attributes, and phrases associated with Prophet Muhammad. Entries and meanings require independent source verification."
+  },
+  "parent_id": null,
+  "order": 22,
+  "theme": {
+    "color": "emerald",
+    "gradient": "from-emerald-500 to-teal-700",
+    "bg": "bg-emerald-50",
+    "border": "border-emerald-200",
+    "text": "text-emerald-700"
+  },
+  "item_count": 201,
+  "data_file": "duas.json"
+}

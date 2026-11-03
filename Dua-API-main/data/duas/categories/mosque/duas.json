@@ -1,0 +1,79 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "mosque",
+  "count": 2,
+  "duas": [
+    {
+      "id": "mos-1",
+      "category_id": "mosque",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Entering the Mosque",
+        "ar": "دخول المسجد",
+        "ur": "مسجد میں داخل ہونا",
+        "fr": "Entrer dans la Mosquée",
+        "tr": "Camiye Girerken",
+        "id": "Masuk Masjid",
+        "bn": "মসজিদে প্রবেশ",
+        "ms": "Masuk Masjid",
+        "ta": "மஸ்ஜிதில் நுழையும்போது",
+        "ml": "മസ്ജിദിൽ പ്രവേശിക്കുമ്പോൾ"
+      },
+      "arabic": "أَعُوذُ بِاللهِ الْعَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ. اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+      "translation": {
+        "en": "I seek refuge in Allah the Mighty, in His Noble Face, and in His Eternal Authority, from Satan the outcast. O Allah, open for me the doors of Your mercy.",
+        "ar": "أعوذ بالله العظيم وبوجهه الكريم وسلطانه القديم من الشيطان الرجيم، اللهم افتح لي أبواب رحمتك",
+        "ur": "میں اللہ عظیم کی، اس کے کریم چہرے کی اور اس کے قدیم اقتدار کی پناہ مانگتا ہوں شیطان مردود سے۔ اے اللہ! میرے لیے اپنی رحمت کے دروازے کھول دے۔",
+        "fr": "Je cherche refuge auprès d'Allah le Puissant, dans Son Noble Visage, et dans Son Autorité Éternelle, contre Satan le maudit. Ô Allah, ouvre-moi les portes de Ta miséricorde.",
+        "tr": "Allah'ın Azim'e, O'nun Kerim Yüzü'ne ve Kadim Sultan'ına şeytanın kovulmuşundan sığınırım. Allah'ım! Bana rahmetinin kapılarını aç.",
+        "id": "Aku berlindung kepada Allah Yang Maha Agung, pada Wajah-Nya Yang Mulia, dan Kekuasaan-Nya Yang Kekal, dari setan yang terkutuk. Ya Allah, bukakanlah untukku pintu-pintu rahmat-Mu.",
+        "bn": "আমি আল্লাহ মহান, তাঁর সম্মানিত মুখ এবং তাঁর চিরস্থায়ী কর্তৃত্বে অভিশপ্ত শয়তান থেকে আশ্রয় চাই। হে আল্লাহ, তোমার রহমতের দরজা আমার জন্য খুলে দাও।",
+        "ms": "Aku berlindung kepada Allah Yang Maha Agung, pada Wajah-Nya Yang Mulia, dan Kekuasaan-Nya Yang Kekal, dari syaitan yang terkutuk. Ya Allah, bukakanlah untukku pintu-pintu rahmat-Mu.",
+        "ta": "பெரிய அல்லாஹ்விடமும், அவனது கராமத்தான முகத்திடமும், அவனது பழமையான அதிகாரத்திடமும், விரட்டப்பட்ட ஷைத்தானிடமிருந்து நான் புகலளிக்கிறேன். இறைவா! உமது கிருபையின் கதவுகளை எனக்கு திறப்பாயாக.",
+        "ml": "മഹാനായ അല്ലാഹുവിനോടും അവന്റെ കരുത്തുറ്റ മുഖത്തോടും അവന്റെ ശാശ്വികാധികാരത്തോടും ശപിക്കപ്പെട്ട ഷൈത്താനിൽനിന്ന് ഞാൻ അഭയം തേടുന്നു. അല്ലാഹുവേ, നിന്റെ കാരുണ്യത്തിന്റെ വാതിലുകൾ എനിക്കായി തുറന്നുതരണമേ."
+      },
+      "reference": {
+        "source": "Abu",
+        "reference_text": "Abu Dawud 1/77, Ibn Majah 1/127"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "mos-2",
+      "category_id": "mosque",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "Leaving the Mosque",
+        "ar": "الخروج من المسجد",
+        "ur": "مسجد سے نکلنا",
+        "fr": "Sortir de la Mosquée",
+        "tr": "Camiden Çıkarken",
+        "id": "Keluar Masjid",
+        "bn": "মসজিদ থেকে বের হওয়া",
+        "ms": "Keluar Masjid",
+        "ta": "மஸ்ஜிதை விட்டு வெளியேறும்போது",
+        "ml": "മസ്ജിദിൽനിന്ന് പുറപ്പെടുമ്പോൾ"
+      },
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+      "translation": {
+        "en": "O Allah, I ask You from Your favour.",
+        "ar": "اللهم إني أسألك من فضلك",
+        "ur": "اے اللہ! میں تجھ سے تیرا فضل مانگتا ہوں۔",
+        "fr": "Ô Allah, je Te demande de Ta faveur.",
+        "tr": "Allah'ım! Senden lütfunu isterim.",
+        "id": "Ya Allah, sesungguhnya aku memohon kepada-Mu dari karunia-Mu.",
+        "bn": "হে আল্লাহ, আমি তোমার অনুগ্রহ প্রার্থনা করি।",
+        "ms": "Ya Allah, sesungguhnya aku memohon kepada-Mu dari kurnia-Mu.",
+        "ta": "இறைவா! உமது அருளிலிருந்து நான் உம்மிடம் கேட்கிறேன்.",
+        "ml": "അല്ലാഹുവേ, നിന്റെ അനുഗ്രഹത്തിൽനിന്ന് ഞാൻ നിന്നോട് ചോദിക്കുന്നു."
+      },
+      "reference": {
+        "source": "Muslim",
+        "reference_text": "Muslim 1/494"
+      },
+      "repetition_count": 1
+    }
+  ]
+}

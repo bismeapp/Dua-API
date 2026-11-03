@@ -1,302 +1,76 @@
-# API Documentation
+# Bismi Radio JSON API
 
-## Overview
+The JSON files under `data/` are the source of truth. The Node HTTP server loads the manifest and indexes from disk, caches parsed JSON by file modification time, serves the web app, and retains the existing static `/api/v1/*.json` resources for compatibility.
 
-The Islamic Duas Collection provides a comprehensive JSON API for accessing authentic Islamic supplications. The API is static and can be hosted on GitHub Pages, any static file server, or used directly from the repository.
+## Run locally
 
-## Base URL
-
+```powershell
+npm ci
+npm run build
+npm start
 ```
-https://rizna001.github.io/islamic-duas-collection/api/v1/
-```
 
-Or for local development:
-```
-http://localhost:5173/api/v1/
-```
+The server listens on `http://localhost:10000` by default. Set `PORT` to change the port, `HOST` to change the bind address, and `CORS_ORIGIN` to a comma-separated origin allowlist. The default CORS origin is `*`.
 
 ## Endpoints
 
-### 1. Get All Duas
+All structured endpoints use the `/api/v1` prefix.
 
-**Endpoint:** `/duas.json`
+| Endpoint | Description |
+|---|---|
+| `GET /health` | Health check for deployment platforms |
+| `GET /api/v1/manifest` | Main sections, order, language codes, and index paths |
+| `GET /api/v1/categories` | Seven top-level sections with their nested category/collection lists |
+| `GET /api/v1/categories?section=duas` | Dua categories only |
+| `GET /api/v1/categories/:id` | A section index, category data file, or collection |
+| `GET /api/v1/collections` | All section indexes and their registered collections |
+| `GET /api/v1/collections/:collectionId` | Original JSON content for an available collection |
+| `GET /api/v1/duas` | Paginated records in the public Dua categories |
+| `GET /api/v1/duas/:id` | A Dua by stable ID |
+| `GET /api/v1/dhikr` | Daily Dhikir entries and records |
+| `GET /api/v1/dhikr/:id` | A Dhikr category or record |
+| `GET /api/v1/mawlid` | Mawlid collection index |
+| `GET /api/v1/baith` | Baith collection index |
+| `GET /api/v1/salawath` | Salawath collection index |
+| `GET /api/v1/rathib` | Rathib collection index |
+| `GET /api/v1/asma-ul-husna` | Asma Ul Husna source JSON |
+| `GET /api/v1/asma-ul-anbiya` | Asma Ul Anbiya source JSON |
+| `GET /api/v1/asma-un-nabi` | Asma Un Nabi source JSON |
+| `GET /api/v1/search?q=...` | Search Arabic, transliteration, titles, translations, and indexed collection text |
 
-**Description:** Returns the complete collection of all duas, including the 40-entry Rabbana category.
+Collection endpoints accept `?collection=<id>` or a collection ID path where applicable. Dua listings accept `?category=<id>` and `?collection=forty-rabbana`. Dhikr listings accept `?category=<id>`.
 
-**Response:**
+Paginated endpoints accept `page` and `limit` (default 1 and 50; maximum limit 100). `lang` accepts a language code from the manifest. When filtering by a language, a record without that translation is omitted; English is never substituted for a missing translation. Unfiltered requests return each source record with its original structure.
+
+Errors use a JSON object such as:
+
 ```json
 {
-  "categories": [
-    {
-      "id": "morning-evening",
-      "icon": "🌅",
-      "color": "amber",
-      "gradient": "from-amber-400 to-orange-500",
-      "bg": "bg-amber-50",
-      "border": "border-amber-200",
-      "text": "text-amber-700",
-      "name": {
-        "en": "Morning & Evening",
-        "ar": "الصباح والمساء",
-        "ur": "صبح و شام",
-        "fr": "Matin et Soir",
-        "tr": "Sabah ve Akşam",
-        "id": "Pagi dan Sore",
-        "bn": "সকাল ও সন্ধ্যা",
-        "ms": "Pagi dan Petang",
-        "ta": "காலை மற்றும் மாலை",
-        "ml": "രാവിലെയും വൈകുന്നേരവും"
-      },
-      "duas": [
-        {
-          "id": "me-1",
-          "title": {
-            "en": "Morning Remembrance",
-            "ar": "ذكر الصباح",
-            ...
-          },
-          "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ...",
-          "translation": {
-            "en": "We have reached the morning...",
-            "ar": "أصبحنا وأصبح الملك لله...",
-            ...
-          },
-          "reference": "Muslim 4/2088",
-          "times": 1
-        }
-      ]
-    }
-  ],
-  "languages": [
-    { "code": "en", "name": "English", "flag": "🇬🇧" },
-    { "code": "ar", "name": "العربية", "flag": "🇸🇦" },
-    ...
-  ]
+  "error": {
+    "code": "not_found",
+    "message": "Dua not found."
+  }
 }
 ```
 
-### 2. Get API Index
+## Data organization and verification
 
-**Endpoint:** `/index.json`
+`data/manifest.json` registers the ordered main sections: Duas, Daily Dhikir, Moulid, Baith, Salawath, Rathib, and Others. Each section index references content files without converting their collection-specific JSON formats. Existing app/API records are retained in their original files and exposed through indexes.
 
-**Description:** Returns API metadata and category overview.
+Daily Dhikir contains the ten entries supplied for the section, with translations for all ten app languages and no invented repetition counts. The supplied deeper-meaning notes are retained in English. References are reproduced as provided and should be checked against their cited editions. The named Salawath and Rathib collections are pending source verification. The existing Subuhana Mawlid translation metadata also notes that human review is required.
 
-**Response:**
-```json
-{
-  "api_version": "1.0.0",
-  "description": "Comprehensive Islamic Duas API",
-  "total_categories": 38,
-  "total_duas": 511,
-  "supported_languages": ["en", "ta", "ml", "ar", "ur", "fr", "tr", "id", "bn", "ms"],
-  "categories": [
-    {
-      "id": "morning-evening",
-      "name": { "en": "Morning & Evening", ... },
-      "icon": "🌅",
-      "duas_count": 5
-    }
-  ]
-}
+Run the schema and integrity report with:
+
+```powershell
+npm run validate:database
 ```
 
-### 3. Get the Rabbana Duas
+The report distinguishes structural validity from collection completeness, and reports missing Arabic, references, translations, and pending collections.
 
-**Endpoint:** `/rabbana-duas.json`
+## Legacy static JSON
 
-**Description:** Returns the existing 40 Quranic Rabbana duas. This legacy endpoint is retained for compatibility; the same records are also available in the `rabbana-duas` category from `/duas.json`.
+Existing resources such as `/api/v1/duas.json`, `/api/v1/index.json`, and `/api/v1/rabbana-duas.json` remain available from the built `public/api/v1` directory. New API consumers should use the structured endpoints above.
 
+## Render deployment
 
-## Data Structure
-
-### Category Object
-
-```typescript
-interface Category {
-  id: string;                    // Unique identifier (e.g., "morning-evening")
-  icon: string;                  // Emoji icon
-  color: string;                 // Tailwind color name
-  gradient: string;              // Tailwind gradient classes
-  bg: string;                    // Background color class
-  border: string;                // Border color class
-  text: string;                  // Text color class
-  name: Record<string, string>;  // Category name in all languages
-  duas: Dua[];                   // Array of duas in this category
-}
-```
-
-### Dua Object
-
-```typescript
-interface Dua {
-  id: string;                    // Unique identifier (e.g., "me-1")
-  title: Record<string, string>; // Title in all languages
-  arabic: string;                // Full Arabic text
-  translation: Record<string, string>; // Translation in all languages
-  reference: string;             // Source reference (e.g., "Bukhari 7/150")
-  times: number;                 // Recommended recitation count
-}
-```
-
-### Language Object
-
-```typescript
-interface Language {
-  code: string;  // ISO language code (e.g., "en", "ar")
-  name: string;  // Language name in native script
-  flag: string;  // Country flag emoji
-}
-```
-
-## Usage Examples
-
-### JavaScript (Fetch API)
-
-```javascript
-// Get all duas
-fetch('https://rizna001.github.io/islamic-duas-collection/api/v1/duas.json')
-  .then(response => response.json())
-  .then(data => {
-    console.log('Total categories:', data.categories.length);
-    console.log('Total duas:', data.categories.reduce((sum, cat) => sum + cat.duas.length, 0));
-  });
-
-// Get specific category
-fetch('https://rizna001.github.io/islamic-duas-collection/api/v1/duas.json')
-  .then(response => response.json())
-  .then(data => {
-    const morningEvening = data.categories.find(cat => cat.id === 'morning-evening');
-    console.log('Morning duas:', morningEvening.duas);
-  });
-
-// Get dua in specific language
-fetch('https://rizna001.github.io/islamic-duas-collection/api/v1/duas.json')
-  .then(response => response.json())
-  .then(data => {
-    const dua = data.categories[0].duas[0];
-    const arabicText = dua.arabic;
-    const englishTranslation = dua.translation.en;
-    const urduTranslation = dua.translation.ur;
-  });
-```
-
-### React
-
-```tsx
-import { useState, useEffect } from 'react';
-
-function DuasApp() {
-  const [duas, setDuas] = useState([]);
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    fetch('/api/v1/duas.json')
-      .then(res => res.json())
-      .then(data => {
-        setDuas(data.categories);
-        setLoading(false);
-      });
-  }, []);
-
-  if (loading) return <div>Loading...</div>;
-
-  return (
-    <div>
-      {duas.map(category => (
-        <div key={category.id}>
-          <h2>{category.name.en}</h2>
-          {category.duas.map(dua => (
-            <div key={dua.id}>
-              <h3>{dua.title.en}</h3>
-              <p dir="rtl">{dua.arabic}</p>
-              <p>{dua.translation.en}</p>
-              <small>{dua.reference}</small>
-            </div>
-          ))}
-        </div>
-      ))}
-    </div>
-  );
-}
-```
-
-### Python
-
-```python
-import requests
-import json
-
-# Get all duas
-response = requests.get('https://rizna001.github.io/islamic-duas-collection/api/v1/duas.json')
-data = response.json()
-
-# Print all categories
-for category in data['categories']:
-    print(f"{category['icon']} {category['name']['en']}: {len(category['duas'])} duas")
-
-# Get specific dua
-morning_duas = next(cat for cat in data['categories'] if cat['id'] == 'morning-evening')
-for dua in morning_duas['duas']:
-    print(f"Title: {dua['title']['en']}")
-    print(f"Arabic: {dua['arabic']}")
-    print(f"Translation: {dua['translation']['en']}")
-    print(f"Reference: {dua['reference']}")
-    print("---")
-```
-
-### cURL
-
-```bash
-# Get all duas
-curl https://rizna001.github.io/islamic-duas-collection/api/v1/duas.json
-
-# Get API index
-curl https://rizna001.github.io/islamic-duas-collection/api/v1/index.json
-
-# Save to file
-curl -o duas.json https://rizna001.github.io/islamic-duas-collection/api/v1/duas.json
-```
-
-## Rate Limiting
-
-This is a static API with no rate limiting. However, please be respectful:
-- Cache responses when possible
-- Don't make excessive requests
-- Consider hosting your own copy for high-traffic applications
-
-## CORS
-
-The API supports CORS and can be accessed from any domain.
-
-## Caching
-
-For best performance:
-- Cache responses for 24 hours
-- Use ETags for conditional requests
-- Implement offline fallback
-
-## Error Handling
-
-The API returns standard HTTP status codes:
-- `200 OK` - Success
-- `404 Not Found` - Endpoint doesn't exist
-- `500 Internal Server Error` - Server error (rare for static API)
-
-## Versioning
-
-The API follows semantic versioning:
-- Current version: `1.0.0`
-- Breaking changes will increment major version
-- New features will increment minor version
-- Bug fixes will increment patch version
-
-## Support
-
-For API questions or issues:
-- Open an issue on GitHub
-- Check the documentation
-- Review example code in README.md
-
----
-
-**Note:** This API is provided as-is for educational and religious purposes. Always verify religious content with qualified scholars.
+`render.yaml` configures a Node web service. Render runs `npm ci && npm run build`, starts with `npm start`, and checks `/health`. No external database or API key is required.

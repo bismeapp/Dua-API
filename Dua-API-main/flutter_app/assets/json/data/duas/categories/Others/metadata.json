@@ -1,0 +1,30 @@
+{
+  "id": "Others",
+  "name": {
+    "en": "Others",
+    "ar": "أخرى",
+    "ur": "دیگر",
+    "fr": "Autres",
+    "tr": "Diğerleri",
+    "id": "Lainnya",
+    "bn": "অন্যান্য",
+    "ms": "Lain-lain",
+    "ta": "மற்றவை",
+    "ml": "മറ്റുള്ളവ"
+  },
+  "description": {
+    "en": "Consolidated collection of 64 duas (originally numbered 1 to 103). Each record preserves the verbatim source text in source_text; several records have empty arabic/reference fields in the original data.",
+    "ta": "64 துஆக்களின் தொகுத்தல் தொகுப்பு. ஒவ்வொரு பதிவும் மூல உரத்துடன் பாதுகாக்கப்பட்டுள்ளது."
+  },
+  "parent_id": null,
+  "order": 36,
+  "theme": {
+    "color": "emerald",
+    "gradient": "from-emerald-500 to-teal-600",
+    "bg": "bg-emerald-50",
+    "border": "border-emerald-200",
+    "text": "text-emerald-700"
+  },
+  "item_count": 2,
+  "data_file": "duas.json"
+}

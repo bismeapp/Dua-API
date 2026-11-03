@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://bismeapp.github.io/Dua-API/schemas/dhikr-index.schema.json",
+  "title": "Dhikr collection index",
+  "type": "object",
+  "required": ["schema_version", "section_id", "status", "categories", "record_count"],
+  "properties": {
+    "schema_version": { "type": "string" },
+    "section_id": { "const": "dhikr" },
+    "status": { "type": "string" },
+    "content_policy": { "type": "string" },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "status", "record_ids"],
+        "properties": {
+          "id": { "type": "string" },
+          "title": { "type": "object", "minProperties": 1 },
+          "status": { "type": "string" },
+          "record_ids": { "type": "array", "items": { "type": "string" } },
+          "data_file": { "type": "string" }
+        },
+        "additionalProperties": true
+      }
+    },
+    "records_file": { "type": ["string", "null"] },
+    "record_count": { "type": "integer", "minimum": 0 }
+  },
+  "additionalProperties": true
+}

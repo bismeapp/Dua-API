@@ -1,0 +1,41 @@
+{
+  "schema_version": "3.0.0",
+  "collection_id": "asma-ul-anbiya",
+  "title": {
+    "en": "Asma ul Anbiya — 25 Prophets",
+    "ta": "அஸ்மாவுல் அன்பியா — 25 நபிமார்கள்"
+  },
+  "description": {
+    "en": "The 25 prophets named in the Quran with titles, era notes, meanings of their names, and the duas revealed to them where recorded.",
+    "ta": "குர்ஆனில் குறிப்பிடப்பட்ட 25 நபிமார்களின் பெயர்கள், பட்டங்கள், காலம், பொருள் மற்றும் அவர்களுக்கு வழங்கப்பட்ட துஆக்கள்."
+  },
+  "total_records": 79,
+  "record_breakdown": {
+    "prophets": 25,
+    "prophets_embedded": 25,
+    "name_meanings": 25,
+    "prophets_with_duas": 3,
+    "prophet_duas": 4,
+    "intro_dua": 1
+  },
+  "languages": [
+    "ar",
+    "en",
+    "ta",
+    "ml",
+    "ur",
+    "fr",
+    "tr",
+    "id",
+    "bn",
+    "ms"
+  ],
+  "files": {
+    "metadata": "metadata.json",
+    "prophets": "prophets.json",
+    "prophets_embedded": "prophets-embedded.json",
+    "name_meanings": "name-meanings.json",
+    "prophets_with-duas": "prophets-with-duas.json",
+    "duas": "duas.json"
+  }
+}

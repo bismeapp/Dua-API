@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0.0",
+  "section_id": "rathib",
+  "status": "available",
+  "collections": [
+    {
+      "id": "rathib-jalaliyah",
+      "title": { "en": "Rathib Jalaliyah" },
+      "status": "available",
+      "pdf_file": "/rathib/rathib-jalaliyah.pdf"
+    },
+    {
+      "id": "rathib-haddad",
+      "title": {
+        "en": "Ratib al-Haddad",
+        "ar": "راتب الحداد",
+        "ta": "ராத்திப் அல்-ஹத்தாத்",
+        "ml": "റാതിബ് അൽ ഹദ്ദാദ്",
+        "ur": "راتب الحداد",
+        "fr": "Ratib al-Haddad",
+        "tr": "Ratib el-Haddad",
+        "id": "Ratib al-Haddad",
+        "bn": "রাতিব আল-হাদ্দাদ",
+        "ms": "Ratib al-Haddad"
+      },
+      "status": "available",
+      "pdf_file": "/rathib/ratib-al-haddad.pdf",
+      "metadata": {
+        "content_type": "application/pdf",
+        "content_language": "ar",
+        "translation_status": "original_arabic_only",
+        "description": {
+          "en": "Original Arabic PDF; no translated edition is provided.",
+          "ar": "ملف PDF أصلي باللغة العربية؛ لا تتوفر نسخة مترجمة.",
+          "ta": "அசல் அரபு PDF; மொழிபெயர்க்கப்பட்ட பதிப்பு வழங்கப்படவில்லை.",
+          "ml": "അറബി മൂല PDF; വിവർത്തനം ചെയ്ത പതിപ്പ് ലഭ്യമല്ല.",
+          "ur": "اصل عربی PDF؛ اس کا ترجمہ شدہ نسخہ فراہم نہیں کیا گیا۔",
+          "fr": "PDF original en arabe ; aucune édition traduite n'est fournie.",
+          "tr": "Orijinal Arapça PDF; çevrilmiş bir sürüm sunulmamaktadır.",
+          "id": "PDF asli berbahasa Arab; edisi terjemahan tidak disediakan.",
+          "bn": "মূল আরবি PDF; অনূদিত সংস্করণ দেওয়া হয়নি।",
+          "ms": "PDF asal dalam bahasa Arab; edisi terjemahan tidak disediakan."
+        }
+      }
+    }
+  ]
+}
