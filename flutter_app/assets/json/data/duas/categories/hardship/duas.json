@@ -1,0 +1,215 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "hardship",
+  "count": 5,
+  "duas": [
+    {
+      "id": "hrd-1",
+      "category_id": "hardship",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Dua for Distress and Anxiety",
+        "ar": "دعاء الهم والحزن",
+        "ur": "غم اور پریشانی کی دعا",
+        "fr": "Doua contre l'Angoisse et la Tristesse",
+        "tr": "Sıkıntı ve Üzüntü Duası",
+        "id": "Doa saat Gelisah dan Sedih",
+        "bn": "চিন্তা ও দুশ্চিন্তার দোয়া",
+        "ms": "Doa ketika Gelisah dan Sedih",
+        "ta": "கவலை மற்றும் பதற்றத்திற்கான துஆ",
+        "ml": "വ്യാകുലതയ്ക്കും ദുഃഖത്തിനുമുള്ള ദുആ"
+      },
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+      "translation": {
+        "en": "O Allah, I seek refuge in You from anxiety and sorrow, weakness and laziness, miserliness and cowardice, the burden of debts and from being overpowered by men.",
+        "ar": "اللهم إني أعوذ بك من الهم والحزن والعجز والكسل والبخل والجبن وضلع الدين وغلبة الرجال",
+        "ur": "اے اللہ! میں تیری پناہ مانگتا ہوں فکر اور غم سے، کمزوری اور سستی سے، کنجوسی اور بزدلی سے، قرض کے بوجھ سے اور لوگوں کے غلبہ سے۔",
+        "fr": "Ô Allah, je cherche refuge auprès de Toi contre l'anxiété et le chagrin, la faiblesse et la paresse, l'avarice et la lâcheté, le fardeau des dettes et la domination des hommes.",
+        "tr": "Allah'ım! Sıkıntı ve üzüntüden, acizlik ve tembellikten, cimrilik ve korkaklıktan, borç yükünden ve insanların galibiyetinden Sana sığınırım.",
+        "id": "Ya Allah, aku berlindung kepada-Mu dari kecemasan dan kesedihan, kelemahan dan kemalasan, kekikiran dan kepengecutan, beban hutang dan dikuasai oleh manusia.",
+        "bn": "হে আল্লাহ, আমি চিন্তা ও দুঃখ, দুর্বলতা ও অলসতা, কার্পণ্য ও কাপুরুষতা, ঋণের বোঝা এবং মানুষের প্রাধান্য থেকে তোমার আশ্রয় চাই।",
+        "ms": "Ya Allah, aku berlindung kepada-Mu dari kebimbangan dan kesedihan, kelemahan dan kemalasan, kedekut dan pengecut, beban hutang dan dikuasai oleh manusia.",
+        "ta": "இறைவா! கவலை, துக்கம், பலவீனம், சோம்பல், கஞ்சத்தனம், கோழைத்தனம், கடன் சுமை மற்றும் மனிதர்களின் ஆதிக்கத்திலிருந்து உம்மிடம் புகலளிக்கிறேன்.",
+        "ml": "അല്ലാഹുവേ, വ്യാകുലത, ദുഃഖം, ദൗർബല്യം, മടിയി, പിശുക്ക്, ഭീരുത്വം, കടബാധ്യതയുടെ ഭാരം, മനുഷ്യരുടെ ആധിപത്യം എന്നിവയിൽനിന്ന് ഞാൻ നിന്നോട് അഭയം തേടുന്നു."
+      },
+      "reference": {
+        "source": "Bukhari",
+        "reference_text": "Bukhari 7/158"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "hrd-2",
+      "category_id": "hardship",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "Dua of Prophet Yunus (AS) in the Fish",
+        "ta": "மீனின் வயிற்றில் நபி யூனுஸ் (அலை) அவர்கள் இருந்தபோது ஓதிய துஆ",
+        "ml": "മത്സ്യത്തിന്റെ വയറ്റിലായിരുന്നപ്പോൾ നബി യൂനുസ് (അ) ചൊല്ലിയ ദുആ",
+        "ar": "دعاء النبي يونس (عليه السلام) في بطن السمكة",
+        "ur": "مچھلی کے پیٹ میں نبی یونس علیہ السلام کی دعا",
+        "fr": "Invocation du prophète Jonas (que la paix soit sur lui) dans le ventre du poisson",
+        "tr": "Balığın karnındayken Hz. Yunus’un (a.s.) duası",
+        "id": "Doa Nabi Yunus (AS) di dalam perut ikan",
+        "bn": "মাছের পেটে থাকা অবস্থায় নবী ইউনুস (আ.)-এর দোয়া",
+        "ms": "Doa Nabi Yunus (a.s.) di dalam perut ikan"
+      },
+      "arabic": "لاَ إِلَٰهَ إِلاَّ أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+      "translation": {
+        "en": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.",
+        "ar": "لا إله إلا أنت سبحانك إني كنت من الظالمين",
+        "ur": "تیرے سوا کوئی معبود نہیں، تو پاک ہے، بے شک میں ظالموں میں سے ہوں۔",
+        "fr": "Il n'y a de divinité que Toi; gloire à Toi. Certes, j'ai été parmi les injustes.",
+        "tr": "Senden başka ilah yoktur, Sen münezzehsin. Şüphesiz ben zalimlerden oldum.",
+        "id": "Tiada Tuhan selain Engkau; Maha Suci Engkau. Sesungguhnya aku termasuk orang-orang yang zalim.",
+        "bn": "তোমার বাতীত কোনো ইলাহ নেই; তুমি পবিত্র। নিশ্চয়ই আমি জালিমদের অন্তর্ভুক্ত।",
+        "ms": "Tiada Tuhan selain Engkau; Maha Suci Engkau. Sesungguhnya aku termasuk orang-orang yang zalim.",
+        "ta": "உம்மைத் தவிர வணக்கத்திற்குரியவர் இல்லை; நீர் மிகவும் பரிசுத்தமானவர். நிச்சயமாக நான் அநியாயக்காரர்களில் இருந்தேன்.",
+        "ml": "നിന്നല്ലാതെ ആരാധനയർഹനായ ദൈവമില്ല; നീ പരിശുദ്ധൻ. തീർച്ചയായും ഞാൻ അക്രമികളിൽപ്പെട്ടവനായിരുന്നു."
+      },
+      "reference": {
+        "source": "Quran",
+        "reference_text": "Quran 21:87, Tirmidhi 5/529"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "hrd-3",
+      "category_id": "hardship",
+      "subcategory_id": null,
+      "order": 3,
+      "title": {
+        "en": "When Facing Something Difficult",
+        "ar": "عند مواجهة شيء صعب",
+        "ur": "مشکل کا سامنا ہونے پر",
+        "fr": "Face à une Difficulté",
+        "tr": "Zor Bir Şeyle Karşılaşınca",
+        "id": "Saat Menghadapi Kesulitan",
+        "bn": "কঠিন কিছু মোকাবেলার সময়",
+        "ms": "Ketika Menghadapi Kesukaran",
+        "ta": "கடினமான ஒன்றை எதிர்கொள்ளும்போது",
+        "ml": "ബുദ്ധിമുട്ടുള്ള കാര്യം നേരിടുമ്പോൾ"
+      },
+      "arabic": "اللَّهُمَّ لاَ سَهْلَ إِلاَّ مَا جَعَلْتَهُ سَهْلاً، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلاً",
+      "translation": {
+        "en": "O Allah, nothing is easy except what You make easy, and You make hardship easy if You will.",
+        "ar": "اللهم لا سهل إلا ما جعلته سهلا وأنت تجعل الحزن إذا شئت سهلا",
+        "ur": "اے اللہ! آسان کچھ نہیں سوائے اس کے جسے تو آسان بنا دے اور تو غم کو آسان بنا دیتا ہے جب تو چاہے۔",
+        "fr": "Ô Allah, rien n'est facile sauf ce que Tu rends facile, et Tu rends la difficulté facile si Tu veux.",
+        "tr": "Allah'ım! Senin kolaylaştırdığın dışında kolay hiçbir şey yoktur ve Sen dilediğinde zorluğu kolay kılarsın.",
+        "id": "Ya Allah, tidak ada yang mudah kecuali apa yang Engkau jadikan mudah, dan Engkau menjadikan kesedihan mudah jika Engkau kehendaki.",
+        "bn": "হে আল্লাহ, তুমি যা সহজ করো তা ছাড়া কিছুই সহজ নয় এবং তুমি চাইলে কষ্টকে সহজ করে দাও।",
+        "ms": "Ya Allah, tiada yang mudah kecuali apa yang Engkau jadikan mudah, dan Engkau menjadikan kesedihan mudah jika Engkau kehendaki.",
+        "ta": "இறைவா! நீர் எளிதாக்குவதைத் தவிர எதுவும் எளிதானதல்ல, நீர் விரும்பினால் கஷ்டத்தை எளிதாக்குவீர்.",
+        "ml": "അല്ലാഹുവേ, നീ എളുപ്പമാക്കിയതിനല്ലാതെ എളുപ്പമില്ല, നീ ഉദ്ദേശിക്കുമ്പോൾ ബുദ്ധിമുട്ടിനെ നീ എളുപ്പമാക്കുന്നു."
+      },
+      "reference": {
+        "source": "Ibn",
+        "reference_text": "Ibn Hibban, Sahih"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "d103-41",
+      "category_id": "hardship",
+      "subcategory_id": null,
+      "order": 41,
+      "title": {
+        "en": "For release from Prison",
+        "ar": "للخلاص من السجن",
+        "ur": "قید سے رہائی کے لیے",
+        "fr": "Pour être libéré de prison",
+        "tr": "Hapisten kurtulmak için",
+        "id": "Agar Dibebaskan dari Penjara",
+        "bn": "কারাগার থেকে মুক্তির জন্য",
+        "ms": "Untuk dibebaskan dari penjara",
+        "ta": "சிறையிலிருந்து விடுதலை பெறுவதற்கு",
+        "ml": "ജയിൽ മോചനത്തിനായി"
+      },
+      "arabic": "اَللّٰهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَ الْعَافِيَةَ وَ الْمُعَافَاةَ فِي الدُّنْيَا وَ الْآخِرَةِ",
+      "transliteration": "allaahumma innee as-alokal a'fwa wal-a'afeyata wal-mo-a'afaata fid-dunyaa wal aakherate.",
+      "translation": {
+        "en": "O Allah! I beseech Thee for forgiveness, health, and safety from every calamity of this world & hereafter.",
+        "ar": "اللهم إني أسألك المغفرة والصحة والسلامة من كل مصيبة في الدنيا والآخرة.",
+        "ur": "اے اللہ! میں تجھ سے مغفرت، صحت اور دنیا و آخرت کی ہر مصیبت سے سلامتی کی التجا کرتا ہوں۔",
+        "fr": "Ô Allah ! Je Te demande pardon, santé et protection contre toute calamité dans ce monde et dans l’au-delà.",
+        "tr": "Allah’ım! Senden bağışlanma, sağlık ve dünya ile ahiretteki her türlü musibetten esenlik dilerim.",
+        "id": "Ya Allah! Aku memohon kepada-Mu ampunan, kesehatan, dan keselamatan dari segala musibah di dunia dan akhirat.",
+        "bn": "হে আল্লাহ! আমি আপনার কাছে ক্ষমা, সুস্থতা এবং দুনিয়া ও আখিরাতের সব বিপদ থেকে নিরাপত্তা প্রার্থনা করছি।",
+        "ms": "Ya Allah! Aku memohon kepada-Mu keampunan, kesihatan dan keselamatan daripada segala musibah di dunia dan akhirat.",
+        "ta": "அல்லாஹ்வே! இம்மையிலும் மறுமையிலும் ஏற்படும் எல்லா இன்னல்களிலிருந்தும் மன்னிப்பையும், ஆரோக்கியத்தையும், பாதுகாப்பையும் உன்னிடம் வேண்டுகிறேன்.",
+        "ml": "അല്ലാഹുവേ! ഇഹലോകത്തും പരലോകത്തുമുള്ള എല്ലാ ദുരിതങ്ങളിൽനിന്നും മാപ്പും ആരോഗ്യവും സുരക്ഷയും ഞാൻ നിന്നോട് അപേക്ഷിക്കുന്നു."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 41\nFor release from Prison\nHe who is in prison should repeatedly recite the following Dua Insha Allah he will gain his freedom.\n\nاَللّٰهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَ الْعَافِيَةَ وَ الْمُعَافَاةَ فِي الدُّنْيَا وَ الْآخِرَةِ\n\nTransliteration:\nallaahumma innee as-alokal a’fwa wal-a’afeyata wal-mo-a’afaata fid-dunyaa wal aakherate.\n\nTranslation:\nO Allah! I beseech Thee for forgiveness, health, and safety from every calamity of this world & hereafter.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    },
+    {
+      "id": "d103-65",
+      "category_id": "hardship",
+      "subcategory_id": null,
+      "order": 65,
+      "title": {
+        "en": "For removing Worries",
+        "ar": "لإزالة الهموم",
+        "ur": "پریشانیاں دور کرنے کے لیے",
+        "fr": "Pour dissiper les soucis",
+        "tr": "Kaygıları gidermek için",
+        "id": "Untuk menghilangkan kekhawatiran",
+        "bn": "দুশ্চিন্তা দূর করার জন্য",
+        "ms": "Untuk menghilangkan kerisauan",
+        "ta": "கவலைகளை நீக்குவதற்கு",
+        "ml": "ആശങ്കകൾ നീക്കാൻ"
+      },
+      "arabic": "سُبْحَانَ اللَّهِ الْعَظِيْمِ وَ بِحَمْدِهٖ أَسْتَغْفِرُ اللَّهَ وَ أَسْأَلُهٗ مِنْ فَضْلِهٖ‏",
+      "transliteration": "Subhaanl laahil a'zeeme wa be-hamdehi astaghferul laaha wa as-alohu min fazlehi.",
+      "translation": {
+        "en": "The Almighty God is pure and I begin with His praise. I pray salvation from Him and supplicate His Blessings.",
+        "ar": "سبحان الله العظيم، وأبدأ بحمده. أسأله النجاة وأدعوه أن يمنحني بركاته.",
+        "ur": "اللہ تعالیٰ پاک ہے، اور میں اس کی حمد کے ساتھ آغاز کرتا ہوں۔ میں اس سے نجات کی دعا کرتا ہوں اور اس کی برکتوں کی التجا کرتا ہوں۔",
+        "fr": "Le Dieu Tout-Puissant est pur, et je commence par Le louer. Je Lui demande le salut et implore Ses bénédictions.",
+        "tr": "Yüce Allah noksan sıfatlardan münezzehtir ve O’na hamd ederek başlarım. O’ndan kurtuluş diler ve bereketlerini niyaz ederim.",
+        "id": "Allah Yang Mahakuasa Mahasuci, dan aku memulai dengan memuji-Nya. Aku memohon keselamatan kepada-Nya dan memohon keberkahan-Nya.",
+        "bn": "সর্বশক্তিমান আল্লাহ পবিত্র, এবং আমি তাঁর প্রশংসা দিয়ে শুরু করি। আমি তাঁর কাছে মুক্তি প্রার্থনা করি এবং তাঁর বরকত কামনা করি।",
+        "ms": "Allah Yang Maha Kuasa Maha Suci, dan aku memulakan dengan memuji-Nya. Aku memohon keselamatan daripada-Nya dan memohon keberkatan-Nya.",
+        "ta": "சர்வ வல்லமையுள்ள இறைவன் தூய்மையானவன்; அவனைப் புகழ்ந்து நான் தொடங்குகிறேன். அவனிடம் இருந்து இரட்சிப்பைக் கேட்டு, அவனுடைய அருள்வளங்களை வேண்டுகிறேன்.",
+        "ml": "സർവശക്തനായ ദൈവം പരിശുദ്ധനാണ്; അവനെ സ്തുതിച്ചുകൊണ്ട് ഞാൻ തുടങ്ങുന്നു. അവനോട് രക്ഷ തേടുകയും അവന്റെ അനുഗ്രഹങ്ങൾ അപേക്ഷിക്കുകയും ചെയ്യുന്നു."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 65\nFor removing Worries\nAccording to Imam Moosa Kazim (a.s.)\n\nfor disappearance of worries and poverty one should recite Ten times after (namaz subah) morning prayer, this Dua:\n\nسُبْحَانَ اللَّهِ الْعَظِيْمِ وَ بِحَمْدِهٖ أَسْتَغْفِرُ اللَّهَ وَ أَسْأَلُهٗ مِنْ فَضْلِهٖ‏\n\nTransliteration:\nSubhaanl laahil a’zeeme wa be-hamdehi astaghferul laaha wa as-alohu min fazlehi.\n\nTranslation:\nThe Almighty God is pure and I begin with His praise. I pray salvation from Him and supplicate His Blessings.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    }
+  ]
+}

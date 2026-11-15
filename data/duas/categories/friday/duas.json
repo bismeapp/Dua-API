@@ -1,0 +1,117 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "friday",
+  "count": 3,
+  "duas": [
+    {
+      "id": "fri-1",
+      "category_id": "friday",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Sending Blessings on the Prophet (SAW)",
+        "ar": "الصلاة على النبي ﷺ",
+        "ur": "نبی ﷺ پر درود",
+        "fr": "Prier sur le Prophète ﷺ",
+        "tr": "Peygamber'e Salavat",
+        "id": "Shalawat atas Nabi ï·º",
+        "bn": "নবী ﷺ এর উপর দরূদ",
+        "ms": "Selawat ke atas Nabi ï·º",
+        "ta": "நபி (ஸல்) மீது ஸலவாத் கூறுதல்",
+        "ml": "നബി (സ) മേൽ സ്വലാത്ത് ചൊല്ലുക"
+      },
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ",
+      "translation": {
+        "en": "O Allah, send Your mercy upon Muhammad and upon the family of Muhammad, as You sent mercy upon Ibrahim and upon the family of Ibrahim. You are indeed Praiseworthy, Glorious. O Allah, bless Muhammad and the family of Muhammad, as You blessed Ibrahim and the family of Ibrahim. You are indeed Praiseworthy, Glorious.",
+        "ar": "اللهم صل على محمد وعلى آل محمد كما صليت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد، اللهم بارك على محمد وعلى آل محمد كما باركت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد",
+        "ur": "اے اللہ! محمد ﷺ پر اور آلِ محمد پر رحمت نازل فرما جیسا کہ تو نے ابراہیم اور آلِ ابراہیم پر رحمت نازل فرمائی۔ بے شک تو قابلِ تعریف، باعظمت ہے۔ اے اللہ! محمد ﷺ اور آلِ محمد پر برکت نازل فرما جیسا کہ تو نے ابراہیم اور آلِ ابراہیم پر برکت نازل فرمائی۔ بے شک تو قابلِ تعریف، باعظمت ہے۔",
+        "fr": "Ô Allah, envoie Ta miséricorde sur Muhammad et sur la famille de Muhammad, comme Tu as envoyé miséricorde sur Ibrahim et sur la famille d'Ibrahim. Tu es digne de louange, Glorieux. Ô Allah, bénis Muhammad et la famille de Muhammad, comme Tu as béni Ibrahim et la famille d'Ibrahim. Tu es digne de louange, Glorieux.",
+        "tr": "Allah'ım! Muhammed'e ve Muhammed'in ailesine rahmet et, İbrahim'e ve İbrahim'in ailesine rahmet ettiğin gibi. Şüphesiz Sen övülmeye layıksın, yücesin. Allah'ım! Muhammed'e ve Muhammed'in ailesine bereket ver, İbrahim'e ve İbrahim'in ailesine bereket verdiğin gibi. Şüphesiz Sen övülmeye layıksın, yücesin.",
+        "id": "Ya Allah, limpahkanlah rahmat kepada Muhammad dan keluarga Muhammad, sebagaimana Engkau limpahkan rahmat kepada Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji, Maha Mulia. Ya Allah, berkahilah Muhammad dan keluarga Muhammad, sebagaimana Engkau berkahi Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji, Maha Mulia.",
+        "bn": "হে আল্লাহ, মুহাম্মদ ﷺ এবং মুহাম্মদের পরিবারের উপর রহমত নাযিল করো যেমন তুমি ইব্রাহীম এবং ইব্রাহীমের পরিবারের উপর রহমত নাযিল করেছিলে। নিশ্চয়ই তুমি প্রশংসিত, মহিমাময়। হে আল্লাহ, মুহাম্মদ ﷺ এবং মুহাম্মদের পরিবারের উপর বরকত নাযিল করো যেমন তুমি ইব্রাহীম এবং ইব্রাহীমের পরিবারের উপর বরকত নাযিল করেছিলে।",
+        "ms": "Ya Allah, limpahkanlah rahmat kepada Muhammad dan keluarga Muhammad, sebagaimana Engkau limpahkan rahmat kepada Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji, Maha Mulia. Ya Allah, berkatilah Muhammad dan keluarga Muhammad, sebagaimana Engkau berkahi Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji, Maha Mulia.",
+        "ta": "இறைவா! முஹம்மது (ஸல்) மீதும், முஹம்மது (ஸல்) குடும்பத்தார் மீதும் உமது கிருபையை அருள்வாயாக, இப்ராஹீம் மீதும் இப்ராஹீம் குடும்பத்தார் மீதும் நீர் கிருபை அருளியது போல். நிச்சயமாக நீர் புகழ்பெற்றவர், மகிமை மிகுந்தவர். இறைவா! முஹம்மது (ஸல்) மீதும், முஹம்மது (ஸல்) குடும்பத்தார் மீதும் அருள்புரிவாயாக, இப்ராஹீம் மீதும் இப்ராஹீம் குடும்பத்தார் மீதும் நீர் அருள்புரிந்தது போல். நிச்சயமாக நீர் புகழ்பெற்றவர், மகிமை மிகுந்தவர்.",
+        "ml": "അല്ലാഹുവേ, മുഹമ്മദിന്റെയും മുഹമ്മദിന്റെ കുടുംബത്തിന്റെയും മേൽ നിന്റെ കാരുണ്യം ചൊരിയണമേ, ഇബ്രാഹീമിന്റെയും ഇബ്രാഹീമിന്റെ കുടുംബത്തിന്റെയും മേൽ നീ കാരുണ്യം ചൊരിഞ്ഞതുപോലെ. തീർച്ചയായും നീ സ്തുത്യനാണ്, മഹത്തനാണ്. അല്ലാഹുവേ, മുഹമ്മദിന്റെയും മുഹമ്മദിന്റെ കുടുംബത്തിന്റെയും മേൽ അനുഗ്രഹം ചൊരിയണമേ, ഇബ്രാഹീമിന്റെയും ഇബ്രാഹീമിന്റെ കുടുംബത്തിന്റെയും മേൽ നീ അനുഗ്രഹം ചൊരിഞ്ഞതുപോലെ. തീർച്ചയായും നീ സ്തുത്യനാണ്, മഹത്തനാണ്."
+      },
+      "reference": {
+        "source": "Bukhari",
+        "reference_text": "Bukhari 4/95"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "fri-2",
+      "category_id": "friday",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "Repentance Dua on Friday",
+        "ta": "வெள்ளிக்கிழமையன்று பாவமன்னிப்புக்கான துஆ",
+        "ml": "വെള്ളിയാഴ്ചയിലെ പശ്ചാത്താപ ദുആ",
+        "ar": "دعاء التوبة يوم الجمعة",
+        "ur": "جمعہ کے دن توبہ کی دعا",
+        "fr": "Invocation de repentir du vendredi",
+        "tr": "Cuma günü tövbe duası",
+        "id": "Doa taubat pada hari Jumat",
+        "bn": "শুক্রবারের তওবার দোয়া",
+        "ms": "Doa taubat pada hari Jumaat"
+      },
+      "arabic": "إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلًا\nوَلَا أَقْوَى عَلَى نَارِ الْجَحِيمِ\n\nفَهَبْ لِي تَوْبَةً وَاغْفِرْ ذُنُوبِي\nفَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيمِ\n\nذُنُوبِي مِثْلُ أَعْدَادِ الرِّمَالِ\nفَهَبْ لِي تَوْبَةً يَا ذَا الْجَلَالِ\n\nوَعُمْرِي نَاقِصٌ فِي كُلِّ يَوْمٍ\nوَذَنْبِي زَائِدٌ كَيْفَ احْتِمَالِ\n\nإِلَهِي عَبْدُكَ الْعَاصِي أَتَاكَ\nمُقِرًّا بِالذُّنُوبِ وَقَدْ دَعَاكَ\n\nفَإِنْ تَغْفِرْ فَأَنْتَ لِذَاكَ أَهْلٌ\nوَإِنْ تَطْرُدْ فَمَنْ نَرْجُو سِوَاكَ\n\nإِلَهِي لَا تُعَذِّبْنِي فَإِنِّي\nمُقِرٌّ بِالَّذِي قَدْ كَانَ مِنِّي\n\nوَمَا لِي حِيلَةٌ إِلَّا رَجَائِي\nلِعَفْوِكَ إِنْ عَفَوْتَ وَحُسْنِ ظَنِّي\n\nوَكَمْ مِنْ زَلَّةٍ لِي فِي الْخَطَايَا\nوَأَنْتَ عَلَيَّ ذُو فَضْلٍ وَمَنِّ\n\nإِذَا فَكَّرْتُ فِي نَدَمِي عَلَيْهَا\nعَضَضْتُ أَنَامِلِي وَعَرَفْتُ ذَنِّي",
+      "transliteration": "Ilahi lastu lil-firdawsi ahlan\nWa la aqwa 'ala nari-l-jahimi\n\nFa hab li tawbatan waghfir dhunubi\nFa innaka ghafirudh-dhanbi-l-'azimi\n\nDhunubi mithlu a'dadi-r-rimali\nFa hab li tawbatan ya dhal-jalali\n\nWa 'umri naqisun fi kulli yawmin\nWa dhanbi za'idun kayfa ihtimali\n\nIlahi 'abduka-l-'asi ataka\nMuqirran bidh-dhunubi wa qad da'aka\n\nFa in taghfir fa anta lidhalika ahlun\nWa in tatrud fa man narju siwaka\n\nIlahi la tu'adhdhibni fa inni\nMuqirrun billadhi qad kana minni\n\nWa ma li hilatun illa raja'i\nLi'afwika in 'afawta wa husni dhanni\n\nWa kam min zallatin li fi-l-khataya\nWa anta 'alayya dhu fadlin wa manni",
+      "translation": {
+        "en": "My Lord, I am not worthy of Paradise,\nnor am I able to endure the Fire of Hell.\n\nSo grant me repentance and forgive my sins,\nfor You are the Forgiver of the great sin.\n\nMy sins are like the number of grains of sand;\nso grant me repentance, O Possessor of Majesty.\n\nMy life diminishes with every passing day,\nwhile my sins increase; how can I bear them?\n\nMy Lord, Your disobedient servant has come to You,\nadmitting his sins and calling upon You.\n\nIf You forgive, You are worthy of that;\nand if You turn me away, whom can I hope in besides You?\n\nMy Lord, do not punish me, for I admit\nwhat has indeed come from me.\n\nI have no means except my hope in Your pardon,\nif You pardon, and my good opinion of You.\n\nHow many slips I have made in sin,\nwhile You show me grace and generosity.\n\nWhen I think of my regret over it,\nI bite my fingertips and recognize my sin.",
+        "ta": "என் இறைவா! நான் சொர்க்கத்திற்கு தகுதியற்றவன்;\nநரக நெருப்பைத் தாங்கும் ஆற்றலும் எனக்கில்லை.\n\nஎனவே, எனக்கு தவ்பா அருளி என் பாவங்களை மன்னிப்பாயாக;\nநிச்சயமாக, மகத்தான பாவத்தை மன்னிப்பவன் நீயே.\n\nஎன் பாவங்கள் மணல் துகள்களின் எண்ணிக்கையைப் போன்றவை;\nமகத்துவமிக்கவனே, எனக்கு தவ்பா அருள்வாயாக.\n\nஒவ்வொரு நாளும் என் ஆயுள் குறைகிறது;\nஎன் பாவங்களோ அதிகரிக்கின்றன; இதை நான் எவ்வாறு தாங்குவேன்?\n\nஎன் இறைவா! உனக்கு மாறு செய்த உன் அடியான் உன்னிடம் வந்துள்ளான்;\nபாவங்களை ஒப்புக்கொண்டு உன்னை அழைத்துள்ளான்.\n\nநீர் மன்னித்தால், அதற்கு மிகவும் தகுதியானவன் நீயே;\nநீர் என்னைத் துரத்தினால், உன்னைத் தவிர யாரிடம் நம்பிக்கை வைப்பேன்?\n\nஎன் இறைவா, என்னைத் தண்டிக்காதே; ஏனெனில்,\nஎன்னிடமிருந்து நிகழ்ந்தவற்றை நான் ஒப்புக்கொள்கிறேன்.\n\nஉன் மன்னிப்பின் மீதான நம்பிக்கையைத் தவிர எனக்கு வழியில்லை;\nநீர் மன்னிப்பாய் என்ற நம்பிக்கையும் உம்மைப் பற்றிய நல்லெண்ணமும் எனக்குண்டு.\n\nபாவங்களில் எத்தனையோ தவறுகளை நான் செய்துள்ளேன்;\nஆனால் நீ என்மீது அருளும் பேருதவியும் கொண்டவனாக இருக்கிறாய்.\n\nஅதை நினைத்து வருந்தும்போது, என் விரல் நுனிகளைக் கடித்து, என் பாவத்தை உணர்கிறேன்.",
+        "ml": "എന്റെ രക്ഷിതാവേ, ഞാൻ സ്വർഗത്തിന് അർഹനല്ല;\nനരകാഗ്നി സഹിക്കാനുള്ള ശക്തിയും എനിക്കില്ല.\n\nഎനിക്ക് തൗബ നൽകുകയും എന്റെ പാപങ്ങൾ പൊറുക്കുകയും ചെയ്യണമേ;\nമഹാപാപം പൊറുക്കുന്നവൻ നീയല്ലോ.\n\nഎന്റെ പാപങ്ങൾ മണൽത്തരികളുടെ എണ്ണത്തോളം ഉണ്ട്;\nമഹത്വത്തിന്റെ ഉടമയേ, എനിക്ക് തൗബ നൽകണമേ.\n\nഓരോ ദിവസവും എന്റെ ആയുസ്സ് കുറയുന്നു;\nഎന്റെ പാപങ്ങൾ കൂടുന്നു; എനിക്കിത് എങ്ങനെ സഹിക്കാനാകും?\n\nഎന്റെ രക്ഷിതാവേ, അനുസരണക്കേടുള്ള നിന്റെ ദാസൻ നിന്റെ അടുക്കൽ വന്നിരിക്കുന്നു;\nപാപങ്ങൾ സമ്മതിച്ച് നിന്നോട് പ്രാർഥിച്ചിരിക്കുന്നു.\n\nനീ പൊറുത്താൽ അതിന് അർഹൻ നീ തന്നെയാണ്;\nനീ എന്നെ അകറ്റിയാൽ, നിന്നല്ലാതെ ആരെയാണ് പ്രതീക്ഷിക്കുക?\n\nഎന്റെ രക്ഷിതാവേ, എന്നെ ശിക്ഷിക്കരുതേ;\nഎന്നിൽ നിന്നുണ്ടായതു ഞാൻ സമ്മതിക്കുന്നു.\n\nനിന്റെ മാപ്പിലുള്ള പ്രതീക്ഷയല്ലാതെ എനിക്ക് വഴിയില്ല;\nനീ മാപ്പ് നൽകുമെന്ന പ്രതീക്ഷയും നിന്നെക്കുറിച്ചുള്ള നല്ല ധാരണയും മാത്രമേയുള്ളൂ.\n\nപാപങ്ങളിൽ എത്രയോ പിഴവുകൾ എനിക്കുണ്ട്;\nഎങ്കിലും നീ എന്നോട് അനുഗ്രഹവും ഔദാര്യവും കാണിക്കുന്നു.\n\nഅതിനെക്കുറിച്ചുള്ള പശ്ചാത്താപം ചിന്തിക്കുമ്പോൾ, വിരൽത്തുമ്പുകൾ കടിച്ച് എന്റെ പാപം ഞാൻ തിരിച്ചറിയുന്നു.",
+        "ar": "إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلًا\nوَلَا أَقْوَى عَلَى نَارِ الْجَحِيمِ\n\nفَهَبْ لِي تَوْبَةً وَاغْفِرْ ذُنُوبِي\nفَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيمِ\n\nذُنُوبِي مِثْلُ أَعْدَادِ الرِّمَالِ\nفَهَبْ لِي تَوْبَةً يَا ذَا الْجَلَالِ\n\nوَعُمْرِي نَاقِصٌ فِي كُلِّ يَوْمٍ\nوَذَنْبِي زَائِدٌ كَيْفَ احْتِمَالِ\n\nإِلَهِي عَبْدُكَ الْعَاصِي أَتَاكَ\nمُقِرًّا بِالذُّنُوبِ وَقَدْ دَعَاكَ\n\nفَإِنْ تَغْفِرْ فَأَنْتَ لِذَاكَ أَهْلٌ\nوَإِنْ تَطْرُدْ فَمَنْ نَرْجُو سِوَاكَ\n\nإِلَهِي لَا تُعَذِّبْنِي فَإِنِّي\nمُقِرٌّ بِالَّذِي قَدْ كَانَ مِنِّي\n\nوَمَا لِي حِيلَةٌ إِلَّا رَجَائِي\nلِعَفْوِكَ إِنْ عَفَوْتَ وَحُسْنِ ظَنِّي\n\nوَكَمْ مِنْ زَلَّةٍ لِي فِي الْخَطَايَا\nوَأَنْتَ عَلَيَّ ذُو فَضْلٍ وَمَنِّ\n\nإِذَا فَكَّرْتُ فِي نَدَمِي عَلَيْهَا\nعَضَضْتُ أَنَامِلِي وَعَرَفْتُ ذَنِّي",
+        "ur": "اے میرے رب! میں جنت کے لائق نہیں،\nاور نہ ہی جہنم کی آگ برداشت کر سکتا ہوں۔\n\nپس مجھے توبہ عطا فرما اور میرے گناہ بخش دے،\nبے شک تو بڑے گناہ کو بخشنے والا ہے۔\n\nمیرے گناہ ریت کے ذروں کی تعداد جیسے ہیں؛\nاے صاحبِ جلال، مجھے توبہ عطا فرما۔\n\nہر گزرتے دن کے ساتھ میری عمر کم ہوتی ہے،\nاور میرے گناہ بڑھتے ہیں؛ میں انہیں کیسے برداشت کروں؟\n\nاے میرے رب! تیرا نافرمان بندہ تیرے پاس آیا ہے،\nاپنے گناہوں کا اقرار کرتے ہوئے تجھ سے دعا کرتا ہے۔\n\nاگر تو بخش دے تو اسی کا اہل ہے،\nاور اگر مجھے دور کر دے تو تیرے سوا کس سے امید رکھوں؟\n\nاے میرے رب، مجھے عذاب نہ دے؛ میں اقرار کرتا ہوں\nکہ یہ سب مجھ ہی سے ہوا ہے۔\n\nتیرے عفو کی امید کے سوا میرے پاس کوئی چارہ نہیں،\nاگر تو معاف فرما دے، اور تجھ سے اچھا گمان بھی ہے۔\n\nگناہوں میں مجھ سے کتنی ہی لغزشیں ہوئی ہیں،\nاور تو مجھ پر فضل اور احسان کرنے والا ہے۔\n\nجب میں اس پر اپنی ندامت کے بارے میں سوچتا ہوں، تو اپنی انگلیوں کے پور کاٹتا ہوں اور اپنے گناہ کو پہچانتا ہوں۔",
+        "fr": "Mon Seigneur, je ne suis pas digne du Paradis,\net je ne peux supporter le feu de l’Enfer.\n\nAccorde-moi donc le repentir et pardonne mes péchés,\ncar Tu es Celui qui pardonne le grand péché.\n\nMes péchés sont aussi nombreux que les grains de sable ;\naccorde-moi le repentir, ô Détenteur de la majesté.\n\nMa vie diminue chaque jour,\ntandis que mes péchés augmentent ; comment pourrais-je les supporter ?\n\nMon Seigneur, Ton serviteur désobéissant est venu à Toi,\nreconnaissant ses péchés et T’invoquant.\n\nSi Tu pardonnes, Tu en es certes digne ;\net si Tu me repousses, vers qui espérerais-je en dehors de Toi ?\n\nMon Seigneur, ne me châtie pas, car je reconnais\nce que j’ai commis.\n\nJe n’ai d’autre recours que l’espoir en Ton pardon,\nsi Tu pardonnes, et la bonne opinion que j’ai de Toi.\n\nCombien de fautes ai-je commises dans mes péchés,\nalors que Tu m’accordes grâce et générosité.\n\nLorsque je pense au regret que j'en éprouve, je me mords les doigts et reconnais mon péché.",
+        "tr": "Rabbim, ben Cennet’e layık değilim,\nCehennem ateşine dayanmaya da gücüm yetmez.\n\nBana tövbe nasip et ve günahlarımı bağışla;\nşüphesiz Sen büyük günahı bağışlayansın.\n\nGünahlarım kum tanelerinin sayısı gibidir;\ney yücelik sahibi, bana tövbe nasip et.\n\nHer geçen gün ömrüm azalıyor,\ngünahım ise artıyor; buna nasıl dayanabilirim?\n\nRabbim, isyankâr kulun Sana geldi,\ngünahlarını itiraf ederek Sana yalvardı.\n\nBağışlarsan, buna layık olan Sensin;\nbeni kovarsan Senden başka kimden umut edebilirim?\n\nRabbim, beni azaplandırma; çünkü\nbenden meydana gelenleri itiraf ediyorum.\n\nAffına dair umudumdan başka çarem yok;\nbağışlamanı umuyor ve Senin hakkında hüsnüzan besliyorum.\n\nGünahlar içinde nice hatalarım oldu,\noysa Sen bana lütuf ve ihsanda bulunuyorsun.\n\nOna dair pişmanlığımı düşündüğümde parmak uçlarımı ısırır ve günahımı anlarım.",
+        "id": "Wahai Tuhanku, aku tidak pantas masuk surga,\ndan aku tidak sanggup menahan api neraka.\n\nKaruniakanlah tobat kepadaku dan ampunilah dosa-dosaku,\nsesungguhnya Engkau Maha Pengampun dosa yang besar.\n\nDosa-dosaku sebanyak butiran pasir;\nkaruniakanlah tobat kepadaku, wahai Pemilik keagungan.\n\nUmurku berkurang setiap hari,\nsedangkan dosaku bertambah; bagaimana aku mampu menanggungnya?\n\nWahai Tuhanku, hamba-Mu yang durhaka datang kepada-Mu,\nmengakui dosa-dosanya dan berdoa kepada-Mu.\n\nJika Engkau mengampuni, Engkaulah yang paling berhak;\njika Engkau mengusirku, kepada siapa lagi aku berharap selain kepada-Mu?\n\nWahai Tuhanku, jangan siksa aku, karena aku mengakui\napa yang telah kulakukan.\n\nTiada jalan bagiku selain berharap pada ampunan-Mu,\njika Engkau mengampuni, serta berbaik sangka kepada-Mu.\n\nBetapa banyak kesalahan yang kulakukan dalam dosa,\nsedangkan Engkau melimpahkan karunia dan kemurahan kepadaku.\n\nKetika aku memikirkan penyesalanku atasnya,\naku menggigit ujung-ujung jariku dan menyadari dosaku.",
+        "bn": "হে আমার রব, আমি জান্নাতের যোগ্য নই,\nআর জাহান্নামের আগুন সহ্য করার শক্তিও আমার নেই।\n\nআমাকে তওবা দান করুন এবং আমার পাপগুলো ক্ষমা করুন,\nনিশ্চয়ই আপনি মহাপাপ ক্ষমাকারী।\n\nআমার পাপ বালুকণার সংখ্যার মতো;\nহে মহিমার অধিকারী, আমাকে তওবা দান করুন।\n\nপ্রতিদিন আমার আয়ু কমছে,\nআর আমার পাপ বাড়ছে; আমি কীভাবে তা সহ্য করব?\n\nহে আমার রব, আপনার অবাধ্য বান্দা আপনার কাছে এসেছে,\nনিজের পাপ স্বীকার করে আপনাকে ডাকছে।\n\nআপনি ক্ষমা করলে আপনিই তার যোগ্য;\nআর আমাকে দূরে সরালে আপনি ছাড়া কার কাছে আশা রাখব?\n\nহে আমার রব, আমাকে শাস্তি দেবেন না; আমি স্বীকার করছি\nআমার কাছ থেকে যা হয়েছে।\n\nআপনার ক্ষমার আশা ছাড়া আমার আর কোনো উপায় নেই,\nআপনি ক্ষমা করবেন—এই আশা ও আপনার প্রতি সুধারণা ছাড়া।\n\nপাপের পথে আমার কত ভুলই না হয়েছে,\nতবু আপনি আমার প্রতি অনুগ্রহশীল ও দয়ালু।\n\nএ নিয়ে আমার অনুশোচনার কথা ভাবলে, আমি আঙুলের ডগা কামড়াই এবং আমার পাপ বুঝতে পারি।",
+        "ms": "Wahai Tuhanku, aku tidak layak untuk syurga,\ndan aku tidak mampu menanggung api neraka.\n\nKurniakanlah taubat kepadaku dan ampunilah dosa-dosaku,\nsesungguhnya Engkau Maha Pengampun dosa yang besar.\n\nDosa-dosaku sebanyak butiran pasir;\nkurniakanlah taubat kepadaku, wahai Tuhan Yang Maha Mulia.\n\nUmurku berkurang setiap hari,\nsedangkan dosaku bertambah; bagaimana aku mampu menanggungnya?\n\nWahai Tuhanku, hamba-Mu yang ingkar datang kepada-Mu,\nmengakui dosa-dosanya dan berdoa kepada-Mu.\n\nJika Engkau mengampuni, Engkaulah yang layak;\njika Engkau mengusirku, kepada siapa lagi aku berharap selain-Mu?\n\nWahai Tuhanku, janganlah Engkau mengazabku, kerana aku mengakui\napa yang telah kulakukan.\n\nTiada jalan bagiku selain mengharap keampunan-Mu,\njika Engkau mengampuni, serta bersangka baik terhadap-Mu.\n\nBetapa banyak kesilapan yang kulakukan dalam dosa,\nsedangkan Engkau melimpahkan kurnia dan kemurahan kepadaku.\n\nApabila aku memikirkan penyesalanku terhadapnya,\naku menggigit hujung-hujung jariku dan menyedari dosaku."
+      },
+      "reference": {
+        "source": "Devotional poem",
+        "reference_text": "Supplied devotional poem; no verified prophetic attribution."
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "fri-3",
+      "category_id": "friday",
+      "subcategory_id": null,
+      "order": 3,
+      "title": {
+        "en": "Jummah Dua",
+        "ta": "ஜும்ஆ துஆ",
+        "ml": "ജുമുഅ ദുആ",
+        "ar": "دعاء يوم الجمعة",
+        "ur": "جمعہ کی دعا",
+        "fr": "Invocation du vendredi (Jumu’ah)",
+        "tr": "Cuma duası",
+        "id": "Doa Jumat",
+        "bn": "জুমার দোয়া",
+        "ms": "Doa Jumaat"
+      },
+      "arabic": "اللَّهُمَّ فِي يَوْمِ الْجُمُعَةِ، يَا رَبِّ افْتَحْ لَنَا مِنْ أَبْوَابِ رَحْمَتِكَ، وَانْثُرْ عَلَيْنَا مِنْ خَزَائِنِ عَفْوِكَ وَعِلْمِكَ، وَارْزُقْنَا تَوْفِيقَكَ وَحِكْمَتَكَ.\n\nاللَّهُمَّ اغْفِرْ لَنَا وَلِوَالِدِينَا، وَاحْفَظْنَا وَأَهْلَنَا مِنْ كُلِّ مَكْرُوهٍ، وَاجْعَلْ سَائِرَ أَيَّامِنَا مَلِيئَةً بِالْخَيْرِ وَالسَّعَادَةِ.",
+      "transliteration": "Allahumma fi yawmi al-jumu‘ah, ya Rabbi iftah lana min abwabi rahmatika, wanthur ‘alayna min khaza’ini ‘afwika wa ‘ilmika, warzuqna tawfiqaka wa hikmatak.\n\nAllahumma ighfir lana wa liwalidayna, wahfazna wa ahlana min kulli makruh, waj‘al sa’ira ayyamina mali’atan bil-khayri was-sa‘adah.",
+      "translation": {
+        "en": "O Allah, on this day of Friday, O my Lord, open for us the doors of Your mercy, shower upon us from the treasures of Your forgiveness and knowledge, and grant us Your success and wisdom.\n\nO Allah, forgive us and our parents, protect us and our families from every harm, and make the rest of our days filled with goodness and happiness.",
+        "ta": "அல்லாஹ்வே! இந்த வெள்ளிக்கிழமையில், என் இறைவா! உமது அருளின் வாசல்களை எங்களுக்காகத் திறந்து, உமது மன்னிப்பு மற்றும் ஞானத்தின் பொக்கிஷங்களிலிருந்து எங்களுக்கு வழங்கி, உமது நல்லுதவியையும் ஞானத்தையும் அருள்வாயாக.\n\nஅல்லாஹ்வே! எங்களையும் எங்கள் பெற்றோரையும் மன்னித்து, எங்களையும் எங்கள் குடும்பத்தினரையும் எல்லாத் தீங்குகளிலிருந்தும் பாதுகாத்து, எஞ்சியுள்ள எங்கள் நாட்களை நன்மையும் மகிழ்ச்சியும் நிறைந்தவையாக ஆக்குவாயாக.",
+        "ml": "അല്ലാഹുവേ, ഈ വെള്ളിയാഴ്ചയിൽ, എന്റെ രക്ഷിതാവേ, നിന്റെ കാരുണ്യത്തിന്റെ വാതിലുകൾ ഞങ്ങൾക്കായി തുറക്കണമേ. നിന്റെ മാപ്പിന്റെയും അറിവിന്റെയും നിധികളിൽ നിന്ന് ഞങ്ങൾക്ക് നൽകുകയും നിന്റെ അനുഗ്രഹവും ജ്ഞാനവും നൽകുകയും ചെയ്യണമേ.\n\nഅല്ലാഹുവേ, ഞങ്ങളെയും ഞങ്ങളുടെ മാതാപിതാക്കളെയും പൊറുക്കണമേ; ഞങ്ങളെയും ഞങ്ങളുടെ കുടുംബങ്ങളെയും എല്ലാ അനിഷ്ടങ്ങളിൽ നിന്നും കാത്തുരക്ഷിക്കണമേ; ഞങ്ങളുടെ ശേഷിക്കുന്ന ദിവസങ്ങൾ നന്മയും സന്തോഷവും നിറഞ്ഞതാക്കണമേ.",
+        "ar": "اللَّهُمَّ فِي يَوْمِ الْجُمُعَةِ، يَا رَبِّ افْتَحْ لَنَا مِنْ أَبْوَابِ رَحْمَتِكَ، وَانْثُرْ عَلَيْنَا مِنْ خَزَائِنِ عَفْوِكَ وَعِلْمِكَ، وَارْزُقْنَا تَوْفِيقَكَ وَحِكْمَتَكَ.\n\nاللَّهُمَّ اغْفِرْ لَنَا وَلِوَالِدِينَا، وَاحْفَظْنَا وَأَهْلَنَا مِنْ كُلِّ مَكْرُوهٍ، وَاجْعَلْ سَائِرَ أَيَّامِنَا مَلِيئَةً بِالْخَيْرِ وَالسَّعَادَةِ.",
+        "ur": "اے اللہ! جمعہ کے اس دن، اے میرے رب! ہمارے لیے اپنی رحمت کے دروازے کھول دے، اپنی معافی اور علم کے خزانوں سے ہم پر عطا فرما، اور ہمیں اپنی توفیق اور حکمت نصیب فرما۔\n\nاے اللہ! ہمیں اور ہمارے والدین کو بخش دے، ہمیں اور ہمارے اہلِ خانہ کو ہر ناگوار چیز سے محفوظ رکھ، اور ہمارے باقی دنوں کو خیر اور خوشی سے بھر دے۔",
+        "fr": "Ô Allah, en ce vendredi, ô mon Seigneur, ouvre-nous les portes de Ta miséricorde, répands sur nous les trésors de Ton pardon et de Ta connaissance, et accorde-nous Ta réussite et Ta sagesse.\n\nÔ Allah, pardonne-nous ainsi qu’à nos parents, protège-nous et protège nos familles de tout mal, et remplis le reste de nos jours de bien et de bonheur.",
+        "tr": "Allah’ım, bu Cuma gününde, ey Rabbim, rahmetinin kapılarını bize aç; affının ve ilminin hazinelerinden bize ihsan et; bize başarı ve hikmet nasip et.\n\nAllah’ım, bizi ve anne babamızı bağışla; bizi ve ailelerimizi her türlü kötülükten koru; kalan günlerimizi iyilik ve mutlulukla doldur.",
+        "id": "Ya Allah, pada hari Jumat ini, wahai Tuhanku, bukakanlah bagi kami pintu-pintu rahmat-Mu, limpahkanlah kepada kami dari khazanah ampunan dan ilmu-Mu, serta anugerahkanlah kepada kami taufik dan hikmah-Mu.\n\nYa Allah, ampunilah kami dan orang tua kami, lindungilah kami dan keluarga kami dari segala keburukan, dan jadikanlah sisa hari-hari kami penuh kebaikan dan kebahagiaan.",
+        "bn": "হে আল্লাহ, এই জুমার দিনে, হে আমার রব, আমাদের জন্য আপনার রহমতের দরজাগুলো খুলে দিন, আপনার ক্ষমা ও জ্ঞানের ভান্ডার থেকে আমাদের ওপর বর্ষণ করুন এবং আপনার তাওফিক ও প্রজ্ঞা দান করুন।\n\nহে আল্লাহ, আমাদের ও আমাদের বাবা-মাকে ক্ষমা করুন, আমাদের ও আমাদের পরিবারকে সব অনিষ্ট থেকে রক্ষা করুন এবং আমাদের অবশিষ্ট দিনগুলো কল্যাণ ও সুখে পূর্ণ করুন।",
+        "ms": "Ya Allah, pada hari Jumaat ini, wahai Tuhanku, bukakanlah untuk kami pintu-pintu rahmat-Mu, limpahkanlah kepada kami daripada khazanah keampunan dan ilmu-Mu, serta kurniakanlah kepada kami taufik dan hikmah-Mu.\n\nYa Allah, ampunilah kami dan ibu bapa kami, peliharalah kami dan keluarga kami daripada segala keburukan, dan jadikanlah baki hari-hari kami dipenuhi kebaikan dan kebahagiaan."
+      },
+      "reference": {
+        "source": "General devotional supplication",
+        "reference_text": "General devotional wording; no verified prophetic attribution."
+      },
+      "repetition_count": 1
+    }
+  ]
+}

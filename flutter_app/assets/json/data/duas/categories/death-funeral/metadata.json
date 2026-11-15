@@ -1,0 +1,29 @@
+{
+  "id": "death-funeral",
+  "name": {
+    "en": "Death & Funeral",
+    "ar": "الموت والجنازة",
+    "ur": "موت اور جنازہ",
+    "fr": "Mort et Funérailles",
+    "tr": "Ölüm ve Cenaze",
+    "id": "Kematian & Pemakaman",
+    "bn": "মৃত্যু ও জানাজা",
+    "ms": "Kematian & Pengebumian",
+    "ta": "மரணம் & இறுதிச்சடங்கு",
+    "ml": "മരണവും സംസ്കാരവും"
+  },
+  "description": {
+    "en": "Category of duas: Death & Funeral"
+  },
+  "parent_id": null,
+  "order": 18,
+  "theme": {
+    "color": "gray",
+    "gradient": "from-gray-400 to-slate-600",
+    "bg": "bg-gray-50",
+    "border": "border-gray-200",
+    "text": "text-gray-700"
+  },
+  "item_count": 8,
+  "data_file": "duas.json"
+}

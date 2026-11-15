@@ -1,0 +1,29 @@
+{
+  "id": "nightmare",
+  "name": {
+    "en": "Nightmare & Bad Dreams",
+    "ar": "الكوابيس والأحلام السيئة",
+    "ur": "برے خواب",
+    "fr": "Cauchemars et Mauvais Rêves",
+    "tr": "Kabus ve Kötü Rüyalar",
+    "id": "Mimpi Buruk",
+    "bn": "দুঃস্বপ্ন",
+    "ms": "Mimpi Buruk",
+    "ta": "தீய கனவுகள்",
+    "ml": "ദുസ്സ്വപ്നങ്ങൾ"
+  },
+  "description": {
+    "en": "Category of duas: Nightmare & Bad Dreams"
+  },
+  "parent_id": null,
+  "order": 25,
+  "theme": {
+    "color": "gray",
+    "gradient": "from-gray-500 to-slate-700",
+    "bg": "bg-gray-50",
+    "border": "border-gray-200",
+    "text": "text-gray-700"
+  },
+  "item_count": 2,
+  "data_file": "duas.json"
+}

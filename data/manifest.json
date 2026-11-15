@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Bismi Radio Dua and Islamic Collections API",
+  "data_format": "json",
+  "default_language": "en",
+  "supported_languages": [
+    "ar",
+    "en",
+    "ta",
+    "ml",
+    "ur",
+    "fr",
+    "id",
+    "ms",
+    "bn",
+    "tr"
+  ],
+  "main_sections": [
+    {
+      "id": "duas",
+      "order": 1,
+      "title": {
+        "ar": "الأدعية",
+        "en": "Duas",
+        "ta": "துஆக்கள்",
+        "ml": "ദുആകൾ",
+        "ur": "دعائیں",
+        "fr": "Invocations",
+        "tr": "Dualar",
+        "id": "Doa",
+        "bn": "দোয়া",
+        "ms": "Doa"
+      },
+      "index_file": "duas/index.json",
+      "status": "available"
+    },
+    {
+      "id": "dhikr",
+      "order": 2,
+      "title": {
+        "ar": "أذكار يومية",
+        "en": "Daily Dhikir",
+        "ta": "தினசரி திக்ருகள்",
+        "ml": "ദൈനംദിന ദിക്റുകൾ",
+        "ur": "روزانہ اذکار",
+        "fr": "Rappels quotidiens",
+        "tr": "Günlük Zikirler",
+        "id": "Zikir Harian",
+        "bn": "দৈনিক যিকির",
+        "ms": "Zikir Harian"
+      },
+      "index_file": "dhikr/index.json",
+      "status": "available"
+    },
+    {
+      "id": "mawlid",
+      "order": 3,
+      "title": {
+        "ar": "المولد",
+        "en": "Moulid",
+        "ta": "மௌலித்",
+        "ml": "മൗലിദ്",
+        "ur": "مولد",
+        "fr": "Moulid",
+        "tr": "Mevlid",
+        "id": "Maulid",
+        "bn": "মিলাদ",
+        "ms": "Maulid"
+      },
+      "index_file": "mawlid/index.json",
+      "status": "available"
+    },
+    {
+      "id": "baith",
+      "order": 4,
+      "title": {
+        "ar": "الأبيات",
+        "en": "Baith",
+        "ta": "பைத்",
+        "ml": "ബൈത്ത്",
+        "ur": "بیت",
+        "fr": "Baith",
+        "tr": "Baith",
+        "id": "Baith",
+        "bn": "বাইত",
+        "ms": "Baith"
+      },
+      "index_file": "baith/index.json",
+      "status": "partial"
+    },
+    {
+      "id": "salawath",
+      "order": 5,
+      "title": {
+        "ar": "الصلاة على النبي ﷺ",
+        "en": "Salawath",
+        "ta": "ஸலவாத்",
+        "ml": "സ്വലാത്ത്",
+        "ur": "درود شریف",
+        "fr": "Salawat",
+        "tr": "Salavat",
+        "id": "Shalawat",
+        "bn": "দরূদ",
+        "ms": "Selawat"
+      },
+      "index_file": "salawath/index.json",
+      "status": "partial"
+    },
+    {
+      "id": "rathib",
+      "order": 6,
+      "title": {
+        "ar": "الراتب",
+        "en": "Rathib",
+        "ta": "ராத்திப்",
+        "ml": "റാതിബ്",
+        "ur": "راتب",
+        "fr": "Ratib",
+        "tr": "Ratib",
+        "id": "Ratib",
+        "bn": "রাতিব",
+        "ms": "Ratib"
+      },
+      "index_file": "rathib/index.json",
+      "status": "pending_verified_content"
+    },
+    {
+      "id": "others",
+      "order": 7,
+      "title": {
+        "ar": "أخرى",
+        "en": "Others",
+        "ta": "மற்றவை",
+        "ml": "മറ്റുള്ളവ",
+        "ur": "دیگر",
+        "fr": "Autres",
+        "tr": "Diğer",
+        "id": "Lainnya",
+        "bn": "অন্যান্য",
+        "ms": "Lain-lain"
+      },
+      "index_file": "others/index.json",
+      "status": "partial"
+    }
+  ]
+}

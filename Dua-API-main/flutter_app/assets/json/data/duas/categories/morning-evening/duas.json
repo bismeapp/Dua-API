@@ -1,0 +1,165 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "morning-evening",
+  "count": 4,
+  "duas": [
+    {
+      "id": "me-1",
+      "category_id": "morning-evening",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Morning Dua",
+        "ta": "காலையில் ஓத வேண்டிய துஆ",
+        "ml": "രാവിലെ ദുആ",
+        "ar": "دعاء الصباح",
+        "ur": "صبح کی دعا",
+        "fr": "Invocation du matin",
+        "tr": "Sabah duası",
+        "id": "Doa Pagi",
+        "bn": "সকালের দোয়া",
+        "ms": "Doa Pagi"
+      },
+      "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَٰهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "translation": {
+        "en": "We have reached the morning and the dominion belongs to Allah. All praise is for Allah. None has the right to be worshipped except Allah alone, without partner. To Him belongs the dominion and to Him belongs all praise, and He is over all things omnipotent.",
+        "ar": "أصبحنا وأصبح الملك لله، والحمد لله، لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير",
+        "ur": "ہم صبح کے وقت پر پہنچے اور تمام بادشاہت اللہ کے لیے ہے۔ تمام تعریفیں اللہ کے لیے ہیں۔ اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں۔ بادشاہت اسی کی ہے اور تمام تعریف اسی کے لیے ہے اور وہ ہر چیز پر قادر ہے۔",
+        "fr": "Nous avons atteint le matin et la royauté appartient à Allah. Toute louange est pour Allah. Nul n'a le droit d'être adoré sauf Allah seul, sans associé. À Lui appartient la royauté et à Lui appartient toute louange, et Il est Omnipotent sur toute chose.",
+        "tr": "Sabaha kavuştuk ve mülk Allah'ın oldu. Hamd Allah'a mahsustur. Allah'tan başka ibadete layık hiçbir ilah yoktur, O tektir, ortağı yoktur. Mülk O'nundur, hamd O'nadır ve O her şeye kadirdir.",
+        "id": "Kami telah memasuki waktu pagi dan kerajaan milik Allah, segala puji bagi Allah. Tiada tuhan selain Allah Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian, dan Dia Maha Kuasa atas segala sesuatu.",
+        "bn": "আমরা সকালে উপনীত হয়েছি এবং সমস্ত কর্তৃত্ব আল্লাহর। সমস্ত প্রশংসা আল্লাহর জন্য। আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি একক, তাঁর কোনো শরীক নেই। কর্তৃত্ব তাঁরই এবং সমস্ত প্রশংসা তাঁরই এবং তিনি সব কিছুর উপর সর্বশক্তিমান।",
+        "ms": "Kami telah memasuki waktu pagi dan kerajaan milik Allah, segala puji bagi Allah. Tiada Tuhan selain Allah Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian, dan Dia Maha Kuasa atas segala sesuatu.",
+        "ta": "நாங்கள் காலை அடைந்தோம், ஆளுகை அல்லாஹ்வுக்கு உரியது. எல்லா புகழும் அல்லாஹ்வுக்கே. அல்லாஹ் தவிர வணக்கத்திற்குரியவர் எவருமில்லை, அவன் ஒற்றையானவன், அவனுக்கு இணையில்லை. ஆளுகை அவனுக்கே, எல்லா புகழும் அவனுக்கே, அவன் எல்லாப் பொருட்களின் மீதும் வல்லமையுள்ளவன்.",
+        "ml": "ഞങ്ങൾ രാവിലെ എത്തി, ആധിപത്യം അല്ലാഹുവിന്റേതാണ്. എല്ലാ സ്തുതിയും അല്ലാഹുവിനാണ്. അല്ലാഹു അല്ലാതെ ആരാധനയർഹനായ ദൈവമില്ല, അവൻ ഒറ്റവനാണ്, അവന് പങ്കാളികളില്ല. ആധിപത്യം അവന്റേതാണ്, എല്ലാ സ്തുതിയും അവന്റേതാണ്, അവൻ എല്ലാറ്റിന്മേലും സർവശക്തനാണ്."
+      },
+      "reference": {
+        "source": "Muslim",
+        "reference_text": "Muslim 4/2088"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "me-2",
+      "category_id": "morning-evening",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "Evening Dua",
+        "ta": "மாலையில் ஓத வேண்டிய துஆ",
+        "ml": "വൈകുന്നേരത്തെ ദുആ",
+        "ar": "دعاء المساء",
+        "ur": "شام کی دعا",
+        "fr": "Invocation du soir",
+        "tr": "Akşam duası",
+        "id": "Doa Petang",
+        "bn": "সন্ধ্যার দোয়া",
+        "ms": "Doa Petang"
+      },
+      "arabic": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَٰهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "translation": {
+        "en": "We have reached the evening and the dominion belongs to Allah. All praise is for Allah. None has the right to be worshipped except Allah alone, without partner. To Him belongs the dominion and to Him belongs all praise, and He is over all things omnipotent.",
+        "ar": "أمسينا وأمسى الملك لله، والحمد لله، لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير",
+        "ur": "ہم شام کے وقت پر پہنچے اور تمام بادشاہت اللہ کے لیے ہے۔ تمام تعریفیں اللہ کے لیے ہیں۔ اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں۔",
+        "fr": "Nous avons atteint le soir et la royauté appartient à Allah. Toute louange est pour Allah. Nul n'a le droit d'être adoré sauf Allah seul, sans associé.",
+        "tr": "Akşama kavuştuk ve mülk Allah'ın oldu. Hamd Allah'a mahsustur. Allah'tan başka ibadete layık hiçbir ilah yoktur, O tektir, ortağı yoktur.",
+        "id": "Kami telah memasuki waktu petang dan kerajaan milik Allah, segala puji bagi Allah. Tiada tuhan selain Allah Yang Maha Esa, tiada sekutu bagi-Nya.",
+        "bn": "আমরা সন্ধ্যায় উপনীত হয়েছি এবং সমস্ত কর্তৃত্ব আল্লাহর। সমস্ত প্রশংসা আল্লাহর জন্য। আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি একক, তাঁর কোনো শরীক নেই।",
+        "ms": "Kami telah memasuki waktu petang dan kerajaan milik Allah, segala puji bagi Allah. Tiada Tuhan selain Allah Yang Maha Esa, tiada sekutu bagi-Nya.",
+        "ta": "நாங்கள் மாலையை அடைந்தோம், ஆளுகை அல்லாஹ்வுக்கு உரியது. எல்லா புகழும் அல்லாஹ்வுக்கே. அல்லாஹ் தவிர வணக்கத்திற்குரியவர் எவருமில்லை, அவன் ஒற்றையானவன், அவனுக்கு இணையில்லை. ஆளுகை அவனுக்கே, எல்லா புகழும் அவனுக்கே.",
+        "ml": "ഞങ്ങൾ വൈകുന്നേരം എത്തി, ആധിപത്യം അല്ലാഹുവിന്റേതാണ്. എല്ലാ സ്തുതിയും അല്ലാഹുവിനാണ്. അല്ലാഹു അല്ലാതെ ആരാധനയർഹനായ ദൈവമില്ല, അവൻ ഒറ്റവനാണ്, അവന് പങ്കാളികളില്ല. ആധിപത്യം അവന്റേതാണ്, എല്ലാ സ്തുതിയും അവന്റേതാണ്."
+      },
+      "reference": {
+        "source": "Muslim",
+        "reference_text": "Muslim 4/2088"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "me-3",
+      "category_id": "morning-evening",
+      "subcategory_id": null,
+      "order": 3,
+      "title": {
+        "en": "Master of Seeking Forgiveness",
+        "ta": "பாவமன்னிப்பிற்காக ஓத வேண்டிய துஆ",
+        "ml": "പാപമോചനം തേടുന്നതിനുള്ള ശ്രേഷ്ഠമായ ദുആ",
+        "ar": "سيد الاستغفار",
+        "ur": "استغفار کی بہترین دعا",
+        "fr": "La maîtresse invocation de demande de pardon",
+        "tr": "Bağışlanma dilemenin en kapsamlı duası",
+        "id": "Doa utama memohon ampunan",
+        "bn": "ক্ষমা প্রার্থনার শ্রেষ্ঠ দোয়া",
+        "ms": "Doa utama memohon keampunan"
+      },
+      "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لاَ إِلَٰهَ إِلاَّ أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ لَكَ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ",
+      "translation": {
+        "en": "O Allah, You are my Lord, none has the right to be worshipped except You. You created me and I am Your servant. I abide by Your covenant and promise as best I can. I seek refuge in You from the evil of what I have done. I acknowledge Your favour upon me and I acknowledge my sin, so forgive me, for verily none can forgive sins except You.",
+        "ar": "اللهم أنت ربي لا إله إلا أنت، خلقتني وأنا عبدك، وأنا على عهدك ووعدك ما استطعت، أعوذ بك من شر ما صنعت، أبوء لك بنعمتك علي وأبوء لك بذنبي فاغفر لي فإنه لا يغفر الذنوب إلا أنت",
+        "ur": "اے اللہ! تو میرا رب ہے، تیرے سوا کوئی معبود نہیں۔ تو نے مجھے پیدا کیا اور میں تیرا بندہ ہوں۔ اور میں اپنی طاقت کے مطابق تیرے عہد اور وعدے پر ہوں۔ میں نے جو کچھ کیا اس کے شر سے تیری پناہ مانگتا ہوں۔ تیری نعمت کا مجھ پر اعتراف ہے اور اپنے گناہ کا بھی اعتراف ہے، پس مجھے بخش دے، بے شک تو کے سوا کوئی گناہوں کو بخشنے والا نہیں۔",
+        "fr": "Ô Allah, Tu es mon Seigneur, nul n'a le droit d'être adoré sauf Toi. Tu m'as créé et je suis Ton serviteur. Je respecte Ton alliance et Ta promesse autant que je le peux. Je cherche refuge auprès de Toi contre le mal de ce que j'ai fait. Je reconnais Ta faveur sur moi et je reconnais mon péché, alors pardonne-moi, car personne ne peut pardonner les péchés sauf Toi.",
+        "tr": "Allah'ım! Sen benim Rabbimsin, Senden başka ibadete layık hiçbir ilah yoktur. Beni Sen yarattın ve ben Senin kulunum. Gücüm yettiğince Sözünde ve Vaadinde duruyorum. Yaptıklarımın şerrinden Sana sığınırım. Üzerimdeki nimetini itiraf ederim ve günahımı itiraf ederim, beni bağışla çünkü günahları Senden başka bağışlayacak yoktur.",
+        "id": "Ya Allah, Engkau adalah Tuhanku, tiada tuhan selain Engkau. Engkau telah menciptakanku dan aku adalah hamba-Mu. Aku menepati perjanjian-Mu dan janji-Mu sekuat kemampuanku. Aku berlindung kepada-Mu dari kejahatan yang telah kulakukan. Aku mengakui nikmat-Mu atasku dan aku mengakui dosaku, maka ampunilah aku, karena tiada yang mengampuni dosa selain Engkau.",
+        "bn": "হে আল্লাহ, তুমি আমার রব, তোমার বাতীত কোনো ইলাহ নেই। তুমি আমাকে সৃষ্টি করেছ এবং আমি তোমার বান্দা। আমি আমার সাধ্যমতো তোমার অঙ্গীকার ও প্রতিশ্রুতি মেনে চলি। আমি যা করেছি তার অনিষ্ট থেকে তোমার আশ্রয় চাই। আমার উপর তোমার নিয়ামতের স্বীকৃতি দিচ্ছি এবং আমার গুনাহের স্বীকৃতি দিচ্ছি, সুতরাং আমাকে ক্ষমা কর, কারণ তোমার বাতীত কেউ গুনাহ ক্ষমা করতে পারে না।",
+        "ms": "Ya Allah, Engkau adalah Tuhanku, tiada Tuhan selain Engkau. Engkau telah menciptakanku dan aku adalah hamba-Mu. Aku menepati perjanjian-Mu dan janji-Mu sekuat kemampuanku. Aku berlindung kepada-Mu dari kejahatan yang telah kulakukan. Aku mengakui nikmat-Mu atasku dan aku mengakui dosaku, maka ampunilah aku, kerana tiada yang mengampuni dosa selain Engkau.",
+        "ta": "இறைவா! நீரே என் இறைவன், நீர்தவிர வணக்கத்திற்குரியவர் எவருமில்லை. நீரே என்னை படைத்தாய், நான் உமது அடிமை. என்னால் இயன்றவரை உமது உடன்படிக்கையையும் வாக்குறுதியையும் நிறைவேற்றுகிறேன். நான் செய்தவற்றின் தீமையிலிருந்து உம்மிடம் புகலளிக்கிறேன். எனக்கு நீர் அளித்த அருளை ஒப்புக்கொள்கிறேன், என் பாவங்களையும் ஒப்புக்கொள்கிறேன், எனவே என்னை மன்னிப்பாயாக, உம்மைத் தவிர பாவங்களை மன்னிக்க யாருமில்லை.",
+        "ml": "അല്ലാഹുവേ, നീയാണ് എന്റെ രക്ഷിതാവ്, നിന്നല്ലാതെ ആരാധനയർഹനായ ദൈവമില്ല. നീയാണ് എന്നെ സൃഷ്ടിച്ചത്, ഞാൻ നിന്റെ ദാസനാണ്. എനിക്ക് കഴിയുന്നത്ര നിന്റെ ഉടമ്പടിയും വാഗ്ദാനവും ഞാൻ പാലിക്കുന്നു. ഞാൻ ചെയ്തതിന്റെ തിന്മയിൽനിന്ന് ഞാൻ നിന്നോട് അഭയം തേടുന്നു. എന്നോടുള്ള നിന്റെ അനുഗ്രഹം ഞാൻ അംഗീകരിക്കുന്നു, എന്റെ പാപങ്ങളും ഞാൻ അംഗീകരിക്കുന്നു, അതിനാൽ എന്നെ പൊറുക്കണമേ, നിന്നല്ലാതെ പാപങ്ങൾ പൊറുക്കാൻ ആർക്കും കഴിയില്ല."
+      },
+      "reference": {
+        "source": "Bukhari",
+        "reference_text": "Bukhari 7/150"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "d103-34",
+      "category_id": "morning-evening",
+      "subcategory_id": null,
+      "order": 34,
+      "title": {
+        "en": "For great sawab and protection from major sins",
+        "ar": "لثواب عظيم والحماية من الكبائر",
+        "ur": "بڑے ثواب اور کبیرہ گناہوں سے حفاظت کے لیے",
+        "fr": "Pour une grande récompense et être protégé des péchés majeurs",
+        "tr": "Büyük sevap ve büyük günahlardan korunmak için",
+        "id": "Untuk pahala yang besar dan perlindungan dari dosa-dosa besar",
+        "bn": "মহান সওয়াব ও কবিরা গুনাহ থেকে সুরক্ষার জন্য",
+        "ms": "Untuk pahala yang besar dan perlindungan daripada dosa-dosa besar",
+        "ta": "மகத்தான நன்மையும் பெரும்பாவங்களிலிருந்து பாதுகாப்பும் பெறுவதற்காக",
+        "ml": "വലിയ പ്രതിഫലത്തിനും വൻപാപങ്ങളിൽനിന്നുള്ള സംരക്ഷണത്തിനുമായി"
+      },
+      "arabic": "فَسُبْحَانَ اللهِ حِيْنَ تُمْسُوْنَ وَ حِيْنَ تُصْبِحُوْنَ. وَ لَهُ الْحَمْدُ فِى السَّمَاوَاتِ وَ الْاَرْضِ وَ عَشِيًّا وَّ حِيْنَ تُظْهِرُوْنَ.",
+      "transliteration": "fa-subhaanal laahe heena tumsoona wa heena tusbehoona. wa alhul hamdo fis-samaawaate wal arze wa a'shiyyawn wa heena tuzheroon.",
+      "translation": {
+        "en": "So Glory be to Allah when you enter evening and when you enter the morning, and for Him (alone) is all the praise in the heavens and the earth. At the sun’s decline and when you enter the noon.[10]",
+        "ar": "فسبحان الله حين تمسون وحين تصبحون، وله وحده الحمد في السماوات والأرض، وعشيًّا وحين تدخلون وقت الظهيرة.[10]",
+        "ur": "پس اللہ کی پاکی بیان کرو جب تم شام کرو اور جب تم صبح کرو، اور آسمانوں اور زمین میں تمام تعریف اسی کے لیے ہے۔ اور سورج ڈھلنے کے وقت اور جب تم دوپہر کرو۔[10]",
+        "fr": "Gloire donc à Allah lorsque vous entrez dans le soir et lorsque vous entrez dans le matin ; à Lui seul revient toute louange dans les cieux et sur la terre, au déclin du soleil et lorsque vous entrez dans le milieu du jour.[10]",
+        "tr": "Öyleyse akşama erdiğinizde ve sabaha ulaştığınızda Allah’ı tesbih edin. Göklerde ve yerde hamd yalnızca O’na mahsustur; güneşin batıya yöneldiği vakitte ve öğle vaktine ulaştığınızda da.[10]",
+        "id": "Maka bertasbihlah kepada Allah ketika kamu memasuki waktu petang dan ketika kamu memasuki waktu pagi. Segala puji hanya bagi-Nya di langit dan di bumi, pada waktu matahari terbenam dan ketika kamu memasuki waktu tengah hari.[10]",
+        "bn": "অতএব, তোমরা সন্ধ্যায় উপনীত হলে এবং সকালে উপনীত হলে আল্লাহর পবিত্রতা ঘোষণা করো। আসমানসমূহ ও পৃথিবীতে সমস্ত প্রশংসা একমাত্র তাঁরই; সূর্য ঢলে পড়ার সময় এবং যখন তোমরা দুপুরে উপনীত হও।[10]",
+        "ms": "Maka bertasbihlah kepada Allah ketika kamu memasuki waktu petang dan ketika kamu memasuki waktu pagi. Segala puji hanya bagi-Nya di langit dan di bumi, pada waktu matahari tergelincir dan ketika kamu memasuki waktu tengah hari.[10]",
+        "ta": "ஆகவே, நீங்கள் மாலைப் பொழுதை அடையும்போதும் காலை வேளையை அடையும்போதும் அல்லாஹ்வைத் துதிப்பீராக. வானங்களிலும் பூமியிலும் உள்ள புகழ் அனைத்தும் அவனுக்கே உரியது; சூரியன் சாயும் வேளையிலும் நீங்கள் நண்பகலை அடையும்போதும்.[10]",
+        "ml": "അതിനാൽ, നിങ്ങൾ വൈകുന്നേരത്തിലെത്തുമ്പോഴും പ്രഭാതത്തിലെത്തുമ്പോഴും അല്ലാഹുവിന്റെ പരിശുദ്ധിയെ പ്രകീർത്തിക്കുക. ആകാശങ്ങളിലും ഭൂമിയിലുമുള്ള സർവസ്തുതിയും അവനു മാത്രമാണ്; സൂര്യൻ അസ്തമയത്തിലേക്ക് ചായുന്ന സമയത്തും നിങ്ങൾ ഉച്ചസമയത്തെത്തുമ്പോഴും.[10]"
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 34\nFor great sawab and protection from major sins\nIbne Babviya (a.r.) has through reliable sources reported that Ameer al Momeneen Hazrat Ali (a.s.) said that\n\nhe who recites this Dua thrice by evening or any time upto the end of evening he will not miss any good action that night and all evils and mischiefs will remain away from him. And he who recites this Dua, in the morning will also the same reward.\n\nفَسُبْحَانَ اللهِ حِيْنَ تُمْسُوْنَ وَ حِيْنَ تُصْبِحُوْنَ. وَ لَهُ الْحَمْدُ فِى السَّمَاوَاتِ وَ الْاَرْضِ وَ عَشِيًّا وَّ حِيْنَ تُظْهِرُوْنَ.\n\nTransliteration:\nfa-subhaanal laahe heena tumsoona wa heena tusbehoona. wa alhul hamdo fis-samaawaate wal arze wa a’shiyyawn wa heena tuzheroon.\n\nTranslation:\nSo Glory be to Allah when you enter evening and when you enter the morning, and for Him (alone) is all the praise in the heavens and the earth. At the sun’s decline and when you enter the noon.[10]",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    }
+  ]
+}

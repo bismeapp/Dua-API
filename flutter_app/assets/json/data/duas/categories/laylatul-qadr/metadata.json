@@ -1,0 +1,29 @@
+{
+    "id":  "laylatul-qadr",
+    "name":  {
+                 "en":  "Laylatul Qadr (Night of Power)",
+                 "ar":  "ليلة القدر",
+                 "ur":  "شب قدر",
+                 "fr":  "Nuit du Destin",
+                 "tr":  "Kadir Gecesi",
+                 "id":  "Lailatul Qadar",
+                 "bn":  "লাইলাতুল কদর",
+                 "ms":  "Lailatul Qadar",
+                 "ta":  "லைலத்துல் கத்ர்",
+                 "ml":  "ലൈലത്തുൽ ഖദ്ർ"
+             },
+    "description":  {
+                        "en":  "Category of duas: Laylatul Qadr (Night of Power)"
+                    },
+    "parent_id":  null,
+    "order":  39,
+    "theme":  {
+                  "color":  "purple",
+                  "gradient":  "from-purple-400 to-indigo-600",
+                  "bg":  "bg-purple-50",
+                  "border":  "border-purple-200",
+                  "text":  "text-purple-700"
+              },
+    "item_count":  1,
+    "data_file":  "duas.json"
+}

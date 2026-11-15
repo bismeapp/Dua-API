@@ -1,0 +1,137 @@
+{
+  "schema_version": "3.0.0",
+  "count": 10,
+  "featured_names": [
+    {
+      "id": "husna-featured-01",
+      "name_ref": "husna-01",
+      "number": 1,
+      "order": 1,
+      "arabic": "الرَّحْمَنُ",
+      "transliteration": "Ar-Rahman",
+      "meaning": {
+        "en": "The Most Gracious",
+        "ta": "மிகவும் கருணையுள்ளவன்",
+        "ml": "അതികാരുണികൻ"
+      }
+    },
+    {
+      "id": "husna-featured-02",
+      "name_ref": "husna-02",
+      "number": 2,
+      "order": 2,
+      "arabic": "الرَّحِيمُ",
+      "transliteration": "Ar-Raheem",
+      "meaning": {
+        "en": "The Most Merciful",
+        "ta": "மிகவும் இரக்கமுள்ளவன்",
+        "ml": "അതിദയാലു"
+      }
+    },
+    {
+      "id": "husna-featured-03",
+      "name_ref": "husna-03",
+      "number": 3,
+      "order": 3,
+      "arabic": "الْمَلِكُ",
+      "transliteration": "Al-Malik",
+      "meaning": {
+        "en": "The King",
+        "ta": "மன்னன்",
+        "ml": "രാജാവ്"
+      }
+    },
+    {
+      "id": "husna-featured-04",
+      "name_ref": "husna-04",
+      "number": 4,
+      "order": 4,
+      "arabic": "الْقُدُّوسُ",
+      "transliteration": "Al-Quddus",
+      "meaning": {
+        "en": "The Most Holy",
+        "ta": "மிகவும் புனிதமானவன்",
+        "ml": "പരിശുദ്ധൻ"
+      }
+    },
+    {
+      "id": "husna-featured-05",
+      "name_ref": "husna-05",
+      "number": 5,
+      "order": 5,
+      "arabic": "السَّلاَمُ",
+      "transliteration": "As-Salam",
+      "meaning": {
+        "en": "The Source of Peace",
+        "ta": "சாந்தியின் மூலம்",
+        "ml": "സമാധാനത്തിന്റെ ഉറവിടം"
+      }
+    },
+    {
+      "id": "husna-featured-06",
+      "name_ref": "husna-06",
+      "number": 6,
+      "order": 6,
+      "arabic": "الْمُؤْمِنُ",
+      "transliteration": "Al-Mu'min",
+      "meaning": {
+        "en": "The Guardian of Faith",
+        "ta": "நம்பிக்கையின் பாதுகாவலன்",
+        "ml": "വിശ്വാസത്തിന്റെ കാവൽക്കാരൻ"
+      }
+    },
+    {
+      "id": "husna-featured-07",
+      "name_ref": "husna-07",
+      "number": 7,
+      "order": 7,
+      "arabic": "الْمُهَيْمِنُ",
+      "transliteration": "Al-Muhaymin",
+      "meaning": {
+        "en": "The Protector",
+        "ta": "பாதுகாப்பாளன்",
+        "ml": "സംരക്ഷകൻ"
+      }
+    },
+    {
+      "id": "husna-featured-08",
+      "name_ref": "husna-08",
+      "number": 8,
+      "order": 8,
+      "arabic": "الْعَزِيزُ",
+      "transliteration": "Al-Aziz",
+      "meaning": {
+        "en": "The Almighty",
+        "ta": "வல்லமையுள்ளவன்",
+        "ml": "സർവശക്തൻ"
+      }
+    },
+    {
+      "id": "husna-featured-09",
+      "name_ref": "husna-09",
+      "number": 9,
+      "order": 9,
+      "arabic": "الْجَبَّارُ",
+      "transliteration": "Al-Jabbar",
+      "meaning": {
+        "en": "The Compeller",
+        "ta": "கட்டாயப்படுத்துபவன்",
+        "ml": "നിർബന്ധിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-featured-10",
+      "name_ref": "husna-10",
+      "number": 10,
+      "order": 10,
+      "arabic": "الْمُتَكَبِّرُ",
+      "transliteration": "Al-Mutakabbir",
+      "meaning": {
+        "en": "The Supreme",
+        "ta": "உயர்ந்தவன்",
+        "ml": "പരമാധികാരി"
+      }
+    }
+  ],
+  "note": "Featured subset preserved from the original asma-ul-husna category. Name #5 arabic differs diacritically from the master list (السَّلاَمُ vs السَّلَامُ); both forms preserved verbatim."
+}

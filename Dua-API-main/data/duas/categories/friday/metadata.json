@@ -1,0 +1,38 @@
+{
+  "id": "friday",
+  "name": {
+    "en": "Friday (Jummah)",
+    "ta": "வெள்ளிக்கிழமை (ஜும்ஆ)",
+    "ml": "വെള്ളിയാഴ്ച (ജുമുഅ)",
+    "ar": "يوم الجمعة",
+    "ur": "جمعہ",
+    "fr": "Vendredi (Jummah)",
+    "tr": "Cuma",
+    "id": "Hari Jumat",
+    "bn": "জুমার দিন",
+    "ms": "Hari Jumaat"
+  },
+  "description": {
+    "en": "Friday devotional supplications",
+    "ta": "வெள்ளிக்கிழமைக்கான இறைவேண்டுதல்கள்",
+    "ml": "വെള്ളിയാഴ്ചയിലെ പ്രാർഥനകൾ",
+    "ar": "أدعية يوم الجمعة",
+    "ur": "جمعہ کی دعائیں",
+    "fr": "Invocations du vendredi",
+    "tr": "Cuma günü duaları",
+    "id": "Doa-doa hari Jumat",
+    "bn": "শুক্রবারের দোয়াসমূহ",
+    "ms": "Doa-doa hari Jumaat"
+  },
+  "parent_id": null,
+  "order": 16,
+  "theme": {
+    "color": "yellow",
+    "gradient": "from-yellow-400 to-amber-500",
+    "bg": "bg-yellow-50",
+    "border": "border-yellow-200",
+    "text": "text-yellow-700"
+  },
+  "item_count": 3,
+  "data_file": "duas.json"
+}

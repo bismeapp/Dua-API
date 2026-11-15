@@ -1,0 +1,29 @@
+{
+  "id": "evil-eye",
+  "name": {
+    "en": "Protection from Evil Eye",
+    "ar": "الحماية من العين",
+    "ur": "نظرِ بد سے حفاظت",
+    "fr": "Protection contre le Mauvais Œil",
+    "tr": "Nazardan Korunma",
+    "id": "Perlindungan dari 'Ain",
+    "bn": "নজর থেকে সুরক্ষা",
+    "ms": "Perlindungan dari 'Ain",
+    "ta": "கெட்ட பார்வையிலிருந்து பாதுகாப்பு",
+    "ml": "ദൃഷ്ടിയിൽനിന്ന് സംരക്ഷണം"
+  },
+  "description": {
+    "en": "Category of duas: Protection from Evil Eye"
+  },
+  "parent_id": null,
+  "order": 26,
+  "theme": {
+    "color": "red",
+    "gradient": "from-red-500 to-pink-600",
+    "bg": "bg-red-50",
+    "border": "border-red-200",
+    "text": "text-red-700"
+  },
+  "item_count": 1,
+  "data_file": "duas.json"
+}

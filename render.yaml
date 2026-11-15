@@ -1,0 +1,17 @@
+# Render Blueprint — deploys the Bisme Radio Dua app + API on the FREE plan.
+# Usage: Render Dashboard -> New -> Blueprint -> pick this repo.
+services:
+  - type: web
+    name: bisme-radio-dua-api
+    runtime: node
+    plan: free
+    branch: main
+    autoDeploy: true
+    # --include=dev: Render sets NODE_ENV=production, which would otherwise skip
+    # the build tools (vite, typescript, tailwind) needed by `npm run build`.
+    buildCommand: npm ci --include=dev && npm run build
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_VERSION
+        value: 22

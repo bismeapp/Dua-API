@@ -1,0 +1,129 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "home",
+  "count": 3,
+  "duas": [
+    {
+      "id": "hm-1",
+      "category_id": "home",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Entering the Home",
+        "ar": "دخول البيت",
+        "ur": "گھر میں داخل ہونا",
+        "fr": "Entrer dans la Maison",
+        "tr": "Eve Girerken",
+        "id": "Masuk Rumah",
+        "bn": "ঘরে প্রবেশ",
+        "ms": "Masuk Rumah",
+        "ta": "வீட்டில் நுழையும்போது",
+        "ml": "വീട്ടിൽ പ്രവേശിക്കുമ്പോൾ"
+      },
+      "arabic": "بِسْمِ اللهِ وَلَجْنَا، وَبِسْمِ اللهِ خَرَجْنَا، وَعَلَى رَبِّنَا تَوَكَّلْنَا",
+      "translation": {
+        "en": "In the name of Allah we enter, in the name of Allah we leave, and upon our Lord we rely.",
+        "ar": "بسم الله ولجنا وبسم الله خرجنا وعلى ربنا توكلنا",
+        "ur": "اللہ کے نام سے ہم داخل ہوئے اور اللہ کے نام سے ہم نکلے اور اپنے رب پر بھروسہ کیا۔",
+        "fr": "Au nom d'Allah nous entrons, au nom d'Allah nous sortons, et sur notre Seigneur nous nous fions.",
+        "tr": "Allah'ın adıyla girdik, Allah'ın adıyla çıktık ve Rabbimize tevekkül ettik.",
+        "id": "Dengan nama Allah kami masuk, dengan nama Allah kami keluar, dan kepada Tuhan kami kami bertawakkal.",
+        "bn": "আল্লাহর নামে আমরা প্রবেশ করি, আল্লাহর নামে আমরা বের হই এবং আমাদের রবের উপর আমরা ভরসা করি।",
+        "ms": "Dengan nama Allah kami masuk, dengan nama Allah kami keluar, dan kepada Tuhan kami kami bertawakkal.",
+        "ta": "அல்லாஹ்வின் பெயரால் நுழைகிறோம், அல்லாஹ்வின் பெயரால் வெளியேறுகிறோம், எங்கள் இறைவன் மீது நம்பிக்கை வைக்கிறோம்.",
+        "ml": "അല്ലാഹുവിന്റെ നാമത്തിൽ ഞങ്ങൾ പ്രവേശിക്കുന്നു, അല്ലാഹുവിന്റെ നാമത്തിൽ ഞങ്ങൾ പുറപ്പെടുന്നു, ഞങ്ങളുടെ രക്ഷിതാവിൽ ഞങ്ങൾ ഭരമേൽപ്പിക്കുന്നു."
+      },
+      "reference": {
+        "source": "Abu",
+        "reference_text": "Abu Dawud 4/325"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "hm-2",
+      "category_id": "home",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "Leaving the Home",
+        "ar": "الخروج من البيت",
+        "ur": "گھر سے نکلنا",
+        "fr": "Sortir de la Maison",
+        "tr": "Evden Çıkarken",
+        "id": "Keluar Rumah",
+        "bn": "ঘর থেকে বের হওয়া",
+        "ms": "Keluar Rumah",
+        "ta": "வீட்டை விட்டு வெளியேறும்போது",
+        "ml": "വീട്ടിൽനിന്ന് പുറപ്പെടുമ്പോൾ"
+      },
+      "arabic": "بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللهِ",
+      "translation": {
+        "en": "In the name of Allah, I rely upon Allah, there is no might nor power except with Allah.",
+        "ar": "بسم الله، توكلت على الله، ولا حول ولا قوة إلا بالله",
+        "ur": "اللہ کے نام سے، میں نے اللہ پر بھروسہ کیا اور اللہ کے بغیر کوئی طاقت اور قوت نہیں۔",
+        "fr": "Au nom d'Allah, je me fie à Allah, il n'y a de puissance ni de force qu'en Allah.",
+        "tr": "Allah'ın adıyla, Allah'a tevekkül ettim, Allah'tan başka güç ve kuvvet yoktur.",
+        "id": "Dengan nama Allah, aku bertawakkal kepada Allah, tiada daya dan kekuatan kecuali dengan Allah.",
+        "bn": "আল্লাহর নামে, আমি আল্লাহর উপর ভরসা করি, আল্লাহ ছাড়া কোনো শক্তি ও ক্ষমতা নেই।",
+        "ms": "Dengan nama Allah, aku bertawakkal kepada Allah, tiada daya dan kekuatan kecuali dengan Allah.",
+        "ta": "அல்லாஹ்வின் பெயரால், அல்லாஹ்வின் மீது நம்பிக்கை வைக்கிறேன், அல்லாஹ்வைத் தவிர எந்த சக்தியும் வலிமையும் இல்லை.",
+        "ml": "അല്ലാഹുവിന്റെ നാമത്തിൽ, ഞാൻ അല്ലാഹുവിൽ ഭരമേൽപ്പിക്കുന്നു, അല്ലാഹുവല്ലാതെ ഒരു ശക്തിയും കഴിവും ഇല്ല."
+      },
+      "reference": {
+        "source": "Abu",
+        "reference_text": "Abu Dawud 4/325, Tirmidhi 5/490"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "d103-5",
+      "category_id": "home",
+      "subcategory_id": null,
+      "order": 5,
+      "title": {
+        "en": "While salvation of worldly and spiritual tasks at the time of leaving house",
+        "ar": "لتحقيق صلاح أمور الدنيا والآخرة عند مغادرة المنزل",
+        "ur": "گھر سے نکلتے وقت دنیوی اور روحانی امور کی بہتری کے لیے",
+        "fr": "Pour la réussite des affaires d’ici-bas et de l’au-delà en quittant la maison",
+        "tr": "Evden çıkarken dünya ve ahiret işlerinin hayırlı olması için",
+        "id": "Agar urusan dunia dan akhirat dimudahkan saat keluar rumah",
+        "bn": "বাড়ি থেকে বের হওয়ার সময় দুনিয়া ও আখিরাতের কাজের কল্যাণের জন্য",
+        "ms": "Agar urusan dunia dan akhirat dipermudah ketika keluar rumah",
+        "ta": "வீட்டிலிருந்து புறப்படும்போது உலக மற்றும் மறுமை காரியங்கள் நன்மைபெறுவதற்காக",
+        "ml": "വീട്ടിൽ നിന്ന് പുറപ്പെടുമ്പോൾ ഇഹലോകത്തെയും പരലോകത്തെയും കാര്യങ്ങൾ നന്നാകാൻ"
+      },
+      "arabic": "بِسْمِ اللَّهِ حَسْبِيَ اللَّهُ تَوَكَّلْتُ عَلَى اللَّهِ اَللّٰهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ أُمُوْرِيْ كُلِّهَا وَ أَعُوْذُ بِكَ مِنْ خِزْيِ الدُّنْيَا وَ عَذَابِ الْآخِرَةِ .",
+      "transliteration": "bismil laahe hasbeyal laaho tawakkalto a'lal laahe allaahumma innee as-aloka khayra omoori kullehaa wa a-o'ozo beka min khizyid dunyaa wa a'zaabil aakherah.",
+      "translation": {
+        "en": "I begin with the name of Allah. Allah is enough for me and him only I rely. O Allah I pray Thee for the welfare of all ray affairs and seek Thy shelter from the evils in this world and the torments of the Day of Judgement.",
+        "ar": "أبدأ باسم الله. حسبي الله، وعليه وحده توكلت. اللهم إني أسألك خير جميع أموري، وأعوذ بك من خزي الدنيا وعذاب يوم القيامة.",
+        "ur": "میں اللہ کے نام سے آغاز کرتا ہوں۔ اللہ میرے لیے کافی ہے اور میں نے اسی پر بھروسا کیا ہے۔ اے اللہ! میں اپنے تمام امور کی بھلائی تجھ سے مانگتا ہوں اور دنیا کی رسوائی اور قیامت کے دن کے عذاب سے تیری پناہ چاہتا ہوں۔",
+        "fr": "Je commence au nom d’Allah. Allah me suffit et c’est en Lui seul que je place ma confiance. Ô Allah, je Te demande le bien dans toutes mes affaires et je cherche refuge auprès de Toi contre l’humiliation de ce monde et le châtiment du Jour du Jugement.",
+        "tr": "Allah’ın adıyla başlarım. Allah bana yeter; yalnızca O’na güvendim. Allah’ım, bütün işlerimin hayırlı olmasını Senden diler, dünyanın rezilliğinden ve Kıyamet Günü’nün azabından Sana sığınırım.",
+        "id": "Aku memulai dengan nama Allah. Allah mencukupiku, dan hanya kepada-Nya aku bertawakal. Ya Allah, aku memohon kepada-Mu kebaikan dalam seluruh urusanku dan berlindung kepada-Mu dari kehinaan di dunia dan azab pada Hari Penghakiman.",
+        "bn": "আমি আল্লাহর নামে শুরু করছি। আল্লাহই আমার জন্য যথেষ্ট, এবং আমি শুধু তাঁরই ওপর ভরসা করি। হে আল্লাহ, আমি আমার সব কাজে কল্যাণ তোমার কাছে চাই এবং দুনিয়ার লাঞ্ছনা ও বিচার দিবসের শাস্তি থেকে তোমার আশ্রয় চাই।",
+        "ms": "Aku memulakan dengan nama Allah. Allah mencukupi bagiku dan hanya kepada-Nya aku berserah. Ya Allah, aku memohon kepada-Mu kebaikan dalam segala urusanku dan berlindung kepada-Mu daripada kehinaan di dunia serta azab pada Hari Penghakiman.",
+        "ta": "அல்லாஹ்வின் பெயரால் தொடங்குகிறேன். அல்லாஹ் எனக்குப் போதுமானவன்; அவனையே நான் முழுமையாக நம்பியிருக்கிறேன். அல்லாஹ்வே, என் எல்லாக் காரியங்களிலும் நன்மையை உன்னிடம் வேண்டுகிறேன்; இவ்வுலகின் இழிவிலிருந்தும் நியாயத் தீர்ப்பு நாளின் வேதனையிலிருந்தும் உன்னிடம் பாதுகாப்புத் தேடுகிறேன்.",
+        "ml": "അല്ലാഹുവിന്റെ നാമത്തിൽ ഞാൻ ആരംഭിക്കുന്നു. അല്ലാഹു എനിക്ക് മതി; അവനിൽ മാത്രമാണ് ഞാൻ ഭരമേൽപ്പിക്കുന്നത്. അല്ലാഹുവേ, എന്റെ എല്ലാ കാര്യങ്ങളിലും നന്മ ഞാൻ നിന്നോട് ചോദിക്കുന്നു; ഇഹലോകത്തിലെ അപമാനത്തിൽ നിന്നും ന്യായവിധി ദിവസത്തിലെ ശിക്ഷയിൽ നിന്നും നിന്നോട് അഭയം തേടുന്നു."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 5\nWhile salvation of worldly and spiritual tasks at the time of leaving house\nIt is stated from Imam Muhammed Baqir (a.s.) that\n\na person who will recite the following prayer when leaving the house, God will accomplish all his worldly and spiritual task of salvation:\n\nبِسْمِ اللَّهِ حَسْبِيَ اللَّهُ تَوَكَّلْتُ عَلَى اللَّهِ اَللّٰهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ أُمُوْرِيْ كُلِّهَا وَ أَعُوْذُ بِكَ مِنْ خِزْيِ الدُّنْيَا وَ عَذَابِ الْآخِرَةِ .\n\nTransliteration:\nbismil laahe hasbeyal laaho tawakkalto a’lal laahe allaahumma innee as-aloka khayra omoori kullehaa wa a-o’ozo beka min khizyid dunyaa wa a’zaabil aakherah.\n\nTranslation:\nI begin with the name of Allah. Allah is enough for me and him only I rely. O Allah I pray Thee for the welfare of all ray affairs and seek Thy shelter from the evils in this world and the torments of the Day of Judgement.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    }
+  ]
+}

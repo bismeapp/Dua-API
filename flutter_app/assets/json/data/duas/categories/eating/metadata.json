@@ -1,0 +1,29 @@
+{
+  "id": "eating",
+  "name": {
+    "en": "Before & After Eating",
+    "ar": "قبل وبعد الطعام",
+    "ur": "کھانے سے پہلے اور بعد",
+    "fr": "Avant et Après le Repas",
+    "tr": "Yemekten Önce ve Sonra",
+    "id": "Sebelum dan Sesudah Makan",
+    "bn": "খাওয়ার আগে ও পরে",
+    "ms": "Sebelum dan Selepas Makan",
+    "ta": "உணவுக்கு முன் மற்றும் பின்",
+    "ml": "ഭക്ഷണത്തിന് മുമ്പും ശേഷവും"
+  },
+  "description": {
+    "en": "Category of duas: Before & After Eating"
+  },
+  "parent_id": null,
+  "order": 2,
+  "theme": {
+    "color": "green",
+    "gradient": "from-green-400 to-emerald-500",
+    "bg": "bg-green-50",
+    "border": "border-green-200",
+    "text": "text-green-700"
+  },
+  "item_count": 4,
+  "data_file": "duas.json"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "bathroom",
+  "name": {
+    "en": "Bathroom",
+    "ar": "دخول الخلاء",
+    "ur": "بیت الخلا",
+    "fr": "Toilettes",
+    "tr": "Tuvalet",
+    "id": "Kamar Mandi",
+    "bn": "বাথরুম",
+    "ms": "Tandas",
+    "ta": "கழிப்பறை",
+    "ml": "ശൗചാലയം"
+  },
+  "description": {
+    "en": "Category of duas: Bathroom"
+  },
+  "parent_id": null,
+  "order": 6,
+  "theme": {
+    "color": "slate",
+    "gradient": "from-slate-400 to-gray-500",
+    "bg": "bg-slate-50",
+    "border": "border-slate-200",
+    "text": "text-slate-700"
+  },
+  "item_count": 2,
+  "data_file": "duas.json"
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "rain",
+  "count": 2,
+  "duas": [
+    {
+      "id": "ran-1",
+      "category_id": "rain",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "When It Rains",
+        "ar": "عند نزول المطر",
+        "ur": "بارش ہونے پر",
+        "fr": "Quand il Pleut",
+        "tr": "Yağmur Yağarken",
+        "id": "Saat Hujan Turun",
+        "bn": "বৃষ্টি হলে",
+        "ms": "Ketika Hujan Turun",
+        "ta": "மழை பெய்யும்போது",
+        "ml": "മഴ പെയ്യുമ്പോൾ"
+      },
+      "arabic": "اللَّهُمَّ صَيِّبًا نَافِعًا",
+      "translation": {
+        "en": "O Allah, (make it) a beneficial rain.",
+        "ar": "اللهم صيبا نافعا",
+        "ur": "اے اللہ! یہ نفع بخش بارش ہو۔",
+        "fr": "Ô Allah, (fais-en) une pluie bénéfique.",
+        "tr": "Allah'ım! (Bunu) faydalı bir yağmur kıl.",
+        "id": "Ya Allah, (jadikanlah) hujan yang bermanfaat.",
+        "bn": "হে আল্লাহ, (এটিকে) উপকারী বৃষ্টি করো।",
+        "ms": "Ya Allah, (jadikanlah) hujan yang bermanfaat.",
+        "ta": "இறைவா! (இதை) பயனுள்ள மழையாக ஆக்குவாயாக.",
+        "ml": "അല്ലാഹുവേ, (ഇത്) പ്രയോജനകരമായ മഴയാക്കണമേ."
+      },
+      "reference": {
+        "source": "Bukhari",
+        "reference_text": "Bukhari 2/158"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "ran-2",
+      "category_id": "rain",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "After Rain",
+        "ar": "بعد المطر",
+        "ur": "بارش کے بعد",
+        "fr": "Après la Pluie",
+        "tr": "Yağmurdan Sonra",
+        "id": "Setelah Hujan",
+        "bn": "বৃষ্টির পরে",
+        "ms": "Selepas Hujan",
+        "ta": "மழைக்கு பின்",
+        "ml": "മഴയ്ക്ക് ശേഷം"
+      },
+      "arabic": "مُطِرْنَا بِفَضْلِ اللهِ وَرَحْمَتِهِ",
+      "translation": {
+        "en": "We have been given rain by the grace and mercy of Allah.",
+        "ar": "مطرنا بفضل الله ورحمته",
+        "ur": "ہمیں اللہ کے فضل اور رحمت سے بارش ہوئی۔",
+        "fr": "Nous avons eu la pluie par la grâce et la miséricorde d'Allah.",
+        "tr": "Allah'ın lütfu ve rahmetiyle yağmur aldık.",
+        "id": "Kami diberi hujan dengan karunia dan rahmat Allah.",
+        "bn": "আল্লাহর অনুগ্রহ ও রহমতে আমাদের বৃষ্টি হয়েছে।",
+        "ms": "Kami diberi hujan dengan kurnia dan rahmat Allah.",
+        "ta": "அல்லாஹ்வின் அருளாலும் கிருபையாலும் நமக்கு மழை பெய்தது.",
+        "ml": "അല്ലാഹുവിന്റെ അനുഗ്രഹത്താലും കാരുണ്യത്താലും ഞങ്ങൾക്ക് മഴ ലഭിച്ചു."
+      },
+      "reference": {
+        "source": "Muslim",
+        "reference_text": "Muslim 1/83"
+      },
+      "repetition_count": 1
+    }
+  ]
+}

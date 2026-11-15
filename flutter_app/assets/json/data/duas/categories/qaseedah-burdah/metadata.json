@@ -1,0 +1,50 @@
+{
+  "id": "qaseedah-burdah",
+  "name": {
+    "en": "Qaseedah Burdhah",
+    "ta": "கஸீதா புர்தா",
+    "ml": "ഖസീദത്തുൽ ബുർദ",
+    "ar": "قصيدة البردة",
+    "ur": "قصیدہ بردہ",
+    "fr": "Qaseedah Burdhah",
+    "tr": "Kasîde-i Bürde",
+    "id": "Qasidah Burdah",
+    "bn": "কাসিদা বুরদাহ",
+    "ms": "Qasidah Burdah"
+  },
+  "display_title": {
+    "en": "Qaseedah Burdah Shareef",
+    "ta": "கஸீதா புர்தா ஷரீஃப்",
+    "ml": "ഖസീദത്തുൽ ബുർദ ശരീഫ്",
+    "ar": "قصيدة البردة الشريفة",
+    "ur": "قصیدہ بردہ شریف",
+    "fr": "Qaseedah Burdah Shareef",
+    "tr": "Kasîde-i Bürde Şerif",
+    "id": "Qasidah Burdah Shareef",
+    "bn": "কাসিদা বুরদাহ শরীফ",
+    "ms": "Qasidah Burdah Shareef"
+  },
+  "description": {
+    "tr": "Arapça şiir ve çevirileriyle Kasîde-i Bürde.",
+    "id": "Qasidah Burdah dengan syair Arab dan terjemahannya.",
+    "fr": "Qaseedah Burdah avec poésie arabe et traductions.",
+    "ta": "அரபுக் கவிதைகளும் மொழிபெயர்ப்புகளும் கொண்ட கஸீதா புர்தா.",
+    "ur": "عربی شاعری اور تراجم کے ساتھ قصیدہ بردہ۔",
+    "en": "Qaseedah Burdah with Arabic poetry and translations.",
+    "ms": "Qasidah Burdah dengan syair Arab dan terjemahannya.",
+    "bn": "আরবি কবিতা ও অনুবাদসহ কাসিদা বুরদাহ।",
+    "ml": "അറബി കവിതകളും വിവർത്തനങ്ങളുമുള്ള ഖസീദത്തുൽ ബുർദ.",
+    "ar": "قصيدة البردة بالنص العربي وترجماته."
+  },
+  "parent_id": null,
+  "order": 40,
+  "theme": {
+    "color": "emerald",
+    "gradient": "from-emerald-500 to-teal-700",
+    "bg": "bg-emerald-50",
+    "border": "border-emerald-200",
+    "text": "text-emerald-700"
+  },
+  "item_count": 167,
+  "data_file": "duas.json"
+}

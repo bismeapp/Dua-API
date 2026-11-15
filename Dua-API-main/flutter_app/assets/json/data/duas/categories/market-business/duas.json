@@ -1,0 +1,143 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "market-business",
+  "count": 3,
+  "duas": [
+    {
+      "id": "mb-1",
+      "category_id": "market-business",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Entering the Market",
+        "ar": "دخول السوق",
+        "ur": "بازار میں داخل ہونا",
+        "fr": "Entrer au Marché",
+        "tr": "Pazara Girerken",
+        "id": "Masuk Pasar",
+        "bn": "বাজারে প্রবেশ",
+        "ms": "Masuk Pasar",
+        "ta": "சந்தைக்குள் நுழையும்போது",
+        "ml": "ചന്തയിൽ പ്രവേശിക്കുമ്പോൾ"
+      },
+      "arabic": "لاَ إِلَٰهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، يُحْيِي وَيُمِيتُ، وَهُوَ حَيٌّ لاَ يَمُوتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "translation": {
+        "en": "There is no god but Allah alone, without partner. To Him belongs the dominion and to Him belongs all praise. He gives life and He causes death. He is the Living who does not die. In His hand is all goodness, and He is over all things omnipotent.",
+        "ar": "لا إله إلا الله وحده لا شريك له، له الملك وله الحمد، يحيي ويميت، وهو حي لا يموت، بيده الخير، وهو على كل شيء قدير",
+        "ur": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، بادشاہت اسی کی ہے اور تمام تعریف اسی کے لیے ہے، وہ زندہ کرتا ہے اور وہی مارتا ہے، وہ زندہ ہے نہیں مرتا، بھلائی اس کے ہاتھ میں ہے اور وہ ہر چیز پر قادر ہے۔",
+        "fr": "Il n'y a de dieu qu'Allah seul, sans associé. À Lui appartient la royauté et à Lui appartient toute louange. Il donne la vie et Il donne la mort. Il est le Vivant qui ne meurt pas. Dans Sa main est tout bien, et Il est Omnipotent sur toute chose.",
+        "tr": "Allah'tan başka ilah yoktur, O tektir, ortağı yoktur. Mülk O'nundur, hamd O'nadır. O diriltir ve öldürür. O, ölmeyen Hayy'dır. Hayır O'nun elindedir ve O her şeye kadirdir.",
+        "id": "Tiada tuhan selain Allah Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian. Dia menghidupkan dan mematikan. Dia Yang Hidup yang tidak mati. Di tangan-Nya segala kebaikan, dan Dia Maha Kuasa atas segala sesuatu.",
+        "bn": "আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি একক, তাঁর কোনো শরীক নেই। কর্তৃত্ব তাঁরই এবং সমস্ত প্রশংসা তাঁরই। তিনি জীবন দান করেন এবং মৃত্যু দান করেন। তিনি চিরঞ্জীব যিনি মরেন না। সকল কল্যাণ তাঁর হাতে এবং তিনি সব কিছুর উপর সর্বশক্তিমান।",
+        "ms": "Tiada Tuhan selain Allah Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian. Dia menghidupkan dan mematikan. Dia Yang Hidup yang tidak mati. Di tangan-Nya segala kebaikan, dan Dia Maha Kuasa atas segala sesuatu.",
+        "ta": "அல்லாஹ் தவிர வணக்கத்திற்குரியவர் இல்லை, அவன் ஒற்றையானவன், அவனுக்கு இணையில்லை. ஆளுகை அவனுக்கே, புகழ் அவனுக்கே. அவன் உயிர் கொடுக்கிறான், மரணம் அளிக்கிறான். அவன் சாகாத வாழ்வான். எல்லா நன்மையும் அவன் கையில், அவன் எல்லாப் பொருட்களின் மீதும் வல்லமையுள்ளவன்.",
+        "ml": "അല്ലാഹു അല്ലാതെ ആരാധനയർഹനായ ദൈവമില്ല, അവൻ ഒറ്റവനാണ്, അവന് പങ്കാളികളില്ല. ആധിപത്യം അവന്റേതാണ്, സ്തുതി അവന്റേതാണ്. അവൻ ജീവിപ്പിക്കുകയും കൊല്ലുകയും ചെയ്യുന്നു. അവൻ മരിക്കാത്ത ജീവനാണ്. എല്ലാ നന്മയും അവന്റെ കൈയിലാണ്, അവൻ എല്ലാറ്റിന്മേലും സർവശക്തനാണ്."
+      },
+      "reference": {
+        "source": "Tirmidhi",
+        "reference_text": "Tirmidhi 5/503"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "d103-91",
+      "category_id": "market-business",
+      "subcategory_id": null,
+      "order": 91,
+      "title": {
+        "en": "Dua at the Time of Purchase",
+        "ar": "الدعاء عند الشراء",
+        "ur": "خریداری کے وقت کی دعا",
+        "fr": "Invocation au moment de l’achat",
+        "tr": "Alışveriş Sırasında Okunan Dua",
+        "id": "Doa Saat Membeli",
+        "bn": "কেনাকাটার সময়ের দোয়া",
+        "ms": "Doa Ketika Membeli",
+        "ta": "வாங்கும் நேரத்தில் ஓதும் துஆ",
+        "ml": "വാങ്ങുമ്പോൾ ചൊല്ലേണ്ട ദുആ"
+      },
+      "arabic": "اَللّٰهُمَّ إِنِّي اشْتَرَيْتُهٗ أَلْتَمِسُ فِيْهِ مِنْ فَضْلِكَ فَصَلِّ عَلٰى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ اَللّٰهُمَّ فَاجْعَلْ لِي فِيْهِ فَضْلًا اَللّٰهُمَّ إِنِّي اشْتَرَيْتُهٗ أَلْتَمِسُ فِيهِ مِنْ رِزْقِك‏ فَاجْعَلْ فِيهِ رِزْقاً.",
+      "transliteration": "Allaahumma innish taraytohu altameso feehe min fazleka fa-salle a'laa mohammadin wa aale mohammadin allaahumma faj-a'l lee feehe fazlan allaahumma innish taraytohu altameso feehe min rizqeka faj-a'l feehe rizqan.",
+      "translation": {
+        "en": "O Allah! I have bought that thing that I may gain some benefit from it through You. Thou thus ordain for me some reward in it. O Allah 1 have bought it with purpose that it may be the cause of your further blessing, thus ordain for relevant blessing in this thing. O Allah I have bought it that through it you may give me my daily bread this determine course to increase my daily bread.",
+        "ar": "اللهم، لقد اشتريت هذا الشيء راجيًا أن أنال به بعض الفضل منك، فاجعل لي فيه ثوابًا. اللهم، لقد اشتريته راجيًا أن يكون سببًا لمزيد من بركتك، فاجعل لي فيه بركة. اللهم، لقد اشتريته راجيًا أن ترزقني به، فاجعله سببًا لزيادة رزقي.",
+        "ur": "اے اللہ! میں نے یہ چیز اس امید سے خریدی ہے کہ تیرے ذریعے اس سے کچھ فائدہ حاصل کروں، پس اس میں میرے لیے کچھ اجر مقرر فرما۔ اے اللہ! میں نے اسے اس غرض سے خریدا ہے کہ یہ تیری مزید برکت کا سبب بنے، پس اس چیز میں میرے لیے برکت مقرر فرما۔ اے اللہ! میں نے اسے اس امید سے خریدا ہے کہ اس کے ذریعے تو مجھے روزی عطا فرمائے، پس اسے میری روزی میں اضافے کا ذریعہ بنا۔",
+        "fr": "Ô Allah, j’ai acheté cette chose dans l’espoir d’en tirer quelque bien grâce à Toi ; accorde-moi donc une récompense en elle. Ô Allah, je l’ai achetée dans l’espoir qu’elle soit une cause de bénédiction accrue de Ta part ; accorde-moi donc une bénédiction en cette chose. Ô Allah, je l’ai achetée dans l’espoir que Tu m’accordes ma subsistance par son intermédiaire ; fais-en donc un moyen d’augmenter ma subsistance.",
+        "tr": "Allah’ım! Bu şeyi, Senin lütfunla ondan bir fayda elde etmeyi umarak satın aldım; öyleyse onda bana bir sevap nasip et. Allah’ım! Onu, Senin daha fazla bereketine vesile olması ümidiyle satın aldım; öyleyse bu şeyde bana bereket nasip et. Allah’ım! Onu, onun aracılığıyla bana rızık vermeni umarak satın aldım; öyleyse onu rızkımın artmasına vesile kıl.",
+        "id": "Ya Allah! Aku telah membeli barang ini dengan harapan dapat memperoleh manfaat darinya melalui-Mu. Maka, tetapkanlah bagiku suatu pahala di dalamnya. Ya Allah, aku membelinya dengan harapan agar barang ini menjadi sebab bertambahnya berkah dari-Mu. Maka, tetapkanlah keberkahan bagiku dalam barang ini. Ya Allah, aku membelinya dengan harapan agar melalui barang ini Engkau memberiku rezeki. Maka, jadikanlah ia sebab bertambahnya rezekiku.",
+        "bn": "হে আল্লাহ! আপনার অনুগ্রহে এর থেকে কিছু উপকার লাভের আশায় আমি এই জিনিসটি কিনেছি। তাই এতে আমার জন্য কিছু সওয়াব নির্ধারণ করুন। হে আল্লাহ! আপনার আরও বরকত লাভের মাধ্যম হবে—এই আশায় আমি এটি কিনেছি। তাই এই জিনিসে আমার জন্য বরকত নির্ধারণ করুন। হে আল্লাহ! এর মাধ্যমে আপনি আমাকে রিজিক দেবেন—এই আশায় আমি এটি কিনেছি। তাই একে আমার রিজিক বৃদ্ধির উপায় করে দিন।",
+        "ms": "Ya Allah! Aku telah membeli barang ini dengan harapan memperoleh manfaat daripadanya melalui-Mu. Maka, tetapkanlah bagiku suatu pahala padanya. Ya Allah, aku membelinya dengan harapan agar barang ini menjadi sebab bertambahnya keberkatan daripada-Mu. Maka, tetapkanlah keberkatan bagiku pada barang ini. Ya Allah, aku membelinya dengan harapan agar melalui barang ini Engkau mengurniakan rezeki kepadaku. Maka, jadikannya sebab bertambahnya rezekiku.",
+        "ta": "அல்லாஹ்வே! உன் அருளால் இதிலிருந்து ஏதேனும் பயன் பெறலாம் என்ற நம்பிக்கையில் இந்தப் பொருளை வாங்கியுள்ளேன். எனவே, இதில் எனக்குச் சில நன்மைகளை நிர்ணயிப்பாயாக. அல்லாஹ்வே! உன்னுடைய மேலும் அதிகமான அருளுக்குக் காரணமாக அமையும் என்ற நம்பிக்கையில் இதை வாங்கியுள்ளேன். எனவே, இந்தப் பொருளில் எனக்கு அருளை நிர்ணயிப்பாயாக. அல்லாஹ்வே! இதன் மூலம் நீ எனக்கு வாழ்வாதாரம் வழங்குவாய் என்ற நம்பிக்கையில் இதை வாங்கியுள்ளேன். எனவே, என் வாழ்வாதாரம் பெருகுவதற்கு இதைக் காரணமாக்குவாயாக.",
+        "ml": "അല്ലാഹുവേ! നിന്റെ അനുഗ്രഹത്താൽ ഇതിൽനിന്ന് എന്തെങ്കിലും പ്രയോജനം ലഭിക്കുമെന്ന പ്രതീക്ഷയിൽ ഞാൻ ഈ വസ്തു വാങ്ങിയിരിക്കുന്നു. അതിനാൽ, ഇതിൽ എനിക്ക് കുറച്ച് പ്രതിഫലം നിശ്ചയിക്കേണമേ. അല്ലാഹുവേ! നിന്റെ കൂടുതൽ അനുഗ്രഹത്തിന് കാരണമാകുമെന്ന പ്രതീക്ഷയിലാണ് ഞാൻ ഇത് വാങ്ങിയത്. അതിനാൽ, ഈ വസ്തുവിൽ എനിക്ക് അനുഗ്രഹം നിശ്ചയിക്കേണമേ. അല്ലാഹുവേ! ഇതിലൂടെ നീ എനിക്ക് ഉപജീവനം നൽകുമെന്ന പ്രതീക്ഷയിൽ ഞാൻ ഇത് വാങ്ങിയിരിക്കുന്നു. അതിനാൽ, എന്റെ ഉപജീവനം വർധിക്കുന്നതിന് ഇതിനെ കാരണമാക്കേണമേ."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 91\nDua at the Time of Purchase\nAccording to Imam Ja’far-e-Sadiq (a.s.) whenever one buys something one should say Allaho-Akbar thrice and then recite the following prayers:\n\nاَللّٰهُمَّ إِنِّي اشْتَرَيْتُهٗ أَلْتَمِسُ فِيْهِ مِنْ فَضْلِكَ فَصَلِّ عَلٰى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ اَللّٰهُمَّ فَاجْعَلْ لِي فِيْهِ فَضْلًا اَللّٰهُمَّ إِنِّي اشْتَرَيْتُهٗ أَلْتَمِسُ فِيهِ مِنْ رِزْقِك‏ فَاجْعَلْ فِيهِ رِزْقاً.\n\nTransliteration:\nAllaahumma innish taraytohu altameso feehe min fazleka fa-salle a’laa mohammadin wa aale mohammadin allaahumma faj-a’l lee feehe fazlan allaahumma innish taraytohu altameso feehe min rizqeka faj-a’l feehe rizqan.\n\nTranslation:\nO Allah! I have bought that thing that I may gain some benefit from it through You. Thou thus ordain for me some reward in it. O Allah 1 have bought it with purpose that it may be the cause of your further blessing, thus ordain for relevant blessing in this thing. O Allah I have bought it that through it you may give me my daily bread this determine course to increase my daily bread.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    },
+    {
+      "id": "d103-92",
+      "category_id": "market-business",
+      "subcategory_id": null,
+      "order": 92,
+      "title": {
+        "en": "Dua to Recite When Buying Something from Someone",
+        "ta": "பிறரிடம் பொருள் வாங்கும்போது ஓதும் துஆ",
+        "ml": "മറ്റൊരാളിൽ നിന്ന് സാധനം വാങ്ങുമ്പോൾ ചൊല്ലുന്ന ദുആ",
+        "ar": "دعاء عند شراء شيء من شخص آخر",
+        "ur": "کسی سے کوئی چیز خریدتے وقت کی دعا",
+        "fr": "Invocation à réciter lors de l’achat d’un bien à quelqu’un",
+        "tr": "Birinden bir şey satın alırken okunacak dua",
+        "id": "Doa saat membeli barang dari orang lain",
+        "bn": "অন্যের কাছ থেকে কিছু কেনার সময়ের দোয়া",
+        "ms": "Doa ketika membeli sesuatu daripada orang lain"
+      },
+      "arabic": "يَا حَيُّ يَا قَيُّوْمُ يَا دَآئِمُ يَا رَءُوْفُ يَا رَحِيْمُ أَسْأَلُكَ بِعِزَّتِكَ وَ قُدْرَتِكَ وَ مَا أَحَاطَ بِهٖ عِلْمُكَ أَنْ تَقْسِمَ لِي مِنَ التِّجَارَةِ الْيَوْمَ أَعْظَمَهَا رِزْقاً وَ أَوْسَعَهَا فَضْلًا وَ خَيْرَهَا عَاقِبَةً فَإِنَّهٗ لَا خَيْرَ فِيْمَا لَا عَاقِبَةَ لَهٗ.",
+      "transliteration": "Yaa hayyo yaa qayyoomo yaa daaa-emo yaa ra-oofo yaa raheemo as-aloka be-Izzateka wa qudrateka wa maa ahaata behi I'lmoka an taqsema lee menat tejaaratil yawma a-a'zamahaa rizqan wa aw-sa-a'haa fazlan wa khayrahaa a'aqebatan fa-innahu laa khayra feemaa laa a'aqebata lahu.",
+      "translation": {
+        "en": "O the Ever-living the Self subsisting; the Eternal the Generous the Merciful, I bind Thee and by thy dignity, Thy might and all those thing which are in thy knowledge and beg Thee to increase my prosperity and respect and make my end good through today’s trade, as those things whose end is not good are never good.",
+        "ar": "يا حي يا قيوم، يا دائم، يا رؤوف، يا رحيم، أسألك بعزتك وقدرتك وبكل ما أحاط به علمك أن تزيد رزقي ومكانتي، وأن تجعل عاقبة تجارتي اليوم حسنة، فإن ما لا عاقبة حسنة له لا خير فيه.",
+        "ur": "اے ہمیشہ زندہ رہنے والے، سب کو سنبھالنے والے، ہمیشہ باقی رہنے والے، نہایت مہربان اور رحم کرنے والے! میں تیری عزت، تیری قدرت اور ان تمام چیزوں کا واسطہ دے کر جو تیرے علم میں ہیں، تجھ سے درخواست کرتا ہوں کہ آج کی تجارت کے ذریعے میری خوش حالی اور عزت میں اضافہ فرما اور میرا انجام اچھا کر، کیونکہ جس چیز کا انجام اچھا نہ ہو، اس میں کبھی بھلائی نہیں ہوتی۔",
+        "fr": "Ô Toi, le Vivant, Celui qui subsiste par Lui-même, l’Éternel, le Généreux, le Miséricordieux ! Je Te prie, par Ta dignité, Ta puissance et tout ce que Ta connaissance embrasse, d’accroître ma prospérité et mon estime, et de faire que le commerce d’aujourd’hui ait une bonne issue pour moi, car il n’y a jamais de bien dans ce qui n’a pas une bonne issue.",
+        "tr": "Ey Diri olan, her şeyi ayakta tutan, Ebedî, Cömert ve Merhametli olan! Senden, izzetin, kudretin ve ilminin kuşattığı her şey adına, bugünkü alışverişim sayesinde rızkımı ve itibarımı artırmanı ve sonumu hayırlı kılmanı diliyorum; çünkü sonu hayırlı olmayan şeyde asla hayır yoktur.",
+        "id": "Wahai Yang Mahahidup, Yang Maha Berdiri Sendiri, Yang Kekal, Yang Maha Pemurah, Yang Maha Pengasih! Aku memohon kepada-Mu, demi kemuliaan-Mu, kekuasaan-Mu, dan segala sesuatu yang tercakup dalam pengetahuan-Mu, agar Engkau menambah kemakmuran dan kehormatanku melalui perdagangan hari ini, serta menjadikan kesudahannya baik bagiku, karena tidak ada kebaikan dalam sesuatu yang kesudahannya tidak baik.",
+        "bn": "হে চিরঞ্জীব, হে স্বয়ংসম্পূর্ণ, হে চিরস্থায়ী, হে পরম স্নেহশীল, হে পরম দয়ালু! তোমার মর্যাদা, তোমার ক্ষমতা এবং তোমার জ্ঞানের আওতায় থাকা সবকিছুর দোহাই দিয়ে তোমার কাছে প্রার্থনা করছি, আজকের ব্যবসার মাধ্যমে আমার সমৃদ্ধি ও সম্মান বাড়িয়ে দাও এবং এর পরিণতি আমার জন্য কল্যাণময় করো; কারণ যার পরিণতি ভালো নয়, তাতে কখনো কল্যাণ নেই।",
+        "ms": "Wahai Yang Maha Hidup, Yang Maha Berdiri Sendiri, Yang Kekal, Yang Maha Pemurah lagi Maha Penyayang! Aku memohon kepada-Mu, demi kemuliaan-Mu, kekuasaan-Mu dan segala yang diliputi ilmu-Mu, agar Engkau menambahkan kemakmuran dan kehormatanku melalui urus niaga hari ini, serta menjadikan kesudahannya baik bagiku, kerana tiada kebaikan pada sesuatu yang kesudahannya tidak baik.",
+        "ta": "என்றும் உயிரோடிருப்பவனே, தன்னிறைவானவனே, நித்தியமானவனே, பேரன்புடையவனே, கருணைமிக்கவனே! உனது கண்ணியம், வல்லமை மற்றும் உனது அறிவால் சூழப்பட்டுள்ள அனைத்தையும் முன்வைத்து உன்னிடம் வேண்டுகிறேன்: இன்றைய வணிகத்தின் மூலம் எனது செழிப்பையும் மதிப்பையும் அதிகரித்து, அதன் முடிவை எனக்கு நன்மையானதாக ஆக்குவாயாக. ஏனெனில் நல்ல முடிவு இல்லாதவற்றில் ஒருபோதும் நன்மை இல்லை.",
+        "ml": "എന്നും ജീവിച്ചിരിക്കുന്നവനേ, സ്വയം നിലനിൽക്കുന്നവനേ, നിത്യനായവനേ, ഉദാരനും കരുണാമയനുമായവനേ! നിന്റെ മഹത്വവും ശക്തിയും നിന്റെ അറിവിൽ ഉൾപ്പെട്ടിരിക്കുന്ന എല്ലാം മുൻനിർത്തി ഞാൻ നിന്നോട് അപേക്ഷിക്കുന്നു: ഇന്നത്തെ വ്യാപാരത്തിലൂടെ എന്റെ സമൃദ്ധിയും മാന്യതയും വർധിപ്പിക്കുകയും അതിന്റെ പര്യവസാനം എനിക്ക് നന്മയുള്ളതാക്കുകയും ചെയ്യേണമേ. കാരണം, നല്ല പര്യവസാനമില്ലാത്തതിൽ ഒരിക്കലും നന്മയില്ല."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 92\nDua at the time of purchase\nA reliable tradition from Imam Ja’far-e-Sadiq (a.s.) states that whenever one wants to buy something one should recite the following Dua thrice:\n\nيَا حَيُّ يَا قَيُّوْمُ يَا دَآئِمُ يَا رَءُوْفُ يَا رَحِيْمُ أَسْأَلُكَ بِعِزَّتِكَ وَ قُدْرَتِكَ وَ مَا أَحَاطَ بِهٖ عِلْمُكَ أَنْ تَقْسِمَ لِي مِنَ التِّجَارَةِ الْيَوْمَ أَعْظَمَهَا رِزْقاً وَ أَوْسَعَهَا فَضْلًا وَ خَيْرَهَا عَاقِبَةً فَإِنَّهٗ لَا خَيْرَ فِيْمَا لَا عَاقِبَةَ لَهٗ.\n\nTransliteration:\nYaa hayyo yaa qayyoomo yaa daaa-emo yaa ra-oofo yaa raheemo as-aloka be-Izzateka wa qudrateka wa maa ahaata behi I’lmoka an taqsema lee menat tejaaratil yawma a-a’zamahaa rizqan wa aw-sa-a’haa fazlan wa khayrahaa a’aqebatan fa-innahu laa khayra feemaa laa a’aqebata lahu.\n\nTranslation:\nO the Ever-living the Self subsisting; the Eternal the Generous the Merciful, I bind Thee and by thy dignity, Thy might and all those thing which are in thy knowledge and beg Thee to increase my prosperity and respect and make my end good through today’s trade, as those things whose end is not good are never good.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    }
+  ]
+}

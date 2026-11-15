@@ -1,0 +1,38 @@
+{
+  "id": "salawat",
+  "name": {
+    "en": "Salawat upon the Prophet",
+    "ar": "الصلاة على النبي",
+    "ur": "درود شریف",
+    "fr": "Salawat sur le Prophète",
+    "tr": "Peygamber'e Salavat",
+    "id": "Shalawat atas Nabi",
+    "bn": "নবীর উপর দরূদ",
+    "ms": "Selawat ke atas Nabi",
+    "ta": "நபி மீது ஸலவாத்",
+    "ml": "നബി മേൽ സ്വലാത്ത്"
+  },
+  "description": {
+    "en": "User-supplied devotional Salawat formulas. The Ibrahimiyyah is identified as the Tashahhud formula; no authenticity claim is made for the other formulas.",
+    "ta": "பயனர் வழங்கிய ஸலவாத் துஆ வடிவங்கள். இப்ராஹீமிய்யா தஷஹ்ஹுதில் ஓதும் வடிவமாகக் குறிப்பிடப்பட்டுள்ளது; மற்ற வடிவங்களுக்கு நம்பகத்தன்மை குறித்த எந்தக் கூற்றும் முன்வைக்கப்படவில்லை.",
+    "ml": "ഉപയോക്താവ് നൽകിയ സ്വലാത്ത് പ്രാർഥനാ രൂപങ്ങൾ. ഇബ്രാഹീമിയ്യ തശഹ്ഹുദിൽ ചൊല്ലുന്ന രൂപമായി അടയാളപ്പെടുത്തിയിരിക്കുന്നു; മറ്റ് രൂപങ്ങളുടെ ആധികാരികതയെക്കുറിച്ച് അവകാശവാദമില്ല.",
+    "ar": "صيغ الصلاة على النبي التي قدمها المستخدم. وقد حُددت الإبراهيمية بصيغة التشهد، ولا يُدّعى ثبوت الصيغ الأخرى.",
+    "ur": "صارف کی فراہم کردہ صلوات کی دعائیہ صورتیں۔ ابراہیمیہ کو تشہد میں پڑھی جانے والی صورت کے طور پر شناخت کیا گیا ہے؛ دیگر صورتوں کی صحت کا دعویٰ نہیں کیا گیا۔",
+    "fr": "Formules de Salawat fournies par l’utilisateur. L’Ibrahimiyyah est identifiée comme la formule du Tashahhud ; aucune authenticité n’est revendiquée pour les autres formules.",
+    "tr": "Kullanıcının sağladığı salavat duaları. İbrahimiyye, Tahiyyat'ta okunan biçim olarak belirtilmiştir; diğer biçimlerin sahih olduğu iddia edilmemektedir.",
+    "id": "Bentuk-bentuk Salawat yang diberikan pengguna. Ibrahimiyyah ditandai sebagai bacaan Tasyahud; tidak ada klaim keaslian untuk bentuk lainnya.",
+    "bn": "ব্যবহারকারীর দেওয়া দরুদের দোয়ার রূপ। ইবরাহিমিয়্যাকে তাশাহহুদের রূপ হিসেবে চিহ্নিত করা হয়েছে; অন্য রূপগুলোর সত্যতা দাবি করা হয়নি।",
+    "ms": "Bentuk-bentuk selawat yang diberikan pengguna. Ibrahimiyyah dikenal pasti sebagai lafaz Tasyahhud; tiada dakwaan kesahihan dibuat bagi bentuk yang lain."
+  },
+  "parent_id": null,
+  "order": 19,
+  "theme": {
+    "color": "emerald",
+    "gradient": "from-emerald-400 to-green-600",
+    "bg": "bg-emerald-50",
+    "border": "border-emerald-200",
+    "text": "text-emerald-700"
+  },
+  "item_count": 10,
+  "data_file": "duas.json"
+}

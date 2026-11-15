@@ -1,0 +1,279 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "debt-poverty",
+  "count": 6,
+  "duas": [
+    {
+      "id": "dp-1",
+      "category_id": "debt-poverty",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Dua for Paying Off Debt",
+        "ar": "دعاء قضاء الدين",
+        "ur": "قرض ادا کرنے کی دعا",
+        "fr": "Doua pour Payer la Dette",
+        "tr": "Borç Ödeme Duası",
+        "id": "Doa Melunasi Hutang",
+        "bn": "ঋণ পরিশোধের দোয়া",
+        "ms": "Doa Melunaskan Hutang",
+        "ta": "கடனை தீர்க்கும் துஆ",
+        "ml": "കടം വീട്ടാനുള്ള ദുആ"
+      },
+      "arabic": "اللَّهُمَّ اكْفِنِي بِحَلاَلِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+      "translation": {
+        "en": "O Allah, suffice me with what You have made lawful over what You have made unlawful, and enrich me by Your grace over anyone other than You.",
+        "ar": "اللهم اكفني بحلالك عن حرامك وأغنني بفضلك عمن سواك",
+        "ur": "اے اللہ! مجھے اپنے حلال سے اپنے حرام سے بے نیاز کر دے اور اپنے فضل سے اپنے سوا ہر ایک سے بے نیاز کر دے۔",
+        "fr": "Ô Allah, suffis-moi par ce que Tu as rendu licite de ce que Tu as rendu illicite, et enrichis-moi par Ta grâce de quiconque autre que Toi.",
+        "tr": "Allah'ım! Haram kıldıklarından helal kıldıklarınla beni koru ve fazlınla Senden başkasından beni zengin kıl.",
+        "id": "Ya Allah, cukupkanlah aku dengan yang halal dari-Mu dari yang haram dari-Mu, dan kayakanlah aku dengan karunia-Mu dari selain Engkau.",
+        "bn": "হে আল্লাহ, তোমার হালাল দ্বারা তোমার হারাম থেকে আমাকে যথেষ্ট করো এবং তোমার অনুগ্রহ দ্বারা তোমার বাইরে অন্যদের থেকে আমাকে সমৃদ্ধ করো।",
+        "ms": "Ya Allah, cukupkanlah aku dengan yang halal dari-Mu dari yang haram dari-Mu, dan kayakanlah aku dengan kurnia-Mu dari selain Engkau.",
+        "ta": "இறைவா! உமது ஹராமிலிருந்து உமது ஹலாலால் எனக்கு போதுமானதாக இருப்பாயாக, மேலும் உமது அருளால் உம்மைத் தவிர மற்றவர்களிடமிருந்து எனனை செல்வமாக்குவாயாக.",
+        "ml": "അല്ലാഹുവേ, നിന്റെ ഹറാമിൽനിന്ന് നിന്റെ ഹലാൽകൊണ്ട് എന്നെ പര്യാപ്തനാക്കണമേ, നിന്റെ അനുഗ്രഹംകൊണ്ട് നിന്നല്ലാതെ മറ്റുള്ളവരിൽനിന്ന് എന്നെ സമ്പന്നനാക്കണമേ."
+      },
+      "reference": {
+        "source": "Tirmidhi",
+        "reference_text": "Tirmidhi 5/526"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "dp-2",
+      "category_id": "debt-poverty",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "Seeking Refuge from Debt",
+        "ar": "الاستعاذة من الدين",
+        "ur": "قرض سے پناہ",
+        "fr": "Chercher Refuge contre la Dette",
+        "tr": "Borçtan Korunma",
+        "id": "Berlindung dari Hutang",
+        "bn": "ঋণ থেকে আশ্রয়",
+        "ms": "Berlindung dari Hutang",
+        "ta": "கடனிலிருந்து புகலடைதல்",
+        "ml": "കടത്തിൽനിന്ന് അഭയം തേടുന്നു"
+      },
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+      "translation": {
+        "en": "O Allah, I seek refuge in You from anxiety and sorrow, weakness and laziness, miserliness and cowardice, the burden of debts and from being overpowered by men.",
+        "ar": "اللهم إني أعوذ بك من الهم والحزن والعجز والكسل والبخل والجبن وضلع الدين وغلبة الرجال",
+        "ur": "اے اللہ! میں تیری پناہ مانگتا ہوں فکر اور غم سے، کمزوری اور سستی سے، کنجوسی اور بزدلی سے، قرض کے بوجھ سے اور لوگوں کے غلبہ سے۔",
+        "fr": "Ô Allah, je cherche refuge auprès de Toi contre l'anxiété et le chagrin, la faiblesse et la paresse, l'avarice et la lâcheté, le fardeau des dettes et la domination des hommes.",
+        "tr": "Allah'ım! Sıkıntı ve üzüntüden, acizlik ve tembellikten, cimrilik ve korkaklıktan, borç yükünden ve insanların galibiyetinden Sana sığınırım.",
+        "id": "Ya Allah, aku berlindung kepada-Mu dari kecemasan dan kesedihan, kelemahan dan kemalasan, kekikiran dan kepengecutan, beban hutang dan dikuasai oleh manusia.",
+        "bn": "হে আল্লাহ, আমি চিন্তা ও দুঃখ, দুর্বলতা ও অলসতা, কার্পণ্য ও কাপুরুষতা, ঋণের বোঝা এবং মানুষের প্রাধান্য থেকে তোমার আশ্রয় চাই।",
+        "ms": "Ya Allah, aku berlindung kepada-Mu dari kebimbangan dan kesedihan, kelemahan dan kemalasan, kedekut dan pengecut, beban hutang dan dikuasai oleh manusia.",
+        "ta": "இறைவா! கவலை, துக்கம், பலவீனம், சோம்பல், கஞ்சத்தனம், கோழைத்தனம், கடன் சுமை மற்றும் மனிதர்களின் ஆதிக்கத்திலிருந்து உம்மிடம் புகலளிக்கிறேன்.",
+        "ml": "അല്ലാഹുവേ, വ്യാകുലത, ദുഃഖം, ദൗർബല്യം, മടിയ, പിശുക്ക്, ഭീരുത്വം, കടബാധ്യതയുടെ ഭാരം, മനുഷ്യരുടെ ആധിപത്യം എന്നിവയിൽനിന്ന് ഞാൻ നിന്നോട് അഭയം തേടുന്നു."
+      },
+      "reference": {
+        "source": "Bukhari",
+        "reference_text": "Bukhari 7/158"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "d103-60",
+      "category_id": "debt-poverty",
+      "subcategory_id": null,
+      "order": 60,
+      "title": {
+        "en": "For wealth & prosperity",
+        "ar": "للرزق والازدهار",
+        "ur": "رزق اور خوشحالی کے لیے",
+        "fr": "Pour la richesse et la prospérité",
+        "tr": "Zenginlik ve refah için",
+        "id": "Untuk kekayaan dan kemakmuran",
+        "bn": "সম্পদ ও সমৃদ্ধির জন্য",
+        "ms": "Untuk kekayaan dan kemakmuran",
+        "ta": "செல்வம் மற்றும் செழிப்பிற்காக",
+        "ml": "സമ്പത്തിനും ഐശ്വര്യത്തിനുമായി"
+      },
+      "arabic": "سُبْحَانَ اللهِ الْعَظِيْمِ وَ بِحَمْدِهٖ، سُبْحَانَ اللهِ الْعَظِيْمِ.",
+      "transliteration": "subhaanal laahil a'zeeme wa be-hamdeh, subhaanal laahil a'zeeme.",
+      "translation": {
+        "en": "Glory be the Allah, the Great with all His praise, Glory be the Allah the Great.",
+        "ar": "سبحان الله العظيم وبحمده، سبحان الله العظيم.",
+        "ur": "اللہ عظیم کی پاکی اور اسی کی حمد کے ساتھ، اللہ عظیم پاک ہے۔",
+        "fr": "Gloire à Allah, le Très Grand, et louange à Lui ; gloire à Allah, le Très Grand.",
+        "tr": "Büyük olan Allah’ı hamdiyle tesbih ederim; büyük olan Allah’ı tesbih ederim.",
+        "id": "Mahasuci Allah Yang Mahaagung dengan segala pujian kepada-Nya; Mahasuci Allah Yang Mahaagung.",
+        "bn": "মহান আল্লাহর পবিত্রতা ও তাঁর প্রশংসা জ্ঞাপন করছি; মহান আল্লাহ পবিত্র।",
+        "ms": "Maha Suci Allah Yang Maha Agung dengan segala pujian kepada-Nya; Maha Suci Allah Yang Maha Agung.",
+        "ta": "மகத்தான அல்லாஹ் புகழனைத்துடனும் தூய்மையானவன்; மகத்தான அல்லாஹ் தூய்மையானவன்.",
+        "ml": "മഹാനായ അല്ലാഹു എല്ലാ സ്തുതികളോടും കൂടി പരിശുദ്ധനാകുന്നു; മഹാനായ അല്ലാഹു പരിശുദ്ധനാകുന്നു."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 60\nFor wealth & prosperity\nThe recitation of the following Dua daily in the morning and in the evening 30 times is very effective for becoming wealthy and removing destitution\n\nسُبْحَانَ اللهِ الْعَظِيْمِ وَ بِحَمْدِهٖ، سُبْحَانَ اللهِ الْعَظِيْمِ.\n\nTransliteration:\nsubhaanal laahil a’zeeme wa be-hamdeh, subhaanal laahil a’zeeme.\n\nTranslation:\nGlory be the Allah, the Great with all His praise, Glory be the Allah the Great.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    },
+    {
+      "id": "d103-62",
+      "category_id": "debt-poverty",
+      "subcategory_id": null,
+      "order": 62,
+      "title": {
+        "en": "For increase of Sustenance",
+        "ar": "لزيادة الرزق",
+        "ur": "رزق میں اضافے کے لیے",
+        "fr": "Pour l’augmentation de la subsistance",
+        "tr": "Rızkın artması için",
+        "id": "Agar rezeki bertambah",
+        "bn": "রিজিক বৃদ্ধির জন্য",
+        "ms": "Untuk menambah rezeki",
+        "ta": "வாழ்வாதாரம் பெருகுவதற்காக",
+        "ml": "ഉപജീവനം വർധിക്കാൻ"
+      },
+      "arabic": "اَللّٰهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَ رَبَّ الْعَرْشِ الْعَظِيْمِ عَنَّا الدَّيْنَ وَ أَغْنِنَا مِنَ الْفَقْرِ.",
+      "transliteration": "allaahumma rabbas samaawaatis sab-e' wa rabbal a'rshil a'zeeme a'nnad dayna wa aghnenaa menal faqre.",
+      "translation": {
+        "en": "O Allah! The Lord of seven heavens. The Lord of great throne (authority), defray our debts and free us from poverty.",
+        "ar": "اللهم يا رب السماوات السبع، ويا رب العرش العظيم، اقضِ عنا الدَّين وأغننا من الفقر.",
+        "ur": "اے اللہ! سات آسمانوں کے رب، اور عظیم عرش کے رب! ہمارے قرض ادا فرما اور ہمیں محتاجی سے نجات دے۔",
+        "fr": "Ô Allah, Seigneur des sept cieux et Seigneur du Trône immense (de l’autorité), acquitte nos dettes et délivre-nous de la pauvreté.",
+        "tr": "Allah’ım! Yedi göğün Rabbi ve büyük Arş’ın (otoritenin) Rabbi! Borçlarımızı öde ve bizi yoksulluktan kurtar.",
+        "id": "Ya Allah, Tuhan tujuh langit dan Tuhan ‘Arasy yang agung (kekuasaan), lunasilah utang-utang kami dan bebaskanlah kami dari kemiskinan.",
+        "bn": "হে আল্লাহ! সাত আসমানের রব এবং মহান আরশের (কর্তৃত্বের) রব, আমাদের ঋণ পরিশোধ করে দিন এবং আমাদের দারিদ্র্য থেকে মুক্ত করুন।",
+        "ms": "Ya Allah! Tuhan tujuh petala langit dan Tuhan Arasy yang agung (kekuasaan), lunaskanlah hutang-hutang kami dan bebaskanlah kami daripada kemiskinan.",
+        "ta": "அல்லாஹ்வே! ஏழு வானங்களின் இறைவனே, மகத்தான அரியணையின் (அதிகாரத்தின்) இறைவனே! எங்கள் கடன்களைத் தீர்த்து, வறுமையிலிருந்து எங்களை விடுவிப்பாயாக.",
+        "ml": "അല്ലാഹുവേ! ഏഴ് ആകാശങ്ങളുടെ നാഥനും മഹത്തായ സിംഹാസനത്തിന്റെ (അധികാരത്തിന്റെ) നാഥനുമായവനേ, ഞങ്ങളുടെ കടങ്ങൾ തീർത്തുതരികയും ദാരിദ്ര്യത്തിൽ നിന്ന് ഞങ്ങളെ മോചിപ്പിക്കുകയും ചെയ്യേണമേ."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 62\nFor increase of Sustenance\nHoly Prophet (s.a.w.a.) taught the following Dua for increasing sustenance to Ahle Saffah.\n\nاَللّٰهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَ رَبَّ الْعَرْشِ الْعَظِيْمِ عَنَّا الدَّيْنَ وَ أَغْنِنَا مِنَ الْفَقْرِ.\n\nTransliteration:\nallaahumma rabbas samaawaatis sab-e” wa rabbal a’rshil a’zeeme a’nnad dayna wa aghnenaa menal faqre.\n\nTranslation:\nO Allah! The Lord of seven heavens. The Lord of great throne (authority), defray our debts and free us from poverty.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    },
+    {
+      "id": "d103-63",
+      "category_id": "debt-poverty",
+      "subcategory_id": null,
+      "order": 63,
+      "title": {
+        "en": "For Disbursement of Debts",
+        "ar": "لقضاء الديون",
+        "ur": "قرض کی ادائیگی کے لیے",
+        "fr": "Pour le remboursement des dettes",
+        "tr": "Borçların ödenmesi için",
+        "id": "Untuk melunasi utang",
+        "bn": "ঋণ পরিশোধের জন্য",
+        "ms": "Untuk melunaskan hutang",
+        "ta": "கடன்களை அடைப்பதற்காக",
+        "ml": "കടങ്ങൾ വീട്ടുന്നതിനായി"
+      },
+      "arabic": "اَللّٰهُمَّ اكْـفِنِيْ بِحَلاَلِكَ عَنْ حَـرَامِكَ وَ اَغْنِنِيْ بِفَضْلِكَ عَمَّنْ سِوَاكَ يَا حَيُّ يَا قَيُّوْمُ.",
+      "transliteration": "Allaahummak-fenee be-halaaleka a'n haraameka wa aghnenee be-fazleka a'mman sewaaka yaa hayyo yaa qayyoom.",
+      "translation": {
+        "en": "O Allah make me contented with Your legitimate (things) in lace of Your forbidden things; and make me contented with Your favours, instead of other than thee. O The Ever Living, the Self Subsistent.",
+        "ar": "اللهم اكفني بحلالك عن حرامك، وأغنني بفضلك عمن سواك. يا حي يا قيوم.",
+        "ur": "اے اللہ! اپنے حلال کے ذریعے مجھے اپنے حرام سے بے نیاز کر دے، اور اپنے فضل کے ذریعے مجھے اپنے سوا دوسروں سے بے نیاز کر دے۔ اے ہمیشہ زندہ رہنے والے، اے سب کو قائم رکھنے والے!",
+        "fr": "Ô Allah, suffis-moi par ce que Tu as rendu licite, afin que je n’aie pas recours à ce que Tu as interdit, et enrichis-moi par Ta grâce afin que je n’aie besoin de personne d’autre que Toi. Ô Vivant, ô Celui qui subsiste par Lui-même et fait subsister toute chose.",
+        "tr": "Allah’ım, helâlinle beni haramından uzak tut ve lütfunla beni Senden başkasına muhtaç etme. Ey Diri olan, ey her şeyi ayakta tutan!",
+        "id": "Ya Allah, cukupkanlah aku dengan yang halal dari-Mu sehingga aku terhindar dari yang haram, dan kayakanlah aku dengan karunia-Mu sehingga aku tidak membutuhkan siapa pun selain-Mu. Wahai Yang Mahahidup, Yang terus-menerus mengurus segala sesuatu.",
+        "bn": "হে আল্লাহ, আপনার হালাল দ্বারা আমাকে আপনার হারাম থেকে বাঁচিয়ে যথেষ্ট করুন, আর আপনার অনুগ্রহে আমাকে আপনি ছাড়া অন্য সবার মুখাপেক্ষী হওয়া থেকে মুক্ত করুন। হে চিরঞ্জীব, হে সবকিছুর ধারক ও রক্ষক!",
+        "ms": "Ya Allah, cukupkanlah aku dengan yang halal daripada-Mu sehingga aku terhindar daripada yang haram, dan kayakanlah aku dengan kurniaan-Mu sehingga aku tidak memerlukan sesiapa selain-Mu. Wahai Yang Maha Hidup, Yang terus-menerus mengurus segala sesuatu.",
+        "ta": "அல்லாஹ்வே, உம்மால் அனுமதிக்கப்பட்டவற்றைக் கொண்டு, உம்மால் தடைசெய்யப்பட்டவற்றிலிருந்து என்னைப் போதுமானவனாக்குவாயாக. உமது அருளைக் கொண்டு, உம்மைத் தவிர மற்றவர்களிடம் தேவையற்றவனாக என்னை ஆக்குவாயாக. என்றும் உயிருடன் இருப்பவனே, அனைத்தையும் நிலைநிறுத்துபவனே!",
+        "ml": "അല്ലാഹുവേ, നീ അനുവദിച്ചവയിലൂടെ നീ വിലക്കിയവയെ ആശ്രയിക്കേണ്ടിവരാത്തവിധം എനിക്ക് മതിയാകുമാറാക്കേണമേ. നിന്റെ അനുഗ്രഹത്താൽ നിന്നെയല്ലാതെ മറ്റാരെയും ആശ്രയിക്കേണ്ടാത്തവനായി എന്നെ ആക്കേണമേ. നിത്യജീവനായവനേ, എല്ലാറ്റിനെയും നിലനിർത്തുന്നവനേ!"
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 63\nFor Disbursement of Debts\nThe following should be recites on Friday and also can be recited on other week days:\n\nاَللّٰهُمَّ اكْـفِنِيْ بِحَلاَلِكَ عَنْ حَـرَامِكَ وَ اَغْنِنِيْ بِفَضْلِكَ عَمَّنْ سِوَاكَ يَا حَيُّ يَا قَيُّوْمُ.\n\nTransliteration:\nAllaahummak-fenee be-halaaleka a’n haraameka wa aghnenee be-fazleka a’mman sewaaka yaa hayyo yaa qayyoom.\n\nTranslation:\nO Allah make me contented with Your legitimate (things) in lace of Your forbidden things; and make me contented with Your favours, instead of other than thee. O The Ever Living, the Self Subsistent.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    },
+    {
+      "id": "d103-78",
+      "category_id": "debt-poverty",
+      "subcategory_id": null,
+      "order": 78,
+      "title": {
+        "en": "Dua for increase in Sustenance",
+        "ar": "دعاء لزيادة الرزق",
+        "ur": "رزق میں اضافے کی دعا",
+        "fr": "Invocation pour l’augmentation de la subsistance",
+        "tr": "Rızkın artması için dua",
+        "id": "Doa agar rezeki bertambah",
+        "bn": "রিজিক বৃদ্ধির দোয়া",
+        "ms": "Doa agar rezeki bertambah",
+        "ta": "வாழ்வாதாரம் பெருகுவதற்கான துஆ",
+        "ml": "ഉപജീവനം വർധിക്കുന്നതിനുള്ള ദുആ"
+      },
+      "arabic": "اَللّٰهُمَّ صُنْ وَجْهِي بِالْيَسَارِ وَ لَا تَبَذَّلْ جَاهِي بِالْإِقْتَارِ فَأَسْتَرْزِقَ طَالِبِي رِزْقِكَ وَ أَسْتَعْطِفَ شِرَارَ خَلْقِكَ وَ أَبْتَلِيَ بِحَمْدِ مَنْ أَعْطَانِي وَ أَفْتَتِنَ بِذَمِّ مَنْ مَنَعَنِيْ وَ أَنْتَ مِنْ وَرَاءِ ذٰلِكَ كُلِّهٖ وَلِيُّ الْإِعْطَاءِ وَ الْمَنْعِ إِنَّكَ عَلٰى‏ كُلِّ شَيْ‏ءٍ قَدِيْرٌ.",
+      "transliteration": "allaahumma sun wajhee bil-yasaare wa laa tabazzal jaahee bil-iqtaare fa-astarzeqa taalebee rizqeka wa as-ta'tefa sheraara khalqeka wa abtaleya be-hamde man a-a'taanee wa aftatana be-zamme man mana-a'nee wa anta min waraa-e zaaleka kullehi waliyyul e-a'taa-e wal-man-e' innaka a'laa kulle shay-in qadeer.",
+      "translation": {
+        "en": "In the name of Allah the Beneficent and the Merciful. O Allah! Save My face by granting me prosperity and destroy not my prestige by reducing me to poverty so that I may have to seek my sustenance from those who seek (the same) from thee, or I may look forward for the kindness to thy evil Creatures; and consequently I may indulge in praise of those who may give and dispraise those who refused, though (indeed) Thou alone art responsible of all for grant or refusal, verily Thou art all-powerful over everything.",
+        "ar": "بسم الله الرحمن الرحيم. اللهم صُن وجهي بإغنائي، ولا تبتذل جاهِي بإفقاري، فأضطر إلى طلب رزقي ممن يطلب رزقه منك، أو أترقب عطف شرار خلقك؛ فأبتلى بمدح من أعطاني وذم من منعني، مع أنك وحدك المتولي لكل عطاء ومنع، إنك على كل شيء قدير.",
+        "ur": "اللہ کے نام سے جو نہایت مہربان، بے حد رحم فرمانے والا ہے۔ اے اللہ! مجھے خوش حالی عطا فرما کر میری آبرو محفوظ رکھ، اور مجھے محتاجی میں مبتلا کرکے میری عزت کو پامال نہ کر، کہ مجھے اپنا رزق اُن لوگوں سے مانگنا پڑے جو خود تجھ سے رزق مانگتے ہیں، یا مجھے تیری مخلوق کے بدترین لوگوں کی مہربانی کی امید لگانی پڑے؛ اور یوں میں دینے والوں کی تعریف اور انکار کرنے والوں کی مذمت کرنے میں مبتلا ہو جاؤں، حالانکہ عطا اور منع کا اختیار تنہا تیرے ہی پاس ہے۔ بے شک تو ہر چیز پر قدرت رکھتا ہے۔",
+        "fr": "Au nom d’Allah, le Clément, le Miséricordieux. Ô Allah ! Préserve mon honneur en m’accordant l’aisance et ne porte pas atteinte à ma dignité en me réduisant à la pauvreté, au point que je doive demander ma subsistance à ceux qui la demandent à Toi, ou espérer la bienveillance des pires de Tes créatures ; ainsi, je serais amené à louer ceux qui donnent et à blâmer ceux qui refusent, alors que Toi seul as la charge de tout don et de tout refus. En vérité, Tu es Tout-Puissant sur toute chose.",
+        "tr": "Rahmân ve Rahîm olan Allah’ın adıyla. Allah’ım! Bana bolluk vererek itibarımı koru; beni yoksulluğa düşürerek şerefimi zedeleme ki rızkımı, rızkı Senden isteyenlerden istemek zorunda kalmayayım veya yaratıklarının en kötü olanlarının iyiliğini beklemeyeyim. Böylece verenleri övmek, vermeyenleri yermek durumunda kalmayayım. Oysa bütün verme ve vermeme işlerinin sahibi yalnız Sensin. Şüphesiz Sen her şeye kadirsin.",
+        "id": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Ya Allah! Jagalah kehormatanku dengan menganugerahkan kecukupan kepadaku, dan janganlah Engkau merendahkan martabatku dengan menjadikanku miskin, sehingga aku harus meminta rezeki kepada orang-orang yang juga meminta rezeki kepada-Mu, atau mengharapkan kebaikan dari makhluk-Mu yang paling buruk. Akibatnya, aku terpaksa memuji orang yang memberi dan mencela orang yang menolak, padahal hanya Engkau yang berkuasa atas segala pemberian dan penolakan. Sungguh, Engkau Mahakuasa atas segala sesuatu.",
+        "bn": "পরম করুণাময়, অতি দয়ালু আল্লাহর নামে। হে আল্লাহ! আমাকে সচ্ছলতা দিয়ে আমার সম্মান রক্ষা করুন এবং আমাকে দারিদ্র্যের মধ্যে ফেলে আমার মর্যাদা ক্ষুণ্ণ করবেন না, যাতে আমাকে তাদের কাছে জীবিকা চাইতে হয়, যারা আপনার কাছেই জীবিকা চায়; অথবা আপনার সৃষ্টির নিকৃষ্টদের অনুগ্রহের আশা করতে হয়। ফলে যারা দেয় তাদের প্রশংসা এবং যারা দেয় না তাদের নিন্দা করতে আমি বাধ্য হই—অথচ দান ও না-দানের সব কর্তৃত্ব একমাত্র আপনারই। নিশ্চয়ই আপনি সবকিছুর ওপর ক্ষমতাবান।",
+        "ms": "Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang. Ya Allah! Peliharalah maruahku dengan mengurniakan kemewahan kepadaku, dan janganlah Engkau merendahkan kedudukanku dengan menjadikanku miskin sehingga aku terpaksa meminta rezeki daripada mereka yang juga meminta rezeki daripada-Mu, atau mengharapkan belas kasihan daripada makhluk-Mu yang paling jahat. Akibatnya, aku mungkin memuji mereka yang memberi dan mencela mereka yang enggan memberi, sedangkan hanya Engkau yang berkuasa atas segala pemberian dan penolakan. Sesungguhnya Engkau Maha Berkuasa atas segala sesuatu.",
+        "ta": "அளவற்ற அருளாளனும் நிகரற்ற அன்புடையோனுமாகிய அல்லாஹ்வின் பெயரால். அல்லாஹ்வே! செழிப்பை அளித்து என் கண்ணியத்தைக் காப்பாயாக; என்னை வறுமையில் ஆழ்த்தி என் மதிப்பைக் குலைக்காதே. அப்படியானால், உன்னிடமே வாழ்வாதாரம் கேட்பவர்களிடம் நான் என் வாழ்வாதாரத்தைக் கேட்க வேண்டியிருக்கும்; அல்லது உன் படைப்புகளில் தீயவர்களின் தயவை எதிர்பார்க்க வேண்டியிருக்கும். அதன் விளைவாக, கொடுப்பவர்களைப் புகழவும் மறுப்பவர்களைப் பழிக்கவும் நான் நேரிடும். ஆனால் கொடுப்பதும் மறுப்பதும் அனைத்தின் அதிகாரமும் உன்னிடமே உள்ளது. நிச்சயமாக நீ ஒவ்வொரு பொருளின் மீதும் ஆற்றல் உடையவன்.",
+        "ml": "പരമകാരുണികനും കരുണാനിധിയുമായ അല്ലാഹുവിന്റെ നാമത്തിൽ. അല്ലാഹുവേ! ഐശ്വര്യം നൽകി എന്റെ അഭിമാനം കാത്തരുളേണമേ; ദാരിദ്ര്യത്തിലാഴ്ത്തി എന്റെ അന്തസ്സിന് ഭംഗം വരുത്തരുതേ. അങ്ങനെ വന്നാൽ, നിന്നോടുതന്നെ ഉപജീവനം തേടുന്നവരോട് എനിക്ക് ഉപജീവനം ചോദിക്കേണ്ടിവരും; അല്ലെങ്കിൽ നിന്റെ സൃഷ്ടികളിൽ ഏറ്റവും ദുഷ്ടരായവരുടെ ദയ പ്രതീക്ഷിക്കേണ്ടിവരും. അതിന്റെ ഫലമായി, നൽകുന്നവരെ പുകഴ്ത്താനും നിഷേധിക്കുന്നവരെ കുറ്റപ്പെടുത്താനും ഞാൻ നിർബന്ധിതനാകും. എന്നാൽ നൽകുന്നതിന്റെയും നിഷേധിക്കുന്നതിന്റെയും എല്ലാം അധികാരം നിനക്കുമാത്രമാണ്. തീർച്ചയായും നീ എല്ലാറ്റിനും കഴിവുള്ളവനാകുന്നു."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 78\nDua for increase in Sustenance\nThe following Dua is recommended to be recited after morning prayer for increase in sustenance. It is well experienced as narrated by Hazrat Ali (a.s.)\n\nاَللّٰهُمَّ صُنْ وَجْهِي بِالْيَسَارِ وَ لَا تَبَذَّلْ جَاهِي بِالْإِقْتَارِ فَأَسْتَرْزِقَ طَالِبِي رِزْقِكَ وَ أَسْتَعْطِفَ شِرَارَ خَلْقِكَ وَ أَبْتَلِيَ بِحَمْدِ مَنْ أَعْطَانِي وَ أَفْتَتِنَ بِذَمِّ مَنْ مَنَعَنِيْ وَ أَنْتَ مِنْ وَرَاءِ ذٰلِكَ كُلِّهٖ وَلِيُّ الْإِعْطَاءِ وَ الْمَنْعِ إِنَّكَ عَلٰى‏ كُلِّ شَيْ‏ءٍ قَدِيْرٌ.\n\nTransliteration:\nallaahumma sun wajhee bil-yasaare wa laa tabazzal jaahee bil-iqtaare fa-astarzeqa taalebee rizqeka wa as-ta’tefa sheraara khalqeka wa abtaleya be-hamde man a-a’taanee wa aftatana be-zamme man mana-a’nee wa anta min waraa-e zaaleka kullehi waliyyul e-a’taa-e wal-man-e” innaka a’laa kulle shay-in qadeer.\n\nTranslation:\nIn the name of Allah the Beneficent and the Merciful. O Allah! Save My face by granting me prosperity and destroy not my prestige by reducing me to poverty so that I may have to seek my sustenance from those who seek (the same) from thee, or I may look forward for the kindness to thy evil Creatures; and consequently I may indulge in praise of those who may give and dispraise those who refused, though (indeed) Thou alone art responsible of all for grant or refusal, verily Thou art all-powerful over everything.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    }
+  ]
+}

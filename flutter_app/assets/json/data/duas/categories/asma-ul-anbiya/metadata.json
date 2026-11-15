@@ -1,0 +1,38 @@
+{
+  "id": "asma-ul-anbiya",
+  "name": {
+    "en": "Names of the Prophets (Asma ul Anbiya)",
+    "ta": "நபிமார்களின் பெயர்கள் (Asma ul Anbiya)",
+    "ml": "പ്രവാചകന്മാരുടെ പേരുകൾ (Asma ul Anbiya)",
+    "ar": "أسماء الأنبياء (Asma ul Anbiya)",
+    "ur": "انبیاء کے نام (Asma ul Anbiya)",
+    "fr": "Noms des prophètes (Asma ul Anbiya)",
+    "tr": "Peygamberlerin İsimleri (Asma ul Anbiya)",
+    "id": "Nama para Nabi (Asma ul Anbiya)",
+    "bn": "নবীদের নাম (Asma ul Anbiya)",
+    "ms": "Nama-nama Nabi (Asma ul Anbiya)"
+  },
+  "description": {
+    "en": "Names of the Prophets (Asma ul Anbiya)",
+    "ta": "நபிமார்களின் பெயர்கள் (Asma ul Anbiya)",
+    "ml": "പ്രവാചകന്മാരുടെ പേരുകൾ (Asma ul Anbiya)",
+    "ar": "أسماء الأنبياء (Asma ul Anbiya)",
+    "ur": "انبیاء کے نام (Asma ul Anbiya)",
+    "fr": "Noms des prophètes (Asma ul Anbiya)",
+    "tr": "Peygamberlerin İsimleri (Asma ul Anbiya)",
+    "id": "Nama para Nabi (Asma ul Anbiya)",
+    "bn": "নবীদের নাম (Asma ul Anbiya)",
+    "ms": "Nama-nama Nabi (Asma ul Anbiya)"
+  },
+  "parent_id": null,
+  "order": 21,
+  "theme": {
+    "color": "indigo",
+    "gradient": "from-indigo-400 to-blue-500",
+    "bg": "bg-indigo-50",
+    "border": "border-indigo-200",
+    "text": "text-indigo-700"
+  },
+  "item_count": 1,
+  "data_file": "duas.json"
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "istikhara",
+  "count": 1,
+  "duas": [
+    {
+      "id": "ist-1",
+      "category_id": "istikhara",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Salat al-Istikhara Dua",
+        "ar": "دعاء صلاة الاستخارة",
+        "ur": "نماز استخارہ کی دعا",
+        "fr": "Doua de Salat al-Istikhara",
+        "tr": "İstihare Namazı Duası",
+        "id": "Doa Shalat Istikharah",
+        "bn": "ইস্তিখারার নামাজের দোয়া",
+        "ms": "Doa Solat Istikharah",
+        "ta": "இஸ்திகாரா தொழுகை துஆ",
+        "ml": "ഇസ്തിഖാര നമസ്കാര ദുആ"
+      },
+      "arabic": "اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ، فَإِنَّكَ تَقْدِرُ وَلاَ أَقْدِرُ، وَتَعْلَمُ وَلاَ أَعْلَمُ، وَأَنْتَ عَلاَّمُ الْغُيُوبِ. اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّ هَٰذَا الأَمْرَ خَيْرٌ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي فَاقْدُرْهُ لِي وَيَسِّرْهُ لِي ثُمَّ بَارِكْ لِي فِيهِ، وَإِنْ كُنْتَ تَعْلَمُ أَنَّ هَٰذَا الأَمْرَ شَرٌّ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي فَاصْرِفْهُ عَنِّي وَاصْرِفْنِي عَنْهُ وَاقْدُرْ لِيَ الْخَيْرَ حَيْثُ كَانَ ثُمَّ أَرْضِنِي بِهِ",
+      "translation": {
+        "en": "O Allah, I seek Your guidance by virtue of Your knowledge, and I seek ability by virtue of Your power, and I ask You of Your great bounty. You have power, I have none. And You know, I know not. You are the Knower of hidden things. O Allah, if in Your knowledge this matter is good for me in my religion, my livelihood and the consequences of my affair, then decree it for me, make it easy for me, and bless it for me. But if in Your knowledge this matter is evil for me in my religion, my livelihood and the consequences of my affair, then turn it away from me, and turn me away from it, and decree for me what is good wherever it may be, and make me content with it.",
+        "ar": "اللهم إني أستخيرك بعلمك وأستقدرك بقدرتك وأسألك من فضلك العظيم فإنك تقدر ولا أقدر وتعلم ولا أعلم وأنت علام الغيوب، اللهم إن كنت تعلم أن هذا الأمر خير لي في ديني ومعاشي وعاقبة أمري فاقدره لي ويسره لي ثم بارك لي فيه، وإن كنت تعلم أن هذا الأمر شر لي في ديني ومعاشي وعاقبة أمري فاصرفه عني واصرفني عنه واقدر لي الخير حيث كان ثم أرضني به",
+        "ur": "اے اللہ! میں تیرے علم کے ذریعے تجھ سے خیر مانگتا ہوں، تیری قدرت کے ذریعے تجھ سے قدرت مانگتا ہوں، اور تیرے عظیم فضل سے تجھ سے مانگتا ہوں۔ بے شک تو قادر ہے اور میں قادر نہیں، تو جانتا ہے اور میں نہیں جانتا، اور تو غیبوں کا جاننے والا ہے۔ اے اللہ! اگر تیرے علم میں یہ کام میرے دین، میری زندگی اور میرے معاملے کے انجام میں میرے لیے بہتر ہے تو اسے میرے لیے مقدر فرما، اسے آسان فرما اور اس میں برکت عطا فرما۔ اور اگر تیرے علم میں یہ کام میرے دین، میری زندگی اور میرے معاملے کے انجام میں میرے لیے برا ہے تو اسے مجھ سے دور فرما اور مجھے اس سے دور فرما، اور جہاں بھی ہو میرے لیے بھلائی مقدر فرما اور پھر مجھ کو اس پر راضی کر دے۔",
+        "fr": "Ô Allah, je cherche Ta guidance par Ta connaissance, je cherche la capacité par Ton pouvoir, et je Te demande de Ta grande grâce. Tu as le pouvoir, je n'en ai pas. Tu sais, je ne sais pas. Tu es le Connaisseur des choses cachées. Ô Allah, si dans Ta connaissance cette affaire est bonne pour ma religion, ma subsistance et les conséquences de mon affaire, alors décrète-la pour moi, facilite-la pour moi et bénis-la pour moi. Mais si dans Ta connaissance cette affaire est mauvaise pour ma religion, ma subsistance et les conséquences de mon affaire, alors éloigne-la de moi et éloigne-moi d'elle, et décrète pour moi le bien où qu'il soit, et rends-moi satisfait de lui.",
+        "tr": "Allah'ım! Senin ilminle senden hayır istiyorum, kudretinle senden güç istiyorum ve büyük lütfundan senden istiyorum. Şüphesiz Sen kudret sahibisin, ben değilim. Sen bilirsin, ben bilmem. Sen gaybleri bilenisin. Allah'ım! Eğer bu işin dinim, geçimim ve işimin sonu açısından benim için hayırlı olduğunu ilminde biliyorsan, onu bana takdir et, bana kolaylaştır ve onda bereket ihsan et. Ama bu işin dinim, geçimim ve işimin sonu açısından benim için kötü olduğunu ilminde biliyorsan, onu benden uzaklaştır, beni ondan uzaklaştır ve nerede olursa olsun benim için hayrı takdir et ve sonra beni ona razı kıl.",
+        "id": "Ya Allah, sesungguhnya aku memohon petunjuk-Mu dengan ilmu-Mu, aku memohon kemampuan-Mu dengan kekuasaan-Mu, dan aku memohon kepada-Mu dari karunia-Mu yang agung. Sesungguhnya Engkau Maha Kuasa sedangkan aku tidak kuasa, Engkau Maha Mengetahui sedangkan aku tidak mengetahui, dan Engkau Maha Mengetahui yang gaib. Ya Allah, jika Engkau mengetahui bahwa urusan ini baik bagiku dalam agamaku, kehidupanku dan akibat urusanku, maka takdirkanlah ia bagiku, mudahkanlah ia bagiku, dan berkahilah ia bagiku. Tetapi jika Engkau mengetahui bahwa urusan ini buruk bagiku dalam agamaku, kehidupanku dan akibat urusanku, maka palingkanlah ia dariku, palingkanlah aku darinya, dan takdirkanlah untukku kebaikan di mana saja ia berada, kemudian ridhoilah aku dengannya.",
+        "bn": "হে আল্লাহ, আমি তোমার জ্ঞানের মাধ্যমে তোমার কাছে কল্যাণ চাই, তোমার ক্ষমতার মাধ্যমে তোমার কাছে শক্তি চাই, এবং তোমার মহিমাময় অনুগ্রহ থেকে তোমার কাছে চাই। নিশ্চয়ই তুমি ক্ষমতাবান এবং আমি ক্ষমতাহীন, তুমি জানো এবং আমি জানি না, তুমি অদৃশ্যের জ্ঞানী। হে আল্লাহ, যদি তোমার জ্ঞানে এই বিষয়টি আমার দ্বীন, জীবন ও আমার কাজের পরিণতির জন্য ভালো হয়, তবে তুমি এটি আমার জন্য নির্ধারণ করো, এটিকে আমার জন্য সহজ করো এবং এতে বরকত দান করো। কিন্তু যদি তোমার জ্ঞানে এই বিষয়টি আমার দ্বীন, জীবন ও আমার কাজের পরিণতির জন্য খারাপ হয়, তবে এটিকে আমার কাছ থেকে দূরে করো এবং আমাকে এটি থেকে দূরে করো, এবং যেখানেই থাকুক আমার জন্য কল্যাণ নির্ধারণ করো এবং তারপর আমাকে তাতে সন্তুষ্ট করো।",
+        "ms": "Ya Allah, sesungguhnya aku memohon petunjuk-Mu dengan ilmu-Mu, aku memohon kemampuan-Mu dengan kekuasaan-Mu, dan aku memohon kepada-Mu dari kurnia-Mu yang agung. Sesungguhnya Engkau Maha Kuasa sedangkan aku tidak kuasa, Engkau Maha Mengetahui sedangkan aku tidak mengetahui, dan Engkau Maha Mengetahui yang ghaib. Ya Allah, jika Engkau mengetahui bahawa urusan ini baik bagiku dalam agamaku, kehidupanku dan akibat urusanku, maka takdirkanlah ia bagiku, mudahkanlah ia bagiku, dan berkatilah ia bagiku. Tetapi jika Engkau mengetahui bahawa urusan ini buruk bagiku dalam agamaku, kehidupanku dan akibat urusanku, maka palingkanlah ia dariku, palingkanlah aku darinya, dan takdirkanlah untukku kebaikan di mana saja ia berada, kemudian redhailah aku dengannya.",
+        "ta": "இறைவா! உமது அறிவின் மூலம் உம்மிடம் நலம் கேட்கிறேன், உமது வல்லமையின் மூலம் உம்மிடம் சக்தி கேட்கிறேன், மேலும் உமது பெரிய அருளிலிருந்து உம்மிடம் கேட்கிறேன். நிச்சயமாக நீர் வல்லமை பெற்றவன், நான் வல்லமையற்றவன், நீர் அறிபவன், நான் அறியாதவன், நீர் மறைவானவற்றை அறிபவன். இறைவா! இந்த காரியம் என் மார்க்கிலும், என் வாழ்விலும், என் காரியத்தின் முடிவிலும் எனக்கு நல்லது என்று உமது அறிவில் நீர் அறிவீரானால், அதை எனக்காக விதிப்பாயாக, அதை எனக்காக எளிதாக்குவாயாக, அதில் எனக்கு அருள்புரிவாயாக. ஆனால் இந்த காரியம் என் மார்க்கிலும், என் வாழ்விலும், என் காரியத்தின் முடிவிலும் எனக்கு கெட்டது என்று உமது அறிவில் நீர் அறிவீரானால், அதை என்னிடமிருந்து திருப்புவாயாக, என்னை அதிலிருந்து திருப்புவாயாக, எங்கிருந்தாலும் எனக்காக நன்மையை விதிப்பாயாக, பின்பு அதில் என்னை திருப்திப்படுத்துவாயாக.",
+        "ml": "അല്ലാഹുവേ, നിന്റെ അറിവിലൂടെ ഞാൻ നിന്നോട് നന്മ ചോദിക്കുന്നു, നിന്റെ ശക്തിയിലൂടെ ഞാൻ നിന്നോട് ശക്തി ചോദിക്കുന്നു, നിന്റെ മഹത്തായ അനുഗ്രഹത്തിൽനിന്ന് ഞാൻ നിന്നോട് ചോദിക്കുന്നു. തീർച്ചയായും നീ ശക്തനാണ്, ഞാൻ ശക്തനല്ല, നീ അറിയുന്നു, ഞാൻ അറിയുന്നില്ല, നീ അദൃശ്യം അറിയുന്നവനാണ്. അല്ലാഹുവേ, ഈ കാര്യം എന്റെ മതത്തിലും എന്റെ ജീവിതത്തിലും എന്റെ കാര്യത്തിന്റെ അവസാനത്തിലും എനിക്ക് നല്ലതാണെന്ന് നിന്റെ അറിവിൽ നീ അറിയുന്നുവെങ്കിൽ, അത് എനിക്കായി വിധിക്കണമേ, അത് എനിക്കായി എളുപ്പമാക്കണമേ, അതിൽ എനിക്ക് അനുഗ്രഹം നൽകണമേ. എന്നാൽ ഈ കാര്യം എന്റെ മതത്തിലും എന്റെ ജീവിതത്തിലും എന്റെ കാര്യത്തിന്റെ അവസാനത്തിലും എനിക്ക് മോശമാണെന്ന് നിന്റെ അറിവിൽ നീ അറിയുന്നുവെങ്കിൽ, അത് എന്നിൽനിന്ന് തിരിച്ചുകളയണമേ, എന്നെ അതിൽനിന്ന് തിരിച്ചുകളയണമേ, എവിടെയാണെങ്കിലും എനിക്കായി നന്മ വിധിക്കണമേ, തുടർന്ന് അതിൽ എന്നെ തൃപ്തനാക്കണമേ."
+      },
+      "reference": {
+        "source": "Bukhari",
+        "reference_text": "Bukhari 7/162"
+      },
+      "repetition_count": 1
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "prayer-duas",
+  "name": {
+    "en": "Prayer Duas",
+    "ta": "தொழுகை துஆக்கள்",
+    "ml": "നമസ്കാര ദുആകൾ",
+    "ar": "أدعية الصلاة",
+    "ur": "نماز کی دعائیں",
+    "fr": "Invocations liées à la prière",
+    "tr": "Namaz Duaları",
+    "id": "Doa Salat",
+    "bn": "নামাজের দোয়া",
+    "ms": "Doa Solat"
+  },
+  "description": {
+    "en": "Duas connected to Salah, specific prayer times, and the completion of prayer.",
+    "ta": "தொழுகை, குறிப்பிட்ட தொழுகை நேரங்கள் மற்றும் தொழுகை நிறைவுடன் தொடர்புடைய துஆக்கள்.",
+    "ml": "നമസ്കാരത്തോടും പ്രത്യേക നമസ്കാര സമയങ്ങളോടും നമസ്കാരത്തിന് ശേഷമുള്ള ദുആകളോടും ബന്ധപ്പെട്ടവ.",
+    "ar": "أدعية مرتبطة بالصلاة وأوقاتها المحددة وما يقال بعد انتهائها.",
+    "ur": "نماز، مخصوص اوقاتِ نماز اور نماز کے بعد پڑھی جانے والی دعاؤں سے متعلق دعائیں۔",
+    "fr": "Invocations liées à la salat, à ses horaires précis et à son accomplissement.",
+    "tr": "Namaz, belirli namaz vakitleri ve namazın tamamlanmasıyla ilgili dualar.",
+    "id": "Doa yang berkaitan dengan salat, waktu salat tertentu, dan setelah salat.",
+    "bn": "সালাত, নির্দিষ্ট নামাজের সময় এবং নামাজের পরের দোয়া-সংক্রান্ত আমল।",
+    "ms": "Doa berkaitan solat, waktu solat tertentu dan doa selepas solat."
+  },
+  "parent_id": null,
+  "order": 23,
+  "theme": {
+    "color": "cyan",
+    "gradient": "from-cyan-400 to-blue-500",
+    "bg": "bg-cyan-50",
+    "border": "border-cyan-200",
+    "text": "text-cyan-700"
+  },
+  "item_count": 9,
+  "data_file": "duas.json"
+}

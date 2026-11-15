@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0.0",
+  "section_id": "salawath",
+  "status": "available",
+  "collections": [
+    {
+      "id": "sal-3",
+      "record_id": "sal-3",
+      "sequence": 1,
+      "title": { "en": "Salawat al-Tanjiyyah (The Prayer of Deliverance)", "ar": "الصلاة المنجية", "ta": "ஸலவாத்துத் தஞ்சிய்யா (விடுதலைக்கான ஸலவாத்)", "ml": "സ്വലാത്തുത്തൻജിയ്യ (രക്ഷയുടെ സ്വലാത്ത്)", "ur": "صلوٰۃِ تنجیہ (نجات کی دعا)", "fr": "Salawat al-Tanjiyyah (La prière de délivrance)", "tr": "Salavatü't-Tenciyye (Kurtuluş Salavatı)", "id": "Salawat at-Tanjiyyah (Doa Pembebasan)", "bn": "সালাওয়াত আত-তানজিয়্যাহ (মুক্তির দোয়া)", "ms": "Selawat at-Tanjiyyah (Doa Pembebasan)" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-5",
+      "record_id": "sal-5",
+      "sequence": 2,
+      "title": { "en": "Salawat al-Tafrijiyyah / al-Nariya (The Relief Prayer)", "ar": "الصلاة التفريجية / النارية", "ta": "ஸலவாத்துத் தஃப்ரீஜிய்யா / நாரிய்யா (நிவாரண ஸலவாத்)", "ml": "സ്വലാത്തുത്തഫ്രീജിയ്യ / നാരിയ്യ (ആശ്വാസ സ്വലാത്ത്)", "ur": "صلوٰۃِ تفریجیہ / ناریہ (کشادگی کی دعا)", "fr": "Salawat al-Tafrijiyyah / al-Nariya (La prière du soulagement)", "tr": "Salavatü't-Tefriciyye / Nariye (Ferahlık Salavatı)", "id": "Salawat at-Tafrijiyyah / an-Nariyyah (Doa Kelapangan)", "bn": "সালাওয়াত আত-তাফরিজিয়্যাহ / আন-নারিয়্যাহ (স্বস্তির দোয়া)", "ms": "Selawat at-Tafrijiyyah / an-Nariyyah (Doa Kelapangan)" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-6",
+      "record_id": "sal-6",
+      "sequence": 3,
+      "title": { "en": "Salawat al-Fatih (The Opener)", "ar": "صلاة الفاتح", "ta": "ஸலவாத்துல் ஃபாத்திஹ் (திறப்பவர்)", "ml": "സ്വലാത്തുൽ ഫാതിഹ് (തുറക്കുന്നവൻ)", "ur": "صلوٰۃ الفاتح (کھولنے والا)", "fr": "Salawat al-Fatih (L’Ouvreur)", "tr": "Salavatü'l-Fatih (Açan)", "id": "Salawat al-Fatih (Sang Pembuka)", "bn": "সালাওয়াত আল-ফাতিহ (উন্মোচনকারী)", "ms": "Selawat al-Fatih (Sang Pembuka)" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-7",
+      "record_id": "sal-7",
+      "sequence": 4,
+      "title": { "en": "Salawat Tibb al-Qulub (The Cure of Hearts)", "ar": "صلاة طب القلوب", "ta": "ஸலவாத்து திப்பில் குலூப் (இதயங்களின் நிவாரணி)", "ml": "സ്വലാത്ത് ത്വിബ്ബുൽ ഖുലൂബ് (ഹൃദയങ്ങളുടെ ഔഷധം)", "ur": "صلوٰۃ طب القلوب (دلوں کی شفا)", "fr": "Salawat Tibb al-Qulub (Le remède des cœurs)", "tr": "Salavatü Tıbbil-Kulub (Kalplerin Şifası)", "id": "Salawat Tibb al-Qulub (Penyembuh Hati)", "bn": "সালাওয়াত তিব্বুল কুলুব (হৃদয়ের আরোগ্য)", "ms": "Selawat Tibb al-Qulub (Penyembuh Hati)" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-8",
+      "record_id": "sal-8",
+      "sequence": 5,
+      "title": { "en": "Salawat Nur al-Anwar (The Light of Lights)", "ar": "صلاة نور الأنوار", "ta": "ஸலவாத்து நூர் அல் அன்வார் (ஒளிகளின் ஒளி)", "ml": "സ്വലാത്ത് നൂറുൽ അൻവാർ (പ്രകാശങ്ങളുടെ പ്രകാശം)", "ur": "صلوٰۃ نور الانوار (نوروں کا نور)", "fr": "Salawat Nur al-Anwar (La lumière des lumières)", "tr": "Salavatü Nur'il-Envar (Nurların Nuru)", "id": "Salawat Nur al-Anwar (Cahaya Segala Cahaya)", "bn": "সালাওয়াত নূরুল আনওয়ার (আলোকসমূহের আলো)", "ms": "Selawat Nur al-Anwar (Cahaya Segala Cahaya)" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-9",
+      "record_id": "sal-9",
+      "sequence": 6,
+      "title": { "en": "Salawat al-In'am (The Prayer of Divine Favors)", "ar": "صلاة الإنعام", "ta": "ஸலவாத்துல் இன்ஆம் (இறை அருட்கொடைகளுக்கான ஸலவாத்)", "ml": "സ്വലാത്തുൽ ഇൻആം (ദൈവിക അനുഗ്രഹങ്ങളുടെ സ്വലാത്ത്)", "ur": "صلوٰۃ الانعام (الٰہی انعامات کی دعا)", "fr": "Salawat al-In'am (La prière des faveurs divines)", "tr": "Salavatü'l-İn'am (İlahi Lütuflar Salavatı)", "id": "Salawat al-In'am (Doa Karunia Ilahi)", "bn": "সালাওয়াত আল-ইনআম (ঐশী অনুগ্রহের দোয়া)", "ms": "Selawat al-In'am (Doa Kurniaan Ilahi)" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-10",
+      "record_id": "sal-10",
+      "sequence": 7,
+      "title": { "en": "Salawat al-Uliya / al-Kamaliyyah (The Supreme Perfection Prayer)", "ar": "صلاة العلية / الكمالية", "ta": "ஸலவாத்துல் உலியா / கமாலிய்யா (முழுமையின் உயரிய ஸலவாத்)", "ml": "സ്വലാത്തുൽ ഉലിയ്യ / കമാലിയ്യ (പരിപൂർണ്ണതയുടെ സ്വലാത്ത്)", "ur": "صلوٰۃ العلیہ / الکمالیہ (کمال کی اعلیٰ دعا)", "fr": "Salawat al-Uliya / al-Kamaliyyah (La prière de la perfection suprême)", "tr": "Salavatü'l-Uliyye / Kemaliyye (Yüce Kemal Salavatı)", "id": "Salawat al-Uliya / al-Kamaliyyah (Doa Kesempurnaan Tertinggi)", "bn": "সালাওয়াত আল-উলিয়া / আল-কামালিয়্যাহ (সর্বোচ্চ পরিপূর্ণতার দোয়া)", "ms": "Selawat al-Uliya / al-Kamaliyyah (Doa Kesempurnaan Tertinggi)" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-1",
+      "record_id": "sal-1",
+      "sequence": 8,
+      "title": { "en": "Salawat al-Ibrahimiyyah (The Grand Prophetic Prayer)", "ar": "الصلاة الإبراهيمية", "ta": "ஸலவாத்துல் இப்ராஹீமிய்யா (தஷஹ்ஹுதில் ஓதும் ஸலவாத்)", "ml": "സ്വലാത്തുൽ ഇബ്രാഹീമിയ്യ (തശഹ്ഹുദിൽ ചൊല്ലുന്ന സ്വലാത്ത്)", "ur": "صلوٰۃِ ابراہیمیہ (تشہد کی درود)", "fr": "Salawat al-Ibrahimiyyah (La grande prière prophétique)", "tr": "Salavatü'l-İbrahimiyye (Tahiyyatta Okunan Salavat)", "id": "Salawat al-Ibrahimiyyah (Doa dalam Tasyahud)", "bn": "সালাওয়াত আল-ইবরাহিমিয়্যাহ (তাশাহহুদের দরূদ)", "ms": "Selawat al-Ibrahimiyyah (Doa dalam Tasyahhud)" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-2",
+      "record_id": "sal-2",
+      "sequence": 9,
+      "title": { "en": "Salawat Nariyyah", "ar": "الصلاة النارية", "ta": "நாரிய்யா ஸலவாத்", "ml": "നാരിയ്യ സ്വലാത്ത്", "ur": "صلوٰۃ ناریہ", "fr": "Salawat Nariyyah", "tr": "Nariyye Salavatı", "id": "Shalawat Nariyyah", "bn": "নারীয়া দরূদ", "ms": "Selawat Nariyyah" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "sal-4",
+      "record_id": "sal-4",
+      "sequence": 10,
+      "title": { "en": "Simple Salawat", "ar": "الصلاة البسيطة", "ta": "எளிய ஸலவாத்", "ml": "ലളിതമായ സ്വലാത്ത്", "ur": "سادہ درود", "fr": "Salawat Simple", "tr": "Basit Salavat", "id": "Shalawat Sederhana", "bn": "সাধারণ দরূদ", "ms": "Selawat Mudah" },
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    },
+    {
+      "id": "alam-salawath",
+      "record_id": "alam-salawath",
+      "sequence": 11,
+      "title": {
+        "en": "A'lam Salawath",
+        "ar": "أَعْظَمُ الصَّلَاةِ",
+        "ta": "அஃலம் ஸலவாத்",
+        "ml": "അഅ്‌ലാം സ്വലാത്ത്",
+        "ur": "اعظم الصلاة",
+        "fr": "A'lam Salawath",
+        "tr": "A'lam Salavatı",
+        "id": "A'lam Salawath",
+        "bn": "আ'লম সালাওয়াত",
+        "ms": "A'lam Selawat"
+      },
+      "translation_status": "Machine-generated; human review required.",
+      "metadata_file": "duas/categories/salawat/metadata.json",
+      "data_file": "duas/categories/salawat/duas.json",
+      "status": "available"
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "schema_version": "1.0.0",
+  "collection": {
+    "name": "Bisme Authentic Adhkar",
+    "description": "Multilingual Qur'an and Sunnah remembrance collection",
+    "languages": [
+      "ar",
+      "transliteration",
+      "en",
+      "ta",
+      "ml"
+    ]
+  },
+  "data_guidelines": {
+    "count_null": "No fixed count is established in the cited reference; do not invent a count.",
+    "virtues": "Only source-supported virtues are stated. A category assignment does not itself establish a special virtue.",
+    "translations": "Meaning-based translations; Arabic is the primary text. Have qualified Arabic and Tamil/Malayalam reviewers proofread before publication.",
+    "scope": "Curated foundational dataset. Complete in an app should be expanded with reviewed entries; it is not a claim to contain every authentic narration.",
+    "grading": "Hadith numbering and grading may vary by edition. Confirm references against the exact hadith database/edition used by the app."
+  },
+  "categories": [
+    {
+      "id": "morning_adhkar",
+      "name": {
+        "en": "Morning Adhkar",
+        "ta": "காலை நேர திக்ருகள்",
+        "ml": "പ്രഭാത ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "evening_adhkar",
+      "name": {
+        "en": "Evening Adhkar",
+        "ta": "மாலை நேர திக்ருகள்",
+        "ml": "സായാഹ്ന ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "after_salah",
+      "name": {
+        "en": "After Salah Dhikr",
+        "ta": "தொழுகைக்குப் பிந்தைய திக்ருகள்",
+        "ml": "നമസ്കാരത്തിനു ശേഷമുള്ള ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "before_sleep",
+      "name": {
+        "en": "Before Sleeping Dhikr",
+        "ta": "உறங்குவதற்கு முன் ஓதும் திக்ருகள்",
+        "ml": "ഉറങ്ങുന്നതിന് മുമ്പുള്ള ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "after_waking",
+      "name": {
+        "en": "After Waking Dhikr",
+        "ta": "உறக்கத்திலிருந்து விழித்ததும் ஓதும் திக்ருகள்",
+        "ml": "ഉറക്കമുണർന്ന ഉടൻ ചൊല്ലുന്ന ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "tasbeeh",
+      "name": {
+        "en": "Tasbeeh",
+        "ta": "தஸ்பீஹ்",
+        "ml": "തസ്ബീഹ്"
+      }
+    },
+    {
+      "id": "tahmeed",
+      "name": {
+        "en": "Tahmeed",
+        "ta": "தஹ்மீத்",
+        "ml": "തഹ്മീദ്"
+      }
+    },
+    {
+      "id": "takbeer",
+      "name": {
+        "en": "Takbeer",
+        "ta": "தக்பீர்",
+        "ml": "തക്ബീർ"
+      }
+    },
+    {
+      "id": "tahlil",
+      "name": {
+        "en": "Tahlil",
+        "ta": "தஹ்லீல்",
+        "ml": "തഹ്‌ലീൽ"
+      }
+    },
+    {
+      "id": "istighfar",
+      "name": {
+        "en": "Istighfar",
+        "ta": "இஸ்திக்ஃபார்",
+        "ml": "ഇസ്തിഗ്ഫാർ"
+      }
+    },
+    {
+      "id": "sayyidul_istighfar",
+      "name": {
+        "en": "Sayyidul Istighfar",
+        "ta": "ஸய்யிதுல் இஸ்திக்ஃபார்",
+        "ml": "സയ്യിദുൽ ഇസ്തിഗ്ഫാർ"
+      }
+    },
+    {
+      "id": "hawqala",
+      "name": {
+        "en": "La Hawla Wa La Quwwata Illa Billah",
+        "ta": "லா ஹவ்ல வலா குவ்வத்த இல்லா பில்லாஹ்",
+        "ml": "ലാ ഹൗല വലാ ഖുവ്വത്ത ഇല്ലാ ബില്ലാഹ്"
+      }
+    },
+    {
+      "id": "two_weighty_phrases",
+      "name": {
+        "en": "SubhanAllahi Wa Bihamdihi, SubhanAllahi Al-Azeem",
+        "ta": "ஸுப்ஹானல்லாஹி வபிஹம்திஹி, ஸுப்ஹானல்லாஹில் அழீம்",
+        "ml": "സുബ്ഹാനല്ലാഹി വബിഹംദിഹി, സുബ്ഹാനല്ലാഹിൽ അളീം"
+      }
+    },
+    {
+      "id": "daily_kalimas",
+      "name": {
+        "en": "Daily Kalimas",
+        "ta": "தினசரி கலிமாக்கள்",
+        "ml": "ദൈനംദിന കലിമകൾ"
+      }
+    },
+    {
+      "id": "forgiveness",
+      "name": {
+        "en": "Dhikr for Forgiveness",
+        "ta": "பாவமன்னிப்புக்கான திக்ருகள்",
+        "ml": "പാപമോചനത്തിനുള്ള ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "protection",
+      "name": {
+        "en": "Dhikr for Protection",
+        "ta": "பாதுகாப்புக்கான திக்ருகள்",
+        "ml": "സംരക്ഷണത്തിനുള്ള ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "hardship",
+      "name": {
+        "en": "Dhikr During Hardship",
+        "ta": "சிரமமான நேரங்களில் ஓதும் திக்ருகள்",
+        "ml": "പ്രയാസസമയങ്ങളിലെ ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "after_adhan",
+      "name": {
+        "en": "Dhikr After Adhan",
+        "ta": "பாங்கிற்குப் பின் ஓதும் திக்ருகள்",
+        "ml": "ബാങ്കിനു ശേഷമുള്ള ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "wudu",
+      "name": {
+        "en": "Dhikr Before and After Wudu",
+        "ta": "ஒளூவுக்கு முன்பும் பின்பும் ஓதும் திக்ருகள்",
+        "ml": "വുദൂവിന് മുമ്പും ശേഷവും ചൊല്ലുന്ന ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "hajj_umrah",
+      "name": {
+        "en": "Dhikr During Hajj and Umrah",
+        "ta": "ஹஜ் மற்றும் உம்ராவின் திக்ருகள்",
+        "ml": "ഹജ്ജിലും ഉംറയിലും ചൊല്ലുന്ന ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "friday",
+      "name": {
+        "en": "Dhikr on Friday",
+        "ta": "வெள்ளிக்கிழமை திக்ருகள்",
+        "ml": "വെള്ളിയാഴ്ചയിലെ ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "before_iftar",
+      "name": {
+        "en": "Dhikr Before Iftar",
+        "ta": "இஃப்தாருக்கு முன் ஓதும் திக்ருகள்",
+        "ml": "ഇഫ്താറിന് മുമ്പുള്ള ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "gratitude",
+      "name": {
+        "en": "Dhikr for Gratitude",
+        "ta": "நன்றியுணர்வுக்கான திக்ருகள்",
+        "ml": "നന്ദി പ്രകടിപ്പിക്കാനുള്ള ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "guidance",
+      "name": {
+        "en": "Dhikr for Seeking Guidance",
+        "ta": "நேர்வழி வேண்டுவதற்கான திக்ருகள்",
+        "ml": "സന്മാർഗം തേടാനുള്ള ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "anxiety_distress",
+      "name": {
+        "en": "Dhikr for Anxiety and Distress",
+        "ta": "கவலை மற்றும் மனவேதனைக்கான திக்ருகள்",
+        "ml": "ആകുലതയ്ക്കും വിഷമത്തിനുമുള്ള ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "tawbah",
+      "name": {
+        "en": "Dhikr for Tawbah",
+        "ta": "தவ்பாவுக்கான திக்ருகள்",
+        "ml": "തൗബയ്ക്കുള്ള ദിക്റുകൾ"
+      }
+    },
+    {
+      "id": "morning_evening_routine",
+      "name": {
+        "en": "Morning and Evening Routine",
+        "ta": "காலை மற்றும் மாலை திக்ர் வழக்கம்",
+        "ml": "പ്രഭാത-സായാഹ്ന ദിക്റ് ക്രമം"
+      }
+    },
+    {
+      "id": "other_authentic",
+      "name": {
+        "en": "Other Authentic Adhkar",
+        "ta": "ஏனைய ஆதாரப்பூர்வ திக்ருகள்",
+        "ml": "മറ്റ് പ്രാമാണിക ദിക്റുകൾ"
+      }
+    }
+  ],
+  "adhkar": [
+    {
+      "id": "wake_up_praise",
+      "category_ids": [
+        "after_waking",
+        "gratitude",
+        "other_authentic"
+      ],
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+      "transliteration": "Alhamdu lillahil-ladhi ahyana ba'da ma amatana wa ilayhin-nushur.",
+      "translation": {
+        "en": "All praise is for Allah who gave us life after causing us to die, and to Him is the resurrection.",
+        "ta": "உறக்கத்திற்குப் பிறகு எங்களை மீண்டும் உயிர்ப்பித்த அல்லாஹ்வுக்கே எல்லாப் புகழும். அவனிடமே மீண்டும் எழுப்பப்படுதல் உள்ளது.",
+        "ml": "മരണത്തിന് തുല്യമായ ഉറക്കത്തിനു ശേഷം ഞങ്ങളെ ജീവിപ്പിച്ച അല്ലാഹുവിനാണ് സർവസ്തുതിയും. അവങ്കലേക്കാണ് ഉയിർത്തെഴുന്നേൽപ്പ്."
+      },
+      "references": [
+        {
+          "source": "Sahih al-Bukhari",
+          "reference": "6312",
+          "type": "hadith"
+        }
+      ],
+      "repetition": {
+        "count": 1,
+        "basis": "Upon waking."
+      },
+      "virtues": {
+        "en": "The Prophet's reported supplication upon waking.",
+        "ta": "உறக்கத்திலிருந்து விழித்ததும் ஓதும் நபிவழி துஆ.",
+        "ml": "ഉറക്കമുണർന്ന ഉടൻ ചൊല്ലുന്ന നബിവഴിയിലുള്ള ദുആ."
+      }
+    },
+    {
+      "id": "sayyidul_istighfar",
+      "category_ids": [
+        "sayyidul_istighfar",
+        "istighfar",
+        "forgiveness",
+        "morning_adhkar",
+        "evening_adhkar",
+        "tawbah"
+      ],
+      "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي، فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+      "transliteration": "Allahumma Anta Rabbi, la ilaha illa Anta, khalaqtani wa ana 'abduka, wa ana 'ala 'ahdika wa wa'dika mastata'tu, a'udhu bika min sharri ma sana'tu, abu'u laka bini'matika 'alayya, wa abu'u bidhanbi, faghfir li, fa'innahu la yaghfirudh-dhunuba illa Anta.",
+      "translation": {
+        "en": "O Allah, You are my Lord; none has the right to be worshipped except You. You created me and I am Your servant. I keep Your covenant and promise as best I can. I seek refuge in You from the evil of what I have done. I acknowledge Your blessings and my sin, so forgive me; none forgives sins except You.",
+        "ta": "யா அல்லாஹ்! நீயே என் இறைவன். உன்னைத் தவிர வணக்கத்திற்குரிய இறைவன் வேறு யாருமில்லை. நீயே என்னைப் படைத்தாய்; நான் உன் அடியான். என்னால் இயன்றவரை உன் உடன்படிக்கையில் நிலைத்திருக்கிறேன். நான் செய்தவற்றின் தீமையிலிருந்து உன்னிடம் பாதுகாப்புத் தேடுகிறேன். உன் அருட்கொடைகளையும் என் பாவத்தையும் ஒப்புக்கொள்கிறேன். எனவே என்னை மன்னிப்பாயாக; உன்னைத் தவிர பாவங்களை மன்னிப்பவர் யாருமில்லை.",
+        "ml": "അല്ലാഹുവേ, നീയാണ് എന്റെ രക്ഷിതാവ്. നീയല്ലാതെ ആരാധനയ്ക്ക് അർഹനായി മറ്റാരുമില്ല. നീയാണ് എന്നെ സൃഷ്ടിച്ചത്; ഞാൻ നിന്റെ ദാസനാണ്. എനിക്ക് കഴിയുന്നത്ര നിന്റെ കരാറിൽ നിലകൊള്ളുന്നു. ഞാൻ ചെയ്തതിന്റെ തിന്മയിൽ നിന്ന് നിന്നോട് അഭയം തേടുന്നു. നിന്റെ അനുഗ്രഹങ്ങളും എന്റെ പാപവും ഞാൻ അംഗീകരിക്കുന്നു. അതിനാൽ എന്നോട് പൊറുക്കേണമേ; നീയല്ലാതെ പാപങ്ങൾ പൊറുക്കുന്നവനില്ല."
+      },
+      "references": [
+        {
+          "source": "Sahih al-Bukhari",
+          "reference": "6306",
+          "type": "hadith"
+        }
+      ],
+      "repetition": {
+        "count": 1,
+        "basis": "Morning and evening; the narration describes saying it with certainty."
+      },
+      "virtues": {
+        "en": "The Prophet ﷺ called it the chief form of seeking forgiveness. The hadith describes a great reward for saying it with firm faith and dying before the next period.",
+        "ta": "நபி ﷺ அவர்கள் இதனைப் பாவமன்னிப்புக் கோருவதில் மிகச் சிறந்த துஆ என்று குறிப்பிட்டார்கள். உறுதியான நம்பிக்கையுடன் ஓதி அடுத்த நேரத்திற்கு முன் மரணித்தால் பெரும் நன்மை இருப்பதாக ஹதீஸ் கூறுகிறது.",
+        "ml": "നബി ﷺ ഇതിനെ പാപമോചനത്തിനായുള്ള ഏറ്റവും ശ്രേഷ്ഠമായ പ്രാർത്ഥനയായി വിശേഷിപ്പിച്ചു. ഉറച്ച വിശ്വാസത്തോടെ ചൊല്ലി അടുത്ത സമയത്തിന് മുമ്പ് മരിച്ചാൽ വലിയ പ്രതിഫലമുണ്ടെന്ന് ഹദീസ് പറയുന്നു."
+      }
+    },
+    {
+      "id": "astaghfirullah",
+      "category_ids": [
+        "istighfar",
+        "forgiveness",
+        "tawbah",
+        "after_salah",
+        "friday"
+      ],
+      "arabic": "أَسْتَغْفِرُ اللَّهَ",
+      "transliteration": "Astaghfirullah.",
+      "translation": {
+        "en": "I seek forgiveness from Allah.",
+        "ta": "நான் அல்லாஹ்விடம் பாவமன்னிப்புக் கோருகிறேன்.",
+        "ml": "ഞാൻ അല്ലാഹുവിനോട് പാപമോചനം തേടുന്നു."
+      },
+      "references": [
+        {
+          "source": "Sahih Muslim",
+          "reference": "591",
+          "type": "hadith"
+        },
+        {
+          "source": "Sahih Muslim",
+          "reference": "2702",
+          "type": "hadith"
+        }
+      ],
+      "repetition": {
+        "count": 3,
+        "basis": "Three times after obligatory prayer. A separate report says the Prophet sought forgiveness and repented 100 times daily."
+      },
+      "virtues": {
+        "en": "The Prophet ﷺ sought forgiveness three times after prayer; another authentic report mentions 100 daily acts of seeking forgiveness and repentance.",
+        "ta": "தொழுகைக்குப் பின் நபி ﷺ மூன்று முறை மன்னிப்புக் கோரினார்கள்; மற்றொரு ஆதாரப்பூர்வ அறிவிப்பில் தினமும் நூறு முறை மன்னிப்பும் தவ்பாவும் செய்ததாக வருகிறது.",
+        "ml": "നമസ്കാരത്തിനു ശേഷം നബി ﷺ മൂന്നു പ്രാവശ്യം പാപമോചനം തേടി; മറ്റൊരു സ്വഹീഹായ നിവേദനത്തിൽ ദിവസവും നൂറ് പ്രാവശ്യം ഇസ്തിഗ്ഫാറും തൗബയും ചെയ്തതായി പറയുന്നു."
+      }
+    },
+    {
+      "id": "after_salah_tasbih",
+      "category_ids": [
+        "after_salah",
+        "tasbeeh",
+        "tahmeed",
+        "takbeer"
+      ],
+      "arabic": "سُبْحَانَ اللَّهِ\nالْحَمْدُ لِلَّهِ\nاللَّهُ أَكْبَرُ",
+      "transliteration": "SubhanAllah. Alhamdulillah. Allahu Akbar.",
+      "translation": {
+        "en": "Glory be to Allah. All praise belongs to Allah. Allah is the Greatest.",
+        "ta": "அல்லாஹ் தூயவன். எல்லாப் புகழும் அல்லாஹ்வுக்கே. அல்லாஹ் மிகப் பெரியவன்.",
+        "ml": "അല്ലാഹു പരിശുദ്ധനാകുന്നു. സർവസ്തുതിയും അല്ലാഹുവിനാണ്. അല്ലാഹു ഏറ്റവും മഹാനാകുന്നു."
+      },
+      "references": [
+        {
+          "source": "Sahih Muslim",
+          "reference": "596",
+          "type": "hadith"
+        },
+        {
+          "source": "Sahih al-Bukhari",
+          "reference": "843",
+          "type": "hadith"
+        }
+      ],
+      "repetition": {
+        "count": 33,
+        "basis": "After each obligatory prayer: SubhanAllah 33, Alhamdulillah 33, Allahu Akbar 33; complete the hundred with the tahlil entry."
+      },
+      "virtues": {
+        "en": "An established post-prayer remembrance. Authentic narrations also report a 34-count takbir variant, so apps should preserve the selected narration's exact sequence.",
+        "ta": "கடமையான தொழுகைக்குப் பின் ஓதும் ஆதாரப்பூர்வ திக்ர். 34 முறை தக்பீர் கூறும் வேறு ஆதாரப்பூர்வ முறையும் உள்ளது; பயன்படுத்தும் அறிவிப்பின் வரிசையை அப்படியே காக்கவும்.",
+        "ml": "നിർബന്ധ നമസ്കാരത്തിനു ശേഷമുള്ള പ്രാമാണിക ദിക്റാണിത്. 34 തക്ബീർ എന്ന മറ്റൊരു സ്വഹീഹായ രൂപവും റിപ്പോർട്ട് ചെയ്തിട്ടുണ്ട്; സ്വീകരിക്കുന്ന നിവേദനത്തിലെ ക്രമം കൃത്യമായി പാലിക്കുക."
+      }
+    },
+    {
+      "id": "post_salah_tahlil",
+      "category_ids": [
+        "after_salah",
+        "tahlil",
+        "daily_kalimas"
+      ],
+      "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "transliteration": "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu wa Huwa 'ala kulli shay'in qadir.",
+      "translation": {
+        "en": "There is no deity worthy of worship except Allah alone, without partner. His is the dominion and praise, and He has power over all things.",
+        "ta": "அல்லாஹ்வைத் தவிர வணக்கத்திற்குரிய இறைவன் வேறு யாருமில்லை. அவன் தனித்தவன்; அவனுக்கு இணையில்லை. ஆட்சியும் புகழும் அவனுக்கே உரியது; அவன் அனைத்தின் மீதும் ஆற்றலுடையவன்.",
+        "ml": "അല്ലാഹുവല്ലാതെ ആരാധനയ്ക്ക് അർഹനായി മറ്റാരുമില്ല. അവൻ ഏകനാണ്; പങ്കാളിയില്ല. ആധിപത്യവും സ്തുതിയും അവനുള്ളതാണ്. അവൻ എല്ലാറ്റിനും കഴിവുള്ളവനാണ്."
+      },
+      "references": [
+        {
+          "source": "Sahih Muslim",
+          "reference": "597",
+          "type": "hadith"
+        }
+      ],
+      "repetition": {
+        "count": 1,
+        "basis": "After the 33-count post-prayer tasbih sequence in the cited narration."
+      },
+      "virtues": {
+        "en": "Completes the hundred remembrances in this post-prayer formula.",
+        "ta": "இந்த தொழுகைக்குப் பிந்தைய திக்ரில் நூறு எண்ணிக்கையை நிறைவு செய்கிறது.",
+        "ml": "ഈ നമസ്കാരാനന്തര ദിക്റിൽ നൂറ് എണ്ണം പൂർത്തിയാക്കുന്നു."
+      }
+    },
+    {
+      "id": "la_hawla",
+      "category_ids": [
+        "hawqala",
+        "hardship",
+        "anxiety_distress",
+        "other_authentic"
+      ],
+      "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "transliteration": "La hawla wa la quwwata illa billah.",
+      "translation": {
+        "en": "There is no power or strength except through Allah.",
+        "ta": "அல்லாஹ்வின் உதவியின்றி எந்த ஆற்றலும் வலிமையும் இல்லை.",
+        "ml": "അല്ലാഹുവിന്റെ സഹായമില്ലാതെ യാതൊരു കഴിവോ ശക്തിയോ ഇല്ല."
+      },
+      "references": [
+        {
+          "source": "Sahih al-Bukhari",
+          "reference": "6384",
+          "type": "hadith"
+        },
+        {
+          "source": "Sahih Muslim",
+          "reference": "2704",
+          "type": "hadith"
+        }
+      ],
+      "repetition": {
+        "count": null,
+        "basis": "No fixed count specified in these references."
+      },
+      "virtues": {
+        "en": "The Prophet ﷺ described it as one of the treasures of Paradise.",
+        "ta": "இதனைச் சொர்க்கத்தின் பொக்கிஷங்களில் ஒன்றாக நபி ﷺ குறிப்பிட்டார்கள்.",
+        "ml": "ഇത് സ്വർഗത്തിലെ നിധികളിൽ ഒന്നാണെന്ന് നബി ﷺ വിശേഷിപ്പിച്ചു."
+      }
+    },
+    {
+      "id": "two_weighty_words",
+      "category_ids": [
+        "two_weighty_phrases",
+        "tasbeeh",
+        "tahmeed",
+        "other_authentic"
+      ],
+      "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+      "transliteration": "SubhanAllahi wa bihamdihi, SubhanAllahil-'Azim.",
+      "translation": {
+        "en": "Glory and praise be to Allah; Glory be to Allah, the Magnificent.",
+        "ta": "அல்லாஹ்வைப் புகழ்ந்தவாறு அவனைத் தூய்மைப்படுத்துகிறேன். மகத்துவமிக்க அல்லாஹ் தூயவன்.",
+        "ml": "അല്ലാഹുവിനെ സ്തുതിച്ചുകൊണ്ട് അവന്റെ പരിശുദ്ധിയെ പ്രകീർത്തിക്കുന്നു. മഹത്വമുള്ള അല്ലാഹു പരിശുദ്ധനാകുന്നു."
+      },
+      "references": [
+        {
+          "source": "Sahih al-Bukhari",
+          "reference": "6406",
+          "type": "hadith"
+        },
+        {
+          "source": "Sahih Muslim",
+          "reference": "2694",
+          "type": "hadith"
+        }
+      ],
+      "repetition": {
+        "count": null,
+        "basis": "No fixed count in this hadith."
+      },
+      "virtues": {
+        "en": "These two phrases are light on the tongue, heavy on the Scale, and beloved to the Most Merciful.",
+        "ta": "இந்த இரண்டு வாசகங்களும் நாவிற்கு எளிதானவை, நன்மைத் தராசில் கனமானவை, அர்ரஹ்மானுக்கு விருப்பமானவை.",
+        "ml": "ഈ രണ്ട് വചനങ്ങൾ നാവിന് ലളിതവും നന്മയുടെ തുലാസിൽ ഭാരമുള്ളതും പരമകാരുണികന് പ്രിയപ്പെട്ടതുമാണ്."
+      }
+    },
+    {
+      "id": "subhanallahi_wabihamdihi",
+      "category_ids": [
+        "tasbeeh",
+        "tahmeed",
+        "morning_adhkar",
+        "evening_adhkar",
+        "forgiveness"
+      ],
+      "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+      "transliteration": "SubhanAllahi wa bihamdihi.",
+      "translation": {
+        "en": "Glory and praise be to Allah.",
+        "ta": "அல்லாஹ்வைப் புகழ்ந்தவாறு அவனைத் தூய்மைப்படுத்துகிறேன்.",
+        "ml": "അല്ലാഹുവിനെ സ്തുതിച്ചുകൊണ്ട് അവന്റെ പരിശുദ്ധിയെ പ്രകീർത്തിക്കുന്നു."
+      },
+      "references": [
+        {
+          "source": "Sahih al-Bukhari",
+          "reference": "6405",
+          "type": "hadith"
+        },
+        {
+          "source": "Sahih Muslim",
+          "reference": "2691",
+          "type": "hadith"
+        }
+      ],
+      "repetition": {
+        "count": 100,
+        "basis": "One hundred times in a day."
+      },
+      "virtues": {
+        "en": "The hadith states that the sins of the one who says it 100 times in a day are forgiven, even if like the foam of the sea.",
+        "ta": "ஒரு நாளில் இதனை நூறு முறை ஓதுபவரின் பாவங்கள் கடல் நுரையைப் போன்றிருந்தாலும் மன்னிக்கப்படும் என ஹதீஸில் கூறப்பட்டுள்ளது.",
+        "ml": "ഒരു ദിവസം ഇത് നൂറ് പ്രാവശ്യം ചൊല്ലുന്നവന്റെ പാപങ്ങൾ കടൽനുരയെപ്പോലെയുണ്ടെങ്കിലും പൊറുക്കപ്പെടുമെന്ന് ഹദീസിൽ പറയുന്നു."
+      }
+    }
+  ],
+  "integration_note": "The supplied text ended inside the repetition field of morning_evening_bismillah. That incomplete record is excluded; no missing text, reference, virtue, or count has been inferred. The first character of the supplied wake-up Malayalam translation used Tamil script and was corrected to its Malayalam-script equivalent."
+}

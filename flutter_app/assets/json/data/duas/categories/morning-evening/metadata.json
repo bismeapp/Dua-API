@@ -1,0 +1,29 @@
+{
+  "id": "morning-evening",
+  "name": {
+    "en": "Morning & Evening",
+    "ar": "الصباح والمساء",
+    "ur": "صبح و شام",
+    "fr": "Matin et Soir",
+    "tr": "Sabah ve Akşam",
+    "id": "Pagi dan Sore",
+    "bn": "সকাল ও সন্ধ্যা",
+    "ms": "Pagi dan Petang",
+    "ta": "காலை மற்றும் மாலை",
+    "ml": "രാവിലെയും വൈകുന്നേരവും"
+  },
+  "description": {
+    "en": "Category of duas: Morning & Evening"
+  },
+  "parent_id": null,
+  "order": 1,
+  "theme": {
+    "color": "amber",
+    "gradient": "from-amber-400 to-orange-500",
+    "bg": "bg-amber-50",
+    "border": "border-amber-200",
+    "text": "text-amber-700"
+  },
+  "item_count": 4,
+  "data_file": "duas.json"
+}

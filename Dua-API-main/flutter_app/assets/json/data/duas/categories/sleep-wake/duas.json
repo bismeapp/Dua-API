@@ -1,0 +1,115 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "sleep-wake",
+  "count": 3,
+  "duas": [
+    {
+      "id": "sl-1",
+      "category_id": "sleep-wake",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Before Sleeping",
+        "ar": "قبل النوم",
+        "ur": "سونے سے پہلے",
+        "fr": "Avant de Dormir",
+        "tr": "Uyumadan Önce",
+        "id": "Sebelum Tidur",
+        "bn": "ঘুমানোর আগে",
+        "ms": "Sebelum Tidur",
+        "ta": "தூங்குவதற்கு முன்",
+        "ml": "ഉറങ്ങുന്നതിന് മുമ്പ്"
+      },
+      "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+      "translation": {
+        "en": "In Your name O Allah, I live and die.",
+        "ar": "باسمك اللهم أموت وأحيا",
+        "ur": "اے اللہ! تیرے نام سے میں مرتا اور جیتا ہوں۔",
+        "fr": "En Ton nom ô Allah, je vis et je meurs.",
+        "tr": "Senin adınla Allah'ım, ölürüm ve dirilirim.",
+        "id": "Dengan nama-Mu ya Allah, aku mati dan hidup.",
+        "bn": "তোমার নামে হে আল্লাহ, আমি মরি এবং বাঁচি।",
+        "ms": "Dengan nama-Mu ya Allah, aku mati dan hidup.",
+        "ta": "இறைவா! உமது பெயரால் நான் வாழ்கிறேன், இறக்கிறேன்.",
+        "ml": "അല്ലാഹുവേ, നിന്റെ നാമത്തിൽ ഞാൻ ജീവിക്കുകയും മരിക്കുകയും ചെയ്യുന്നു."
+      },
+      "reference": {
+        "source": "Bukhari",
+        "reference_text": "Bukhari 11/113, Muslim 4/2086"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "sl-2",
+      "category_id": "sleep-wake",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "Waking Up",
+        "ar": "عند الاستيقاظ",
+        "ur": "جاگنے کے وقت",
+        "fr": "Au Réveil",
+        "tr": "Uyanınca",
+        "id": "Saat Bangun Tidur",
+        "bn": "ঘুম থেকে উঠার সময়",
+        "ms": "Semasa Bangun Tidur",
+        "ta": "விழித்தெழும்போது",
+        "ml": "ഉണരുമ്പോൾ"
+      },
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+      "translation": {
+        "en": "All praise is for Allah who gave us life after having taken it from us and unto Him is the resurrection.",
+        "ar": "الحمد لله الذي أحيانا بعد ما أماتنا وإليه النشور",
+        "ur": "تمام تعریفیں اللہ کے لیے ہیں جس نے ہمیں مرنے کے بعد زندہ کیا اور اسی کی طرف لوٹ کر جانا ہے۔",
+        "fr": "Toute louange est pour Allah qui nous a donné la vie après nous avoir fait mourir et c'est vers Lui que sera la résurrection.",
+        "tr": "Bizi öldükten sonra dirilten Allah'a hamdolsun ve dönüş O'na olacaktır.",
+        "id": "Segala puji bagi Allah yang telah menghidupkan kami setelah mematikan kami dan kepada-Nya kami akan dikembalikan.",
+        "bn": "সমস্ত প্রশংসা আল্লাহর যিনি আমাদের মৃত্যুর পরে জীবিত করেছেন এবং তাঁরই দিকে প্রত্যাবর্তন।",
+        "ms": "Segala puji bagi Allah yang telah menghidupkan kami setelah mematikan kami dan kepada-Nya kami akan dikembalikan.",
+        "ta": "எங்களை மரணமடையச் செய்த பின் எங்களுக்கு மீண்டும் வாழ்வளித்த அல்லாஹ்வுக்கே எல்லா புகழும், அவனிடமே மீட்சி.",
+        "ml": "ഞങ്ങളെ മരിപ്പിച്ച ശേഷം വീണ്ടും ജീവിപ്പിച്ച അല്ലാഹുവിന് എല്ലാ സ്തുതിയും, അവങ്കലേക്കാണ് ഉയിർത്തെഴുന്നേൽപ്പ്."
+      },
+      "reference": {
+        "source": "Bukhari",
+        "reference_text": "Bukhari 11/113"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "sl-3",
+      "category_id": "sleep-wake",
+      "subcategory_id": null,
+      "order": 3,
+      "title": {
+        "en": "Dua for Insomnia",
+        "ar": "دعاء الأرق",
+        "ur": "بے خوابی کی دعا",
+        "fr": "Doua contre l'Insomnie",
+        "tr": "Uykusuzluk Duası",
+        "id": "Doa saat Sulit Tidur",
+        "bn": "অনিদ্রার দোয়া",
+        "ms": "Doa ketika Sukar Tidur",
+        "ta": "தூக்கமின்மைக்கான துஆ",
+        "ml": "നിദ്രാഭംഗത്തിനുള്ള ദുആ"
+      },
+      "arabic": "اللَّهُمَّ غَارَتِ النُّجُومُ، وَهَدَأَتِ الْعُيُونُ، وَأَنْتَ حَيٌّ قَيُّومٌ، لاَ تَأْخُذُكَ سِنَةٌ وَلاَ نَوْمٌ، يَا حَيُّ يَا قَيُّومُ أَهْدِئْ لَيْلِي وَأَنِمْنِي عَيْنِي",
+      "translation": {
+        "en": "O Allah, the stars have set, the eyes are at rest, and You are the Ever Living, the Sustainer. Neither slumber nor sleep overtakes You. O Ever Living, O Sustainer, calm my night and let my eyes sleep.",
+        "ar": "اللهم غارت النجوم وهدأت العيون وأنت حي قيوم لا تأخذك سنة ولا نوم يا حي يا قيوم أهدئ ليلي وأنم عيني",
+        "ur": "اے اللہ! ستارے ڈوب گئے، آنکھیں ٹھہر گئیں اور تو زندہ اور قائم رہنے والا ہے۔ تجھے نہ اونگھ آتی ہے نہ نیند۔ اے زندہ، اے قائم! میری رات کو سکون دے اور میری آنکھ کو نیند دے۔",
+        "fr": "Ô Allah, les étoiles se sont couchées, les yeux se sont reposés, et Tu es le Vivant, le Sustenteur. Ni somnolence ni sommeil ne Te saisissent. Ô Vivant, Ô Sustenteur, calme ma nuit et fais dormir mes yeux.",
+        "tr": "Allah'ım! Yıldızlar battı, gözler sakinleşti, Sen Hayy ve Kayyûm'sun. Seni ne uyuklama ne de uyku tutmaz. Ey Hayy, Ey Kayyûm! Gecemizi sakinleştir ve gözlerimi uyut.",
+        "id": "Ya Allah, bintang-bintang telah terbenam, mata-mata telah tenang, dan Engkau Yang Maha Hidup, Yang Maha Berdiri Sendiri. Tidak mengantuk dan tidak tidur yang meliputi-Mu. Wahai Yang Maha Hidup, Wahai Yang Maha Berdiri, tenangkan malamku dan tidurkan mataku.",
+        "bn": "হে আল্লাহ, তারা ডুবে গেছে, চোখ বিশ্রাম নিয়েছে এবং তুমি চিরঞ্জীব, সবকিছুর ধারক। তোমাকে তন্দ্রা বা নিদ্রা স্পর্শ করে না। হে চিরঞ্জীব, হে ধারক, আমার রাত শান্ত করো এবং আমার চোখকে ঘুম পাও।",
+        "ms": "Ya Allah, bintang-bintang telah terbenam, mata-mata telah tenang, dan Engkau Yang Maha Hidup, Yang Maha Berdiri Sendiri. Tidak mengantuk dan tidak tidur yang meliputi-Mu. Wahai Yang Maha Hidup, Wahai Yang Berdiri, tenangkan malamku dan tidurkan mataku.",
+        "ta": "இறைவா! நட்சத்திரங்கள் மறைந்தன, கண்கள் ஓய்வில் உள்ளன, நீரே என்றும் வாழ்பவர், நிலைநிறுத்துபவர். உம்மை உறக்கமோ தூக்கமோ பீடிப்பதில்லை. என்றும் வாழ்பவரே, நிலைநிறுத்துபவரே! என் இரவை அமைதிப்படுத்தி, என் கண்களுக்கு தூக்கத்தை அளிப்பாயாக.",
+        "ml": "അല്ലാഹുവേ, നക്ഷത്രങ്ങൾ മറഞ്ഞു, കണ്ണുകൾ വിശ്രമത്തിലാണ്, നീയാണ് നിത്യജീവനും നിലനിർത്തുന്നവനും. നിന്നെ ഉറക്കമോ ഉറക്കമോ ബാധിക്കുന്നില്ല. നിത്യജീവാ, നിലനിർത്തുന്നവാ, എന്റെ രാത്രി ശാന്തമാക്കുകയും എന്റെ കണ്ണുകൾക്ക് ഉറക്കം നൽകുകയും ചെയ്യണമേ."
+      },
+      "reference": {
+        "source": "Abu",
+        "reference_text": "Abu Dawud, Al-Adab Al-Mufrad"
+      },
+      "repetition_count": 1
+    }
+  ]
+}

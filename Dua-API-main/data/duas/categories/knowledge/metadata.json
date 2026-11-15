@@ -1,0 +1,29 @@
+{
+  "id": "knowledge",
+  "name": {
+    "en": "Knowledge & Study",
+    "ar": "العلم والدراسة",
+    "ur": "علم اور مطالعہ",
+    "fr": "Connaissance et Étude",
+    "tr": "İlim ve Çalışma",
+    "id": "Ilmu dan Belajar",
+    "bn": "জ্ঞান ও পড়াশোনা",
+    "ms": "Ilmu dan Pembelajaran",
+    "ta": "அறிவு மற்றும் கல்வி",
+    "ml": "അറിവും പഠനവും"
+  },
+  "description": {
+    "en": "Category of duas: Knowledge & Study"
+  },
+  "parent_id": null,
+  "order": 12,
+  "theme": {
+    "color": "violet",
+    "gradient": "from-violet-400 to-purple-500",
+    "bg": "bg-violet-50",
+    "border": "border-violet-200",
+    "text": "text-violet-700"
+  },
+  "item_count": 5,
+  "data_file": "duas.json"
+}

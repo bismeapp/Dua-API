@@ -1,0 +1,29 @@
+{
+  "id": "ummah",
+  "name": {
+    "en": "For the Ummah",
+    "ar": "للأمة",
+    "ur": "امت کے لیے",
+    "fr": "Pour la Ummah",
+    "tr": "Ümmet İçin",
+    "id": "Untuk Umat",
+    "bn": "উম্মাহর জন্য",
+    "ms": "Untuk Ummah",
+    "ta": "உம்மத்துகளுக்கான துஆ",
+    "ml": "ഉമ്മത്തിനായി"
+  },
+  "description": {
+    "en": "Category of duas: For the Ummah"
+  },
+  "parent_id": null,
+  "order": 35,
+  "theme": {
+    "color": "teal",
+    "gradient": "from-teal-400 to-cyan-600",
+    "bg": "bg-teal-50",
+    "border": "border-teal-200",
+    "text": "text-teal-700"
+  },
+  "item_count": 1,
+  "data_file": "duas.json"
+}

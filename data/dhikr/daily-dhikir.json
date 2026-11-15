@@ -1,0 +1,387 @@
+{
+  "schema_version": "1.0.0",
+  "collection": {
+    "name": "Daily Dhikir",
+    "description": "Daily remembrance and supplications supplied for this collection.",
+    "languages": ["ar", "en", "ta", "ml", "ur", "fr", "tr", "id", "bn", "ms"]
+  },
+  "data_guidelines": {
+    "translations": "Meaning-based translations of the supplied meanings. Arabic remains the primary recitation text.",
+    "references": "References are retained as supplied and should be checked against the exact cited edition.",
+    "deeper_meaning": "The supplied deeper meanings are retained in English; they are not presented as prophetic quotations.",
+    "repetition": "No fixed counts are added where the supplied text did not state one."
+  },
+  "adhkar": [
+    {
+      "id": "subhanallah",
+      "title": {
+        "ar": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+        "en": "SubhanAllah",
+        "ta": "சுப்ஹானல்லாஹ்",
+        "ml": "സുബ്ഹാനല്ലാഹ്",
+        "ur": "سبحان اللہ",
+        "fr": "Gloire à Allah",
+        "tr": "Sübhanallah",
+        "id": "SubhanAllah",
+        "bn": "সুবহানাল্লাহ",
+        "ms": "SubhanAllah"
+      },
+      "category_ids": ["daily-dhikir"],
+      "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+      "transliteration": "SubhanAllahi wa bihamdihi.",
+      "translation": {
+        "ar": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+        "en": "Glory be to Allah and praise be to Him.",
+        "ta": "அல்லாஹ் தூயவன்; அவனுக்கே எல்லாப் புகழும்.",
+        "ml": "അല്ലാഹു പരിശുദ്ധനാകുന്നു; അവനാണ് സർവസ്തുതിയും.",
+        "ur": "اللہ پاک ہے اور اسی کے لیے تمام تعریفیں ہیں۔",
+        "fr": "Gloire à Allah et louange à Lui.",
+        "tr": "Allah her türlü eksiklikten münezzehtir ve hamd O’na mahsustur.",
+        "id": "Mahasuci Allah dan segala puji bagi-Nya.",
+        "bn": "আল্লাহ পবিত্র; সমস্ত প্রশংসা তাঁরই।",
+        "ms": "Maha Suci Allah dan segala puji bagi-Nya."
+      },
+      "references": [
+        { "source": "Sahih al-Bukhari", "reference": "6405", "type": "hadith" },
+        { "source": "Sahih Muslim", "reference": "2691", "type": "hadith" }
+      ],
+      "repetition": { "count": null, "basis": "No fixed count stated in the supplied text." },
+      "deeper_meaning": {
+        "en": "SubhanAllah is a declaration that Allah is completely free from imperfection. But beyond that, it reshapes how you see the world. When something feels chaotic or unclear, this phrase reminds you that Allah’s creation is not flawed — your perspective is limited. It builds humility, and slowly replaces control with trust."
+      }
+    },
+    {
+      "id": "alhamdulillah",
+      "title": {
+        "ar": "الْحَمْدُ لِلَّهِ",
+        "en": "Alhamdulillah",
+        "ta": "அல்ஹம்துலில்லாஹ்",
+        "ml": "അൽഹംദുലില്ലാഹ്",
+        "ur": "الحمد للہ",
+        "fr": "Louange à Allah",
+        "tr": "Elhamdülillah",
+        "id": "Alhamdulillah",
+        "bn": "আলহামদুলিল্লাহ",
+        "ms": "Alhamdulillah"
+      },
+      "category_ids": ["daily-dhikir"],
+      "arabic": "الْحَمْدُ لِلَّهِ",
+      "transliteration": "Alhamdulillah.",
+      "translation": {
+        "ar": "الْحَمْدُ لِلَّهِ",
+        "en": "All praise is due to Allah.",
+        "ta": "எல்லாப் புகழும் அல்லாஹ்வுக்கே உரியது.",
+        "ml": "സർവസ്തുതിയും അല്ലാഹുവിനാണ്.",
+        "ur": "تمام تعریفیں اللہ ہی کے لیے ہیں۔",
+        "fr": "Toute louange revient à Allah.",
+        "tr": "Hamd, âlemlerin Rabbi Allah’a mahsustur.",
+        "id": "Segala puji bagi Allah.",
+        "bn": "সমস্ত প্রশংসা আল্লাহর জন্য।",
+        "ms": "Segala puji bagi Allah."
+      },
+      "references": [
+        { "source": "Qur’an, Surah Ibrahim", "reference": "14:7", "type": "quran" }
+      ],
+      "repetition": { "count": null, "basis": "No fixed count stated in the supplied text." },
+      "deeper_meaning": {
+        "en": "Alhamdulillah is not just said after something good happens. It is said because everything — ease, delay, even hardship — carries meaning from Allah. This phrase trains the heart to recognize blessings that are not immediately obvious, shifting gratitude from reaction to perspective."
+      }
+    },
+    {
+      "id": "allahu-akbar",
+      "title": {
+        "ar": "اللَّهُ أَكْبَرُ",
+        "en": "Allahu Akbar",
+        "ta": "அல்லாஹு அக்பர்",
+        "ml": "അല്ലാഹു അക്ബർ",
+        "ur": "اللہ اکبر",
+        "fr": "Allah est le plus grand",
+        "tr": "Allahu Ekber",
+        "id": "Allahu Akbar",
+        "bn": "আল্লাহু আকবার",
+        "ms": "Allahu Akbar"
+      },
+      "category_ids": ["daily-dhikir"],
+      "arabic": "اللَّهُ أَكْبَرُ",
+      "transliteration": "Allahu Akbar.",
+      "translation": {
+        "ar": "اللَّهُ أَكْبَرُ",
+        "en": "Allah is the Greatest.",
+        "ta": "அல்லாஹ் மிகப் பெரியவன்.",
+        "ml": "അല്ലാഹു ഏറ്റവും മഹാനാകുന്നു.",
+        "ur": "اللہ سب سے بڑا ہے۔",
+        "fr": "Allah est le plus Grand.",
+        "tr": "Allah en büyüktür.",
+        "id": "Allah Maha Besar.",
+        "bn": "আল্লাহ সর্বশ্রেষ্ঠ।",
+        "ms": "Allah Maha Besar."
+      },
+      "references": [],
+      "repetition": { "count": null, "basis": "No reference or fixed count was supplied." },
+      "deeper_meaning": {
+        "en": "This phrase puts everything back into proportion. Anxiety, fear, ambition — all shrink when compared to the greatness of Allah. Repeating it consistently breaks the illusion that worldly concerns are overwhelming, and replaces it with certainty that Allah is greater than anything you face."
+      }
+    },
+    {
+      "id": "la-ilaha-illallah",
+      "title": {
+        "ar": "لَا إِلَٰهَ إِلَّا اللَّهُ",
+        "en": "La ilaha illallah",
+        "ta": "லா இலாஹ இல்லல்லாஹ்",
+        "ml": "ലാ ഇലാഹ ഇല്ലല്ലാഹ്",
+        "ur": "لا الٰہ الا اللہ",
+        "fr": "Il n’y a de divinité qu’Allah",
+        "tr": "La ilahe illallah",
+        "id": "La ilaha illallah",
+        "bn": "লা ইলাহা ইল্লাল্লাহ",
+        "ms": "La ilaha illallah"
+      },
+      "category_ids": ["daily-dhikir"],
+      "arabic": "لَا إِلَٰهَ إِلَّا اللَّهُ",
+      "transliteration": "La ilaha illallah.",
+      "translation": {
+        "ar": "لَا مَعْبُودَ بِحَقٍّ إِلَّا اللَّهُ",
+        "en": "There is no deity worthy of worship except Allah.",
+        "ta": "அல்லாஹ்வைத் தவிர வணக்கத்திற்குரிய இறைவன் வேறு யாருமில்லை.",
+        "ml": "അല്ലാഹുവല്ലാതെ ആരാധനയ്ക്ക് അർഹനായി മറ്റാരുമില്ല.",
+        "ur": "اللہ کے سوا کوئی معبودِ برحق نہیں۔",
+        "fr": "Il n’y a aucune divinité digne d’adoration en dehors d’Allah.",
+        "tr": "Allah’tan başka hak ilah yoktur.",
+        "id": "Tidak ada sesembahan yang berhak disembah selain Allah.",
+        "bn": "আল্লাহ ছাড়া সত্য উপাস্য কেউ নেই।",
+        "ms": "Tiada sembahan yang berhak disembah melainkan Allah."
+      },
+      "references": [
+        { "source": "Jami’ at-Tirmidhi", "reference": "3383 (Hasan)", "type": "hadith" }
+      ],
+      "repetition": { "count": null, "basis": "No fixed count stated in the supplied text." },
+      "deeper_meaning": {
+        "en": "This is not just a statement of belief — it is a constant renewal of purpose. It removes attachment to anything competing for your heart — status, validation, control — and brings you back to a single center: Allah alone."
+      }
+    },
+    {
+      "id": "astaghfirullah",
+      "title": {
+        "ar": "أَسْتَغْفِرُ اللَّهَ",
+        "en": "Astaghfirullah",
+        "ta": "அஸ்தக்ஃபிருல்லாஹ்",
+        "ml": "അസ്തഗ്ഫിറുല്ലാഹ്",
+        "ur": "استغفر اللہ",
+        "fr": "Je demande pardon à Allah",
+        "tr": "Estağfirullah",
+        "id": "Astaghfirullah",
+        "bn": "আস্তাগফিরুল্লাহ",
+        "ms": "Astaghfirullah"
+      },
+      "category_ids": ["daily-dhikir"],
+      "arabic": "أَسْتَغْفِرُ اللَّهَ",
+      "transliteration": "Astaghfirullah.",
+      "translation": {
+        "ar": "أَطْلُبُ الْمَغْفِرَةَ مِنَ اللَّهِ",
+        "en": "I seek forgiveness from Allah.",
+        "ta": "நான் அல்லாஹ்விடம் மன்னிப்புக் கோருகிறேன்.",
+        "ml": "ഞാൻ അല്ലാഹുവിനോട് പാപമോചനം തേടുന്നു.",
+        "ur": "میں اللہ سے بخشش طلب کرتا ہوں۔",
+        "fr": "Je demande pardon à Allah.",
+        "tr": "Allah’tan bağışlanma dilerim.",
+        "id": "Aku memohon ampun kepada Allah.",
+        "bn": "আমি আল্লাহর কাছে ক্ষমা প্রার্থনা করি।",
+        "ms": "Aku memohon keampunan daripada Allah."
+      },
+      "references": [
+        { "source": "Sahih al-Bukhari", "reference": "6307", "type": "hadith" }
+      ],
+      "repetition": { "count": null, "basis": "No fixed count stated in the supplied text." },
+      "deeper_meaning": {
+        "en": "Seeking forgiveness is not only about sin — it is about awareness. It softens the heart, removes arrogance, and keeps a person from becoming spiritually numb. The more a person says Astaghfirullah, the more they remain conscious of their need for Allah."
+      }
+    },
+    {
+      "id": "two_weighty-phrases",
+      "title": {
+        "ar": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+        "en": "SubhanAllahi wa bihamdihi, SubhanAllahil Azeem",
+        "ta": "சுப்ஹானல்லாஹி வபிஹம்திஹி, சுப்ஹானல்லாஹில் அழீம்",
+        "ml": "സുബ്ഹാനല്ലാഹി വബിഹംദിഹി, സുബ്ഹാനല്ലാഹിൽ അളീം",
+        "ur": "سبحان اللہ وبحمدہ، سبحان اللہ العظیم",
+        "fr": "Gloire et louange à Allah, gloire à Allah le Très-Grand",
+        "tr": "Sübhanallahi ve bihamdihi, Sübhanallahil Azim",
+        "id": "SubhanAllahi wa bihamdihi, SubhanAllahil Azeem",
+        "bn": "সুবহানাল্লাহি ওয়া বিহামদিহি, সুবহানাল্লাহিল আযীম",
+        "ms": "SubhanAllahi wa bihamdihi, SubhanAllahil Azeem"
+      },
+      "category_ids": ["daily-dhikir"],
+      "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+      "transliteration": "SubhanAllahi wa bihamdihi, SubhanAllahil ‘Azeem.",
+      "translation": {
+        "ar": "تَنَزَّهَ اللَّهُ عَنِ النَّقْصِ وَلَهُ الْحَمْدُ، تَنَزَّهَ اللَّهُ الْعَظِيمُ",
+        "en": "Glory and praise be to Allah; glory be to Allah, the Most Great.",
+        "ta": "அல்லாஹ் தூயவன்; அவனுக்கே புகழ். மகத்தான அல்லாஹ் தூயவன்.",
+        "ml": "അല്ലാഹു പരിശുദ്ധനും സ്തുതിക്കർഹനുമാകുന്നു; മഹാനായ അല്ലാഹു പരിശുദ്ധനാകുന്നു.",
+        "ur": "اللہ پاک ہے اور اسی کے لیے حمد ہے؛ عظمت والا اللہ پاک ہے۔",
+        "fr": "Gloire et louange à Allah ; gloire à Allah, le Très-Grand.",
+        "tr": "Allah’a hamd ederek O’nu eksikliklerden tenzih ederim; yüce Allah’ı tenzih ederim.",
+        "id": "Mahasuci Allah dan segala puji bagi-Nya; Mahasuci Allah Yang Mahaagung.",
+        "bn": "আল্লাহ পবিত্র এবং তাঁরই প্রশংসা; মহান আল্লাহ পবিত্র।",
+        "ms": "Maha Suci Allah dan segala puji bagi-Nya; Maha Suci Allah Yang Maha Agung."
+      },
+      "references": [
+        { "source": "Sahih al-Bukhari", "reference": "7563", "type": "hadith" },
+        { "source": "Sahih Muslim", "reference": "2694", "type": "hadith" }
+      ],
+      "repetition": { "count": null, "basis": "No fixed count stated in the supplied text." },
+      "deeper_meaning": {
+        "en": "These words are described as light on the tongue but heavy on the scale — because they combine both recognition and praise. They train the heart to not only see Allah’s perfection, but to respond to it with gratitude."
+      }
+    },
+    {
+      "id": "la-hawla-wa-la-quwwata",
+      "title": {
+        "ar": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "en": "La hawla wa la quwwata illa billah",
+        "ta": "லா ஹவ்ல வலா குவ்வத்த இல்லா பில்லாஹ்",
+        "ml": "ലാ ഹൗല വലാ ഖുവ്വത്ത ഇല്ലാ ബില്ലാഹ്",
+        "ur": "لا حول ولا قوة الا باللہ",
+        "fr": "Il n’y a de force ni de puissance qu’en Allah",
+        "tr": "La havle ve la kuvvete illa billah",
+        "id": "La hawla wa la quwwata illa billah",
+        "bn": "লা হাওলা ওয়ালা কুওয়াতা ইল্লা বিল্লাহ",
+        "ms": "La hawla wa la quwwata illa billah"
+      },
+      "category_ids": ["daily-dhikir"],
+      "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "transliteration": "La hawla wa la quwwata illa billah.",
+      "translation": {
+        "ar": "لَا تَحَوُّلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "en": "There is no power and no strength except with Allah.",
+        "ta": "அல்லாஹ்வின் உதவியின்றி எந்த ஆற்றலும் வலிமையும் இல்லை.",
+        "ml": "അല്ലാഹുവിന്റെ സഹായമില്ലാതെ യാതൊരു കഴിവോ ശക്തിയോ ഇല്ല.",
+        "ur": "اللہ کے سوا کسی میں نہ طاقت ہے نہ قوت۔",
+        "fr": "Il n’y a de force ni de puissance qu’en Allah.",
+        "tr": "Güç ve kuvvet ancak Allah’ın yardımıyladır.",
+        "id": "Tiada daya dan kekuatan kecuali dengan pertolongan Allah.",
+        "bn": "আল্লাহর সাহায্য ছাড়া কোনো শক্তি ও সামর্থ্য নেই।",
+        "ms": "Tiada daya dan kekuatan melainkan dengan pertolongan Allah."
+      },
+      "references": [
+        { "source": "Sahih al-Bukhari", "reference": "4205", "type": "hadith" },
+        { "source": "Sahih Muslim", "reference": "2704", "type": "hadith" }
+      ],
+      "repetition": { "count": null, "basis": "No fixed count stated in the supplied text." },
+      "deeper_meaning": {
+        "en": "This phrase removes the illusion of self-reliance. It teaches that strength, patience, and ability all come from Allah. It is especially powerful in moments of stress — not because it removes difficulty, but because it reanchors where strength comes from."
+      }
+    },
+    {
+      "id": "hasbunallahu-wa-nimal-wakeel",
+      "title": {
+        "ar": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+        "en": "Hasbunallahu wa ni’mal wakeel",
+        "ta": "ஹஸ்புனல்லாஹு வ நிஃமல் வகீல்",
+        "ml": "ഹസ്ബുനല്ലാഹു വ നിഅ്മൽ വകീൽ",
+        "ur": "حسبنا اللہ ونعم الوکیل",
+        "fr": "Allah nous suffit, Il est le meilleur garant",
+        "tr": "Hasbunallahu ve ni’mel vekil",
+        "id": "Hasbunallahu wa ni’mal wakeel",
+        "bn": "হাসবুনাল্লাহু ওয়া নি‘মাল ওয়াকিল",
+        "ms": "Hasbunallahu wa ni’mal wakeel"
+      },
+      "category_ids": ["daily-dhikir"],
+      "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+      "transliteration": "Hasbunallahu wa ni‘mal wakeel.",
+      "translation": {
+        "ar": "اللَّهُ كَافِينَا وَهُوَ خَيْرُ مَنْ نَفَوِّضُ إِلَيْهِ أُمُورَنَا",
+        "en": "Allah is sufficient for us, and He is the best disposer of affairs.",
+        "ta": "அல்லாஹ் எங்களுக்குப் போதுமானவன்; காரியங்களை ஒப்படைக்க அவனே மிகச் சிறந்தவன்.",
+        "ml": "അല്ലാഹു ഞങ്ങൾക്ക് മതിയായവനാണ്; കാര്യങ്ങൾ ഏൽപ്പിക്കാൻ ഏറ്റവും ഉത്തമൻ അവനാണ്.",
+        "ur": "اللہ ہمارے لیے کافی ہے اور وہ بہترین کارساز ہے۔",
+        "fr": "Allah nous suffit et Il est le meilleur garant.",
+        "tr": "Allah bize yeter; O ne güzel vekildir.",
+        "id": "Cukuplah Allah bagi kami, dan Dia sebaik-baik tempat berserah.",
+        "bn": "আল্লাহই আমাদের জন্য যথেষ্ট, আর তিনি সর্বোত্তম কর্মবিধায়ক।",
+        "ms": "Cukuplah Allah bagi kami, dan Dia sebaik-baik pengurus segala urusan."
+      },
+      "references": [
+        { "source": "Qur’an", "reference": "3:173", "type": "quran" }
+      ],
+      "repetition": { "count": null, "basis": "No fixed count stated in the supplied text." },
+      "deeper_meaning": {
+        "en": "This is not just trust — it is surrender. It is said when outcomes feel uncertain. It replaces anxiety about results with certainty in Allah’s control. The heart begins to rest not because circumstances change, but because reliance shifts."
+      }
+    },
+    {
+      "id": "rabbi-zidni-ilma",
+      "title": {
+        "ar": "رَبِّ زِدْنِي عِلْمًا",
+        "en": "Rabbi zidni ilma",
+        "ta": "ரப்பி ஸித்னீ இல்மா",
+        "ml": "റബ്ബി സിദ്നീ ഇൽമാ",
+        "ur": "رَبِّ زِدْنِي عِلْمًا",
+        "fr": "Seigneur, accrois mon savoir",
+        "tr": "Rabbi zidni ilma",
+        "id": "Rabbi zidni ilma",
+        "bn": "রব্বি যিদনি ইলমা",
+        "ms": "Rabbi zidni ilma"
+      },
+      "category_ids": ["daily-dhikir"],
+      "arabic": "رَبِّ زِدْنِي عِلْمًا",
+      "transliteration": "Rabbi zidni ‘ilma.",
+      "translation": {
+        "ar": "رَبِّ زِدْنِي عِلْمًا",
+        "en": "My Lord, increase me in knowledge.",
+        "ta": "என் இறைவா, எனக்கு அறிவை அதிகப்படுத்துவாயாக.",
+        "ml": "എന്റെ രക്ഷിതാവേ, എനിക്ക് അറിവ് വർധിപ്പിക്കേണമേ.",
+        "ur": "اے میرے رب! میرے علم میں اضافہ فرما۔",
+        "fr": "Seigneur, accrois mon savoir.",
+        "tr": "Rabbim, ilmimi artır.",
+        "id": "Ya Tuhanku, tambahkanlah ilmu kepadaku.",
+        "bn": "হে আমার রব, আমার জ্ঞান বৃদ্ধি করুন।",
+        "ms": "Wahai Tuhanku, tambahkanlah ilmuku."
+      },
+      "references": [
+        { "source": "Qur’an", "reference": "20:114", "type": "quran" }
+      ],
+      "repetition": { "count": null, "basis": "No fixed count stated in the supplied text." },
+      "deeper_meaning": {
+        "en": "This dua reflects humility. No matter how much a person knows, they remain in need of guidance. It keeps knowledge connected to sincerity — not ego."
+      }
+    },
+    {
+      "id": "salawat-upon-prophet",
+      "title": {
+        "ar": "الصَّلَاةُ عَلَى النَّبِيِّ ﷺ",
+        "en": "Sending Salawat upon the Prophet ﷺ",
+        "ta": "நபி ﷺ அவர்கள்மீது ஸலவாத் கூறுதல்",
+        "ml": "നബി ﷺ യുടെ മേൽ സ്വലാത്ത് ചൊല്ലൽ",
+        "ur": "نبی ﷺ پر درود بھیجنا",
+        "fr": "Prière sur le Prophète ﷺ",
+        "tr": "Peygamber ﷺ’e salavat getirmek",
+        "id": "Berselawat kepada Nabi ﷺ",
+        "bn": "নবী ﷺ-এর প্রতি দরুদ পাঠ",
+        "ms": "Berselawat ke atas Nabi ﷺ"
+      },
+      "category_ids": ["daily-dhikir"],
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ",
+      "transliteration": "Allahumma salli ‘ala Muhammad.",
+      "translation": {
+        "ar": "اللَّهُمَّ أَنْزِلْ صَلَاتَكَ وَرَحْمَتَكَ عَلَى مُحَمَّدٍ",
+        "en": "O Allah, send blessings upon Muhammad.",
+        "ta": "யா அல்லாஹ், முஹம்மது ﷺ அவர்கள் மீது அருள் பொழிவாயாக.",
+        "ml": "അല്ലാഹുവേ, മുഹമ്മദ് നബി ﷺ യുടെ മേൽ അനുഗ്രഹം ചൊരിയേണമേ.",
+        "ur": "اے اللہ! محمد ﷺ پر رحمتیں نازل فرما۔",
+        "fr": "Ô Allah, accorde Tes bénédictions à Muhammad.",
+        "tr": "Allah’ım, Muhammed’e salât eyle.",
+        "id": "Ya Allah, limpahkanlah selawat kepada Muhammad.",
+        "bn": "হে আল্লাহ, মুহাম্মদের প্রতি রহমত বর্ষণ করুন।",
+        "ms": "Ya Allah, limpahkanlah selawat ke atas Muhammad."
+      },
+      "references": [
+        { "source": "Sahih Muslim", "reference": "408", "type": "hadith" }
+      ],
+      "repetition": { "count": null, "basis": "No fixed count stated in the supplied text." },
+      "deeper_meaning": {
+        "en": "Sending blessings connects a believer to the one who taught them how to remember Allah. It builds love, gratitude, and connection to the Sunnah — reinforcing that guidance is not abstract, but lived and transmitted."
+      }
+    }
+  ]
+}

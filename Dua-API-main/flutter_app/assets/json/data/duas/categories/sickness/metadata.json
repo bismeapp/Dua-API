@@ -1,0 +1,38 @@
+{
+  "id": "sickness",
+  "name": {
+    "en": "Dua for Recovery from Illness",
+    "ta": "நோயிலிருந்து குணமடைவதற்கான துஆ",
+    "ml": "രോഗശാന്തിക്കുള്ള ദുആ",
+    "ar": "دعاء للتعافي من المرض",
+    "ur": "بیماری سے شفا یابی کی دعا",
+    "fr": "Invocation pour la guérison de la maladie",
+    "tr": "Hastalıktan şifa bulma duası",
+    "id": "Doa untuk kesembuhan dari penyakit",
+    "bn": "অসুস্থতা থেকে সুস্থতার দোয়া",
+    "ms": "Doa untuk sembuh daripada penyakit"
+  },
+  "description": {
+    "en": "Duas for illness and healing.",
+    "ta": "நோய் மற்றும் குணமடைவதற்கான துஆக்கள்.",
+    "ml": "രോഗത്തിനും രോഗശാന്തിക്കുമുള്ള ദുആകൾ.",
+    "ar": "أدعية للمرض والشفاء.",
+    "ur": "بیماری اور شفا کے لیے دعائیں۔",
+    "fr": "Invocations pour la maladie et la guérison.",
+    "tr": "Hastalık ve şifa için dualar.",
+    "id": "Doa untuk penyakit dan kesembuhan.",
+    "bn": "অসুস্থতা ও আরোগ্যের দোয়া।",
+    "ms": "Doa untuk penyakit dan penyembuhan."
+  },
+  "parent_id": null,
+  "order": 13,
+  "theme": {
+    "color": "sky",
+    "gradient": "from-sky-400 to-blue-500",
+    "bg": "bg-sky-50",
+    "border": "border-sky-200",
+    "text": "text-sky-700"
+  },
+  "item_count": 2,
+  "data_file": "duas.json"
+}

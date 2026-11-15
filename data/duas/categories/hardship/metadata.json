@@ -1,0 +1,29 @@
+{
+  "id": "hardship",
+  "name": {
+    "en": "Hardship & Distress",
+    "ar": "الكرب والشدائد",
+    "ur": "مشکلات اور پریشانی",
+    "fr": "Difficulté et Détresse",
+    "tr": "Zorluk ve Sıkıntı",
+    "id": "Kesulitan dan Kesusahan",
+    "bn": "কষ্ট ও দুর্দশা",
+    "ms": "Kesukaran dan Kesedihan",
+    "ta": "கஷ்டம் மற்றும் நெருக்கடி",
+    "ml": "ബുദ്ധിമുട്ടും ദുരിതവും"
+  },
+  "description": {
+    "en": "Category of duas: Hardship & Distress"
+  },
+  "parent_id": null,
+  "order": 8,
+  "theme": {
+    "color": "rose",
+    "gradient": "from-rose-400 to-pink-500",
+    "bg": "bg-rose-50",
+    "border": "border-rose-200",
+    "text": "text-rose-700"
+  },
+  "item_count": 5,
+  "data_file": "duas.json"
+}

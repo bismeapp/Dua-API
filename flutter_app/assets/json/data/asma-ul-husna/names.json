@@ -1,0 +1,1095 @@
+{
+  "schema_version": "3.0.0",
+  "count": 99,
+  "names": [
+    {
+      "id": "husna-01",
+      "number": 1,
+      "arabic": "الرَّحْمَنُ",
+      "transliteration": "Ar-Rahman",
+      "meaning": {
+        "en": "The Most Gracious",
+        "ta": "மிகக் கருணையுள்ளவன்",
+        "ml": "അതികാരുണികൻ"
+      }
+    },
+    {
+      "id": "husna-02",
+      "number": 2,
+      "arabic": "الرَّحِيمُ",
+      "transliteration": "Ar-Raheem",
+      "meaning": {
+        "en": "The Most Merciful",
+        "ta": "மிகக் கரையுள்ளவன்",
+        "ml": "അതിദയാലു"
+      }
+    },
+    {
+      "id": "husna-03",
+      "number": 3,
+      "arabic": "الْمَلِكُ",
+      "transliteration": "Al-Malik",
+      "meaning": {
+        "en": "The King",
+        "ta": "மன்னன்",
+        "ml": "രാജാവ്"
+      }
+    },
+    {
+      "id": "husna-04",
+      "number": 4,
+      "arabic": "الْقُدُّوسُ",
+      "transliteration": "Al-Quddus",
+      "meaning": {
+        "en": "The Most Holy",
+        "ta": "மிகப் புனிதமானவன்",
+        "ml": "പരിശുദ്ധൻ"
+      }
+    },
+    {
+      "id": "husna-05",
+      "number": 5,
+      "arabic": "السَّلَامُ",
+      "transliteration": "As-Salam",
+      "meaning": {
+        "en": "The Source of Peace",
+        "ta": "சாந்தியின் மூலம்",
+        "ml": "സമാധാനത്തിന്റെ ഉറവിടം"
+      }
+    },
+    {
+      "id": "husna-06",
+      "number": 6,
+      "arabic": "الْمُؤْمِنُ",
+      "transliteration": "Al-Mu'min",
+      "meaning": {
+        "en": "The Guardian of Faith",
+        "ta": "நம்பிக்கையின் பாதுகாவலன்",
+        "ml": "വിശ്വാസത്തിന്റെ കാവൽക്കാരൻ"
+      }
+    },
+    {
+      "id": "husna-07",
+      "number": 7,
+      "arabic": "الْمُهَيْمِنُ",
+      "transliteration": "Al-Muhaymin",
+      "meaning": {
+        "en": "The Protector",
+        "ta": "பாதுகாப்பாளன்",
+        "ml": "സംരക്ഷകൻ"
+      }
+    },
+    {
+      "id": "husna-08",
+      "number": 8,
+      "arabic": "الْعَزِيزُ",
+      "transliteration": "Al-Aziz",
+      "meaning": {
+        "en": "The Almighty",
+        "ta": "வல்லமையுள்ளவன்",
+        "ml": "സർവശക്തൻ"
+      }
+    },
+    {
+      "id": "husna-09",
+      "number": 9,
+      "arabic": "الْجَبَّارُ",
+      "transliteration": "Al-Jabbar",
+      "meaning": {
+        "en": "The Compeller",
+        "ta": "கட்டாயப்படுத்துபவன்",
+        "ml": "നിർബന്ധിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-10",
+      "number": 10,
+      "arabic": "الْمُتَكَبِّرُ",
+      "transliteration": "Al-Mutakabbir",
+      "meaning": {
+        "en": "The Supreme",
+        "ta": "உயர்ந்தவன்",
+        "ml": "പരമാധികാരി"
+      }
+    },
+    {
+      "id": "husna-11",
+      "number": 11,
+      "arabic": "الْخَالِقُ",
+      "transliteration": "Al-Khaliq",
+      "meaning": {
+        "en": "The Creator",
+        "ta": "படைப்பவன்",
+        "ml": "സൃഷ്ടാവ്"
+      }
+    },
+    {
+      "id": "husna-12",
+      "number": 12,
+      "arabic": "الْبَارِئُ",
+      "transliteration": "Al-Bari",
+      "meaning": {
+        "en": "The Maker",
+        "ta": "உருவாக்குபவன்",
+        "ml": "രൂപകൽപ്പന ചെയ്യുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-13",
+      "number": 13,
+      "arabic": "الْمُصَوِّرُ",
+      "transliteration": "Al-Musawwir",
+      "meaning": {
+        "en": "The Fashioner",
+        "ta": "வடிவமைப்பவன்",
+        "ml": "രൂപം നൽകുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-14",
+      "number": 14,
+      "arabic": "الْغَفَّارُ",
+      "transliteration": "Al-Ghaffar",
+      "meaning": {
+        "en": "The Repeatedly Forgiving",
+        "ta": "மீண்டும் மீண்டும் மன்னிப்பவன்",
+        "ml": "തുടർച്ചയായി പൊറുക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-15",
+      "number": 15,
+      "arabic": "الْقَهَّارُ",
+      "transliteration": "Al-Qahhar",
+      "meaning": {
+        "en": "The Subduer",
+        "ta": "அடக்குபவன்",
+        "ml": "കീഴ്പ്പെടുത്തുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-16",
+      "number": 16,
+      "arabic": "الْوَهَّابُ",
+      "transliteration": "Al-Wahhab",
+      "meaning": {
+        "en": "The Bestower",
+        "ta": "அளிப்பவன்",
+        "ml": "ദാനം ചെയ്യുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-17",
+      "number": 17,
+      "arabic": "الرَّزَّاقُ",
+      "transliteration": "Ar-Razzaq",
+      "meaning": {
+        "en": "The Provider",
+        "ta": "உபஜீவனம் அளிப்பவன்",
+        "ml": "ഉപജീവനം നൽകുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-18",
+      "number": 18,
+      "arabic": "الْفَتَّاحُ",
+      "transliteration": "Al-Fattah",
+      "meaning": {
+        "en": "The Opener",
+        "ta": "திறப்பவன்",
+        "ml": "തുറക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-19",
+      "number": 19,
+      "arabic": "الْعَلِيمُ",
+      "transliteration": "Al-Alim",
+      "meaning": {
+        "en": "The All-Knowing",
+        "ta": "எல்லாம் அறிபவன்",
+        "ml": "എല്ലാം അറിയുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-20",
+      "number": 20,
+      "arabic": "الْقَابِضُ",
+      "transliteration": "Al-Qabid",
+      "meaning": {
+        "en": "The Constrictor",
+        "ta": "சுருக்குபவன்",
+        "ml": "ചുരുക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-21",
+      "number": 21,
+      "arabic": "الْبَاسِطُ",
+      "transliteration": "Al-Basit",
+      "meaning": {
+        "en": "The Expander",
+        "ta": "விரிவுபடுத்துபவன்",
+        "ml": "വികസിപ്പിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-22",
+      "number": 22,
+      "arabic": "الْخَافِضُ",
+      "transliteration": "Al-Khafid",
+      "meaning": {
+        "en": "The Humiliator",
+        "ta": "தாழ்த்துபவன்",
+        "ml": "താഴ്ത്തുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-23",
+      "number": 23,
+      "arabic": "الرَّافِعُ",
+      "transliteration": "Ar-Rafi",
+      "meaning": {
+        "en": "The Exalter",
+        "ta": "உயர்த்துபவன்",
+        "ml": "ഉയർത്തുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-24",
+      "number": 24,
+      "arabic": "الْمُعِزُّ",
+      "transliteration": "Al-Mu'izz",
+      "meaning": {
+        "en": "The Honourer",
+        "ta": "கௌரவிப்பவன்",
+        "ml": "ബഹുമാനിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-25",
+      "number": 25,
+      "arabic": "المُذِلُّ",
+      "transliteration": "Al-Muzil",
+      "meaning": {
+        "en": "The Dishonourer",
+        "ta": "இழிவுபடுத்துபவன்",
+        "ml": "അപമാനിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-26",
+      "number": 26,
+      "arabic": "السَّمِيعُ",
+      "transliteration": "As-Sami",
+      "meaning": {
+        "en": "The All-Hearing",
+        "ta": "எல்லாம் கேட்பவன்",
+        "ml": "എല്ലാം കേൾക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-27",
+      "number": 27,
+      "arabic": "الْبَصِيرُ",
+      "transliteration": "Al-Basir",
+      "meaning": {
+        "en": "The All-Seeing",
+        "ta": "எல்லாம் காண்பவன்",
+        "ml": "എല്ലാം കാണുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-28",
+      "number": 28,
+      "arabic": "الْحَكَمُ",
+      "transliteration": "Al-Hakam",
+      "meaning": {
+        "en": "The Judge",
+        "ta": "தீர்ப்பளிப்பவன்",
+        "ml": "വിധികൽപ്പിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-29",
+      "number": 29,
+      "arabic": "الْعَدْلُ",
+      "transliteration": "Al-Adl",
+      "meaning": {
+        "en": "The Just",
+        "ta": "நீதியுள்ளவன்",
+        "ml": "നീതിമാൻ"
+      }
+    },
+    {
+      "id": "husna-30",
+      "number": 30,
+      "arabic": "اللَّطِيفُ",
+      "transliteration": "Al-Latif",
+      "meaning": {
+        "en": "The Subtle One",
+        "ta": "நுட்பமானவன்",
+        "ml": "സൂക്ഷ്മൻ"
+      }
+    },
+    {
+      "id": "husna-31",
+      "number": 31,
+      "arabic": "الْخَبِيرُ",
+      "transliteration": "Al-Khabir",
+      "meaning": {
+        "en": "The All-Aware",
+        "ta": "நன்கு அறிபவன்",
+        "ml": "എല്ലാം അറിയാവുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-32",
+      "number": 32,
+      "arabic": "الْحَلِيمُ",
+      "transliteration": "Al-Halim",
+      "meaning": {
+        "en": "The Forbearing",
+        "ta": "பொறுமையுள்ளவன்",
+        "ml": "ക്ഷമാശീലൻ"
+      }
+    },
+    {
+      "id": "husna-33",
+      "number": 33,
+      "arabic": "الْعَظِيمُ",
+      "transliteration": "Al-Azim",
+      "meaning": {
+        "en": "The Magnificent",
+        "ta": "மகத்தானவன்",
+        "ml": "മഹത്തായവൻ"
+      }
+    },
+    {
+      "id": "husna-34",
+      "number": 34,
+      "arabic": "الْغَفُورُ",
+      "transliteration": "Al-Ghafur",
+      "meaning": {
+        "en": "The All-Forgiving",
+        "ta": "முழுமையாக மன்னிப்பவன்",
+        "ml": "സർവ്വക്ഷമാശീലൻ"
+      }
+    },
+    {
+      "id": "husna-35",
+      "number": 35,
+      "arabic": "الشَّكُورُ",
+      "transliteration": "Ash-Shakur",
+      "meaning": {
+        "en": "The Appreciative",
+        "ta": "நன்றியுள்ளவன்",
+        "ml": "നന്ദി കാണിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-36",
+      "number": 36,
+      "arabic": "الْعَلِيُّ",
+      "transliteration": "Al-Ali",
+      "meaning": {
+        "en": "The Most High",
+        "ta": "மிக உயர்ந்தவன்",
+        "ml": "അത്യുന്നതൻ"
+      }
+    },
+    {
+      "id": "husna-37",
+      "number": 37,
+      "arabic": "الْكَبِيرُ",
+      "transliteration": "Al-Kabir",
+      "meaning": {
+        "en": "The Great",
+        "ta": "பெரியவன்",
+        "ml": "മഹാനായവൻ"
+      }
+    },
+    {
+      "id": "husna-38",
+      "number": 38,
+      "arabic": "الْحَفِيظُ",
+      "transliteration": "Al-Hafiz",
+      "meaning": {
+        "en": "The Preserver",
+        "ta": "காப்பவன்",
+        "ml": "സംരക്ഷിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-39",
+      "number": 39,
+      "arabic": "الْمُقِيتُ",
+      "transliteration": "Al-Muqit",
+      "meaning": {
+        "en": "The Sustainer",
+        "ta": "போஷிப்பவன்",
+        "ml": "പോഷിപ്പിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-40",
+      "number": 40,
+      "arabic": "الْحَسِيبُ",
+      "transliteration": "Al-Hasib",
+      "meaning": {
+        "en": "The Reckoner",
+        "ta": "கணக்கிடுபவன்",
+        "ml": "കണക്കാക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-41",
+      "number": 41,
+      "arabic": "الْجَلِيلُ",
+      "transliteration": "Al-Jalil",
+      "meaning": {
+        "en": "The Majestic",
+        "ta": "மகிமையுள்ளவன்",
+        "ml": "മാഹാത്മ്യമുള്ളവൻ"
+      }
+    },
+    {
+      "id": "husna-42",
+      "number": 42,
+      "arabic": "الْكَرِيمُ",
+      "transliteration": "Al-Karim",
+      "meaning": {
+        "en": "The Generous",
+        "ta": "கொடையுள்ளவன்",
+        "ml": "ഔദാര്യമുള്ളവൻ"
+      }
+    },
+    {
+      "id": "husna-43",
+      "number": 43,
+      "arabic": "الرَّقِيبُ",
+      "transliteration": "Ar-Raqib",
+      "meaning": {
+        "en": "The Watchful",
+        "ta": "கவனிப்பவன்",
+        "ml": "നിരീക്ഷിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-44",
+      "number": 44,
+      "arabic": "الْمُجِيبُ",
+      "transliteration": "Al-Mujib",
+      "meaning": {
+        "en": "The Responsive",
+        "ta": "பதிலளிப்பவன்",
+        "ml": "പ്രതികരിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-45",
+      "number": 45,
+      "arabic": "الْوَاسِعُ",
+      "transliteration": "Al-Wasi",
+      "meaning": {
+        "en": "The All-Encompassing",
+        "ta": "விரிவானவன்",
+        "ml": "വിശാലമായവൻ"
+      }
+    },
+    {
+      "id": "husna-46",
+      "number": 46,
+      "arabic": "الْحَكِيمُ",
+      "transliteration": "Al-Hakim",
+      "meaning": {
+        "en": "The Wise",
+        "ta": "ஞானியானவன்",
+        "ml": "ജ്ഞാനി"
+      }
+    },
+    {
+      "id": "husna-47",
+      "number": 47,
+      "arabic": "الْوَدُودُ",
+      "transliteration": "Al-Wadud",
+      "meaning": {
+        "en": "The Loving",
+        "ta": "அன்புள்ளவன்",
+        "ml": "സ്നേഹിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-48",
+      "number": 48,
+      "arabic": "الْمَجِيدُ",
+      "transliteration": "Al-Majid",
+      "meaning": {
+        "en": "The Glorious",
+        "ta": "மகிமைமிக்கவன்",
+        "ml": "മാഹാത്മ്യമുള്ളവൻ"
+      }
+    },
+    {
+      "id": "husna-49",
+      "number": 49,
+      "arabic": "الْبَاعِثُ",
+      "transliteration": "Al-Ba'ith",
+      "meaning": {
+        "en": "The Resurrector",
+        "ta": "உயிர்ப்பிப்பவன்",
+        "ml": "ഉയിർപ്പിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-50",
+      "number": 50,
+      "arabic": "الشَّهِيدُ",
+      "transliteration": "Ash-Shahid",
+      "meaning": {
+        "en": "The Witness",
+        "ta": "சாட்சியாளன்",
+        "ml": "സാക്ഷി"
+      }
+    },
+    {
+      "id": "husna-51",
+      "number": 51,
+      "arabic": "الْحَقُّ",
+      "transliteration": "Al-Haqq",
+      "meaning": {
+        "en": "The Truth",
+        "ta": "உண்மையானவன்",
+        "ml": "സത്യം"
+      }
+    },
+    {
+      "id": "husna-52",
+      "number": 52,
+      "arabic": "الْوَكِيلُ",
+      "transliteration": "Al-Wakil",
+      "meaning": {
+        "en": "The Trustee",
+        "ta": "நம்பிக்கையாளன்",
+        "ml": "ഭരമേൽ്പിക്കാവുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-53",
+      "number": 53,
+      "arabic": "الْقَوِيُّ",
+      "transliteration": "Al-Qawi",
+      "meaning": {
+        "en": "The Strong",
+        "ta": "வலிமையுள்ளவன்",
+        "ml": "ശക്തൻ"
+      }
+    },
+    {
+      "id": "husna-54",
+      "number": 54,
+      "arabic": "الْمَتِينُ",
+      "transliteration": "Al-Matin",
+      "meaning": {
+        "en": "The Firm",
+        "ta": "உறுதியுள்ளவன்",
+        "ml": "ദൃഢൻ"
+      }
+    },
+    {
+      "id": "husna-55",
+      "number": 55,
+      "arabic": "الْوَلِيُّ",
+      "transliteration": "Al-Wali",
+      "meaning": {
+        "en": "The Protecting Friend",
+        "ta": "பாதுகாவலன்",
+        "ml": "കാവൽക്കാരൻ"
+      }
+    },
+    {
+      "id": "husna-56",
+      "number": 56,
+      "arabic": "الْحَمِيدُ",
+      "transliteration": "Al-Hamid",
+      "meaning": {
+        "en": "The Praiseworthy",
+        "ta": "புகழ்தக்கவன்",
+        "ml": "സ്തുത്യൻ"
+      }
+    },
+    {
+      "id": "husna-57",
+      "number": 57,
+      "arabic": "الْمُحْصِي",
+      "transliteration": "Al-Muhsi",
+      "meaning": {
+        "en": "The Counter",
+        "ta": "எண்ணுபவன்",
+        "ml": "എണ്ണുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-58",
+      "number": 58,
+      "arabic": "الْمُبْدِئُ",
+      "transliteration": "Al-Mubdi",
+      "meaning": {
+        "en": "The Originator",
+        "ta": "தொடங்குபவன்",
+        "ml": "ആരംഭിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-59",
+      "number": 59,
+      "arabic": "الْمُعِيدُ",
+      "transliteration": "Al-Mu'id",
+      "meaning": {
+        "en": "The Restorer",
+        "ta": "மீண்டும் உருவாக்குபவன்",
+        "ml": "വീണ്ടും സൃഷ്ടിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-60",
+      "number": 60,
+      "arabic": "الْمُحْيِي",
+      "transliteration": "Al-Muhyi",
+      "meaning": {
+        "en": "The Giver of Life",
+        "ta": "உயிரளிப்பவன்",
+        "ml": "ജീവിപ്പിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-61",
+      "number": 61,
+      "arabic": "الْمُمِيتُ",
+      "transliteration": "Al-Mumit",
+      "meaning": {
+        "en": "The Bringer of Death",
+        "ta": "மரணம் அளிப்பவன்",
+        "ml": "മരിപ്പിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-62",
+      "number": 62,
+      "arabic": "الْحَيُّ",
+      "transliteration": "Al-Hayy",
+      "meaning": {
+        "en": "The Ever Living",
+        "ta": "என்றும் வாழ்பவன்",
+        "ml": "നിത്യജീവൻ"
+      }
+    },
+    {
+      "id": "husna-63",
+      "number": 63,
+      "arabic": "الْقَيُّومُ",
+      "transliteration": "Al-Qayyum",
+      "meaning": {
+        "en": "The Self-Subsisting",
+        "ta": "தானே நிலைத்திருப்பவன்",
+        "ml": "സ്വയം നിലനിൽക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-64",
+      "number": 64,
+      "arabic": "الْوَاجِدُ",
+      "transliteration": "Al-Wajid",
+      "meaning": {
+        "en": "The Finder",
+        "ta": "கண்டுபிடிப்பவன்",
+        "ml": "കണ്ടെത്തുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-65",
+      "number": 65,
+      "arabic": "الْمَاجِدُ",
+      "transliteration": "Al-Majid",
+      "meaning": {
+        "en": "The Illustrious",
+        "ta": "மகிமையுள்ளவன்",
+        "ml": "മാഹാത്മ്യമുള്ളവൻ"
+      }
+    },
+    {
+      "id": "husna-66",
+      "number": 66,
+      "arabic": "الْوَاحِدُ",
+      "transliteration": "Al-Wahid",
+      "meaning": {
+        "en": "The One",
+        "ta": "ஒற்றையானவன்",
+        "ml": "ഏകൻ"
+      }
+    },
+    {
+      "id": "husna-67",
+      "number": 67,
+      "arabic": "الْأَحَدُ",
+      "transliteration": "Al-Ahad",
+      "meaning": {
+        "en": "The Unique",
+        "ta": "தனித்தவன்",
+        "ml": "അദ്വിതീയൻ"
+      }
+    },
+    {
+      "id": "husna-68",
+      "number": 68,
+      "arabic": "الصَّمَدُ",
+      "transliteration": "As-Samad",
+      "meaning": {
+        "en": "The Eternal",
+        "ta": "நிரந்தரமானவன்",
+        "ml": "നിത്യൻ"
+      }
+    },
+    {
+      "id": "husna-69",
+      "number": 69,
+      "arabic": "الْقَادِرُ",
+      "transliteration": "Al-Qadir",
+      "meaning": {
+        "en": "The Able",
+        "ta": "சக்தியுள்ளவன்",
+        "ml": "ശക്തൻ"
+      }
+    },
+    {
+      "id": "husna-70",
+      "number": 70,
+      "arabic": "الْمُقْتَدِرُ",
+      "transliteration": "Al-Muqtadir",
+      "meaning": {
+        "en": "The Powerful",
+        "ta": "வல்லமைமிக்கவன்",
+        "ml": "സർവശക്തൻ"
+      }
+    },
+    {
+      "id": "husna-71",
+      "number": 71,
+      "arabic": "الْمُقَدِّمُ",
+      "transliteration": "Al-Muqaddim",
+      "meaning": {
+        "en": "The Expediter",
+        "ta": "முன்னிலைப்படுத்துபவன்",
+        "ml": "മുന്നോട്ട് കൊണ്ടുവരുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-72",
+      "number": 72,
+      "arabic": "الْمُؤَخِّرُ",
+      "transliteration": "Al-Mu'akhkhir",
+      "meaning": {
+        "en": "The Delayer",
+        "ta": "தாமதப்படுத்துபவன்",
+        "ml": "വൈകിപ്പിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-73",
+      "number": 73,
+      "arabic": "الْأَوَّلُ",
+      "transliteration": "Al-Awwal",
+      "meaning": {
+        "en": "The First",
+        "ta": "முதலானவன்",
+        "ml": "ആദ്യം"
+      }
+    },
+    {
+      "id": "husna-74",
+      "number": 74,
+      "arabic": "الْآخِرُ",
+      "transliteration": "Al-Akhir",
+      "meaning": {
+        "en": "The Last",
+        "ta": "கடைசியானவன்",
+        "ml": "അവസാനം"
+      }
+    },
+    {
+      "id": "husna-75",
+      "number": 75,
+      "arabic": "الظَّاهِرُ",
+      "transliteration": "Az-Zahir",
+      "meaning": {
+        "en": "The Manifest",
+        "ta": "வெளிப்படையானவன்",
+        "ml": "പ്രത്യക്ഷൻ"
+      }
+    },
+    {
+      "id": "husna-76",
+      "number": 76,
+      "arabic": "الْبَاطِنُ",
+      "transliteration": "Al-Batin",
+      "meaning": {
+        "en": "The Hidden",
+        "ta": "மறைந்தவன்",
+        "ml": "ഗൂഢൻ"
+      }
+    },
+    {
+      "id": "husna-77",
+      "number": 77,
+      "arabic": "الْوَالِي",
+      "transliteration": "Al-Wali",
+      "meaning": {
+        "en": "The Governor",
+        "ta": "ஆளுபவன்",
+        "ml": "ഭരിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-78",
+      "number": 78,
+      "arabic": "الْمُتَعَالِي",
+      "transliteration": "Al-Muta'ali",
+      "meaning": {
+        "en": "The Most Exalted",
+        "ta": "மிக உயர்ந்தவன்",
+        "ml": "അത്യുന്നതൻ"
+      }
+    },
+    {
+      "id": "husna-79",
+      "number": 79,
+      "arabic": "الْبَرُّ",
+      "transliteration": "Al-Barr",
+      "meaning": {
+        "en": "The Source of Goodness",
+        "ta": "நன்மையின் மூலம்",
+        "ml": "നന്മയുടെ ഉറവിടം"
+      }
+    },
+    {
+      "id": "husna-80",
+      "number": 80,
+      "arabic": "التَّوَّابُ",
+      "transliteration": "At-Tawwab",
+      "meaning": {
+        "en": "The Acceptor of Repentance",
+        "ta": "பாவமன்னிப்பு ஏற்பவன்",
+        "ml": "പശ്ചാത്താപം സ്വീകരിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-81",
+      "number": 81,
+      "arabic": "الْمُنْتَقِمُ",
+      "transliteration": "Al-Muntaqim",
+      "meaning": {
+        "en": "The Avenger",
+        "ta": "பழிவாங்குபவன்",
+        "ml": "പ്രതികാരം ചെയ്യുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-82",
+      "number": 82,
+      "arabic": "الْعَفُوُّ",
+      "transliteration": "Al-Afuw",
+      "meaning": {
+        "en": "The Pardoner",
+        "ta": "மன்னிப்பவன்",
+        "ml": "പൊറുക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-83",
+      "number": 83,
+      "arabic": "الرَّؤُوفُ",
+      "transliteration": "Ar-Ra'uf",
+      "meaning": {
+        "en": "The Compassionate",
+        "ta": "கருணையுள்ளவன்",
+        "ml": "കാരുണ്യവാനായവൻ"
+      }
+    },
+    {
+      "id": "husna-84",
+      "number": 84,
+      "arabic": "مَالِكُ الْمُلْكِ",
+      "transliteration": "Malik ul-Mulk",
+      "meaning": {
+        "en": "Owner of Sovereignty",
+        "ta": "ஆளுகையின் உரிமையாளன்",
+        "ml": "ആധിപത്യത്തിന്റെ ഉടമ"
+      }
+    },
+    {
+      "id": "husna-85",
+      "number": 85,
+      "arabic": "ذُو الْجَلَالِ وَالْإِكْرَامِ",
+      "transliteration": "Dhul Jalali wal-Ikram",
+      "meaning": {
+        "en": "Lord of Majesty & Bounty",
+        "ta": "மகிமை மற்றும் கொடைகளின் இறைவன்",
+        "ml": "മാഹാത്മ്യത്തിന്റെയും ദയാലുത്വത്തിന്റെയും ഉടമ"
+      }
+    },
+    {
+      "id": "husna-86",
+      "number": 86,
+      "arabic": "الْمُقْسِطُ",
+      "transliteration": "Al-Muqsit",
+      "meaning": {
+        "en": "The Equitable",
+        "ta": "சமநிலையுள்ளவன்",
+        "ml": "നീതിമാൻ"
+      }
+    },
+    {
+      "id": "husna-87",
+      "number": 87,
+      "arabic": "الْجَامِعُ",
+      "transliteration": "Al-Jami",
+      "meaning": {
+        "en": "The Gatherer",
+        "ta": "ஒன்றுசேர்ப்பவன்",
+        "ml": "ഒന്നിപ്പിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-88",
+      "number": 88,
+      "arabic": "الْغَنِيُّ",
+      "transliteration": "Al-Ghani",
+      "meaning": {
+        "en": "The Self-Sufficient",
+        "ta": "தன்னிறைவுள்ளவன்",
+        "ml": "ആത്മനിർഭരൻ"
+      }
+    },
+    {
+      "id": "husna-89",
+      "number": 89,
+      "arabic": "الْمُغْنِي",
+      "transliteration": "Al-Mughni",
+      "meaning": {
+        "en": "The Enricher",
+        "ta": "செல்வமாக்குபவன்",
+        "ml": "സമ്പന്നനാക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-90",
+      "number": 90,
+      "arabic": "الْمَانِعُ",
+      "transliteration": "Al-Mani",
+      "meaning": {
+        "en": "The Preventer",
+        "ta": "தடுப்பவன்",
+        "ml": "തടയുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-91",
+      "number": 91,
+      "arabic": "الضَّارُّ",
+      "transliteration": "Ad-Darr",
+      "meaning": {
+        "en": "The Afflictor",
+        "ta": "தீங்கு செய்பவன்",
+        "ml": "ദ്രോഹിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-92",
+      "number": 92,
+      "arabic": "النَّافِعُ",
+      "transliteration": "An-Nafi",
+      "meaning": {
+        "en": "The Benefiter",
+        "ta": "நன்மை செய்பவன்",
+        "ml": "ഗുണം ചെയ്യുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-93",
+      "number": 93,
+      "arabic": "النُّورُ",
+      "transliteration": "An-Nur",
+      "meaning": {
+        "en": "The Light",
+        "ta": "ஒளி",
+        "ml": "പ്രകാശം"
+      }
+    },
+    {
+      "id": "husna-94",
+      "number": 94,
+      "arabic": "الْهَادِي",
+      "transliteration": "Al-Hadi",
+      "meaning": {
+        "en": "The Guide",
+        "ta": "வழிகாட்டுபவன்",
+        "ml": "നയിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-95",
+      "number": 95,
+      "arabic": "الْبَدِيعُ",
+      "transliteration": "Al-Badi",
+      "meaning": {
+        "en": "The Incomparable Originator",
+        "ta": "ஒப்பற்ற படைப்பாளன்",
+        "ml": "തുലനയില്ലാത്ത സ്രഷ്ടാവ്"
+      }
+    },
+    {
+      "id": "husna-96",
+      "number": 96,
+      "arabic": "الْبَاقِي",
+      "transliteration": "Al-Baqi",
+      "meaning": {
+        "en": "The Everlasting",
+        "ta": "நிலைத்திருப்பவன்",
+        "ml": "ശാശ്വതൻ"
+      }
+    },
+    {
+      "id": "husna-97",
+      "number": 97,
+      "arabic": "الْوَارِثُ",
+      "transliteration": "Al-Warith",
+      "meaning": {
+        "en": "The Inheritor",
+        "ta": "பரம்பரையாக பெறுபவன்",
+        "ml": "അവകാശി"
+      }
+    },
+    {
+      "id": "husna-98",
+      "number": 98,
+      "arabic": "الرَّشِيدُ",
+      "transliteration": "Ar-Rashid",
+      "meaning": {
+        "en": "The Guide to Right Path",
+        "ta": "சரியான பாதைக்கு வழிகாட்டுபவன்",
+        "ml": "നേരായ പാതയിലേക്ക് നയിക്കുന്നവൻ"
+      }
+    },
+    {
+      "id": "husna-99",
+      "number": 99,
+      "arabic": "الصَّبُورُ",
+      "transliteration": "As-Sabur",
+      "meaning": {
+        "en": "The Patient",
+        "ta": "பொறுமையுள்ளவன்",
+        "ml": "ക്ഷമാശീലൻ"
+      }
+    }
+  ]
+}

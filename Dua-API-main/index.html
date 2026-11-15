@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Duas Collection - Authentic Islamic Supplications</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Naskh+Arabic:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+      }
+      html {
+        color-scheme: dark;
+        background-color: #000d08;
+      }
+      body {
+        background-color: #000d08;
+        color: #fff;
+      }
+    </style>
+    <script>
+      (function () {
+        document.documentElement.classList.add("dark");
+        try {
+          localStorage.removeItem("theme");
+          var savedScale = Number(localStorage.getItem("fontScale"));
+          if (savedScale >= 80 && savedScale <= 150) {
+            document.documentElement.style.fontSize = savedScale + "%";
+          }
+        } catch (e) {
+          // Local storage is optional; the default theme and font size still apply.
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script>
+(function () {
+  function sendHeight() {
+    var h = Math.ceil(document.body.getBoundingClientRect().height);
+    parent.postMessage({ type: 'dua-height', height: h }, '*');
+  }
+  window.addEventListener('load', sendHeight);
+  window.addEventListener('resize', sendHeight);
+  new ResizeObserver(sendHeight).observe(document.body);
+})();
+</script>
+  </body>
+</html>

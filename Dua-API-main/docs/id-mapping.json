@@ -1,0 +1,1847 @@
+{
+  "schema_version": "3.0.0",
+  "description": "Old source locator -> new stable ID. Original dua IDs were retained verbatim; IDs were newly minted only for previously un-IDed records.",
+  "count": 409,
+  "mappings": [
+    {
+      "old_locator": "src/data/allData.json#/categories/morning-evening/duas/me-1",
+      "new_id": "me-1",
+      "new_category_id": "morning-evening"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/morning-evening/duas/me-2",
+      "new_id": "me-2",
+      "new_category_id": "morning-evening"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/morning-evening/duas/me-3",
+      "new_id": "me-3",
+      "new_category_id": "morning-evening"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/eating/duas/eat-1",
+      "new_id": "eat-1",
+      "new_category_id": "eating"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/eating/duas/eat-2",
+      "new_id": "eat-2",
+      "new_category_id": "eating"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/eating/duas/eat-3",
+      "new_id": "eat-3",
+      "new_category_id": "eating"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/eating/duas/eat-4",
+      "new_id": "eat-4",
+      "new_category_id": "eating"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/sleep-wake/duas/sl-1",
+      "new_id": "sl-1",
+      "new_category_id": "sleep-wake"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/sleep-wake/duas/sl-2",
+      "new_id": "sl-2",
+      "new_category_id": "sleep-wake"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/sleep-wake/duas/sl-3",
+      "new_id": "sl-3",
+      "new_category_id": "sleep-wake"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/mosque/duas/mos-1",
+      "new_id": "mos-1",
+      "new_category_id": "mosque"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/mosque/duas/mos-2",
+      "new_id": "mos-2",
+      "new_category_id": "mosque"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/home/duas/hm-1",
+      "new_id": "hm-1",
+      "new_category_id": "home"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/home/duas/hm-2",
+      "new_id": "hm-2",
+      "new_category_id": "home"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/bathroom/duas/bth-1",
+      "new_id": "bth-1",
+      "new_category_id": "bathroom"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/travel/duas/trv-1",
+      "new_id": "trv-1",
+      "new_category_id": "travel"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/travel/duas/trv-2",
+      "new_id": "trv-2",
+      "new_category_id": "travel"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/hardship/duas/hrd-1",
+      "new_id": "hrd-1",
+      "new_category_id": "hardship"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/hardship/duas/hrd-2",
+      "new_id": "hrd-2",
+      "new_category_id": "hardship"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/hardship/duas/hrd-3",
+      "new_id": "hrd-3",
+      "new_category_id": "hardship"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/forgiveness/duas/frg-1",
+      "new_id": "frg-1",
+      "new_category_id": "forgiveness"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/forgiveness/duas/frg-2",
+      "new_id": "frg-2",
+      "new_category_id": "forgiveness"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/protection/duas/prt-1",
+      "new_id": "prt-1",
+      "new_category_id": "protection"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/protection/duas/prt-2",
+      "new_id": "prt-2",
+      "new_category_id": "protection"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/parents/duas/prn-1",
+      "new_id": "prn-1",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/parents/duas/prn-2",
+      "new_id": "prn-2",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/knowledge/duas/knw-1",
+      "new_id": "knw-1",
+      "new_category_id": "knowledge"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/knowledge/duas/knw-2",
+      "new_id": "knw-2",
+      "new_category_id": "knowledge"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/knowledge/duas/knw-3",
+      "new_id": "knw-3",
+      "new_category_id": "knowledge"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/sickness/duas/sck-1",
+      "new_id": "sck-1",
+      "new_category_id": "sickness"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/sickness/duas/sck-2",
+      "new_id": "sck-2",
+      "new_category_id": "sickness"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/rain/duas/ran-1",
+      "new_id": "ran-1",
+      "new_category_id": "rain"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/rain/duas/ran-2",
+      "new_id": "ran-2",
+      "new_category_id": "rain"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/anger/duas/ang-1",
+      "new_id": "ang-1",
+      "new_category_id": "anger"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/friday/duas/fri-1",
+      "new_id": "fri-1",
+      "new_category_id": "friday"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/dua-general/duas/gen-1",
+      "new_id": "gen-1",
+      "new_category_id": "dua-general"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/dua-general/duas/gen-2",
+      "new_id": "gen-2",
+      "new_category_id": "dua-general"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/dua-general/duas/gen-3",
+      "new_id": "gen-3",
+      "new_category_id": "dua-general"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/death-funeral/duas/df-1",
+      "new_id": "df-1",
+      "new_category_id": "death-funeral"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/death-funeral/duas/df-2",
+      "new_id": "df-2",
+      "new_category_id": "death-funeral"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/death-funeral/duas/df-3",
+      "new_id": "df-3",
+      "new_category_id": "death-funeral"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/death-funeral/duas/df-4",
+      "new_id": "df-4",
+      "new_category_id": "death-funeral"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/death-funeral/duas/df-5",
+      "new_id": "df-5",
+      "new_category_id": "death-funeral"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/death-funeral/duas/df-6",
+      "new_id": "df-6",
+      "new_category_id": "death-funeral"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/salawat/duas/sal-1",
+      "new_id": "sal-1",
+      "new_category_id": "salawat"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/salawat/duas/sal-2",
+      "new_id": "sal-2",
+      "new_category_id": "salawat"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/salawat/duas/sal-3",
+      "new_id": "sal-3",
+      "new_category_id": "salawat"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/salawat/duas/sal-4",
+      "new_id": "sal-4",
+      "new_category_id": "salawat"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-husna/duas/ah-1",
+      "new_id": "ah-1",
+      "new_category_id": "asma-ul-husna"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/duas/aa-1",
+      "new_id": "aa-1",
+      "new_category_id": "asma-ul-anbiya"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/wudu-adhan/duas/wa-1",
+      "new_id": "wa-1",
+      "new_category_id": "wudu-adhan"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/wudu-adhan/duas/wa-2",
+      "new_id": "wa-2",
+      "new_category_id": "wudu-adhan"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/wudu-adhan/duas/wa-4",
+      "new_id": "wa-4",
+      "new_category_id": "wudu-adhan"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/laylatul-qadr/duas/lq-1",
+      "new_id": "lq-1",
+      "new_category_id": "laylatul-qadr"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/istikhara/duas/ist-1",
+      "new_id": "ist-1",
+      "new_category_id": "istikhara"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/nightmare/duas/nm-1",
+      "new_id": "nm-1",
+      "new_category_id": "nightmare"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/evil-eye/duas/ee-1",
+      "new_id": "ee-1",
+      "new_category_id": "evil-eye"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/fasting/duas/fst-1",
+      "new_id": "fst-1",
+      "new_category_id": "fasting"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/fasting/duas/fst-2",
+      "new_id": "fst-2",
+      "new_category_id": "fasting"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/hajj-umrah/duas/hu-1",
+      "new_id": "hu-1",
+      "new_category_id": "hajj-umrah"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/hajj-umrah/duas/hu-2",
+      "new_id": "hu-2",
+      "new_category_id": "hajj-umrah"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/hajj-umrah/duas/hu-3",
+      "new_id": "hu-3",
+      "new_category_id": "hajj-umrah"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/hajj-umrah/duas/hu-4",
+      "new_id": "hu-4",
+      "new_category_id": "hajj-umrah"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/hajj-umrah/duas/hu-5",
+      "new_id": "hu-5",
+      "new_category_id": "hajj-umrah"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/debt-poverty/duas/dp-1",
+      "new_id": "dp-1",
+      "new_category_id": "debt-poverty"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/debt-poverty/duas/dp-2",
+      "new_id": "dp-2",
+      "new_category_id": "debt-poverty"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/children-newborn/duas/cn-1",
+      "new_id": "cn-1",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/children-newborn/duas/cn-2",
+      "new_id": "cn-2",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/marriage-wedding/duas/mw-1",
+      "new_id": "mw-1",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/marriage-wedding/duas/mw-2",
+      "new_id": "mw-2",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/clothes-appearance/duas/ca-1",
+      "new_id": "ca-1",
+      "new_category_id": "clothes-appearance"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/clothes-appearance/duas/ca-2",
+      "new_id": "ca-2",
+      "new_category_id": "clothes-appearance"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/market-business/duas/mb-1",
+      "new_id": "mb-1",
+      "new_category_id": "market-business"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/good-character/duas/gc-1",
+      "new_id": "gc-1",
+      "new_category_id": "good-character"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/ummah/duas/um-1",
+      "new_id": "um-1",
+      "new_category_id": "ummah"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-5",
+      "new_id": "d103-5",
+      "new_category_id": "home"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-7",
+      "new_id": "d103-7",
+      "new_category_id": "Others"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-9",
+      "new_id": "d103-9",
+      "new_category_id": "travel"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-11",
+      "new_id": "d103-11",
+      "new_category_id": "travel"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-12",
+      "new_id": "d103-12",
+      "new_category_id": "travel"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-15",
+      "new_id": "d103-15",
+      "new_category_id": "travel"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-17",
+      "new_id": "d103-17",
+      "new_category_id": "travel"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-18",
+      "new_id": "d103-18",
+      "new_category_id": "protection"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-19",
+      "new_id": "d103-19",
+      "new_category_id": "prayer-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-20",
+      "new_id": "d103-20",
+      "new_category_id": "prayer-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-21",
+      "new_id": "d103-21",
+      "new_category_id": "prayer-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-22",
+      "new_id": "d103-22",
+      "new_category_id": "prayer-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-23",
+      "new_id": "d103-23",
+      "new_category_id": "prayer-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-24",
+      "new_id": "d103-24",
+      "new_category_id": "prayer-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-25",
+      "new_id": "d103-25",
+      "new_category_id": "protection"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-26",
+      "new_id": "d103-26",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-27",
+      "new_id": "d103-27",
+      "new_category_id": "dua-general"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-28",
+      "new_id": "d103-28",
+      "new_category_id": "hereafter"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-29",
+      "new_id": "d103-29",
+      "new_category_id": "hereafter"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-30",
+      "new_id": "d103-30",
+      "new_category_id": "hereafter"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-31",
+      "new_id": "d103-31",
+      "new_category_id": "prayer-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-32",
+      "new_id": "d103-32",
+      "new_category_id": "prayer-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-33",
+      "new_id": "d103-33",
+      "new_category_id": "forgiveness"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-34",
+      "new_id": "d103-34",
+      "new_category_id": "morning-evening"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-35",
+      "new_id": "d103-35",
+      "new_category_id": "Others"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-37",
+      "new_id": "d103-37",
+      "new_category_id": "protection"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-38",
+      "new_id": "d103-38",
+      "new_category_id": "protection"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-41",
+      "new_id": "d103-41",
+      "new_category_id": "hardship"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-43",
+      "new_id": "d103-43",
+      "new_category_id": "good-character"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-44",
+      "new_id": "d103-44",
+      "new_category_id": "nightmare"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-47",
+      "new_id": "d103-47",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-48",
+      "new_id": "d103-48",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-49",
+      "new_id": "d103-49",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-50",
+      "new_id": "d103-50",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-51",
+      "new_id": "d103-51",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-52",
+      "new_id": "d103-52",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-53",
+      "new_id": "d103-53",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-58",
+      "new_id": "d103-58",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-60",
+      "new_id": "d103-60",
+      "new_category_id": "debt-poverty"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-62",
+      "new_id": "d103-62",
+      "new_category_id": "debt-poverty"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-63",
+      "new_id": "d103-63",
+      "new_category_id": "debt-poverty"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-65",
+      "new_id": "d103-65",
+      "new_category_id": "hardship"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-66",
+      "new_id": "d103-66",
+      "new_category_id": "protection"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-67",
+      "new_id": "d103-67",
+      "new_category_id": "protection"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-68",
+      "new_id": "d103-68",
+      "new_category_id": "prayer-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-69",
+      "new_id": "d103-69",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-70",
+      "new_id": "d103-70",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-71",
+      "new_id": "d103-71",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-72",
+      "new_id": "d103-72",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-73",
+      "new_id": "d103-73",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-74",
+      "new_id": "d103-74",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-77",
+      "new_id": "d103-77",
+      "new_category_id": "children-newborn"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-78",
+      "new_id": "d103-78",
+      "new_category_id": "debt-poverty"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-79",
+      "new_id": "d103-79",
+      "new_category_id": "knowledge"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-80",
+      "new_id": "d103-80",
+      "new_category_id": "knowledge"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-81",
+      "new_id": "d103-81",
+      "new_category_id": "protection"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-82",
+      "new_id": "d103-82",
+      "new_category_id": "protection"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-83",
+      "new_id": "d103-83",
+      "new_category_id": "protection"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-84",
+      "new_id": "d103-84",
+      "new_category_id": "protection"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-91",
+      "new_id": "d103-91",
+      "new_category_id": "market-business"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-92",
+      "new_id": "d103-92",
+      "new_category_id": "market-business"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-98",
+      "new_id": "d103-98",
+      "new_category_id": "death-funeral"
+    },
+    {
+      "old_locator": "src/data/allData.json#/duas1To103/0/duas/d103-101",
+      "new_id": "d103-101",
+      "new_category_id": "death-funeral"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/1",
+      "new_id": "husna-01",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/2",
+      "new_id": "husna-02",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/3",
+      "new_id": "husna-03",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/4",
+      "new_id": "husna-04",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/5",
+      "new_id": "husna-05",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/6",
+      "new_id": "husna-06",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/7",
+      "new_id": "husna-07",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/8",
+      "new_id": "husna-08",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/9",
+      "new_id": "husna-09",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/10",
+      "new_id": "husna-10",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/11",
+      "new_id": "husna-11",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/12",
+      "new_id": "husna-12",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/13",
+      "new_id": "husna-13",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/14",
+      "new_id": "husna-14",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/15",
+      "new_id": "husna-15",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/16",
+      "new_id": "husna-16",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/17",
+      "new_id": "husna-17",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/18",
+      "new_id": "husna-18",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/19",
+      "new_id": "husna-19",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/20",
+      "new_id": "husna-20",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/21",
+      "new_id": "husna-21",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/22",
+      "new_id": "husna-22",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/23",
+      "new_id": "husna-23",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/24",
+      "new_id": "husna-24",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/25",
+      "new_id": "husna-25",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/26",
+      "new_id": "husna-26",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/27",
+      "new_id": "husna-27",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/28",
+      "new_id": "husna-28",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/29",
+      "new_id": "husna-29",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/30",
+      "new_id": "husna-30",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/31",
+      "new_id": "husna-31",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/32",
+      "new_id": "husna-32",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/33",
+      "new_id": "husna-33",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/34",
+      "new_id": "husna-34",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/35",
+      "new_id": "husna-35",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/36",
+      "new_id": "husna-36",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/37",
+      "new_id": "husna-37",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/38",
+      "new_id": "husna-38",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/39",
+      "new_id": "husna-39",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/40",
+      "new_id": "husna-40",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/41",
+      "new_id": "husna-41",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/42",
+      "new_id": "husna-42",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/43",
+      "new_id": "husna-43",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/44",
+      "new_id": "husna-44",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/45",
+      "new_id": "husna-45",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/46",
+      "new_id": "husna-46",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/47",
+      "new_id": "husna-47",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/48",
+      "new_id": "husna-48",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/49",
+      "new_id": "husna-49",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/50",
+      "new_id": "husna-50",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/51",
+      "new_id": "husna-51",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/52",
+      "new_id": "husna-52",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/53",
+      "new_id": "husna-53",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/54",
+      "new_id": "husna-54",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/55",
+      "new_id": "husna-55",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/56",
+      "new_id": "husna-56",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/57",
+      "new_id": "husna-57",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/58",
+      "new_id": "husna-58",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/59",
+      "new_id": "husna-59",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/60",
+      "new_id": "husna-60",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/61",
+      "new_id": "husna-61",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/62",
+      "new_id": "husna-62",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/63",
+      "new_id": "husna-63",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/64",
+      "new_id": "husna-64",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/65",
+      "new_id": "husna-65",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/66",
+      "new_id": "husna-66",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/67",
+      "new_id": "husna-67",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/68",
+      "new_id": "husna-68",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/69",
+      "new_id": "husna-69",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/70",
+      "new_id": "husna-70",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/71",
+      "new_id": "husna-71",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/72",
+      "new_id": "husna-72",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/73",
+      "new_id": "husna-73",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/74",
+      "new_id": "husna-74",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/75",
+      "new_id": "husna-75",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/76",
+      "new_id": "husna-76",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/77",
+      "new_id": "husna-77",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/78",
+      "new_id": "husna-78",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/79",
+      "new_id": "husna-79",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/80",
+      "new_id": "husna-80",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/81",
+      "new_id": "husna-81",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/82",
+      "new_id": "husna-82",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/83",
+      "new_id": "husna-83",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/84",
+      "new_id": "husna-84",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/85",
+      "new_id": "husna-85",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/86",
+      "new_id": "husna-86",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/87",
+      "new_id": "husna-87",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/88",
+      "new_id": "husna-88",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/89",
+      "new_id": "husna-89",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/90",
+      "new_id": "husna-90",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/91",
+      "new_id": "husna-91",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/92",
+      "new_id": "husna-92",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/93",
+      "new_id": "husna-93",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/94",
+      "new_id": "husna-94",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/95",
+      "new_id": "husna-95",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/96",
+      "new_id": "husna-96",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/97",
+      "new_id": "husna-97",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/98",
+      "new_id": "husna-98",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlHusna/99",
+      "new_id": "husna-99",
+      "new_category_id": "names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-husna/names/1",
+      "new_id": "husna-featured-01",
+      "new_category_id": "featured-names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-husna/names/2",
+      "new_id": "husna-featured-02",
+      "new_category_id": "featured-names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-husna/names/3",
+      "new_id": "husna-featured-03",
+      "new_category_id": "featured-names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-husna/names/4",
+      "new_id": "husna-featured-04",
+      "new_category_id": "featured-names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-husna/names/5",
+      "new_id": "husna-featured-05",
+      "new_category_id": "featured-names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-husna/names/6",
+      "new_id": "husna-featured-06",
+      "new_category_id": "featured-names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-husna/names/7",
+      "new_id": "husna-featured-07",
+      "new_category_id": "featured-names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-husna/names/8",
+      "new_id": "husna-featured-08",
+      "new_category_id": "featured-names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-husna/names/9",
+      "new_id": "husna-featured-09",
+      "new_category_id": "featured-names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-husna/names/10",
+      "new_id": "husna-featured-10",
+      "new_category_id": "featured-names"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-husna/duas/ah-1",
+      "new_id": "ah-1",
+      "new_category_id": "asma-ul-husna (intro dua)"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/1",
+      "new_id": "prophet-01",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/2",
+      "new_id": "prophet-02",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/3",
+      "new_id": "prophet-03",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/4",
+      "new_id": "prophet-04",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/5",
+      "new_id": "prophet-05",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/6",
+      "new_id": "prophet-06",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/7",
+      "new_id": "prophet-07",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/8",
+      "new_id": "prophet-08",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/9",
+      "new_id": "prophet-09",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/10",
+      "new_id": "prophet-10",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/11",
+      "new_id": "prophet-11",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/12",
+      "new_id": "prophet-12",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/13",
+      "new_id": "prophet-13",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/14",
+      "new_id": "prophet-14",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/15",
+      "new_id": "prophet-15",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/16",
+      "new_id": "prophet-16",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/17",
+      "new_id": "prophet-17",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/18",
+      "new_id": "prophet-18",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/19",
+      "new_id": "prophet-19",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/20",
+      "new_id": "prophet-20",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/21",
+      "new_id": "prophet-21",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/22",
+      "new_id": "prophet-22",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/23",
+      "new_id": "prophet-23",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/24",
+      "new_id": "prophet-24",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/asmaUlAnbiya/25",
+      "new_id": "prophet-25",
+      "new_category_id": "prophets"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/1",
+      "new_id": "prophet-embedded-01",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/2",
+      "new_id": "prophet-embedded-02",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/3",
+      "new_id": "prophet-embedded-03",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/4",
+      "new_id": "prophet-embedded-04",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/5",
+      "new_id": "prophet-embedded-05",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/6",
+      "new_id": "prophet-embedded-06",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/7",
+      "new_id": "prophet-embedded-07",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/8",
+      "new_id": "prophet-embedded-08",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/9",
+      "new_id": "prophet-embedded-09",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/10",
+      "new_id": "prophet-embedded-10",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/11",
+      "new_id": "prophet-embedded-11",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/12",
+      "new_id": "prophet-embedded-12",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/13",
+      "new_id": "prophet-embedded-13",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/14",
+      "new_id": "prophet-embedded-14",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/15",
+      "new_id": "prophet-embedded-15",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/16",
+      "new_id": "prophet-embedded-16",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/17",
+      "new_id": "prophet-embedded-17",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/18",
+      "new_id": "prophet-embedded-18",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/19",
+      "new_id": "prophet-embedded-19",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/20",
+      "new_id": "prophet-embedded-20",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/21",
+      "new_id": "prophet-embedded-21",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/22",
+      "new_id": "prophet-embedded-22",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/23",
+      "new_id": "prophet-embedded-23",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/24",
+      "new_id": "prophet-embedded-24",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/prophets/25",
+      "new_id": "prophet-embedded-25",
+      "new_category_id": "prophets-embedded"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/1",
+      "new_id": "prophet-meaning-01",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/2",
+      "new_id": "prophet-meaning-02",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/3",
+      "new_id": "prophet-meaning-03",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/4",
+      "new_id": "prophet-meaning-04",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/5",
+      "new_id": "prophet-meaning-05",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/6",
+      "new_id": "prophet-meaning-06",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/7",
+      "new_id": "prophet-meaning-07",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/8",
+      "new_id": "prophet-meaning-08",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/9",
+      "new_id": "prophet-meaning-09",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/10",
+      "new_id": "prophet-meaning-10",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/11",
+      "new_id": "prophet-meaning-11",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/12",
+      "new_id": "prophet-meaning-12",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/13",
+      "new_id": "prophet-meaning-13",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/14",
+      "new_id": "prophet-meaning-14",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/15",
+      "new_id": "prophet-meaning-15",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/16",
+      "new_id": "prophet-meaning-16",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/17",
+      "new_id": "prophet-meaning-17",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/18",
+      "new_id": "prophet-meaning-18",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/19",
+      "new_id": "prophet-meaning-19",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/20",
+      "new_id": "prophet-meaning-20",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/21",
+      "new_id": "prophet-meaning-21",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/22",
+      "new_id": "prophet-meaning-22",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/23",
+      "new_id": "prophet-meaning-23",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/24",
+      "new_id": "prophet-meaning-24",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetNamesWithMeanings/25",
+      "new_id": "prophet-meaning-25",
+      "new_category_id": "name-meanings"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetsWithDuas/1/duas/adam-1",
+      "new_id": "adam-1",
+      "new_category_id": "prophet-1 (with-duas)"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetsWithDuas/2/duas/idris-1",
+      "new_id": "idris-1",
+      "new_category_id": "prophet-2 (with-duas)"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetsWithDuas/3/duas/nuh-1",
+      "new_id": "nuh-1",
+      "new_category_id": "prophet-3 (with-duas)"
+    },
+    {
+      "old_locator": "src/data/allData.json#/prophetsWithDuas/3/duas/nuh-2",
+      "new_id": "nuh-2",
+      "new_category_id": "prophet-3 (with-duas)"
+    },
+    {
+      "old_locator": "src/data/allData.json#/categories/asma-ul-anbiya/duas/aa-1",
+      "new_id": "aa-1",
+      "new_category_id": "asma-ul-anbiya (intro dua)"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/1",
+      "new_id": "rabbana-01",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/2",
+      "new_id": "rabbana-02",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/3",
+      "new_id": "rabbana-03",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/4",
+      "new_id": "rabbana-04",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/5",
+      "new_id": "rabbana-05",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/6",
+      "new_id": "rabbana-06",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/7",
+      "new_id": "rabbana-07",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/8",
+      "new_id": "rabbana-08",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/9",
+      "new_id": "rabbana-09",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/10",
+      "new_id": "rabbana-10",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/11",
+      "new_id": "rabbana-11",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/12",
+      "new_id": "rabbana-12",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/13",
+      "new_id": "rabbana-13",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/14",
+      "new_id": "rabbana-14",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/15",
+      "new_id": "rabbana-15",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/16",
+      "new_id": "rabbana-16",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/17",
+      "new_id": "rabbana-17",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/18",
+      "new_id": "rabbana-18",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/19",
+      "new_id": "rabbana-19",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/20",
+      "new_id": "rabbana-20",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/21",
+      "new_id": "rabbana-21",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/22",
+      "new_id": "rabbana-22",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/23",
+      "new_id": "rabbana-23",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/24",
+      "new_id": "rabbana-24",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/25",
+      "new_id": "rabbana-25",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/26",
+      "new_id": "rabbana-26",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/27",
+      "new_id": "rabbana-27",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/28",
+      "new_id": "rabbana-28",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/29",
+      "new_id": "rabbana-29",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/30",
+      "new_id": "rabbana-30",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/31",
+      "new_id": "rabbana-31",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/32",
+      "new_id": "rabbana-32",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/33",
+      "new_id": "rabbana-33",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/34",
+      "new_id": "rabbana-34",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/35",
+      "new_id": "rabbana-35",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/36",
+      "new_id": "rabbana-36",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/37",
+      "new_id": "rabbana-37",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/38",
+      "new_id": "rabbana-38",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/39",
+      "new_id": "rabbana-39",
+      "new_category_id": "rabbana-duas"
+    },
+    {
+      "old_locator": "src/data/allData.json#/rabbanaDuas/40",
+      "new_id": "rabbana-40",
+      "new_category_id": "rabbana-duas"
+    }
+  ]
+}

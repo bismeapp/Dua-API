@@ -1,0 +1,307 @@
+{
+  "schema_version": "3.0.0",
+  "count": 25,
+  "prophets": [
+    {
+      "id": "prophet-embedded-01",
+      "prophet_ref": "prophet-01",
+      "number": 1,
+      "order": 1,
+      "arabic": "آدَمُ",
+      "name": {
+        "en": "Adam",
+        "ta": "ஆதம்",
+        "ml": "ആദം"
+      }
+    },
+    {
+      "id": "prophet-embedded-02",
+      "prophet_ref": "prophet-02",
+      "number": 2,
+      "order": 2,
+      "arabic": "إِدْرِيسُ",
+      "name": {
+        "en": "Idris (Enoch)",
+        "ta": "இத்ரிஸ்",
+        "ml": "ഇദ്‌രീസ്"
+      }
+    },
+    {
+      "id": "prophet-embedded-03",
+      "prophet_ref": "prophet-03",
+      "number": 3,
+      "order": 3,
+      "arabic": "نُوحٌ",
+      "name": {
+        "en": "Noah",
+        "ta": "நூஹ்",
+        "ml": "നൂഹ്"
+      }
+    },
+    {
+      "id": "prophet-embedded-04",
+      "prophet_ref": "prophet-04",
+      "number": 4,
+      "order": 4,
+      "arabic": "هُودٌ",
+      "name": {
+        "en": "Hud",
+        "ta": "ஹூத்",
+        "ml": "ഹൂദ്"
+      }
+    },
+    {
+      "id": "prophet-embedded-05",
+      "prophet_ref": "prophet-05",
+      "number": 5,
+      "order": 5,
+      "arabic": "صَالِحٌ",
+      "name": {
+        "en": "Salih",
+        "ta": "ஸாலிஹ்",
+        "ml": "സ്വാലിഹ്"
+      }
+    },
+    {
+      "id": "prophet-embedded-06",
+      "prophet_ref": "prophet-06",
+      "number": 6,
+      "order": 6,
+      "arabic": "إِبْرَاهِيمُ",
+      "name": {
+        "en": "Abraham",
+        "ta": "இப்ராஹீம்",
+        "ml": "ഇബ്രാഹീം"
+      }
+    },
+    {
+      "id": "prophet-embedded-07",
+      "prophet_ref": "prophet-07",
+      "number": 7,
+      "order": 7,
+      "arabic": "لُوطٌ",
+      "name": {
+        "en": "Lot",
+        "ta": "லூத்",
+        "ml": "ലൂത്വ്"
+      }
+    },
+    {
+      "id": "prophet-embedded-08",
+      "prophet_ref": "prophet-08",
+      "number": 8,
+      "order": 8,
+      "arabic": "إِسْمَاعِيلُ",
+      "name": {
+        "en": "Ishmael",
+        "ta": "இஸ்மாயீல்",
+        "ml": "ഇസ്മാഈൽ"
+      }
+    },
+    {
+      "id": "prophet-embedded-09",
+      "prophet_ref": "prophet-09",
+      "number": 9,
+      "order": 9,
+      "arabic": "إِسْحَاقُ",
+      "name": {
+        "en": "Isaac",
+        "ta": "இஸ்ஹாக்",
+        "ml": "ഇസ്ഹാഖ്"
+      }
+    },
+    {
+      "id": "prophet-embedded-10",
+      "prophet_ref": "prophet-10",
+      "number": 10,
+      "order": 10,
+      "arabic": "يَعْقُوبُ",
+      "name": {
+        "en": "Jacob",
+        "ta": "யஃகூப்",
+        "ml": "യാഖൂബ്"
+      }
+    },
+    {
+      "id": "prophet-embedded-11",
+      "prophet_ref": "prophet-11",
+      "number": 11,
+      "order": 11,
+      "arabic": "يُوسُفُ",
+      "name": {
+        "en": "Joseph",
+        "ta": "யூஸுஃப்",
+        "ml": "യൂസുഫ്"
+      }
+    },
+    {
+      "id": "prophet-embedded-12",
+      "prophet_ref": "prophet-12",
+      "number": 12,
+      "order": 12,
+      "arabic": "أَيُّوبُ",
+      "name": {
+        "en": "Job",
+        "ta": "அய்யூப்",
+        "ml": "അയ്യൂബ്"
+      }
+    },
+    {
+      "id": "prophet-embedded-13",
+      "prophet_ref": "prophet-13",
+      "number": 13,
+      "order": 13,
+      "arabic": "ذُو الْكِفْلِ",
+      "name": {
+        "en": "Dhu al-Kifl",
+        "ta": "ழுல் கிஃல்",
+        "ml": "ദുൽ കിഫ്ൽ"
+      }
+    },
+    {
+      "id": "prophet-embedded-14",
+      "prophet_ref": "prophet-14",
+      "number": 14,
+      "order": 14,
+      "arabic": "شُعَيْبٌ",
+      "name": {
+        "en": "Shu'ayb",
+        "ta": "ஷுஐப்",
+        "ml": "ശുഐബ്"
+      }
+    },
+    {
+      "id": "prophet-embedded-15",
+      "prophet_ref": "prophet-15",
+      "number": 15,
+      "order": 15,
+      "arabic": "مُوسَى",
+      "name": {
+        "en": "Moses",
+        "ta": "மூஸா",
+        "ml": "മൂസാ"
+      }
+    },
+    {
+      "id": "prophet-embedded-16",
+      "prophet_ref": "prophet-16",
+      "number": 16,
+      "order": 16,
+      "arabic": "هَارُونُ",
+      "name": {
+        "en": "Aaron",
+        "ta": "ஹாரூன்",
+        "ml": "ഹാറൂൻ"
+      }
+    },
+    {
+      "id": "prophet-embedded-17",
+      "prophet_ref": "prophet-17",
+      "number": 17,
+      "order": 17,
+      "arabic": "دَاوُودُ",
+      "name": {
+        "en": "David",
+        "ta": "தாவூத்",
+        "ml": "ദാവൂദ്"
+      }
+    },
+    {
+      "id": "prophet-embedded-18",
+      "prophet_ref": "prophet-18",
+      "number": 18,
+      "order": 18,
+      "arabic": "سُلَيْمَانُ",
+      "name": {
+        "en": "Solomon",
+        "ta": "சுலைமான்",
+        "ml": "സുലൈമാൻ"
+      }
+    },
+    {
+      "id": "prophet-embedded-19",
+      "prophet_ref": "prophet-19",
+      "number": 19,
+      "order": 19,
+      "arabic": "إِلْيَاسُ",
+      "name": {
+        "en": "Elijah",
+        "ta": "இல்யாஸ்",
+        "ml": "ഇല്യാസ്"
+      }
+    },
+    {
+      "id": "prophet-embedded-20",
+      "prophet_ref": "prophet-20",
+      "number": 20,
+      "order": 20,
+      "arabic": "الْيَسَعُ",
+      "name": {
+        "en": "Elisha",
+        "ta": "அல்யασா",
+        "ml": "അൽ-യസഅ്"
+      }
+    },
+    {
+      "id": "prophet-embedded-21",
+      "prophet_ref": "prophet-21",
+      "number": 21,
+      "order": 21,
+      "arabic": "يُونُسُ",
+      "name": {
+        "en": "Jonah",
+        "ta": "யூனுஸ்",
+        "ml": "യൂനുസ്"
+      }
+    },
+    {
+      "id": "prophet-embedded-22",
+      "prophet_ref": "prophet-22",
+      "number": 22,
+      "order": 22,
+      "arabic": "زَكَرِيَّا",
+      "name": {
+        "en": "Zechariah",
+        "ta": "ஸகரிய்யா",
+        "ml": "സകരിയ്യ"
+      }
+    },
+    {
+      "id": "prophet-embedded-23",
+      "prophet_ref": "prophet-23",
+      "number": 23,
+      "order": 23,
+      "arabic": "يَحْيَى",
+      "name": {
+        "en": "John",
+        "ta": "யஹ்யா",
+        "ml": "യഹ്‌യ"
+      }
+    },
+    {
+      "id": "prophet-embedded-24",
+      "prophet_ref": "prophet-24",
+      "number": 24,
+      "order": 24,
+      "arabic": "عِيسَى",
+      "name": {
+        "en": "Jesus",
+        "ta": "ஈஸா",
+        "ml": "ഈസാ"
+      }
+    },
+    {
+      "id": "prophet-embedded-25",
+      "prophet_ref": "prophet-25",
+      "number": 25,
+      "order": 25,
+      "arabic": "مُحَمَّدٌ",
+      "name": {
+        "en": "Muhammad",
+        "ta": "முஹம்மது",
+        "ml": "മുഹമ്മദ്"
+      }
+    }
+  ],
+  "note": "Preserved verbatim from the original asma-ul-anbiya category. Its numbering places Dhu al-Kifl at 13 while the master list orders Musa/Harun/Dhu al-Kifl as 14/15/16; both variants kept, nothing merged or deleted."
+}

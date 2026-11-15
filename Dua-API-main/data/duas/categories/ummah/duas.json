@@ -1,0 +1,43 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "ummah",
+  "count": 1,
+  "duas": [
+    {
+      "id": "um-1",
+      "category_id": "ummah",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Dua for the Muslim Ummah",
+        "ta": "முஸ்லிம் உம்மத்துகளுக்கான துஆ",
+        "ml": "മുസ്ലിം ഉമ്മത്തിനുവേണ്ടിയുള്ള ദുആ",
+        "ar": "دعاء للأمة الإسلامية",
+        "ur": "مسلم امت کے لیے دعا",
+        "fr": "Invocation pour la communauté musulmane",
+        "tr": "Müslüman ümmeti için dua",
+        "id": "Doa untuk umat Islam",
+        "bn": "মুসলিম উম্মাহর জন্য দোয়া",
+        "ms": "Doa untuk umat Islam"
+      },
+      "arabic": "رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالإِيمَانِ وَلاَ تَجْعَلْ فِي قُلُوبِنَا غِلاًّ لِلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ رَحِيمٌ",
+      "translation": {
+        "en": "Our Lord, forgive us and our brothers who preceded us in faith, and do not put in our hearts any resentment toward those who have believed. Our Lord, indeed You are Kind and Merciful.",
+        "ar": "ربنا اغفر لنا ولإخواننا الذين سبقونا بالإيمان ولا تجعل في قلوبنا غلا للذين آمنوا ربنا إنك رءوف رحيم",
+        "ur": "اے ہمارے رب! ہمیں بخش دے اور ہمارے ان بھائیوں کو بھی جو ایمان میں ہم سے پہلے گزر چکے ہیں اور ایمان والوں کے لیے ہمارے دلوں میں کوئی کینہ نہ ڈال، اے ہمارے رب! بے شک تو نہایت مہربان، رحم کرنے والا ہے۔",
+        "fr": "Notre Seigneur, pardonne-nous et à nos frères qui nous ont précédés dans la foi, et ne mets dans nos cœurs aucune rancune envers ceux qui ont cru. Notre Seigneur, Tu es certes Compatissant et Miséricordieux.",
+        "tr": "Rabbimiz! Bizi ve bizden önce iman eden kardeşlerimizi bağışla ve kalplerimizde iman edenlere karşı hiçbir kin bırakma. Rabbimiz! Şüphesiz Sen çok şefkatli, çok merhametlisin.",
+        "id": "Tuhan kami, ampunilah kami dan saudara-saudara kami yang telah beriman sebelum kami, dan janganlah Engkau membiarkan kedengkian dalam hati kami terhadap orang-orang yang beriman. Tuhan kami, sesungguhnya Engkau Maha Pengasih lagi Maha Penyayang.",
+        "bn": "হে আমাদের রব, আমাদের এবং আমাদের পূর্বে ঈমান আনা ভাইদের ক্ষমা করো এবং যারা ঈমান এনেছে তাদের প্রতি আমাদের অন্তরে কোনো বিদ্বেষ রেখো না। হে আমাদের রব, নিশ্চয়ই তুমি দয়ালু, করুণাময়।",
+        "ms": "Tuhan kami, ampunilah kami dan saudara-saudara kami yang telah beriman sebelum kami, dan janganlah Engkau membiarkan kedengkian dalam hati kami terhadap orang-orang yang beriman. Tuhan kami, sesungguhnya Engkau Maha Pengasih lagi Maha Penyayang.",
+        "ta": "எங்கள் இறைவா! எங்களையும் எங்களுக்கு முன்னர் ஈமான் கொண்டு சென்ற எங்கள் சகோதரர்களையும் மன்னிப்பாயாக, ஈமான் கொண்டவர்கள் மீது எங்கள் இதயங்களில் எந்த வெறுப்பையும் வைக்காதே. எங்கள் இறைவா, நிச்சயமாக நீர் மிகவும் இரக்கமுள்ளவன், கருணையுள்ளவன்.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങളെയും ഞങ്ങൾക്ക് മുമ്പ് വിശ്വസിച്ച ഞങ്ങളുടെ സഹോദരന്മാരെയും പൊറുക്കണമേ, വിശ്വസിച്ചവരോട് ഞങ്ങളുടെ ഹൃദയങ്ങളിൽ ഒരു വിദ്വേഷവും ഉണ്ടാക്കരുതേ. ഞങ്ങളുടെ രക്ഷിതാവേ, തീർച്ചയായും നീ അതിദയാലുവും കാരുണ്യവാനുമാണ്."
+      },
+      "reference": {
+        "source": "Quran",
+        "reference_text": "Quran 59:10"
+      },
+      "repetition_count": 1
+    }
+  ]
+}

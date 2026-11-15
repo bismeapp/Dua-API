@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "section_id": "others",
+  "status": "partial",
+  "collections": [
+    {
+      "id": "asma-ul-husna",
+      "title": {
+        "ar": "أسماء الله الحسنى",
+        "en": "Asma Ul Husna",
+        "ta": "அஸ்மாவுல் ஹுஸ்னா",
+        "ml": "അൽ-അസ്മാഉൽ ഹുസ്നാ",
+        "ur": "اسماء اللہ الحسنی",
+        "fr": "Asma ul Husna (99 Noms d'Allah)",
+        "tr": "Esmaü'l-Hüsna",
+        "id": "Asmaul Husna",
+        "bn": "আসমাউল হুসনা",
+        "ms": "Asmaul Husna"
+      },
+      "metadata_file": "asma-ul-husna/metadata.json",
+      "data_file": "asma-ul-husna/names.json",
+      "status": "available",
+      "expected_record_count": 99
+    },
+    {
+      "id": "asma-ul-anbiya",
+      "title": {
+        "ar": "أسماء الأنبياء (Asma ul Anbiya)",
+        "en": "Asma Ul Anbiya",
+        "ta": "நபிமார்களின் பெயர்கள் (Asma ul Anbiya)",
+        "ml": "പ്രവാചകന്മാരുടെ പേരുകൾ (Asma ul Anbiya)",
+        "ur": "انبیاء کے نام (Asma ul Anbiya)",
+        "fr": "Noms des prophètes (Asma ul Anbiya)",
+        "tr": "Peygamberlerin İsimleri (Asma ul Anbiya)",
+        "id": "Nama para Nabi (Asma ul Anbiya)",
+        "bn": "নবীদের নাম (Asma ul Anbiya)",
+        "ms": "Nama-nama Nabi (Asma ul Anbiya)"
+      },
+      "metadata_file": "asma-ul-anbiya/metadata.json",
+      "data_file": "asma-ul-anbiya/prophets.json",
+      "status": "available",
+      "expected_record_count": 25
+    },
+    {
+      "id": "asma-un-nabi",
+      "title": {
+        "ar": "أسماء النبي محمد ﷺ",
+        "en": "Asma Un Nabi",
+        "ta": "நபிகள் நாயகத்தின் திருப்பெயர்கள்",
+        "ml": "പ്രവാചകൻ മുഹമ്മദ് നബിയുടെ നാമങ്ങൾ",
+        "ur": "نبی محمد ﷺ کے اسمائے مبارکہ",
+        "fr": "Les noms du Prophète Muhammad ﷺ",
+        "tr": "Peygamber Muhammed ﷺ’in İsimleri",
+        "id": "Nama-nama Nabi Muhammad ﷺ",
+        "bn": "নবী মুহাম্মদ ﷺ-এর নামসমূহ",
+        "ms": "Nama-nama Nabi Muhammad ﷺ"
+      },
+      "metadata_file": "duas/categories/asma-un-nabi/metadata.json",
+      "data_file": "duas/categories/asma-un-nabi/duas.json",
+      "status": "partial",
+      "source_status": "User-provided compilation; independent source verification pending."
+    }
+  ]
+}

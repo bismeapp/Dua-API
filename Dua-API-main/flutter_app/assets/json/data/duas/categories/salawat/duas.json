@@ -1,0 +1,375 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "salawat",
+  "count": 10,
+  "duas": [
+    {
+      "id": "sal-3",
+      "category_id": "salawat",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Salawat al-Tanjiyyah (The Prayer of Deliverance)",
+        "ta": "ஸலவாத்துத் தஞ்சிய்யா (விடுதலைக்கான ஸலவாத்)",
+        "ml": "സ്വലാത്തുത്തൻജിയ്യ (രക്ഷയുടെ സ്വലാത്ത്)",
+        "ar": "الصلاة المنجية",
+        "ur": "صلوٰۃِ تنجیہ (نجات کی دعا)",
+        "fr": "Salawat al-Tanjiyyah (La prière de délivrance)",
+        "tr": "Salavatü't-Tenciyye (Kurtuluş Salavatı)",
+        "id": "Salawat at-Tanjiyyah (Doa Pembebasan)",
+        "bn": "সালাওয়াত আত-তানজিয়্যাহ (মুক্তির দোয়া)",
+        "ms": "Selawat at-Tanjiyyah (Doa Pembebasan)"
+      },
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ صَلَاةً تُنْجِينَا بِهَا مِنْ جَمِيعِ الأَهْوَالِ وَالآفَاتِ، وَتَقْضِي لَنَا بِهَا جَمِيعَ الحَاجَاتِ، وَتُطَهِّرُنَا بِهَا مِنْ جَمِيعِ السَّيِّئَاتِ، وَتَرْفَعُنَا بِهَا عِنْدَكَ أَعْلَى الدَّرَجَاتِ، وَتُبَلِّغُنَا بِهَا أَقْصَى الغَايَاتِ مِنْ جَمِيعِ الخَيْرَاتِ فِي الحَيَاةِ وَبَعْدَ المَمَاتِ، وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ تَسْلِيمًا كَثِيرًا.",
+      "translation": {
+        "en": "O Allah, send blessings upon our Master Muhammad, a prayer by which You deliver us from all terrors and harm, fulfill all our needs, purify us from all sins, raise us to the highest stations in Your presence, and bring us to the ultimate limits of all goodness in life and after death, and upon his family and companions bestow abundant peace.",
+        "ta": "அல்லாஹ்வே! எங்கள் தலைவரான முஹம்மது மீது அருளை வழங்குவாயாக. அதன் மூலம் எல்லா அச்சங்களிலிருந்தும் துன்பங்களிலிருந்தும் எங்களைப் பாதுகாத்து, எங்கள் தேவைகளை நிறைவேற்றி, பாவங்களிலிருந்து எங்களைத் தூய்மைப்படுத்தி, உன்னிடத்தில் உயர்ந்த நிலைகளுக்கு எங்களை உயர்த்தி, வாழ்விலும் மரணத்திற்குப் பின்னரும் எல்லா நன்மைகளின் உச்சத்தை எங்களுக்கு வழங்குவாயாக. அவருடைய குடும்பத்தார் மற்றும் தோழர்கள் மீதும் ஏராளமான ஸலாமை அருள்வாயாக.",
+        "ml": "അല്ലാഹുവേ, ഞങ്ങളുടെ നേതാവായ മുഹമ്മദിന് അനുഗ്രഹം ചൊരിയണമേ. അതിലൂടെ എല്ലാ ഭയങ്ങളിൽനിന്നും ആപത്തുകളിൽനിന്നും ഞങ്ങളെ രക്ഷിക്കുകയും, ഞങ്ങളുടെ ആവശ്യങ്ങൾ നിറവേറ്റുകയും, പാപങ്ങളിൽനിന്ന് ഞങ്ങളെ ശുദ്ധീകരിക്കുകയും, നിന്റെ അടുക്കൽ ഉന്നത പദവികളിലേക്ക് ഉയർത്തുകയും, ജീവിതത്തിലും മരണാനന്തരവും എല്ലാ നന്മകളുടെയും പരമാവധി ലക്ഷ്യത്തിലെത്തിക്കുകയും ചെയ്യണമേ. അദ്ദേഹത്തിന്റെ കുടുംബത്തിനും സഹചാരികൾക്കും സമൃദ്ധമായ സമാധാനവും നൽകണമേ.",
+        "ar": "اللهم صل على سيدنا محمد صلاة تنجينا بها من جميع الأهوال والآفات، وتقضي لنا بها جميع الحاجات، وتطهرنا بها من جميع السيئات، وترفعنا بها عندك أعلى الدرجات، وتبلغنا بها أقصى الغايات من جميع الخيرات في الحياة وبعد الممات، وعلى آله وصحبه وسلم تسليما كثيرا.",
+        "ur": "اے اللہ! ہمارے آقا محمد ﷺ پر ایسی رحمت نازل فرما جس کے ذریعے تو ہمیں ہر خوف اور آفت سے نجات دے، ہماری تمام حاجتیں پوری کرے، ہمیں تمام برائیوں سے پاک کرے، اپنے حضور ہمارے درجات بلند کرے، اور زندگی اور موت کے بعد ہر بھلائی کی بلند ترین منزل تک پہنچائے؛ اور آپ کے اہلِ بیت اور صحابہ پر بہت زیادہ سلام بھی نازل فرما۔",
+        "fr": "Ô Allah, accorde Tes bénédictions à notre maître Muhammad, une prière par laquelle Tu nous délivres de toutes les terreurs et de tous les maux, satisfais tous nos besoins, nous purifies de tous les péchés, nous élèves aux plus hauts degrés auprès de Toi et nous conduis au sommet de toute bonté dans la vie et après la mort. Accorde aussi une paix abondante à sa famille et à ses compagnons.",
+        "tr": "Allah'ım, efendimiz Muhammed'e öyle bir salât eyle ki onunla bizi bütün korku ve belalardan kurtar, bütün ihtiyaçlarımızı gider, bizi bütün kötülüklerden arındır, katında en yüksek derecelere yükselt ve hayatta ve ölümden sonra bütün hayırların en yüce gayesine ulaştır. Ailesine ve ashabına da bolca selâm eyle.",
+        "id": "Ya Allah, limpahkanlah salawat kepada junjungan kami Muhammad, salawat yang dengannya Engkau menyelamatkan kami dari segala ketakutan dan bencana, memenuhi semua kebutuhan kami, menyucikan kami dari segala keburukan, mengangkat kami ke derajat tertinggi di sisi-Mu, dan mengantarkan kami kepada puncak segala kebaikan di dunia dan setelah kematian. Limpahkan pula salam yang berlimpah kepada keluarga dan para sahabatnya.",
+        "bn": "হে আল্লাহ, আমাদের নেতা মুহাম্মদের প্রতি এমন দরূদ পাঠাও, যার মাধ্যমে তুমি আমাদের সব ভয় ও বিপদ থেকে রক্ষা করবে, আমাদের সব প্রয়োজন পূরণ করবে, সব পাপ থেকে পবিত্র করবে, তোমার কাছে সর্বোচ্চ মর্যাদায় উন্নীত করবে এবং জীবন ও মৃত্যুর পর সব কল্যাণের চূড়ান্ত লক্ষ্যে পৌঁছে দেবে। তাঁর পরিবার ও সাহাবিদের প্রতিও প্রচুর সালাম বর্ষণ করো।",
+        "ms": "Ya Allah, limpahkanlah selawat kepada junjungan kami Muhammad, selawat yang dengannya Engkau menyelamatkan kami daripada segala ketakutan dan malapetaka, memenuhi segala keperluan kami, menyucikan kami daripada segala keburukan, mengangkat kami ke darjat tertinggi di sisi-Mu, dan membawa kami kepada kemuncak segala kebaikan dalam kehidupan dan selepas kematian. Limpahkan juga salam yang berlimpah kepada keluarga dan para sahabatnya."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "transliteration": "Allahumma salli 'ala sayyidina Muhammadin salatan tunjina biha min jami'il-ahwali wal-afat, wa taqdi lana biha jami'al-hajat, wa tutahhiruna biha min jami'is-sayyi'at, wa tarfa'una biha 'indaka a'lad-darajat, wa tuballighuna biha aqsal-ghayati min jami'il-khayrati fil-hayati wa ba'dal-mamat, wa 'ala alihi wa sahbihi wa sallim tasliman kathira."
+    },
+    {
+      "id": "sal-5",
+      "category_id": "salawat",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "Salawat al-Tafrijiyyah / al-Nariya (The Relief Prayer)",
+        "ta": "ஸலவாத்துத் தஃப்ரீஜிய்யா / நாரிய்யா (நிவாரண ஸலவாத்)",
+        "ml": "സ്വലാത്തുത്തഫ്രീജിയ്യ / നാരിയ്യ (ആശ്വാസ സ്വലാത്ത്)",
+        "ar": "الصلاة التفريجية / النارية",
+        "ur": "صلوٰۃِ تفریجیہ / ناریہ (کشادگی کی دعا)",
+        "fr": "Salawat al-Tafrijiyyah / al-Nariya (La prière du soulagement)",
+        "tr": "Salavatü't-Tefriciyye / Nariye (Ferahlık Salavatı)",
+        "id": "Salawat at-Tafrijiyyah / an-Nariyyah (Doa Kelapangan)",
+        "bn": "সালাওয়াত আত-তাফরিজিয়্যাহ / আন-নারিয়্যাহ (স্বস্তির দোয়া)",
+        "ms": "Selawat at-Tafrijiyyah / an-Nariyyah (Doa Kelapangan)"
+      },
+      "arabic": "اللَّهُمَّ صَلِّ صَلَاةً كَامِلَةً وَسَلِّمْ سَلَامًا تَامًّا عَلَى سَيِّدِنَا مُحَمَّدٍ الَّذِي تَنْحَلُّ بِهِ العُقَدُ، وَتَنْفَرِجُ بِهِ الكُرَبُ، وَتُقْضَى بِهِ الحَوَائِجُ، وَتُنَالُ بِهِ الرَّغَائِبُ وَحُسْنُ الخَوَاتِيمِ، وَيُسْتَسْقَى الغَمَامُ بِوَجْهِهِ الكَرِيمِ، وَعَلَى آلِهِ وَصَحْبِهِ فِي كُلِّ لَمْحَةٍ وَنَفَسٍ بِعَدَدِ كُلِّ مَعْلُومٍ لَكَ.",
+      "transliteration": "Allahumma salli salatan kamilatan wa sallim salaman tamman 'ala sayyidina Muhammadinilladhi tanhallu bihil-'uqadu, wa tanfariju bihil-kurabu, wa tuqda bihil-hawaiju, wa tunalu bihir-ragha'ibu wa husnul-khawatimi, wa yustasqal-ghamamu biwajhihil-karimi, wa 'ala alihi wa sahbihi fi kulli lamhatin wa nafasin bi'adadi kulli ma'lumin lak.",
+      "translation": {
+        "en": "O Allah, send a complete blessing and perfect peace upon our Master Muhammad, through whom knots are untied, distress is relieved, needs are fulfilled, desires and good endings are obtained, and clouds yield rain by his noble countenance; and upon his family and companions in every glance and breath, as many times as the number of everything known to You.",
+        "ta": "அல்லாஹ்வே! எங்கள் தலைவரான முஹம்மது மீது முழுமையான அருளையும் நிறைவான ஸலாமையும் வழங்குவாயாக. அவர் மூலம் முடிச்சுகள் அவிழ்கின்றன, துயரங்கள் நீங்குகின்றன, தேவைகள் நிறைவேறுகின்றன, விருப்பங்களும் நல்ல முடிவுகளும் கிடைக்கின்றன; அவருடைய கண்ணியமான முகத்தின் மூலம் மேகங்களிடம் மழை வேண்டப்படுகிறது. அவருடைய குடும்பத்தார் மற்றும் தோழர்கள் மீதும், ஒவ்வொரு பார்வையிலும் ஒவ்வொரு மூச்சிலும், உனக்குத் தெரிந்த அனைத்தின் எண்ணிக்கையளவு அருள்வாயாக.",
+        "ml": "അല്ലാഹുവേ, ഞങ്ങളുടെ നേതാവായ മുഹമ്മദിന് പൂർണ്ണമായ അനുഗ്രഹവും സമ്പൂർണ്ണ സമാധാനവും നൽകണമേ. അദ്ദേഹത്തിലൂടെ കുരുക്കുകൾ അഴിയുകയും ദുഃഖങ്ങൾ നീങ്ങുകയും ആവശ്യങ്ങൾ നിറവേറുകയും ആഗ്രഹങ്ങളും നല്ല അന്ത്യങ്ങളും ലഭിക്കുകയും ചെയ്യുന്നു; അദ്ദേഹത്തിന്റെ മഹത്വമുള്ള മുഖം മുഖേന മേഘങ്ങളോട് മഴ തേടപ്പെടുന്നു. അദ്ദേഹത്തിന്റെ കുടുംബത്തിനും സഹചാരികൾക്കും ഓരോ നോട്ടത്തിലും ശ്വാസത്തിലും നിനക്കറിയാവുന്ന എല്ലാറ്റിന്റെയും എണ്ണത്തിന് തുല്യമായി അനുഗ്രഹം നൽകണമേ.",
+        "ar": "اللهم صل صلاة كاملة وسلم سلاما تاما على سيدنا محمد الذي تنحل به العقد، وتنفرج به الكرب، وتقضى به الحوائج، وتنال به الرغائب وحسن الخواتيم، ويستسقى الغمام بوجهه الكريم، وعلى آله وصحبه في كل لمحة ونفس بعدد كل معلوم لك.",
+        "ur": "اے اللہ! ہمارے آقا محمد ﷺ پر کامل درود اور مکمل سلام نازل فرما، جن کے وسیلے سے گرہیں کھلتی ہیں، مصیبتیں دور ہوتی ہیں، حاجتیں پوری ہوتی ہیں، مطلوبہ چیزیں اور اچھے انجام حاصل ہوتے ہیں، اور ان کے کریم چہرے کے وسیلے سے بادلوں سے بارش طلب کی جاتی ہے۔ ان کے اہلِ بیت اور صحابہ پر ہر لمحے اور ہر سانس میں، ہر اس چیز کی تعداد کے برابر درود و سلام ہو جسے تو جانتا ہے۔",
+        "fr": "Ô Allah, accorde une bénédiction complète et une paix parfaite à notre maître Muhammad, par qui les nœuds se défont, les détresses se dissipent, les besoins sont satisfaits, les souhaits et les belles fins sont obtenus, et dont le noble visage est invoqué pour demander la pluie aux nuages. Accorde aussi Tes bénédictions à sa famille et à ses compagnons à chaque instant et à chaque souffle, autant que tout ce que Tu connais.",
+        "tr": "Allah'ım, efendimiz Muhammed'e eksiksiz salât ve tam selâm eyle. Onun vesilesiyle düğümler çözülür, sıkıntılar giderilir, ihtiyaçlar karşılanır, arzular ve güzel sonlar elde edilir; onun şerefli yüzü vesilesiyle bulutlardan yağmur istenir. Ailesine ve ashabına da her an ve her nefeste, Senin bildiğin her şeyin sayısınca salât eyle.",
+        "id": "Ya Allah, limpahkanlah salawat yang sempurna dan salam yang utuh kepada junjungan kami Muhammad, yang dengannya segala kesulitan terurai, kesusahan sirna, kebutuhan terpenuhi, harapan dan akhir yang baik tercapai, serta hujan dimohonkan dari awan melalui wajah beliau yang mulia. Limpahkan pula kepada keluarga dan para sahabatnya pada setiap kejapan dan napas, sebanyak segala sesuatu yang Engkau ketahui.",
+        "bn": "হে আল্লাহ, আমাদের নেতা মুহাম্মদের প্রতি পূর্ণ দরূদ ও সম্পূর্ণ সালাম বর্ষণ করো; তাঁর মাধ্যমে জট খুলে যায়, দুঃখ দূর হয়, প্রয়োজন পূরণ হয়, আকাঙ্ক্ষা ও উত্তম পরিণতি লাভ হয়, আর তাঁর সম্মানিত চেহারার মাধ্যমে মেঘের কাছে বৃষ্টি চাওয়া হয়। তাঁর পরিবার ও সাহাবিদের প্রতিও প্রতিটি দৃষ্টি ও শ্বাসে, তোমার জানা সবকিছুর সংখ্যার সমান দরূদ বর্ষণ করো।",
+        "ms": "Ya Allah, limpahkanlah selawat yang sempurna dan salam yang lengkap kepada junjungan kami Muhammad, yang dengannya segala kesulitan terungkai, kesusahan dilapangkan, keperluan dipenuhi, hasrat dan kesudahan yang baik diperoleh, serta hujan dipohon daripada awan melalui wajah baginda yang mulia. Limpahkan juga kepada keluarga dan para sahabatnya pada setiap pandangan dan nafas, sebanyak segala yang Engkau ketahui."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "sal-6",
+      "category_id": "salawat",
+      "subcategory_id": null,
+      "order": 3,
+      "title": {
+        "en": "Salawat al-Fatih (The Opener)",
+        "ta": "ஸலவாத்துல் ஃபாத்திஹ் (திறப்பவர்)",
+        "ml": "സ്വലാത്തുൽ ഫാതിഹ് (തുറക്കുന്നവൻ)",
+        "ar": "صلاة الفاتح",
+        "ur": "صلوٰۃ الفاتح (کھولنے والا)",
+        "fr": "Salawat al-Fatih (L’Ouvreur)",
+        "tr": "Salavatü'l-Fatih (Açan)",
+        "id": "Salawat al-Fatih (Sang Pembuka)",
+        "bn": "সালাওয়াত আল-ফাতিহ (উন্মোচনকারী)",
+        "ms": "Selawat al-Fatih (Sang Pembuka)"
+      },
+      "arabic": "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ الفَاتِحِ لِمَا أُغْلِقَ، وَالخَاتِمِ لِمَا سَبَقَ، نَاصِرِ الحَقِّ بِالحَقِّ، وَالهَادِي إِلَى صِرَاطِكَ المُسْتَقِيمِ، وَعَلَى آلِهِ وَصَحْبِهِ حَقَّ قَدْرِهِ وَمِقْدَارِهِ العَظِيمِ.",
+      "transliteration": "Allahumma salli wa sallim wa barik 'ala sayyidina Muhammadinil-Fatihi lima ughliqa, wal-khatimi lima sabaqa, nasiril-haqqi bil-haqqi, wal-hadi ila siratikal-mustaqim, wa 'ala alihi wa sahbihi haqqa qadrihi wa miqdarihil-'azim.",
+      "translation": {
+        "en": "O Allah, send blessings, peace, and abundance upon our Master Muhammad, who opened what was locked and sealed what preceded, the champion of truth by truth, and the guide to Your straight path, and upon his family and companions according to his grand status and immense measure.",
+        "ta": "அல்லாஹ்வே! எங்கள் தலைவரான முஹம்மது மீது அருளையும் ஸலாமையும் பரக்கத்தையும் வழங்குவாயாக. மூடப்பட்டதைத் திறந்தவர், முன் சென்றதை நிறைவு செய்தவர், உண்மையால் உண்மைக்கு ஆதரவளிப்பவர், உன் நேரான பாதைக்கு வழிகாட்டுபவர் ஆகிய அவர் மீதும், அவருடைய மகத்தான அந்தஸ்துக்கும் உயர்ந்த மதிப்புக்கும் உரிய வகையில் அவருடைய குடும்பத்தார் மற்றும் தோழர்கள் மீதும் அருள்வாயாக.",
+        "ml": "അല്ലാഹുവേ, ഞങ്ങളുടെ നേതാവായ മുഹമ്മദിന് അനുഗ്രഹവും സമാധാനവും ബറകത്തും നൽകണമേ. അടഞ്ഞിരുന്നതു തുറന്നവനും മുമ്പുള്ളതിനെ സമാപിപ്പിച്ചവനും സത്യത്തിലൂടെ സത്യത്തെ പിന്തുണച്ചവനും നിന്റെ നേരായ പാതയിലേക്ക് വഴികാട്ടിയുമായ അദ്ദേഹത്തിനും, അദ്ദേഹത്തിന്റെ മഹത്തായ പദവിക്കും സ്ഥാനത്തിനും യോജിച്ചവിധം കുടുംബത്തിനും സഹചാരികൾക്കും അനുഗ്രഹം നൽകണമേ.",
+        "ar": "اللهم صل وسلم وبارك على سيدنا محمد الفاتح لما أغلق، والخاتم لما سبق، ناصر الحق بالحق، والهادي إلى صراطك المستقيم، وعلى آله وصحبه حق قدره ومقداره العظيم.",
+        "ur": "اے اللہ! ہمارے آقا محمد ﷺ پر رحمت، سلامتی اور برکت نازل فرما، جنہوں نے بند چیز کو کھولا، پہلے آنے والی چیز کو ختم کیا، حق کے ذریعے حق کی مدد کی اور تیرے سیدھے راستے کی رہنمائی کی؛ اور ان کے اہلِ بیت اور صحابہ پر بھی ان کے عظیم مرتبے اور شان کے مطابق رحمت نازل فرما۔",
+        "fr": "Ô Allah, accorde bénédictions, paix et abondance à notre maître Muhammad, qui a ouvert ce qui était fermé, scellé ce qui l’a précédé, soutenu la vérité par la vérité et guidé vers Ton droit chemin, ainsi qu’à sa famille et à ses compagnons, à la mesure de son immense rang.",
+        "tr": "Allah'ım, efendimiz Muhammed'e salât, selâm ve bereket eyle. O, kapalı olanı açan, öncekini mühürleyen, hak ile hakkı destekleyen ve Senin dosdoğru yoluna kılavuzluk edendir. Ailesine ve ashabına da yüce makamına ve değerine yaraşır şekilde salât eyle.",
+        "id": "Ya Allah, limpahkanlah salawat, salam, dan keberkahan kepada junjungan kami Muhammad, yang membuka apa yang tertutup, menyempurnakan yang terdahulu, membela kebenaran dengan kebenaran, dan membimbing menuju jalan-Mu yang lurus; juga kepada keluarga dan para sahabatnya sesuai kedudukan dan kemuliaannya yang agung.",
+        "bn": "হে আল্লাহ, আমাদের নেতা মুহাম্মদের প্রতি দরূদ, সালাম ও বরকত বর্ষণ করো—যিনি বন্ধ বিষয় উন্মুক্ত করেছেন, পূর্ববর্তী বিষয়ের সমাপ্তি ঘটিয়েছেন, সত্যের মাধ্যমে সত্যকে সমর্থন করেছেন এবং তোমার সরল পথে পথ দেখিয়েছেন। তাঁর পরিবার ও সাহাবিদের প্রতিও তাঁর মহান মর্যাদা ও অবস্থানের উপযোগী দরূদ বর্ষণ করো।",
+        "ms": "Ya Allah, limpahkanlah selawat, salam dan keberkatan kepada junjungan kami Muhammad, yang membuka perkara yang tertutup, menyempurnakan perkara yang terdahulu, membela kebenaran dengan kebenaran dan membimbing ke jalan-Mu yang lurus; juga kepada keluarga dan para sahabatnya menurut kedudukan serta kemuliaannya yang agung."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "sal-7",
+      "category_id": "salawat",
+      "subcategory_id": null,
+      "order": 4,
+      "title": {
+        "en": "Salawat Tibb al-Qulub (The Cure of Hearts)",
+        "ta": "ஸலவாத்து திப்பில் குலூப் (இதயங்களின் நிவாரணி)",
+        "ml": "സ്വലാത്ത് ത്വിബ്ബുൽ ഖുലൂബ് (ഹൃദയങ്ങളുടെ ഔഷധം)",
+        "ar": "صلاة طب القلوب",
+        "ur": "صلوٰۃ طب القلوب (دلوں کی شفا)",
+        "fr": "Salawat Tibb al-Qulub (Le remède des cœurs)",
+        "tr": "Salavatü Tıbbil-Kulub (Kalplerin Şifası)",
+        "id": "Salawat Tibb al-Qulub (Penyembuh Hati)",
+        "bn": "সালাওয়াত তিব্বুল কুলুব (হৃদয়ের আরোগ্য)",
+        "ms": "Selawat Tibb al-Qulub (Penyembuh Hati)"
+      },
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ طِبِّ القُلُوبِ وَدَوَائِهَا، وَعَافِيَةِ الأَبْدَانِ وَشِفَائِهَا، وَنُورِ الأَبْصَارِ وَضِيَائِهَا، وَقُوتِ الأَرْوَاحِ وَغِذَائِهَا، وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ.",
+      "transliteration": "Allahumma salli 'ala sayyidina Muhammadin tibbil-qulubi wa dawaiha, wa 'afiyatil-abdani wa shifaiha, wa nuril-absari wa diyaiha, wa qutil-arwahi wa ghidhaiha, wa 'ala alihi wa sahbihi wa sallim.",
+      "translation": {
+        "en": "O Allah, send blessings upon our Master Muhammad, the medicine of hearts and their remedy, the health of bodies and their healing, the light of eyes and their brightness, and the nourishment of souls and their sustenance, and upon his family and companions peace.",
+        "ta": "அல்லாஹ்வே! எங்கள் தலைவரான முஹம்மது மீது அருள்வாயாக; அவர் இதயங்களின் மருந்தும் அவற்றின் நிவாரணியும், உடல்களின் நலமும் அவற்றின் குணமளிப்பும், கண்களின் ஒளியும் அவற்றின் பிரகாசமும், ஆன்மாக்களின் வலிமையும் அவற்றின் உணவுமாவார். அவருடைய குடும்பத்தார் மற்றும் தோழர்கள் மீதும் ஸலாமை அருள்வாயாக.",
+        "ml": "അല്ലാഹുവേ, ഞങ്ങളുടെ നേതാവായ മുഹമ്മദിന് അനുഗ്രഹം ചൊരിയണമേ; അദ്ദേഹം ഹൃദയങ്ങളുടെ ഔഷധവും അവയുടെ ശമനവുമാണ്, ശരീരങ്ങളുടെ ആരോഗ്യവും അവയുടെ സൗഖ്യവുമാണ്, കണ്ണുകളുടെ വെളിച്ചവും പ്രകാശവുമാണ്, ആത്മാക്കളുടെ ശക്തിയും പോഷണവുമാണ്. അദ്ദേഹത്തിന്റെ കുടുംബത്തിനും സഹചാരികൾക്കും സമാധാനം നൽകണമേ.",
+        "ar": "اللهم صل على سيدنا محمد طب القلوب ودوائها، وعافية الأبدان وشفائها، ونور الأبصار وضيائها، وقوت الأرواح وغذائها، وعلى آله وصحبه وسلم.",
+        "ur": "اے اللہ! ہمارے آقا محمد ﷺ پر درود نازل فرما، جو دلوں کی دوا اور شفا، جسموں کی صحت اور تندرستی، آنکھوں کا نور اور روشنی، اور روحوں کی قوت اور غذا ہیں؛ اور آپ کے اہلِ بیت اور صحابہ پر سلام بھی نازل فرما۔",
+        "fr": "Ô Allah, accorde Tes bénédictions à notre maître Muhammad, remède des cœurs et leur guérison, santé des corps et leur rétablissement, lumière des yeux et leur éclat, nourriture des âmes et leur subsistance. Accorde aussi la paix à sa famille et à ses compagnons.",
+        "tr": "Allah'ım, efendimiz Muhammed'e salât eyle; o kalplerin ilacı ve şifası, bedenlerin afiyeti ve iyileşmesi, gözlerin nuru ve aydınlığı, ruhların gücü ve gıdasıdır. Ailesine ve ashabına da selâm eyle.",
+        "id": "Ya Allah, limpahkanlah salawat kepada junjungan kami Muhammad, obat bagi hati dan penyembuhnya, kesehatan bagi tubuh dan pemulihnya, cahaya bagi mata dan penerangnya, serta kekuatan dan asupan bagi jiwa. Limpahkan pula salam kepada keluarga dan para sahabatnya.",
+        "bn": "হে আল্লাহ, আমাদের নেতা মুহাম্মদের প্রতি দরূদ পাঠাও; তিনি হৃদয়ের ওষুধ ও আরোগ্য, দেহের সুস্থতা ও নিরাময়, চোখের আলো ও উজ্জ্বলতা, এবং আত্মার শক্তি ও পুষ্টি। তাঁর পরিবার ও সাহাবিদের প্রতিও সালাম বর্ষণ করো।",
+        "ms": "Ya Allah, limpahkanlah selawat kepada junjungan kami Muhammad, ubat bagi hati dan penyembuhnya, kesihatan bagi tubuh dan pemulihnya, cahaya bagi mata dan sinarnya, serta kekuatan dan makanan bagi jiwa. Limpahkan juga salam kepada keluarga dan para sahabatnya."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "sal-8",
+      "category_id": "salawat",
+      "subcategory_id": null,
+      "order": 5,
+      "title": {
+        "en": "Salawat Nur al-Anwar (The Light of Lights)",
+        "ta": "ஸலவாத்து நூர் அல் அன்வார் (ஒளிகளின் ஒளி)",
+        "ml": "സ്വലാത്ത് നൂറുൽ അൻവാർ (പ്രകാശങ്ങളുടെ പ്രകാശം)",
+        "ar": "صلاة نور الأنوار",
+        "ur": "صلوٰۃ نور الانوار (نوروں کا نور)",
+        "fr": "Salawat Nur al-Anwar (La lumière des lumières)",
+        "tr": "Salavatü Nur'il-Envar (Nurların Nuru)",
+        "id": "Salawat Nur al-Anwar (Cahaya Segala Cahaya)",
+        "bn": "সালাওয়াত নূরুল আনওয়ার (আলোকসমূহের আলো)",
+        "ms": "Selawat Nur al-Anwar (Cahaya Segala Cahaya)"
+      },
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى نُورِ الأَنْوَارِ، وَسِرِّ الأَسْرَارِ، وَتِرْيَاقِ الأَغْيَارِ، وَمِفْتَاحِ بَابِ اليَسَارِ، سَيِّدِنَا مُحَمَّدٍ المُخْتَارِ، وَآلِهِ الأَطْهَارِ، وَأَصْحَابِهِ الأَحْيَارِ، عَدَدَ نِعَمِ اللهِ وَإِفْضَالِهِ.",
+      "transliteration": "Allahumma salli 'ala nuril-anwar, wa sirril-asrar, wa tiryaqil-aghyar, wa miftahi babi-lyasar, sayyidina Muhammadinil-mukhtar, wa alihil-athhar, wa ashabihil-ahyar, 'adada ni'amillahi wa ifdalih.",
+      "translation": {
+        "en": "O Allah, send blessings upon the Light of lights, the Secret of secrets, the antidote to distress, and the key to the door of ease, our Master Muhammad the Chosen One, and his pure family, and his righteous companions, equal to the number of Allah's blessings and bounties.",
+        "ta": "அல்லாஹ்வே! ஒளிகளின் ஒளி, இரகசியங்களின் இரகசியம், துன்பங்களுக்கான நிவாரணி, இலகுவின் கதவுக்கான திறவுகோல் ஆகிய எங்கள் தலைவரும் தேர்ந்தெடுக்கப்பட்டவருமான முஹம்மது மீது அருள்வாயாக; அவருடைய தூய குடும்பத்தார் மற்றும் நல்ல தோழர்கள் மீதும், அல்லாஹ்வின் அருட்கொடைகள் மற்றும் பெருந்தன்மைகளின் எண்ணிக்கையளவு அருள்வாயாக.",
+        "ml": "അല്ലാഹുവേ, പ്രകാശങ്ങളുടെ പ്രകാശവും രഹസ്യങ്ങളുടെ രഹസ്യവും ദുരിതത്തിനുള്ള മറുമരുന്നും എളുപ്പത്തിന്റെ വാതിലിന്റെ താക്കോലുമായ, തിരഞ്ഞെടുക്കപ്പെട്ട ഞങ്ങളുടെ നേതാവ് മുഹമ്മദിന് അനുഗ്രഹം ചൊരിയണമേ. അദ്ദേഹത്തിന്റെ പരിശുദ്ധ കുടുംബത്തിനും ഉത്തമ സഹചാരികൾക്കും അല്ലാഹുവിന്റെ അനുഗ്രഹങ്ങളുടെയും ഔദാര്യങ്ങളുടെയും എണ്ണത്തിന് തുല്യമായി അനുഗ്രഹം നൽകണമേ.",
+        "ar": "اللهم صل على نور الأنوار، وسر الأسرار، وترياق الأغيار، ومفتاح باب اليسار، سيدنا محمد المختار، وآله الأطهار، وأصحابه الأخيار، عدد نعم الله وإفضاله.",
+        "ur": "اے اللہ! نوروں کے نور، رازوں کے راز، پریشانی کا تریاق اور آسانی کے دروازے کی کنجی، ہمارے آقا اور برگزیدہ محمد ﷺ پر درود نازل فرما؛ ان کے پاکیزہ اہلِ بیت اور نیک صحابہ پر بھی، اللہ کی نعمتوں اور احسانات کی تعداد کے برابر۔",
+        "fr": "Ô Allah, accorde Tes bénédictions à la Lumière des lumières, au Secret des secrets, à l’antidote aux détresses et à la clé de la porte de l’aisance, notre maître Muhammad l’Élu, ainsi qu’à sa famille pure et à ses compagnons vertueux, autant que les bienfaits et les faveurs d’Allah.",
+        "tr": "Allah'ım, nurların nuru, sırların sırrı, sıkıntıların panzehiri ve kolaylık kapısının anahtarı olan seçilmiş efendimiz Muhammed'e salât eyle. Onun tertemiz ailesine ve hayırlı ashabına da Allah'ın nimetleri ve lütufları sayısınca salât eyle.",
+        "id": "Ya Allah, limpahkanlah salawat kepada cahaya segala cahaya, rahasia segala rahasia, penawar kesusahan, dan kunci pintu kemudahan, junjungan kami Muhammad yang terpilih; juga kepada keluarga beliau yang suci dan para sahabatnya yang baik, sebanyak nikmat dan karunia Allah.",
+        "bn": "হে আল্লাহ, আলোর আলো, রহস্যের রহস্য, দুঃখের প্রতিষেধক এবং স্বস্তির দরজার চাবি—আমাদের নির্বাচিত নেতা মুহাম্মদের প্রতি দরূদ বর্ষণ করো; তাঁর পবিত্র পরিবার ও সৎ সাহাবিদের প্রতিও আল্লাহর অনুগ্রহ ও দানের সংখ্যার সমান দরূদ বর্ষণ করো।",
+        "ms": "Ya Allah, limpahkanlah selawat kepada cahaya segala cahaya, rahsia segala rahsia, penawar kesusahan dan kunci pintu kemudahan, junjungan kami Muhammad yang terpilih; juga kepada keluarga baginda yang suci dan para sahabatnya yang baik, sebanyak nikmat dan kurniaan Allah."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "sal-9",
+      "category_id": "salawat",
+      "subcategory_id": null,
+      "order": 6,
+      "title": {
+        "en": "Salawat al-In'am (The Prayer of Divine Favors)",
+        "ta": "ஸலவாத்துல் இன்ஆம் (இறை அருட்கொடைகளுக்கான ஸலவாத்)",
+        "ml": "സ്വലാത്തുൽ ഇൻആം (ദൈവിക അനുഗ്രഹങ്ങളുടെ സ്വലാത്ത്)",
+        "ar": "صلاة الإنعام",
+        "ur": "صلوٰۃ الانعام (الٰہی انعامات کی دعا)",
+        "fr": "Salawat al-In'am (La prière des faveurs divines)",
+        "tr": "Salavatü'l-İn'am (İlahi Lütuflar Salavatı)",
+        "id": "Salawat al-In'am (Doa Karunia Ilahi)",
+        "bn": "সালাওয়াত আল-ইনআম (ঐশী অনুগ্রহের দোয়া)",
+        "ms": "Selawat al-In'am (Doa Kurniaan Ilahi)"
+      },
+      "arabic": "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ، عَدَدَ نَعَمَاءِ اللَّهِ وَإِفْضَالِهِ، صَلَاةً تَفْتَحُ لَنَا بِهَا أَبْوَابَ الخَيْرِ وَالتَّيْسِيرِ، وَتُغْلِقُ بِهَا عَنَّا أَبْوَابَ الشَّرِّ وَالتَّعْسِيرِ، وَتَكُونُ لَنَا بِهَا وَلِيًّا وَنَصِيرًا.",
+      "transliteration": "Allahumma salli wa sallim wa barik 'ala sayyidina Muhammadin wa 'ala alihi wa sahbihi, 'adada na'ama'illahi wa ifdalih, salatan taftahu lana biha abwabal-khayri wat-taysir, wa tughliqu biha 'anna abwabas-sharri wat-ta'sir, wa takunu lana biha waliyyan wa nasira.",
+      "translation": {
+        "en": "O Allah, send blessings, peace, and grace upon our Master Muhammad and his family and companions, as many times as the favors of Allah and His bounties; a prayer through which You open for us the doors of goodness and ease, close against us the doors of evil and hardship, and become for us a Protector and Helper.",
+        "ta": "அல்லாஹ்வே! எங்கள் தலைவரான முஹம்மது, அவருடைய குடும்பத்தார் மற்றும் தோழர்கள் மீது, அல்லாஹ்வின் அருட்கொடைகளும் அவனது பெருந்தன்மைகளும் எத்தனை உள்ளனவோ அத்தனை முறை அருளையும் ஸலாமையும் பரக்கத்தையும் வழங்குவாயாக. அதன் மூலம் நன்மை மற்றும் இலகுவின் கதவுகளை எங்களுக்குத் திறந்து, தீமை மற்றும் சிரமத்தின் கதவுகளை எங்களிடமிருந்து மூடி, எங்களுக்கு பாதுகாவலனாகவும் உதவியாளனாகவும் இருப்பாயாக.",
+        "ml": "അല്ലാഹുവേ, ഞങ്ങളുടെ നേതാവ് മുഹമ്മദിനും അദ്ദേഹത്തിന്റെ കുടുംബത്തിനും സഹചാരികൾക്കും അല്ലാഹുവിന്റെ അനുഗ്രഹങ്ങളുടെയും ഔദാര്യങ്ങളുടെയും എണ്ണത്തിന് തുല്യമായി അനുഗ്രഹവും സമാധാനവും ബറകത്തും നൽകണമേ. അതിലൂടെ നന്മയുടെയും എളുപ്പത്തിന്റെയും വാതിലുകൾ ഞങ്ങൾക്കായി തുറക്കുകയും തിന്മയുടെയും പ്രയാസത്തിന്റെയും വാതിലുകൾ അടയ്ക്കുകയും ഞങ്ങൾക്ക് സംരക്ഷകനും സഹായിയുമായിരിക്കണമേ.",
+        "ar": "اللهم صل وسلم وبارك على سيدنا محمد وعلى آله وصحبه، عدد نعماء الله وإفضاله، صلاة تفتح لنا بها أبواب الخير والتيسير، وتغلق بها عنا أبواب الشر والتعسير، وتكون لنا بها وليا ونصيرا.",
+        "ur": "اے اللہ! ہمارے آقا محمد ﷺ، ان کے اہلِ بیت اور صحابہ پر اللہ کی نعمتوں اور اس کے احسانات کی تعداد کے برابر رحمت، سلامتی اور برکت نازل فرما۔ ایسا درود جس کے ذریعے تو ہمارے لیے بھلائی اور آسانی کے دروازے کھولے، برائی اور دشواری کے دروازے بند کرے، اور ہمارا محافظ و مددگار ہو۔",
+        "fr": "Ô Allah, accorde bénédictions, paix et grâce à notre maître Muhammad, à sa famille et à ses compagnons, autant que les bienfaits et les faveurs d’Allah. Que cette prière nous ouvre les portes du bien et de la facilité, ferme celles du mal et de la difficulté, et fasse de Toi notre Protecteur et notre Secours.",
+        "tr": "Allah'ım, efendimiz Muhammed'e, ailesine ve ashabına Allah'ın nimetleri ve lütufları sayısınca salât, selâm ve bereket eyle. Bu salâtla bize hayır ve kolaylık kapılarını aç, kötülük ve zorluk kapılarını kapat; bizim koruyucumuz ve yardımcımız ol.",
+        "id": "Ya Allah, limpahkanlah salawat, salam, dan keberkahan kepada junjungan kami Muhammad, keluarga, serta para sahabatnya sebanyak nikmat dan karunia Allah. Jadikan salawat ini sebab terbukanya pintu kebaikan dan kemudahan bagi kami, tertutupnya pintu keburukan dan kesulitan, serta jadilah Pelindung dan Penolong kami.",
+        "bn": "হে আল্লাহ, আমাদের নেতা মুহাম্মদ, তাঁর পরিবার ও সাহাবিদের প্রতি আল্লাহর নিয়ামত ও অনুগ্রহের সংখ্যার সমান দরূদ, সালাম ও বরকত বর্ষণ করো। এই দরূদের মাধ্যমে আমাদের জন্য কল্যাণ ও সহজতার দরজা খুলে দাও, অকল্যাণ ও কষ্টের দরজা বন্ধ করো এবং আমাদের অভিভাবক ও সাহায্যকারী হও।",
+        "ms": "Ya Allah, limpahkanlah selawat, salam dan keberkatan kepada junjungan kami Muhammad, keluarga dan para sahabatnya sebanyak nikmat dan kurniaan Allah. Jadikanlah selawat ini sebab terbukanya pintu kebaikan dan kemudahan bagi kami, tertutupnya pintu keburukan dan kesukaran, serta jadilah Pelindung dan Penolong kami."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "sal-10",
+      "category_id": "salawat",
+      "subcategory_id": null,
+      "order": 7,
+      "title": {
+        "en": "Salawat al-Uliya / al-Kamaliyyah (The Supreme Perfection Prayer)",
+        "ta": "ஸலவாத்துல் உலியா / கமாலிய்யா (முழுமையின் உயரிய ஸலவாத்)",
+        "ml": "സ്വലാത്തുൽ ഉലിയ്യ / കമാലിയ്യ (പരിപൂർണ്ണതയുടെ സ്വലാത്ത്)",
+        "ar": "صلاة العلية / الكمالية",
+        "ur": "صلوٰۃ العلیہ / الکمالیہ (کمال کی اعلیٰ دعا)",
+        "fr": "Salawat al-Uliya / al-Kamaliyyah (La prière de la perfection suprême)",
+        "tr": "Salavatü'l-Uliyye / Kemaliyye (Yüce Kemal Salavatı)",
+        "id": "Salawat al-Uliya / al-Kamaliyyah (Doa Kesempurnaan Tertinggi)",
+        "bn": "সালাওয়াত আল-উলিয়া / আল-কামালিয়্যাহ (সর্বোচ্চ পরিপূর্ণতার দোয়া)",
+        "ms": "Selawat al-Uliya / al-Kamaliyyah (Doa Kesempurnaan Tertinggi)"
+      },
+      "arabic": "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ، عَدَدَ كَمَالِ اللَّهِ وَكَمَا يَلِيقُ بِكَمَالِهِ، صَلَاةً دَائِمَةً مُسْتَمِرَّةً بِدَوَامِ المُلْكِ وَالـمَلَكُوتِ، وَبَقَاءِ العِزَّةِ وَالعَظَمَةِ وَالجَبَرُوتِ.",
+      "transliteration": "Allahumma salli wa sallim wa barik 'ala sayyidina Muhammadin wa 'ala alihi wa sahbihi, 'adada kamalillahi wa kama yaliqu bikamalih, salatan da'imatan mustamirratan bidawamil-mulki wal-malakut, wa baqa'il-'izzati wal-'azamati wal-jabarut.",
+      "translation": {
+        "en": "O Allah, send blessings, peace, and grace upon our Master Muhammad and his family and companions, to the extent of Allah's perfection and as befits His perfection; a continuous and everlasting prayer enduring with the perpetuity of the Kingdom and the Sovereignty, and the permanence of Might, Greatness, and Power.",
+        "ta": "அல்லாஹ்வே! எங்கள் தலைவரான முஹம்மது, அவருடைய குடும்பத்தார் மற்றும் தோழர்கள் மீது, அல்லாஹ்வின் முழுமைக்கு ஏற்ற அளவிலும் அவனது முழுமைக்குப் பொருத்தமான வகையிலும் அருளையும் ஸலாமையும் பரக்கத்தையும் வழங்குவாயாக. ஆட்சி மற்றும் பேராட்சியின் நிலைத்தன்மையோடும், வலிமை, மகத்துவம் மற்றும் பேராற்றலின் தொடர்ச்சியோடும் நிலைத்திருக்கும் நிரந்தரமான ஸலவாத்தாக இது இருக்கட்டும்.",
+        "ml": "അല്ലാഹുവേ, ഞങ്ങളുടെ നേതാവ് മുഹമ്മദിനും അദ്ദേഹത്തിന്റെ കുടുംബത്തിനും സഹചാരികൾക്കും അല്ലാഹുവിന്റെ പൂർണ്ണതയുടെ അളവിലും ആ പൂർണ്ണതയ്ക്ക് യോജിച്ച രീതിയിലും അനുഗ്രഹവും സമാധാനവും ബറകത്തും നൽകണമേ. രാജ്യത്തിന്റെയും ആധിപത്യത്തിന്റെയും നിലനിൽപ്പിനോടും മഹത്വം, പ്രതാപം, ശക്തി എന്നിവയുടെ ശാശ്വതതയോടും കൂടെ തുടർന്നുനിൽക്കുന്ന അനുഗ്രഹമായിരിക്കട്ടെ അത്.",
+        "ar": "اللهم صل وسلم وبارك على سيدنا محمد وعلى آله وصحبه، عدد كمال الله وكما يليق بكماله، صلاة دائمة مستمرة بدوام الملك والملكوت، وبقاء العزة والعظمة والجبروت.",
+        "ur": "اے اللہ! ہمارے آقا محمد ﷺ، ان کے اہلِ بیت اور صحابہ پر اللہ کے کمال کی مقدار اور اس کے کمال کے شایانِ شان رحمت، سلامتی اور برکت نازل فرما۔ ایسا دائمی اور مسلسل درود جو بادشاہی و ملکوت کے دوام اور عزت، عظمت اور جلال کے باقی رہنے تک جاری رہے۔",
+        "fr": "Ô Allah, accorde bénédictions, paix et grâce à notre maître Muhammad, à sa famille et à ses compagnons, à la mesure de la perfection d’Allah et comme il convient à cette perfection. Que cette prière soit permanente et continue, aussi durable que le Royaume et la Souveraineté, et que subsistent la puissance, la grandeur et la majesté.",
+        "tr": "Allah'ım, efendimiz Muhammed'e, ailesine ve ashabına Allah'ın kemali ölçüsünde ve O'nun kemaline yaraşır şekilde salât, selâm ve bereket eyle. Mülk ve melekûtun devamlılığı, izzet, azamet ve kudretin bekası sürdükçe devam eden kalıcı ve kesintisiz bir salât olsun.",
+        "id": "Ya Allah, limpahkanlah salawat, salam, dan keberkahan kepada junjungan kami Muhammad, keluarga, serta para sahabatnya, sebanyak kesempurnaan Allah dan sebagaimana yang layak bagi kesempurnaan-Nya. Jadikan salawat yang terus-menerus dan abadi, seiring kekekalan kerajaan dan kekuasaan serta keberlangsungan kemuliaan, keagungan, dan kekuatan.",
+        "bn": "হে আল্লাহ, আমাদের নেতা মুহাম্মদ, তাঁর পরিবার ও সাহাবিদের প্রতি আল্লাহর পরিপূর্ণতার পরিমাণে এবং তাঁর পরিপূর্ণতার উপযোগী দরূদ, সালাম ও বরকত বর্ষণ করো। রাজত্ব ও কর্তৃত্বের স্থায়িত্ব এবং মর্যাদা, মহত্ত্ব ও শক্তির অবশিষ্টতার সঙ্গে অবিরাম ও চিরস্থায়ী দরূদ হোক।",
+        "ms": "Ya Allah, limpahkanlah selawat, salam dan keberkatan kepada junjungan kami Muhammad, keluarga serta para sahabatnya, sebanyak kesempurnaan Allah dan sebagaimana yang layak bagi kesempurnaan-Nya. Jadikanlah selawat yang berterusan dan kekal, seiring kekalnya kerajaan dan kekuasaan serta berterusannya kemuliaan, keagungan dan kekuatan."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "sal-1",
+      "category_id": "salawat",
+      "subcategory_id": null,
+      "order": 8,
+      "title": {
+        "en": "Salawat al-Ibrahimiyyah (The Grand Prophetic Prayer)",
+        "ta": "ஸலவாத்துல் இப்ராஹீமிய்யா (தஷஹ்ஹுதில் ஓதும் ஸலவாத்)",
+        "ml": "സ്വലാത്തുൽ ഇബ്രാഹീമിയ്യ (തശഹ്ഹുദിൽ ചൊല്ലുന്ന സ്വലാത്ത്)",
+        "ar": "الصلاة الإبراهيمية",
+        "ur": "صلوٰۃِ ابراہیمیہ (تشہد کی درود)",
+        "fr": "Salawat al-Ibrahimiyyah (La grande prière prophétique)",
+        "tr": "Salavatü'l-İbrahimiyye (Tahiyyatta Okunan Salavat)",
+        "id": "Salawat al-Ibrahimiyyah (Doa dalam Tasyahud)",
+        "bn": "সালাওয়াত আল-ইবরাহিমিয়্যাহ (তাশাহহুদের দরূদ)",
+        "ms": "Selawat al-Ibrahimiyyah (Doa dalam Tasyahhud)"
+      },
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ. اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translation": {
+        "en": "O Allah, send blessings upon Muhammad and upon the family of Muhammad, as You sent blessings upon Ibrahim and upon the family of Ibrahim; indeed, You are Praiseworthy and Glorious. O Allah, bless Muhammad and the family of Muhammad, as You blessed Ibrahim and the family of Ibrahim; indeed, You are Praiseworthy and Glorious.",
+        "ta": "அல்லாஹ்வே! இப்ராஹீம் மீதும் இப்ராஹீமின் குடும்பத்தார் மீதும் நீர் அருள் செய்தது போல், முஹம்மது மீதும் முஹம்மதின் குடும்பத்தார் மீதும் அருள்வாயாக. நிச்சயமாக நீர் புகழுக்குரியவனும் மகத்துவமிக்கவனும் ஆவாய். அல்லாஹ்வே! இப்ராஹீம் மற்றும் அவரது குடும்பத்தாருக்கு நீர் பரக்கத் வழங்கியது போல், முஹம்மது மற்றும் அவரது குடும்பத்தாருக்கும் பரக்கத் வழங்குவாயாக. நிச்சயமாக நீர் புகழுக்குரியவனும் மகத்துவமிக்கவனும் ஆவாய்.",
+        "ml": "അല്ലാഹുവേ, ഇബ്രാഹീമിനും ഇബ്രാഹീമിന്റെ കുടുംബത്തിനും നീ അനുഗ്രഹം നൽകിയതുപോലെ മുഹമ്മദിനും മുഹമ്മദിന്റെ കുടുംബത്തിനും അനുഗ്രഹം നൽകണമേ. തീർച്ചയായും നീ സ്തുത്യർഹനും മഹത്വമുള്ളവനുമാകുന്നു. അല്ലാഹുവേ, ഇബ്രാഹീമിനും അദ്ദേഹത്തിന്റെ കുടുംബത്തിനും നീ ബറകത്ത് നൽകിയതുപോലെ മുഹമ്മദിനും അദ്ദേഹത്തിന്റെ കുടുംബത്തിനും ബറകത്ത് നൽകണമേ. തീർച്ചയായും നീ സ്തുത്യർഹനും മഹത്വമുള്ളവനുമാകുന്നു.",
+        "ar": "اللهم صل على محمد وعلى آل محمد، كما صليت على إبراهيم وعلى آل إبراهيم، إنك حميد مجيد. اللهم بارك على محمد وعلى آل محمد، كما باركت على إبراهيم وعلى آل إبراهيم، إنك حميد مجيد.",
+        "ur": "اے اللہ! محمد ﷺ اور آلِ محمد پر رحمت نازل فرما، جیسے تو نے ابراہیم اور آلِ ابراہیم پر رحمت نازل فرمائی؛ بے شک تو قابلِ حمد اور بزرگی والا ہے۔ اے اللہ! محمد ﷺ اور آلِ محمد پر برکت نازل فرما، جیسے تو نے ابراہیم اور آلِ ابراہیم پر برکت نازل فرمائی؛ بے شک تو قابلِ حمد اور بزرگی والا ہے۔",
+        "fr": "Ô Allah, accorde Tes bénédictions à Muhammad et à la famille de Muhammad, comme Tu les as accordées à Ibrahim et à la famille d’Ibrahim ; Tu es certes Digne de louange et Glorieux. Ô Allah, bénis Muhammad et la famille de Muhammad, comme Tu as béni Ibrahim et la famille d’Ibrahim ; Tu es certes Digne de louange et Glorieux.",
+        "tr": "Allah'ım, İbrahim'e ve İbrahim'in ailesine salât ettiğin gibi Muhammed'e ve Muhammed'in ailesine de salât eyle. Şüphesiz Sen Hamîd ve Mecîd'sin. Allah'ım, İbrahim'e ve İbrahim'in ailesine bereket verdiğin gibi Muhammed'e ve Muhammed'in ailesine de bereket ver. Şüphesiz Sen Hamîd ve Mecîd'ssin.",
+        "id": "Ya Allah, limpahkanlah salawat kepada Muhammad dan keluarga Muhammad sebagaimana Engkau melimpahkannya kepada Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah, berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau memberkahi Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
+        "bn": "হে আল্লাহ, ইবরাহিম ও তাঁর পরিবারের প্রতি যেমন দরূদ পাঠিয়েছ, তেমনি মুহাম্মদ ও তাঁর পরিবারের প্রতি দরূদ পাঠাও। নিশ্চয়ই তুমি প্রশংসিত ও মহিমান্বিত। হে আল্লাহ, ইবরাহিম ও তাঁর পরিবারকে যেমন বরকত দিয়েছ, তেমনি মুহাম্মদ ও তাঁর পরিবারকে বরকত দাও। নিশ্চয়ই তুমি প্রশংসিত ও মহিমান্বিত।",
+        "ms": "Ya Allah, limpahkanlah selawat kepada Muhammad dan keluarga Muhammad sebagaimana Engkau melimpahkannya kepada Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah, berkatilah Muhammad dan keluarga Muhammad sebagaimana Engkau memberkati Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia."
+      },
+      "reference": {
+        "source": "Bukhari",
+        "reference_text": "Bukhari 4/95"
+      },
+      "repetition_count": 1,
+      "transliteration": "Allahumma salli 'ala Muhammadin wa 'ala ali Muhammadin, kama sallayta 'ala Ibrahima wa 'ala ali Ibrahima, innaka Hamidun Majid. Allahumma barik 'ala Muhammadin wa 'ala ali Muhammadin, kama barakta 'ala Ibrahima wa 'ala ali Ibrahima, innaka Hamidun Majid."
+    },
+    {
+      "id": "sal-2",
+      "category_id": "salawat",
+      "subcategory_id": null,
+      "order": 9,
+      "title": {
+        "en": "Salawat Nariyyah",
+        "ar": "الصلاة النارية",
+        "ur": "صلوٰۃ ناریہ",
+        "fr": "Salawat Nariyyah",
+        "tr": "Nariyye Salavatı",
+        "id": "Shalawat Nariyyah",
+        "bn": "নারীয়া দরূদ",
+        "ms": "Selawat Nariyyah",
+        "ta": "நாரிய்யா ஸலவாத்",
+        "ml": "നാരിയ്യ സ്വലാത്ത്"
+      },
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ عَدَدَ مَا فِي عِلْمِ اللهِ، صَلَاةً دَائِمَةً بِدَوَامِ مُلْكِ اللهِ، وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ عَدَدَ مَا فِي عِلْمِ اللهِ، سَلَامًا دَائِمًا بِدَوَامِ مُلْكِ اللهِ",
+      "translation": {
+        "en": "O Allah, send blessings upon Muhammad as many times as is in the knowledge of Allah, blessings forever lasting as long as the dominion of Allah lasts. And send peace upon his family and companions as many times as is in the knowledge of Allah, peace forever lasting as long as the dominion of Allah lasts.",
+        "ar": "اللهم صل على محمد عدد ما في علم الله صلاة دائمة بدوام ملك الله، وعلى آله وصحبه وسلم عدد ما في علم الله سلاما دائما بدوام ملك الله",
+        "ur": "اے اللہ! محمد ﷺ پر اتنی رحمت نازل فرما جتنی اللہ کے علم میں ہے، ہمیشہ رہنے والی رحمت اللہ کی بادشاہت کے باقی رہنے تک۔ اور ان کی آل اور اصحاب پر اتنا سلام نازل فرما جتنی اللہ کے علم میں ہے، ہمیشہ رہنے والا سلام اللہ کی بادشاہت کے باقی رہنے تک۔",
+        "fr": "Ô Allah, envoie des bénédictions sur Muhammad autant de fois qu'il y a dans la connaissance d'Allah, des bénédictions permanentes aussi longtemps que dure la royauté d'Allah. Et envoie la paix sur sa famille et ses compagnons autant de fois qu'il y a dans la connaissance d'Allah, une paix permanente aussi longtemps que dure la royauté d'Allah.",
+        "tr": "Allah'ım! Muhammed'e Allah'ın ilminde bulunan sayı kadar rahmet et, Allah'ın mülkünün devamı kadar devam eden rahmet. Ve ailesine ve sahabelerine Allah'ın ilminde bulunan sayı kadar selam et, Allah'ın mülkünün devamı kadar devam eden selam.",
+        "id": "Ya Allah, limpahkanlah shalawat kepada Muhammad sebanyak yang ada dalam ilmu Allah, shalawat yang kekal selama kekekalan kerajaan Allah. Dan limpahkanlah salam kepada keluarga dan sahabatnya sebanyak yang ada dalam ilmu Allah, salam yang kekal selama kekekalan kerajaan Allah.",
+        "bn": "হে আল্লাহ, মুহাম্মদ ﷺ এর উপর আল্লাহর জ্ঞানে যত আছে তত দরূদ নাযিল করো, আল্লাহর রাজত্বের স্থায়িত্ব পর্যন্ত স্থায়ী দরূদ। এবং তাঁর পরিবার ও সাহাবীদের উপর আল্লাহর জ্ঞানে যত আছে তত সালাম নাযিল করো, আল্লাহর রাজত্বের স্থায়িত্ব পর্যন্ত স্থায়ী সালাম।",
+        "ms": "Ya Allah, limpahkanlah selawat kepada Muhammad sebanyak yang ada dalam ilmu Allah, selawat yang kekal selama kekekalan kerajaan Allah. Dan limpahkanlah salam kepada keluarga dan sahabatnya sebanyak yang ada dalam ilmu Allah, salam yang kekal selama kekekalan kerajaan Allah.",
+        "ta": "இறைவா! முஹம்மது (ஸல்) மீது அல்லாஹ்வின் அறிவில் உள்ள அளவு ஸலவாத் கூறுவாயாக, அல்லாஹ்வின் ஆளுகை நிலைக்கும் வரை நிலைக்கும் ஸலவாத். மற்றும் அவரது குடும்பத்தார் மற்றும் தோழர்கள் மீது அல்லாஹ்வின் அறிவில் உள்ள அளவு ஸலாம் கூறுவாயாக, அல்லாஹ்வின் ஆளுகை நிலைக்கும் வரை நிலைக்கும் ஸலாம்.",
+        "ml": "അല്ലാഹുവേ, മുഹമ്മദിന്റെ മേൽ അല്ലാഹുവിന്റെ അറിവിൽ ഉള്ളത്ര സ്വലാത്ത് ചൊല്ലണമേ, അല്ലാഹുവിന്റെ ആധിപത്യം നിലനിൽക്കുന്നിടത്തോളം നിലനിൽക്കുന്ന സ്വലാത്ത്. അവന്റെ കുടുംബത്തിന്റെയും സഹചരന്മാരുടെയും മേൽ അല്ലാഹുവിന്റെ അറിവിൽ ഉള്ളത്ര സ്ലാം ചൊല്ലണമേ, അല്ലാഹുവിന്റെ ആധിപത്യം നിലനിൽക്കുന്നിടത്തോളം നിലനിൽക്കുന്ന സ്ലാം."
+      },
+      "reference": {
+        "source": "Traditional",
+        "reference_text": "Traditional"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "sal-4",
+      "category_id": "salawat",
+      "subcategory_id": null,
+      "order": 10,
+      "title": {
+        "en": "Simple Salawat",
+        "ar": "الصلاة البسيطة",
+        "ur": "سادہ درود",
+        "fr": "Salawat Simple",
+        "tr": "Basit Salavat",
+        "id": "Shalawat Sederhana",
+        "bn": "সাধারণ দরূদ",
+        "ms": "Selawat Mudah",
+        "ta": "எளிய ஸலவாத்",
+        "ml": "ലളിതമായ സ്വലാത്ത്"
+      },
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ",
+      "translation": {
+        "en": "O Allah, send blessings upon Muhammad and upon the family of Muhammad.",
+        "ar": "اللهم صل على محمد وعلى آل محمد",
+        "ur": "اے اللہ! محمد ﷺ پر اور آلِ محمد پر رحمت نازل فرما۔",
+        "fr": "Ô Allah, envoie des bénédictions sur Muhammad et sur la famille de Muhammad.",
+        "tr": "Allah'ım! Muhammed'e ve Muhammed'in ailesine rahmet et.",
+        "id": "Ya Allah, limpahkanlah shalawat kepada Muhammad dan keluarga Muhammad.",
+        "bn": "হে আল্লাহ, মুহাম্মদ ﷺ এবং আলِ মুহাম্মদের উপর রহমত নাযিল করো।",
+        "ms": "Ya Allah, limpahkanlah selawat kepada Muhammad dan keluarga Muhammad.",
+        "ta": "இறைவா! முஹம்மது (ஸல்) மீதும் அவரது குடும்பத்தார் மீதும் ஸலவாத் கூறுவாயாக.",
+        "ml": "അല്ലാഹുവേ, മുഹമ്മദിന്റെയും മുഹമ്മദിന്റെ കുടുംബത്തിന്റെയും മേൽ സ്വലാത്ത് ചൊല്ലണമേ."
+      },
+      "reference": {
+        "source": "Bukhari",
+        "reference_text": "Bukhari"
+      },
+      "repetition_count": 10
+    }
+  ]
+}

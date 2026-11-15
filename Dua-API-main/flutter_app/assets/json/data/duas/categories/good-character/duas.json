@@ -1,0 +1,93 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "good-character",
+  "count": 2,
+  "duas": [
+    {
+      "id": "gc-1",
+      "category_id": "good-character",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Dua for Good Character",
+        "ar": "دعاء حسن الخلق",
+        "ur": "اچھے اخلاق کی دعا",
+        "fr": "Doua pour un Bon Caractère",
+        "tr": "Güzel Ahlak Duası",
+        "id": "Doa Akhlak Mulia",
+        "bn": "সুন্দর চরিত্রের দোয়া",
+        "ms": "Doa Akhlak Mulia",
+        "ta": "நல்ல ஒழுக்கத்திற்கான துஆ",
+        "ml": "സദ്സ്വഭാവത്തിനുള്ള ദുആ"
+      },
+      "arabic": "اللَّهُمَّ اهْدِنِي لأَحْسَنِ الأَخْلاَقِ لاَ يَهْدِي لأَحْسَنِهَا إِلاَّ أَنْتَ، وَاصْرِفْ عَنِّي سَيِّئَهَا لاَ يَصْرِفُ عَنِّي سَيِّئَهَا إِلاَّ أَنْتَ",
+      "translation": {
+        "en": "O Allah, guide me to the best of character, none can guide to it except You. And turn away from me evil character, none can turn it away from me except You.",
+        "ar": "اللهم اهدني لأحسن الأخلاق لا يهدي لأحسنها إلا أنت، واصرف عني سيئها لا يصرف عني سيئها إلا أنت",
+        "ur": "اے اللہ! مجھے بہترین اخلاق کی ہدایت دے، تیرے سوا کوئی بہترین اخلاق کی ہدایت نہیں دے سکتا، اور مجھ سے برے اخلاق دور فرما، تیرے سوا کوئی برے اخلاق دور نہیں کر سکتا۔",
+        "fr": "Ô Allah, guide-moi vers le meilleur des caractères, nul ne peut y guider sauf Toi. Et éloigne de moi le mauvais caractère, nul ne peut l'éloigner de moi sauf Toi.",
+        "tr": "Allah'ım! Beni en güzel ahlaka hidayet et, ona Senden başka hidayet eden yoktur. Kötü ahlaktan beni uzak tut, ondan beni uzak tutan Senden başka yoktur.",
+        "id": "Ya Allah, tunjukilah aku kepada akhlak yang terbaik, tiada yang dapat menunjukinya kecuali Engkau. Dan palingkanlah dariku akhlak yang buruk, tiada yang dapat memalingkannya dariku kecuali Engkau.",
+        "bn": "হে আল্লাহ, আমাকে সর্বোত্তম চরিত্রের পথ দেখাও, তোমার বাতীত কেউ তা দেখাতে পারে না, এবং আমার কাছ থেকে খারাপ চরিত্র দূর করো, তোমার বাতীত কেউ তা দূর করতে পারে না।",
+        "ms": "Ya Allah, tunjukilah aku kepada akhlak yang terbaik, tiada yang dapat menunjukinya kecuali Engkau. Dan palingkanlah dariku akhlak yang buruk, tiada yang dapat memalingkannya dariku kecuali Engkau.",
+        "ta": "இறைவா! சிறந்த ஒழுக்கத்திற்கு எனக்கு நெறி காட்டுவாயாக, உம்மைத் தவிர வேறு யாரும் அதற்கு நெறிகாட்ட இயலாது, மேலும் கெட்ட ஒழுக்கத்தை என்னிடமிருந்து திருப்புவாயாக, உம்மைத் தவிர வேறு யாரும் அதை என்னிடமிருந்து திருப்ப இயலாது.",
+        "ml": "അല്ലാഹുവേ, ഉത്തമമായ സ്വഭാവത്തിലേക്ക് എന്നെ നയിക്കണമേ, അതിലേക്ക് നയിക്കാൻ നിന്നല്ലാതെ ആർക്കും കഴിയില്ല, മോശമായ സ്വഭാവം എന്നിൽനിന്ന് തിരിച്ചുകളയണമേ, അത് എന്നിൽനിന്ന് തിരിച്ചുകളയാൻ നിന്നല്ലാതെ ആർക്കും കഴിയില്ല."
+      },
+      "reference": {
+        "source": "Muslim",
+        "reference_text": "Muslim 1/534"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "d103-43",
+      "category_id": "good-character",
+      "subcategory_id": null,
+      "order": 43,
+      "title": {
+        "en": "Dua for Relief from Pain",
+        "ar": "دعاء لتخفيف الألم",
+        "ur": "درد سے نجات کی دعا",
+        "fr": "Invocation pour soulager la douleur",
+        "tr": "Ağrıyı hafifletmek için dua",
+        "id": "Doa untuk meredakan rasa sakit",
+        "bn": "ব্যথা উপশমের দোয়া",
+        "ms": "Doa untuk melegakan kesakitan",
+        "ta": "வலியிலிருந்து நிவாரணம் பெறுவதற்கான துஆ",
+        "ml": "വേദനയിൽ നിന്ന് ആശ്വാസം ലഭിക്കാനുള്ള ദുആ"
+      },
+      "arabic": "بِسْمِ اللَّهِ وَ بِاللَّهِ وَ مُحَمَّدٌ رَسُوْلُ اللَّهِ صَلَّي اللهُ عَلَيْهِ وَ آلِهٖ وَ سَلَّمَ وَ لَا حَوْلَ وَ لَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيْمِ اَللّٰهُمَّ امْسَحْ عَنِّيْ مَا أَجِدُ",
+      "transliteration": "bismil laahe wa bil laahe wa mohammadun rasoolul laahe (s.a.w.a.) wa laa hawla wa laa quwwata illaa billaahil a'liyyil a'zeeme allaahummam sah a'nnee maa ajedo.",
+      "translation": {
+        "en": "I begin by relying on the name and reality of Allah and Mohammad (s.a.w.a.) The Prophet of God. Except Allah no one possesses power might. O Allah! Alleviate the pain I am suffering from.",
+        "ar": "أبدأ مستعينًا باسم الله وذاته، وبمحمد (صلى الله عليه وآله وسلم)، نبي الله. لا حول ولا قوة إلا بالله. اللهم أزل عني ما أجده من ألم.",
+        "ur": "میں اللہ کے نام اور ذات پر بھروسا کرتے ہوئے، اور اللہ کے نبی محمد (صلی اللہ علیہ وآلہ وسلم) کے وسیلے سے آغاز کرتا ہوں۔ اللہ کے سوا کسی میں نہ طاقت ہے نہ قوت۔ اے اللہ! مجھ سے وہ تکلیف دور فرما جس میں مبتلا ہوں۔",
+        "fr": "Je commence en m’en remettant au nom et à l’essence d’Allah, ainsi qu’à Mohammad (s.a.w.a.), le Prophète de Dieu. Il n’y a de force ni de puissance qu’en Allah. Ô Allah ! Soulage la douleur que j’éprouve.",
+        "tr": "Allah’ın adına ve zatına güvenerek, Allah’ın Peygamberi Muhammed’e (s.a.v.a.) dayanarak başlarım. Allah’tan başka güç ve kuvvet sahibi yoktur. Allah’ım! Çektiğim acıyı gider.",
+        "id": "Aku memulai dengan bersandar pada nama dan hakikat Allah serta Muhammad (s.a.w.a.), Nabi Allah. Tiada daya dan kekuatan kecuali dengan Allah. Ya Allah! Hilangkanlah rasa sakit yang sedang kualami.",
+        "bn": "আমি আল্লাহর নাম ও সত্তার ওপর ভরসা করে এবং আল্লাহর নবী মুহাম্মদের (সা.) ওপর ভরসা করে শুরু করছি। আল্লাহ ছাড়া কোনো শক্তি ও সামর্থ্য নেই। হে আল্লাহ! আমি যে কষ্ট অনুভব করছি, তা দূর করে দিন।",
+        "ms": "Aku memulakan dengan bersandar pada nama dan zat Allah serta Muhammad (s.a.w.a.), Nabi Allah. Tiada daya dan kekuatan melainkan dengan Allah. Ya Allah! Hilangkanlah kesakitan yang sedang aku alami.",
+        "ta": "அல்லாஹ்வின் பெயரையும் அவனது மெய்மையையும் சார்ந்து, அல்லாஹ்வின் நபி முஹம்மது (ஸல்) அவர்களைச் சார்ந்து நான் தொடங்குகிறேன். அல்லாஹ்வைத் தவிர வேறு யாருக்கும் வலிமையும் ஆற்றலும் இல்லை. அல்லாஹ்வே! நான் அனுபவிக்கும் வலியை நீக்குவாயாக.",
+        "ml": "അല്ലാഹുവിന്റെ നാമത്തിലും സത്തയിലും ആശ്രയിച്ചും അല്ലാഹുവിന്റെ പ്രവാചകനായ മുഹമ്മദ് (സ.അ.വ.) യിൽ ആശ്രയിച്ചും ഞാൻ ആരംഭിക്കുന്നു. അല്ലാഹുവല്ലാതെ ശക്തിയും കഴിവും ഉള്ളവനില്ല. അല്ലാഹുവേ! ഞാൻ അനുഭവിക്കുന്ന വേദന നീക്കണമേ."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 43\nDua for avoiding temptation & greed\nA another tradition related to the same Imam (a.s.) states\n\na person complained to him of being besieged with temptations and greed. The Imam (a.s.) ordered him to keep his hand on his heart and recite the following Dua:\n\nبِسْمِ اللَّهِ وَ بِاللَّهِ وَ مُحَمَّدٌ رَسُوْلُ اللَّهِ صَلَّي اللهُ عَلَيْهِ وَ آلِهٖ وَ سَلَّمَ وَ لَا حَوْلَ وَ لَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيْمِ اَللّٰهُمَّ امْسَحْ عَنِّيْ مَا أَجِدُ\n\nTransliteration:\nbismil laahe wa bil laahe wa mohammadun rasoolul laahe (s.a.w.a.) wa laa hawla wa laa quwwata illaa billaahil a’liyyil a’zeeme allaahummam sah a’nnee maa ajedo.\n\nTranslation:\nI begin by relying on the name and reality of Allah and Mohammad (s.a.w.a.) The Prophet of God. Except Allah no one possesses power might. O Allah! Alleviate the pain I am suffering from.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    }
+  ]
+}

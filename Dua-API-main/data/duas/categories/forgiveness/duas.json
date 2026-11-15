@@ -1,0 +1,129 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "forgiveness",
+  "count": 3,
+  "duas": [
+    {
+      "id": "frg-1",
+      "category_id": "forgiveness",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Seeking Forgiveness",
+        "ar": "طلب المغفرة",
+        "ur": "مغفرت کی درخواست",
+        "fr": "Demander le Pardon",
+        "tr": "Mağfiret İstemek",
+        "id": "Memohon Ampunan",
+        "bn": "ক্ষমা প্রার্থনা",
+        "ms": "Memohon Keampunan",
+        "ta": "மன்னிப்பு தேடுதல்",
+        "ml": "പാപമോചനം തേടുന്നു"
+      },
+      "arabic": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
+      "translation": {
+        "en": "My Lord, forgive me and accept my repentance. Indeed, You are the Accepting of Repentance, the Merciful.",
+        "ar": "رب اغفر لي وتب علي إنك أنت التواب الرحيم",
+        "ur": "اے میرے رب! مجھے بخش دے اور میری توبہ قبول فرما، بے شک تو بہت توبہ قبول کرنے والا، رحم کرنے والا ہے۔",
+        "fr": "Mon Seigneur, pardonne-moi et accepte mon repentir. Certes, Tu es Celui qui accepte le repentir, le Miséricordieux.",
+        "tr": "Rabbim! Beni bağışla ve tövbemi kabul et. Şüphesiz Sen tövbeleri çok kabul edensin, çok merhamet edensin.",
+        "id": "Tuhanku, ampunilah aku dan terimalah taubatku. Sesungguhnya Engkau Maha Penerima taubat, Maha Penyayang.",
+        "bn": "হে আমার রব, আমাকে ক্ষমা করো এবং আমার তাওবা কবুল করো। নিশ্চয়ই তুমি তাওবা কবুলকারী, দয়ালু।",
+        "ms": "Tuhanku, ampunilah aku dan terimalah taubatku. Sesungguhnya Engkau Maha Penerima taubat, Maha Penyayang.",
+        "ta": "என் இறைவா! என்னை மன்னித்து, என் பாவமன்னிப்பை ஏற்றுக்கொள்வாயாக. நிச்சயமாக நீரே பாவமன்னிப்பை ஏற்பவர், கருணையுள்ளவர்.",
+        "ml": "എന്റെ രക്ഷിതാവേ, എന്നെ പൊറുക്കുകയും എന്റെ പശ്ചാത്താപം സ്വീകരിക്കുകയും ചെയ്യണമേ. തീർച്ചയായും നീയാണ് പശ്ചാത്താപം സ്വീകരിക്കുന്നവൻ, കാരുണ്യവാനും."
+      },
+      "reference": {
+        "source": "Abu",
+        "reference_text": "Abu Dawud 2/85"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "frg-2",
+      "category_id": "forgiveness",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "Comprehensive Forgiveness Dua",
+        "ar": "دعاء المغفرة الشاملة",
+        "ur": "جامع مغفرت کی دعا",
+        "fr": "Doua Complet pour le Pardon",
+        "tr": "Kapsamlı Mağfiret Duası",
+        "id": "Doa Ampunan Lengkap",
+        "bn": "সামগ্রিক ক্ষমার দোয়া",
+        "ms": "Doa Keampunan Lengkap",
+        "ta": "விரிவான மன்னிப்பு துஆ",
+        "ml": "സമഗ്രമായ പാപമോചന ദുആ"
+      },
+      "arabic": "اللَّهُمَّ إِنَّكَ عَفُوٌّ كَرِيمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+      "translation": {
+        "en": "O Allah, You are the One who pardons, You are generous, You love to pardon, so pardon me.",
+        "ar": "اللهم إنك عفو كريم تحب العفو فاعف عني",
+        "ur": "اے اللہ! تو درگزر کرنے والا ہے، کریم ہے، درگزر کو پسند فرماتا ہے، پس مجھے بھی درگزر فرما۔",
+        "fr": "Ô Allah, Tu es Celui qui pardonne, Tu es Généreux, Tu aimes pardonner, alors pardonne-moi.",
+        "tr": "Allah'ım! Sen affedicisin, kerimsin, affetmeyi seversin, beni de affet.",
+        "id": "Ya Allah, sesungguhnya Engkau Maha Pemaaf, Maha Mulia, Engkau mencintai maaf, maka maafkanlah aku.",
+        "bn": "হে আল্লাহ, তুমি ক্ষমাশীল, মহিমাময়, তুমি ক্ষমা করতে ভালোবাসো, সুতরাং আমাকে ক্ষমা করো।",
+        "ms": "Ya Allah, sesungguhnya Engkau Maha Pemaaf, Maha Mulia, Engkau mencintai kemaafan, maka maafkanlah aku.",
+        "ta": "இறைவா! நீர் மன்னிப்பவர், கரீமானவர், மன்னிப்பை விரும்புபவர், எனவே என்னை மன்னிப்பாயாக.",
+        "ml": "അല്ലാഹുവേ, നീ പൊറുക്കുന്നവനാണ്, ഉദാരനാണ്, പൊറുക്കുന്നതിനെ സ്നേഹിക്കുന്നു, അതിനാൽ എന്നെ പൊറുക്കണമേ."
+      },
+      "reference": {
+        "source": "Tirmidhi",
+        "reference_text": "Tirmidhi 5/542"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "d103-33",
+      "category_id": "forgiveness",
+      "subcategory_id": null,
+      "order": 33,
+      "title": {
+        "en": "For seeking forgiveness of sins",
+        "ar": "لطلب مغفرة الذنوب",
+        "ur": "گناہوں کی مغفرت طلب کرنے کے لیے",
+        "fr": "Pour demander le pardon des péchés",
+        "tr": "Günahların bağışlanmasını dilemek için",
+        "id": "Untuk memohon ampunan atas dosa-dosa",
+        "bn": "গুনাহের ক্ষমা প্রার্থনার জন্য",
+        "ms": "Untuk memohon keampunan dosa",
+        "ta": "பாவ மன்னிப்புக் கோருவதற்காக",
+        "ml": "പാപമോചനം തേടാൻ"
+      },
+      "arabic": "رَبِّ إِنِّي ظَلَمْتُ نَفْسِيْ فَاغْفِرْ لِيْ اِنَّهٗ لَا يَغْفِرُ الذُّنُوْبَ اِلاَّ اَنْتَ.",
+      "transliteration": "Rabbe innee zalamto nafsee faghfir lee innahu laa yaghferuz zonooba illaa anta.",
+      "translation": {
+        "en": "O My Lord! Verily I have been unjust to myself So forgive me (for it) Indeed none pardons the sins except Thee.",
+        "ar": "يا ربِّ! لقد ظلمتُ نفسي، فاغفر لي، إنه لا يغفر الذنوب إلا أنت.",
+        "ur": "اے میرے رب! بے شک میں نے اپنے اوپر ظلم کیا ہے، پس مجھے معاف فرما دے۔ یقیناً تیرے سوا کوئی گناہوں کو معاف نہیں کرتا۔",
+        "fr": "Ô mon Seigneur ! J’ai vraiment été injuste envers moi-même. Pardonne-moi donc. En vérité, nul ne pardonne les péchés si ce n’est Toi.",
+        "tr": "Ey Rabbim! Gerçekten kendime zulmettim; beni bağışla. Şüphesiz günahları Senden başka bağışlayan yoktur.",
+        "id": "Wahai Tuhanku! Sungguh, aku telah menzalimi diriku sendiri, maka ampunilah aku. Sesungguhnya tidak ada yang mengampuni dosa-dosa selain Engkau.",
+        "bn": "হে আমার রব! নিশ্চয়ই আমি নিজের প্রতি জুলুম করেছি, তাই আমাকে ক্ষমা করুন। নিশ্চয়ই আপনি ছাড়া কেউ গুনাহ ক্ষমা করতে পারে না।",
+        "ms": "Wahai Tuhanku! Sesungguhnya aku telah menzalimi diriku sendiri, maka ampunilah aku. Sesungguhnya tiada yang mengampunkan dosa selain Engkau.",
+        "ta": "என் இறைவா! நிச்சயமாக நான் எனக்கே அநீதி இழைத்துவிட்டேன். ஆகவே, என்னை மன்னித்தருள்வாயாக. நிச்சயமாக உன்னைத் தவிர பாவங்களை மன்னிப்பவர் எவருமில்லை.",
+        "ml": "എന്റെ രക്ഷിതാവേ! തീർച്ചയായും ഞാൻ എന്നോട് തന്നെ അനീതി ചെയ്തിരിക്കുന്നു. അതിനാൽ എന്നോട് പൊറുക്കണമേ. തീർച്ചയായും നിന്നെയല്ലാതെ പാപങ്ങൾ പൊറുക്കുന്നവൻ ആരുമില്ല."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 33\nFor seeking forgiveness of sins\n(Dua in Sajdah)\nThe most beloved one of Allah is he who often makes prostration and therein recites the following Doas.\n\nرَبِّ إِنِّي ظَلَمْتُ نَفْسِيْ فَاغْفِرْ لِيْ اِنَّهٗ لَا يَغْفِرُ الذُّنُوْبَ اِلاَّ اَنْتَ.\n\nTransliteration:\nRabbe innee zalamto nafsee faghfir lee innahu laa yaghferuz zonooba illaa anta.\n\nTranslation:\nO My Lord! Verily I have been unjust to myself So forgive me (for it) Indeed none pardons the sins except Thee.",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    }
+  ]
+}

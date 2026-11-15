@@ -1,0 +1,93 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "nightmare",
+  "count": 2,
+  "duas": [
+    {
+      "id": "nm-1",
+      "category_id": "nightmare",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "When Seeing a Bad Dream",
+        "ar": "عند رؤية حلم سيئ",
+        "ur": "برا خواب دیکھنے پر",
+        "fr": "En Voyant un Mauvais Rêve",
+        "tr": "Kötü Rüya Görünce",
+        "id": "Saat Melihat Mimpi Buruk",
+        "bn": "খারাপ স্বপ্ন দেখলে",
+        "ms": "Apabila Melihat Mimpi Buruk",
+        "ta": "கெட்ட கனவு காணும்போது",
+        "ml": "മോശം സ്വപ്നം കാണുമ്പോൾ"
+      },
+      "arabic": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ غَضَبِهِ وَعِقَابِهِ وَشَرِّ عِبَادِهِ، وَمِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَنْ يَحْضُرُونِ",
+      "translation": {
+        "en": "I seek refuge in the perfect words of Allah from His anger, His punishment, the evil of His servants, from the whisperings of the devils and from their presence.",
+        "ar": "أعوذ بكلمات الله التامات من غضبه وعقابه وشر عباده، ومن همزات الشياطين وأن يحضرون",
+        "ur": "میں اللہ کے کامل کلمات کی پناہ مانگتا ہوں اس کے غضب سے، اس کے عذاب سے، اس کے بندوں کے شر سے، شیاطین کے وسوسوں سے اور ان کے حاضر ہونے سے۔",
+        "fr": "Je cherche refuge dans les paroles parfaites d'Allah contre Sa colère, Son châtiment, le mal de Ses serviteurs, les chuchotements des démons et leur présence.",
+        "tr": "Allah'ın mükemmel kelimelerine O'nun gazabından, azabından, kullarının şerrinden, şeytanların vesveselerinden ve onların hazır bulunmalarından sığınırım.",
+        "id": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari murka-Nya, siksa-Nya, kejahatan hamba-hamba-Nya, dari bisikan-bisikan setan dan kehadiran mereka.",
+        "bn": "আমি আল্লাহর পূর্ণাঙ্গ বাক্যসমূহে আশ্রয় চাই তাঁর ক্রোধ থেকে, তাঁর শাস্তি থেকে, তাঁর বান্দাদের অনিষ্ট থেকে, শয়তানদের কুচকি থেকে এবং তাদের উপস্থিতি থেকে।",
+        "ms": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari murka-Nya, siksa-Nya, kejahatan hamba-hamba-Nya, dari bisikan-bisikan syaitan dan kehadiran mereka.",
+        "ta": "அல்லாஹ்வின் முழுமையான வார்த்தைகளில் அவனது கோபத்திலிருந்தும், அவனது தண்டனையிலிருந்தும், அவனது அடிமைகளின் தீமையிலிருந்தும், ஷைத்தான்களின் சலசலப்புகளிலிருந்தும் மற்றும் அவர்களின் சமூகத்திலிருந்தும் நான் புகலளிக்கிறேன்.",
+        "ml": "അല്ലാഹുവിന്റെ പൂർണമായ വാക്കുകളിൽ അവന്റെ കോപത്തിൽനിന്നും അവന്റെ ശിക്ഷയിൽനിന്നും അവന്റെ ദാസന്മാരുടെ തിന്മയിൽനിന്നും പിശാചുക്കളുടെ മന്ത്രണങ്ങളിൽനിന്നും അവരുടെ സാന്നിധ്യത്തിൽനിന്നും ഞാൻ അഭയം തേടുന്നു."
+      },
+      "reference": {
+        "source": "Abu",
+        "reference_text": "Abu Dawud 4/123"
+      },
+      "repetition_count": 3
+    },
+    {
+      "id": "d103-44",
+      "category_id": "nightmare",
+      "subcategory_id": null,
+      "order": 44,
+      "title": {
+        "en": "Dua for avoiding bad dreams",
+        "ar": "دعاء لتجنّب الأحلام السيئة",
+        "ur": "برے خوابوں سے بچنے کی دعا",
+        "fr": "Invocation pour éviter les mauvais rêves",
+        "tr": "Kötü rüyalardan korunma duası",
+        "id": "Doa agar terhindar dari mimpi buruk",
+        "bn": "খারাপ স্বপ্ন থেকে বাঁচার দোয়া",
+        "ms": "Doa untuk mengelakkan mimpi buruk",
+        "ta": "கெட்ட கனவுகளைத் தவிர்ப்பதற்கான துஆ",
+        "ml": "ദുഃസ്വപ്നങ്ങൾ ഒഴിവാക്കാനുള്ള ദുആ"
+      },
+      "arabic": "فَضَرَبْنَا عَلٰى اٰذَانِهِمْ فِى الْكَهْفِ سِنِيْنَ عَدَدًا. ثُمَّ بَعَثْنَاهُمْ لِنَعْلَمَ اَىُّ الْحِزْبَيْنِ اَحْصٰى لِمَا لَبِثُوْآ اَمَدًا.",
+      "transliteration": "fa-zarabnaa a'laa aazaanehim fil kahfe seneena a'dadaa. summa ba-a'snaahum le-na'lama ayyul hizbayne ahsaa lemaa labesoo amadaa.",
+      "translation": {
+        "en": "Then we did set a seal on their ears for a number of years, then We raised them up that We might Know (i.e. ...show) which of the two parties reckoneth best the duration of their stay.[14]",
+        "ar": "ثم ضربنا على آذانهم سنينَ عددًا، ثم بعثناهم لنعلم (أي ... لنُظهر) أيُّ الفريقين أحصى مدةَ لبثهم.[14]",
+        "ur": "پھر ہم نے کئی سال تک ان کے کانوں پر پردہ ڈال دیا، پھر ہم نے انہیں اٹھایا تاکہ ہم جان لیں (یعنی ... دکھا دیں) کہ دونوں گروہوں میں سے کس نے ان کے ٹھہرنے کی مدت کا زیادہ درست اندازہ لگایا۔[14]",
+        "fr": "Puis Nous avons frappé leurs oreilles de surdité pendant un certain nombre d’années, puis Nous les avons réveillés afin de savoir (c’est-à-dire… de montrer) lequel des deux groupes avait le mieux calculé la durée de leur séjour.[14]",
+        "tr": "Bunun üzerine onların kulaklarına yıllarca perde çektik; sonra, iki gruptan hangisinin kaldıkları süreyi daha iyi hesapladığını bilelim (yani ... gösterelim) diye onları uyandırdık.[14]",
+        "id": "Kemudian Kami menutup pendengaran mereka selama beberapa tahun, lalu Kami membangunkan mereka agar Kami mengetahui (yakni ... menunjukkan) kelompok manakah di antara kedua kelompok itu yang lebih tepat menghitung lamanya mereka tinggal.[14]",
+        "bn": "তারপর আমরা কয়েক বছর তাদের কানে আবরণ দিয়ে রাখলাম; এরপর তাদের জাগিয়ে তুললাম, যাতে আমরা জানতে পারি (অর্থাৎ ... দেখাতে পারি), দুই দলের মধ্যে কে তাদের অবস্থানের সময়কাল সবচেয়ে ভালোভাবে হিসাব করেছে।[14]",
+        "ms": "Kemudian Kami menutup pendengaran mereka selama beberapa tahun, lalu Kami membangunkan mereka agar Kami mengetahui (iaitu ... menunjukkan) kumpulan manakah antara kedua-dua kumpulan itu yang lebih tepat mengira tempoh mereka tinggal.[14]",
+        "ta": "பின்னர் பல ஆண்டுகள் அவர்களின் காதுகளில் நாம் திரைபோட்டோம்; அதன் பிறகு, இரு குழுக்களில் எது அவர்கள் தங்கியிருந்த காலத்தைச் சரியாகக் கணித்தது என்பதை நாம் அறிந்துகொள்ள (அதாவது ... காட்ட), அவர்களை எழுப்பினோம்.[14]",
+        "ml": "പിന്നീട് ഏതാനും വർഷക്കാലം അവരുടെ ചെവികൾക്ക് നാം മറയിട്ടു; തുടർന്ന്, രണ്ടു വിഭാഗങ്ങളിൽ ഏതാണ് അവർ താമസിച്ച കാലയളവ് കൂടുതൽ കൃത്യമായി കണക്കാക്കിയതെന്ന് നാം അറിയാൻ (അതായത് ... കാണിച്ചുകൊടുക്കാൻ) അവരെ ഉണർത്തി.[14]"
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 44\nDua for avoiding bad dreams\nIn Kitab-e-Tibbul Aimma Hazrat Ali (a.s.) has stated that\n\nif a child cries a lot or a woman is afraid in her dreams or a person cannot sleep in the nights then the following ayat should be recited.\n\nفَضَرَبْنَا عَلٰى اٰذَانِهِمْ فِى الْكَهْفِ سِنِيْنَ عَدَدًا. ثُمَّ بَعَثْنَاهُمْ لِنَعْلَمَ اَىُّ الْحِزْبَيْنِ اَحْصٰى لِمَا لَبِثُوْآ اَمَدًا.\n\nTransliteration:\nfa-zarabnaa a’laa aazaanehim fil kahfe seneena a’dadaa. summa ba-a’snaahum le-na’lama ayyul hizbayne ahsaa lemaa labesoo amadaa.\n\nTranslation:\nThen we did set a seal on their ears for a number of years, then We raised them up that We might Know (i.e. ...show) which of the two parties reckoneth best the duration of their stay.[14]",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    }
+  ]
+}

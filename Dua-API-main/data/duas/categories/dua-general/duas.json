@@ -1,0 +1,165 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "dua-general",
+  "count": 4,
+  "duas": [
+    {
+      "id": "gen-1",
+      "category_id": "dua-general",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Dua for Good in This World and the Hereafter (Including the Day of Judgment)",
+        "ta": "இம்மையிலும் மறுமையிலும் நன்மை வேண்டிய துஆ (நியாயத் தீர்ப்பு நாளையும் உட்பட)",
+        "ml": "ഇഹലോകത്തും പരലോകത്തും നന്മയ്ക്കുള്ള ദുആ (വിധിദിനവും ഉൾപ്പെടെ)",
+        "ar": "دعاء طلب الخير في الدنيا والآخرة (بما في ذلك يوم القيامة)",
+        "ur": "دنیا اور آخرت کی بھلائی کی دعا (روزِ قیامت سمیت)",
+        "fr": "Invocation pour le bien ici-bas et dans l’au-delà (y compris le Jour du Jugement)",
+        "tr": "Dünya ve ahirette iyilik duası (Kıyamet Günü dâhil)",
+        "id": "Doa Memohon Kebaikan di Dunia dan Akhirat (Termasuk Hari Kiamat)",
+        "bn": "দুনিয়া ও আখিরাতে কল্যাণের দোয়া (কিয়ামতের দিনসহ)",
+        "ms": "Doa Memohon Kebaikan di Dunia dan Akhirat (Termasuk Hari Kiamat)"
+      },
+      "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "translation": {
+        "en": "Our Lord, give us in this world that which is good and in the Hereafter that which is good, and protect us from the punishment of the Fire.",
+        "ar": "ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار",
+        "ur": "اے ہمارے رب! ہمیں دنیا میں بھی بھلائی عطا فرما اور آخرت میں بھی بھلائی عطا فرما اور ہمیں آتش جہنم کے عذاب سے بچا۔",
+        "fr": "Notre Seigneur, donne-nous le bien dans ce monde et le bien dans l'au-delà, et protège-nous du châtiment du Feu.",
+        "tr": "Rabbimiz! Bize dünyada da iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru.",
+        "id": "Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari siksa api neraka.",
+        "bn": "হে আমাদের রব, আমাদের দুনিয়াতেও কল্যাণ দাও এবং আখিরাতেও কল্যাণ দাও এবং আমাদের আগুনের শাস্তি থেকে রক্ষা করো।",
+        "ms": "Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari siksa api neraka.",
+        "ta": "எங்கள் இறைவா! இவ்வுலகில் நன்மையை அளிப்பாயாக, மறுமையில் நன்மையை அளிப்பாயாக, நரக வேதனையிலிருந்து எங்களை காப்பாற்றுவாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഈ ലോകത്ത് നന്മയും പരലോകത്ത് നന്മയും ഞങ്ങൾക്ക് നൽകണമേ, നരകശിക്ഷയിൽനിന്ന് ഞങ്ങളെ സംരക്ഷിക്കണമേ."
+      },
+      "reference": {
+        "source": "Quran",
+        "reference_text": "Quran 2:201"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "gen-2",
+      "category_id": "dua-general",
+      "subcategory_id": null,
+      "order": 2,
+      "title": {
+        "en": "Dua for Guidance",
+        "ar": "دعاء الهداية",
+        "ur": "ہدایت کی دعا",
+        "fr": "Doua pour la Guidance",
+        "tr": "Hidayet Duası",
+        "id": "Doa Petunjuk",
+        "bn": "হেদায়াতের দোয়া",
+        "ms": "Doa Petunjuk",
+        "ta": "நெறிப்படுத்தலுக்கான துஆ",
+        "ml": "നേർവഴിക്കുള്ള ദുആ"
+      },
+      "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "translation": {
+        "en": "Guide us to the straight path.",
+        "ar": "اهدنا الصراط المستقيم",
+        "ur": "ہمیں سیدھا راستہ دکھا۔",
+        "fr": "Guide-nous vers le droit chemin.",
+        "tr": "Bizi doğru yola ilet.",
+        "id": "Tunjukilah kami jalan yang lurus.",
+        "bn": "আমাদের সরল পথ দেখাও।",
+        "ms": "Tunjukilah kami jalan yang lurus.",
+        "ta": "நேரான பாதையில் எங்களை நடத்துவாயாக.",
+        "ml": "ഞങ്ങളെ നേരായ പാതയിലേക്ക് നയിക്കണമേ."
+      },
+      "reference": {
+        "source": "Quran",
+        "reference_text": "Quran 1:6"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "gen-3",
+      "category_id": "dua-general",
+      "subcategory_id": null,
+      "order": 3,
+      "title": {
+        "en": "Dua for Steadfastness",
+        "ar": "دعاء الثبات",
+        "ur": "ثبات کی دعا",
+        "fr": "Doua pour la Fermeté",
+        "tr": "Sağlamlık Duası",
+        "id": "Doa Keteguhan",
+        "bn": "দৃঢ়তার দোয়া",
+        "ms": "Doa Keteguhan",
+        "ta": "உறுதிக்கான துஆ",
+        "ml": "ദൃഢതയ്ക്കുള്ള ദുആ"
+      },
+      "arabic": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ",
+      "translation": {
+        "en": "O Turner of the hearts, keep my heart firm upon Your religion.",
+        "ar": "يا مقلب القلوب ثبت قلبي على دينك",
+        "ur": "اے دلوں کو پلٹنے والے! میرے دل کو اپنے دین پر ثابت رکھ۔",
+        "fr": "Ô Toi qui retourne les cœurs, affermis mon cœur sur Ta religion.",
+        "tr": "Ey kalpleri çeviren! Kalbimi dinin üzere sabit kıl.",
+        "id": "Wahai Yang membolak-balikkan hati, teguhkanlah hatiku atas agama-Mu.",
+        "bn": "হে অন্তরসমূহ পালটানোকারী, আমার অন্তরকে তোমার দীনের উপর দৃঢ় রাখো।",
+        "ms": "Wahai Yang membolak-balikkan hati, teguhkanlah hatiku atas agama-Mu.",
+        "ta": "இதயங்களை திருப்புவோரே! என் இதயத்தை உமது மார்க்கத்தில் உறுதியாக வைத்திடுவாயாக.",
+        "ml": "ഹൃദയങ്ങളെ തിരിക്കുന്നവനേ, എന്റെ ഹൃദയം നിന്റെ മതത്തിൽ ഉറപ്പിച്ചുനിർത്തണമേ."
+      },
+      "reference": {
+        "source": "Tirmidhi",
+        "reference_text": "Tirmidhi 5/214"
+      },
+      "repetition_count": 1
+    },
+    {
+      "id": "d103-27",
+      "category_id": "dua-general",
+      "subcategory_id": null,
+      "order": 27,
+      "title": {
+        "en": "For offering thanks for the bounties bestowed by Allah",
+        "ar": "لشكر الله على نعمه",
+        "ur": "اللہ کی عطا کردہ نعمتوں پر شکر ادا کرنے کے لیے",
+        "fr": "Pour remercier Allah des bienfaits qu’Il a accordés",
+        "tr": "Allah’ın bahşettiği nimetlere şükretmek için",
+        "id": "Untuk bersyukur atas nikmat yang dianugerahkan oleh Allah",
+        "bn": "আল্লাহর দান করা নিয়ামতের জন্য কৃতজ্ঞতা প্রকাশ করতে",
+        "ms": "Untuk bersyukur atas nikmat yang dikurniakan oleh Allah",
+        "ta": "அல்லாஹ் வழங்கிய அருட்கொடைகளுக்கு நன்றி செலுத்துவதற்காக",
+        "ml": "അല്ലാഹു നൽകിയ അനുഗ്രഹങ്ങൾക്ക് നന്ദി അർപ്പിക്കാൻ"
+      },
+      "arabic": "اَلْحَمْدُ لِلَّهِ عَلٰى كُلِّ نِعْمَةٍ كَانَتْ أَوْ هِيَ كَائِنَةٌ",
+      "transliteration": "Alhamddo lillaahe a'laa kulle ne'matin kaanat awheya kaa-enatun.",
+      "translation": {
+        "en": "All praise is due to Allah for every past bounty and every nature (bounty).",
+        "ar": "الحمد لله على كل نعمة ماضية وكل نعمة موجودة.",
+        "ur": "ہر گزری ہوئی نعمت اور ہر موجود نعمت پر تمام تعریفیں اللہ ہی کے لیے ہیں۔",
+        "fr": "Toute louange revient à Allah pour chaque bienfait passé et chaque bienfait existant.",
+        "tr": "Geçmişteki her nimet ve mevcut her nimet için hamd Allah’a mahsustur.",
+        "id": "Segala puji bagi Allah atas setiap nikmat yang telah lalu dan setiap nikmat yang ada.",
+        "bn": "প্রতিটি অতীত নিয়ামত এবং বিদ্যমান প্রতিটি নিয়ামতের জন্য সমস্ত প্রশংসা আল্লাহর।",
+        "ms": "Segala puji bagi Allah atas setiap nikmat yang lalu dan setiap nikmat yang ada.",
+        "ta": "கடந்த ஒவ்வொரு அருட்கொடைக்கும், தற்போது உள்ள ஒவ்வொரு அருட்கொடைக்கும் எல்லாப் புகழும் அல்லாஹ்வுக்கே.",
+        "ml": "കഴിഞ്ഞുപോയ ഓരോ അനുഗ്രഹത്തിനും നിലവിലുള്ള ഓരോ അനുഗ്രഹത്തിനും സർവസ്തുതിയും അല്ലാഹുവിനാണ്."
+      },
+      "reference": {
+        "source": null,
+        "reference_text": null
+      },
+      "repetition_count": 1,
+      "source_text": "Dua No. 27\nFor offering thanks for the bounties bestowed by Allah\nHe who recites the following Dua seven times daily it is as if he has thanked for the past and futures bounties.\n\nاَلْحَمْدُ لِلَّهِ عَلٰى كُلِّ نِعْمَةٍ كَانَتْ أَوْ هِيَ كَائِنَةٌ\n\nTransliteration:\nAlhamddo lillaahe a’laa kulle ne’matin kaanat awheya kaa-enatun.\n\nTranslation:\nAll praise is due to Allah for every past bounty and every nature (bounty).",
+      "translation_status": {
+        "en": "source translation extracted",
+        "ar": "AI-translated; review recommended",
+        "ur": "AI-translated; review recommended",
+        "fr": "AI-translated; review recommended",
+        "tr": "AI-translated; review recommended",
+        "id": "AI-translated; review recommended",
+        "bn": "AI-translated; review recommended",
+        "ms": "AI-translated; review recommended",
+        "ta": "AI-translated; review recommended",
+        "ml": "AI-translated; review recommended"
+      }
+    }
+  ]
+}

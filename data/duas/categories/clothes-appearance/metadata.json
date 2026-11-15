@@ -1,0 +1,29 @@
+{
+  "id": "clothes-appearance",
+  "name": {
+    "en": "Clothes & Appearance",
+    "ar": "الملابس والمظهر",
+    "ur": "کپڑے اور حلیہ",
+    "fr": "Vêtements et Apparence",
+    "tr": "Kıyafet ve Görünüm",
+    "id": "Pakaian & Penampilan",
+    "bn": "পোশাক ও চেহারা",
+    "ms": "Pakaian & Penampilan",
+    "ta": "ஆடை & தோற்றம்",
+    "ml": "വസ്ത്രവും രൂപവും"
+  },
+  "description": {
+    "en": "Category of duas: Clothes & Appearance"
+  },
+  "parent_id": null,
+  "order": 32,
+  "theme": {
+    "color": "blue",
+    "gradient": "from-blue-400 to-indigo-500",
+    "bg": "bg-blue-50",
+    "border": "border-blue-200",
+    "text": "text-blue-700"
+  },
+  "item_count": 2,
+  "data_file": "duas.json"
+}

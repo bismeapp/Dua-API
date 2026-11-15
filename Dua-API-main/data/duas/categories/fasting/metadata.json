@@ -1,0 +1,29 @@
+{
+    "id":  "fasting",
+    "name":  {
+                 "en":  "Fasting \u0026 Ramadan",
+                 "ar":  "الصيام ورمضان",
+                 "ur":  "روزہ اور رمضان",
+                 "fr":  "Jeûne et Ramadan",
+                 "tr":  "Oruç ve Ramazan",
+                 "id":  "Puasa \u0026 Ramadhan",
+                 "bn":  "রোজা ও রমজান",
+                 "ms":  "Puasa \u0026 Ramadhan",
+                 "ta":  "நோன்பு \u0026 ரமளான்",
+                 "ml":  "നോമ്പും റമളാനും"
+             },
+    "description":  {
+                        "en":  "Category of duas: Fasting \u0026 Ramadan"
+                    },
+    "parent_id":  null,
+    "order":  27,
+    "theme":  {
+                  "color":  "green",
+                  "gradient":  "from-green-500 to-emerald-600",
+                  "bg":  "bg-green-50",
+                  "border":  "border-green-200",
+                  "text":  "text-green-700"
+              },
+    "item_count":  4,
+    "data_file":  "duas.json"
+}

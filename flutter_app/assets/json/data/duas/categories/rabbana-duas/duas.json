@@ -1,0 +1,1527 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "rabbana-duas",
+  "count": 40,
+  "duas": [
+    {
+      "id": "rabbana-01",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 1,
+      "number": 1,
+      "title": {
+        "en": "Rabbana Dua 1",
+        "ta": "ரப்பனா துஆக்கள் 1",
+        "ml": "റബ്ബനാ ദുആകൾ 1",
+        "ar": "دعاء ربنا 1",
+        "ur": "ربنا کی دعائیں 1",
+        "fr": "invocations Rabbana 1",
+        "tr": "Rabbana duası 1",
+        "id": "Doa Rabbana 1",
+        "bn": "রব্বানা দোয়া 1",
+        "ms": "Doa Rabbana 1"
+      },
+      "arabic": "رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ",
+      "translation": {
+        "en": "Our Lord, accept from us. Indeed You are the Hearing, the Knowing.",
+        "ta": "எங்கள் இறைவா! எங்களிடமிருந்து ஏற்றுக்கொள்வாயாக. நிச்சயமாக நீயே எல்லாவற்றையும் செவியுறுபவனும் நன்கு அறிந்தவனுமாவாய்.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങളിൽ നിന്ന് സ്വീകരിക്കേണമേ. തീർച്ചയായും നീ എല്ലാം കേൾക്കുന്നവനും എല്ലാം അറിയുന്നവനുമാകുന്നു.",
+        "ar": "رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ",
+        "ur": "اے ہمارے رب! ہم سے قبول فرما۔ بے شک تو خوب سننے والا، خوب جاننے والا ہے۔",
+        "fr": "Notre Seigneur, accepte de notre part. Tu es certes Celui qui entend tout, le Savant.",
+        "tr": "Rabbimiz! Bizden kabul buyur. Şüphesiz Sen hakkıyla işiten ve bilensin.",
+        "id": "Ya Tuhan kami, terimalah dari kami. Sesungguhnya Engkaulah Yang Maha Mendengar lagi Maha Mengetahui.",
+        "bn": "হে আমাদের রব, আমাদের পক্ষ থেকে কবুল করুন। নিশ্চয়ই আপনি সর্বশ্রোতা, সর্বজ্ঞ।",
+        "ms": "Wahai Tuhan kami, terimalah daripada kami. Sesungguhnya Engkaulah Yang Maha Mendengar lagi Maha Mengetahui."
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "2:127"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana taqabbal minna innaka anta as-sami'u al-'alim."
+    },
+    {
+      "id": "rabbana-02",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 2,
+      "number": 2,
+      "title": {
+        "en": "Rabbana Dua 2",
+        "ta": "ரப்பனா துஆக்கள் 2",
+        "ml": "റബ്ബനാ ദുആകൾ 2",
+        "ar": "دعاء ربنا 2",
+        "ur": "ربنا کی دعائیں 2",
+        "fr": "invocations Rabbana 2",
+        "tr": "Rabbana duası 2",
+        "id": "Doa Rabbana 2",
+        "bn": "রব্বানা দোয়া 2",
+        "ms": "Doa Rabbana 2"
+      },
+      "arabic": "رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِنْ ذُرِّيَّتِنَا أُمَّةً مُسْلِمَةً لَكَ",
+      "translation": {
+        "en": "Our Lord, make us Muslims to You and from our descendants a Muslim nation to You.",
+        "ta": "எங்கள் இறைவா! எங்களை உனக்கு முற்றிலும் பணிந்தவர்களாகவும், எங்கள் சந்ததியிலிருந்து உனக்கு முற்றிலும் பணியும் ஒரு சமூகத்தையும் ஆக்குவாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങളെ നിനക്ക് കീഴ്പ്പെട്ടവരാക്കേണമേ; ഞങ്ങളുടെ സന്തതികളിൽ നിന്നും നിനക്ക് കീഴ്പ്പെടുന്ന ഒരു സമൂഹത്തെയും ഉണ്ടാക്കേണമേ.",
+        "ar": "رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِنْ ذُرِّيَّتِنَا أُمَّةً مُسْلِمَةً لَكَ",
+        "ur": "اے ہمارے رب! ہمیں اپنا فرمانبردار بنا، اور ہماری اولاد میں سے بھی ایک ایسی امت پیدا فرما جو تیری فرمانبردار ہو۔",
+        "fr": "Notre Seigneur, fais de nous des soumis à Toi, et de notre descendance une communauté soumise à Toi.",
+        "tr": "Rabbimiz! Bizi Sana teslim olanlardan kıl; soyumuzdan da Sana teslim olan bir ümmet çıkar.",
+        "id": "Ya Tuhan kami, jadikanlah kami orang-orang yang berserah diri kepada-Mu, dan dari keturunan kami jadikanlah umat yang berserah diri kepada-Mu.",
+        "bn": "হে আমাদের রব, আমাদেরকে আপনার অনুগত করুন এবং আমাদের বংশধরদের মধ্য থেকে এমন এক জাতি সৃষ্টি করুন, যারা আপনার অনুগত হবে।",
+        "ms": "Ya Tuhan kami, jadikanlah kami orang yang berserah diri kepada-Mu, dan daripada keturunan kami jadikanlah satu umat yang berserah diri kepada-Mu."
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "2:128"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana waj'alna muslimayni laka wa min dhurriyyatina ummatan muslimatan laka."
+    },
+    {
+      "id": "rabbana-03",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 3,
+      "number": 3,
+      "title": {
+        "en": "Rabbana Dua 3",
+        "ta": "ரப்பனா துஆக்கள் 3",
+        "ml": "റബ്ബനാ ദുആകൾ 3",
+        "ar": "دعاء ربنا 3",
+        "ur": "ربنا کی دعائیں 3",
+        "fr": "invocations Rabbana 3",
+        "tr": "Rabbana duası 3",
+        "id": "Doa Rabbana 3",
+        "bn": "রব্বানা দোয়া 3",
+        "ms": "Doa Rabbana 3"
+      },
+      "arabic": "رَبَّنَا وَارْنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
+      "translation": {
+        "en": "Our Lord, show us our rites and accept our repentance. Indeed, You are the Accepting of repentance, the Merciful.",
+        "ta": "எங்கள் இறைவா! எங்களுக்கான வழிபாட்டு முறைகளை எங்களுக்குக் காட்டுவாயாக; எங்கள் பாவமன்னிப்பை ஏற்றுக்கொள்வாயாக. நிச்சயமாக நீயே பாவமன்னிப்பை ஏற்றுக்கொள்பவனும் மிகக் கருணையுள்ளவனுமாவாய்.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങളുടെ ആരാധനാകർമങ്ങൾ ഞങ്ങൾക്ക് കാണിച്ചുതരണമേ; ഞങ്ങളുടെ പശ്ചാത്താപം സ്വീകരിക്കണമേ. തീർച്ചയായും നീ പശ്ചാത്താപം സ്വീകരിക്കുന്നവനും കരുണാനിധിയുമാകുന്നു.",
+        "ar": "رَبَّنَا وَارْنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
+        "ur": "اے ہمارے رب! ہمیں ہمارے عبادتی طریقے دکھا دے، اور ہماری توبہ قبول فرما۔ بے شک تو بہت توبہ قبول کرنے والا، نہایت رحم کرنے والا ہے۔",
+        "fr": "Notre Seigneur, montre-nous nos rites et accepte notre repentir. Tu es certes Celui qui accueille le repentir, le Miséricordieux.",
+        "tr": "Rabbimiz! Bize ibadet usullerimizi göster ve tövbemizi kabul et. Şüphesiz Sen tövbeleri kabul eden, merhametlisin.",
+        "id": "Ya Tuhan kami, tunjukkanlah kepada kami tata cara ibadah kami dan terimalah tobat kami. Sesungguhnya Engkaulah Yang Maha Penerima tobat lagi Maha Penyayang.",
+        "bn": "হে আমাদের রব, আমাদেরকে আমাদের ইবাদতের নিয়মাবলি দেখিয়ে দিন এবং আমাদের তওবা কবুল করুন। নিশ্চয়ই আপনি তওবা কবুলকারী, পরম দয়ালু।",
+        "ms": "Ya Tuhan kami, tunjukkanlah kepada kami cara-cara ibadah kami dan terimalah taubat kami. Sesungguhnya Engkaulah Yang Maha Penerima taubat lagi Maha Penyayang."
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "2:128"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana wa arina manasikana wa tub 'alayna innaka anta at-tawwabu ar-rahim."
+    },
+    {
+      "id": "rabbana-04",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 4,
+      "number": 4,
+      "title": {
+        "en": "Rabbana Dua 4",
+        "ta": "ரப்பனா துஆக்கள் 4",
+        "ml": "റബ്ബനാ ദുആകൾ 4",
+        "ar": "دعاء ربنا 4",
+        "ur": "ربنا کی دعائیں 4",
+        "fr": "invocations Rabbana 4",
+        "tr": "Rabbana duası 4",
+        "id": "Doa Rabbana 4",
+        "bn": "রব্বানা দোয়া 4",
+        "ms": "Doa Rabbana 4"
+      },
+      "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "translation": {
+        "en": "Our Lord, give us in this world that which is good and in the Hereafter that which is good and protect us from the punishment of the Fire.",
+        "ar": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+        "ur": "اے ہمارے رب! ہمیں دنیا میں بھی بھلائی عطا فرما اور آخرت میں بھی بھلائی عطا فرما اور ہمیں آتش جہنم کے عذاب سے بچا۔",
+        "fr": "Notre Seigneur, donne-nous le bien dans ce monde et le bien dans l'au-delà, et protège-nous du châtiment du Feu.",
+        "tr": "Rabbimiz! Bize dünyada da iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru.",
+        "id": "Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari siksa api neraka.",
+        "bn": "হে আমাদের রব, আমাদের দুনিয়াতেও কল্যাণ দাও এবং আখিরাতেও কল্যাণ দাও এবং আমাদের আগুনের শাস্তি থেকে রক্ষা করো।",
+        "ms": "Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari siksa api neraka.",
+        "ta": "எங்கள் இறைவா! இவ்வுலகில் நன்மையை அளிப்பாயாக, மறுமையில் நன்மையை அளிப்பாயாக, நரக வேதனையிலிருந்து எங்களை காப்பாற்றுவாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഈ ലോകത്ത് നന്മയും പരലോകത്ത് നന്മയും ഞങ്ങൾക്ക് നൽകണമേ, നരകശിക്ഷയിൽനിന്ന് ഞങ്ങളെ സംരക്ഷിക്കണമേ."
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "2:201"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'adhaban-nar."
+    },
+    {
+      "id": "rabbana-05",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 5,
+      "number": 5,
+      "title": {
+        "en": "Rabbana Dua 5",
+        "ta": "ரப்பனா துஆக்கள் 5",
+        "ml": "റബ്ബനാ ദുആകൾ 5",
+        "ar": "دعاء ربنا 5",
+        "ur": "ربنا کی دعائیں 5",
+        "fr": "invocations Rabbana 5",
+        "tr": "Rabbana duası 5",
+        "id": "Doa Rabbana 5",
+        "bn": "রব্বানা দোয়া 5",
+        "ms": "Doa Rabbana 5"
+      },
+      "arabic": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "translation": {
+        "en": "Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people.",
+        "ta": "எங்கள் இறைவா! எங்கள்மீது பொறுமையைப் பொழிவாயாக; எங்கள் பாதங்களை உறுதியாக்கி, நிராகரிக்கும் மக்களுக்கு எதிராக எங்களுக்கு வெற்றியளிப்பாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങളുടെ മേൽ ക്ഷമ ചൊരിയണമേ; ഞങ്ങളുടെ കാലുകൾ ഉറപ്പിച്ചു നിർത്തി, സത്യനിഷേധികളായ ജനതയ്‌ക്കെതിരെ ഞങ്ങൾക്ക് വിജയം നൽകണമേ.",
+        "ar": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+        "ur": "اے ہمارے رب! ہم پر صبر نازل فرما، ہمارے قدم جما دے اور کافر قوم کے مقابلے میں ہماری مدد فرما۔",
+        "fr": "Notre Seigneur, déverse sur nous la patience, affermis nos pas et accorde-nous la victoire sur le peuple mécréant.",
+        "tr": "Rabbimiz! Üzerimize sabır yağdır, ayaklarımızı sağlamlaştır ve inkârcı topluma karşı bize yardım et.",
+        "id": "Ya Tuhan kami, limpahkanlah kesabaran kepada kami, teguhkanlah langkah kami, dan berilah kami kemenangan atas kaum yang ingkar.",
+        "bn": "হে আমাদের রব, আমাদের ওপর ধৈর্য ঢেলে দিন, আমাদের পদক্ষেপ দৃঢ় করুন এবং অবিশ্বাসী সম্প্রদায়ের বিরুদ্ধে আমাদের বিজয় দিন।",
+        "ms": "Ya Tuhan kami, limpahkanlah kesabaran kepada kami, teguhkanlah langkah kami, dan berilah kami kemenangan terhadap kaum yang ingkar."
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "2:250"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana afrigh 'alayna sabran wa thabbit aqdamana wansurna 'alal-qawmil-kafirin."
+    },
+    {
+      "id": "rabbana-06",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 6,
+      "number": 6,
+      "title": {
+        "en": "Rabbana Dua 6",
+        "ta": "ரப்பனா துஆக்கள் 6",
+        "ml": "റബ്ബനാ ദുആകൾ 6",
+        "ar": "دعاء ربنا 6",
+        "ur": "ربنا کی دعائیں 6",
+        "fr": "invocations Rabbana 6",
+        "tr": "Rabbana duası 6",
+        "id": "Doa Rabbana 6",
+        "bn": "রব্বানা দোয়া 6",
+        "ms": "Doa Rabbana 6"
+      },
+      "arabic": "رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا",
+      "translation": {
+        "en": "Our Lord, do not impose blame upon us if we have forgotten or erred.",
+        "ta": "எங்கள் இறைவா! நாங்கள் மறந்துவிட்டாலோ தவறிழைத்துவிட்டாலோ எங்களைப் பிடித்துக் கொள்ளாதே.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങൾ മറന്നുപോയാലോ തെറ്റുചെയ്താലോ ഞങ്ങളെ പിടികൂടരുതേ.",
+        "ar": "رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا",
+        "ur": "اے ہمارے رب! اگر ہم بھول جائیں یا خطا کر بیٹھیں تو ہماری گرفت نہ فرما۔",
+        "fr": "Notre Seigneur, ne nous tiens pas rigueur si nous oublions ou commettons une erreur.",
+        "tr": "Rabbimiz! Unutur veya hata edersek bizi sorumlu tutma.",
+        "id": "Ya Tuhan kami, janganlah Engkau menyalahkan kami apabila kami lupa atau melakukan kesalahan.",
+        "bn": "হে আমাদের রব, আমরা ভুলে গেলে বা ভুল করলে আমাদেরকে পাকড়াও করবেন না।",
+        "ms": "Ya Tuhan kami, janganlah Engkau menyalahkan kami jika kami terlupa atau tersilap."
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "2:286"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana la tu'akhidhna in nasina aw akhta'na."
+    },
+    {
+      "id": "rabbana-07",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 7,
+      "number": 7,
+      "title": {
+        "en": "Rabbana Dua 7",
+        "ta": "ரப்பனா துஆக்கள் 7",
+        "ml": "റബ്ബനാ ദുആകൾ 7",
+        "ar": "دعاء ربنا 7",
+        "ur": "ربنا کی دعائیں 7",
+        "fr": "invocations Rabbana 7",
+        "tr": "Rabbana duası 7",
+        "id": "Doa Rabbana 7",
+        "bn": "রব্বানা দোয়া 7",
+        "ms": "Doa Rabbana 7"
+      },
+      "arabic": "رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا",
+      "translation": {
+        "en": "Our Lord, and lay not upon us a burden like that which You laid upon those before us.",
+        "ta": "எங்கள் இறைவா! எங்களுக்கு முன் இருந்தவர்கள்மீது சுமத்தியது போன்ற சுமையை எங்கள் மீது சுமத்தாதே.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങൾക്ക് മുമ്പുള്ളവരുടെ മേൽ ചുമത്തിയതുപോലുള്ള ഭാരം ഞങ്ങളുടെ മേൽ ചുമത്തരുതേ.",
+        "ar": "رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا",
+        "ur": "اے ہمارے رب! ہم پر ایسا بوجھ نہ ڈال جیسا تو نے ہم سے پہلے لوگوں پر ڈالا تھا۔",
+        "fr": "Notre Seigneur, ne nous impose pas un fardeau semblable à celui que Tu as imposé à ceux qui nous ont précédés.",
+        "tr": "Rabbimiz! Bizden öncekilere yüklediğin gibi bize de ağır bir yük yükleme.",
+        "id": "Ya Tuhan kami, janganlah Engkau bebankan kepada kami beban seperti yang telah Engkau bebankan kepada orang-orang sebelum kami.",
+        "bn": "হে আমাদের রব, আমাদের পূর্ববর্তীদের ওপর যে বোঝা চাপিয়ে দিয়েছিলেন, আমাদের ওপর তেমন বোঝা চাপাবেন না।",
+        "ms": "Ya Tuhan kami, janganlah Engkau bebankan kepada kami beban seperti yang telah Engkau bebankan kepada orang-orang sebelum kami."
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "2:286"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana wa la tahmil 'alayna isran kama hamaltahu 'alalladhina min qablina."
+    },
+    {
+      "id": "rabbana-08",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 8,
+      "number": 8,
+      "title": {
+        "en": "Rabbana Dua 8",
+        "ta": "ரப்பனா துஆக்கள் 8",
+        "ml": "റബ്ബനാ ദുആകൾ 8",
+        "ar": "دعاء ربنا 8",
+        "ur": "ربنا کی دعائیں 8",
+        "fr": "invocations Rabbana 8",
+        "tr": "Rabbana duası 8",
+        "id": "Doa Rabbana 8",
+        "bn": "রব্বানা দোয়া 8",
+        "ms": "Doa Rabbana 8"
+      },
+      "arabic": "رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ",
+      "translation": {
+        "en": "Our Lord, and burden us not with that which we have no ability to bear.",
+        "ta": "எங்கள் இறைவா! எங்களால் தாங்க முடியாததை எங்கள் மீது சுமத்தாதே.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങൾക്ക് താങ്ങാനാവാത്തത് ഞങ്ങളുടെ മേൽ ചുമത്തരുതേ.",
+        "ar": "رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ",
+        "ur": "اے ہمارے رب! ہم پر ایسا بوجھ نہ ڈال جسے اٹھانے کی ہم میں طاقت نہ ہو۔",
+        "fr": "Notre Seigneur, ne nous charge pas de ce que nous n'avons pas la capacité de supporter.",
+        "tr": "Rabbimiz! Gücümüzün yetmeyeceği şeyi bize yükleme.",
+        "id": "Ya Tuhan kami, janganlah Engkau membebani kami dengan sesuatu yang tidak sanggup kami pikul.",
+        "bn": "হে আমাদের রব, আমাদের ওপর এমন বোঝা চাপাবেন না যা বহন করার ক্ষমতা আমাদের নেই।",
+        "ms": "Ya Tuhan kami, janganlah Engkau membebankan kami dengan sesuatu yang tidak mampu kami tanggung."
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "2:286"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana wa la tuhammilna ma la taqata lana bih."
+    },
+    {
+      "id": "rabbana-09",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 9,
+      "number": 9,
+      "title": {
+        "en": "Rabbana Dua 9",
+        "ta": "ரப்பனா துஆக்கள் 9",
+        "ml": "റബ്ബനാ ദുആകൾ 9",
+        "ar": "دعاء ربنا 9",
+        "ur": "ربنا کی دعائیں 9",
+        "fr": "invocations Rabbana 9",
+        "tr": "Rabbana duası 9",
+        "id": "Doa Rabbana 9",
+        "bn": "রব্বানা দোয়া 9",
+        "ms": "Doa Rabbana 9"
+      },
+      "arabic": "رَبَّنَا وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "translation": {
+        "en": "Our Lord, pardon us and forgive us and have mercy upon us. You are our protector, so give us victory over the disbelieving people.",
+        "ta": "எங்கள் இறைவா! எங்களைப் பொறுத்தருள்வாயாக; எங்களை மன்னித்து, எங்கள்மீது கருணை புரிவாயாக. நீயே எங்கள் பாதுகாவலன்; எனவே நிராகரிக்கும் மக்களுக்கு எதிராக எங்களுக்கு வெற்றியளிப்பாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങളോട് മാപ്പരുളേണമേ; ഞങ്ങൾക്ക് പൊറുത്തുതരുകയും കരുണ കാണിക്കുകയും ചെയ്യണമേ. നീയാണ് ഞങ്ങളുടെ രക്ഷാധികാരി; അതിനാൽ സത്യനിഷേധികളായ ജനതയ്‌ക്കെതിരെ ഞങ്ങൾക്ക് വിജയം നൽകണമേ.",
+        "ar": "رَبَّنَا وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+        "ur": "اے ہمارے رب! ہمیں معاف فرما، ہمیں بخش دے اور ہم پر رحم فرما۔ تو ہی ہمارا کارساز ہے، پس کافر قوم کے مقابلے میں ہماری مدد فرما۔",
+        "fr": "Notre Seigneur, efface nos fautes, pardonne-nous et fais-nous miséricorde. Tu es notre Protecteur ; accorde-nous donc la victoire sur le peuple mécréant.",
+        "tr": "Rabbimiz! Bizi affet, bağışla ve bize merhamet et. Sen bizim Mevlâmızsın; inkârcı topluma karşı bize yardım et.",
+        "id": "Ya Tuhan kami, maafkanlah kami, ampunilah kami, dan rahmatilah kami. Engkaulah Pelindung kami, maka berilah kami kemenangan atas kaum yang ingkar.",
+        "bn": "হে আমাদের রব, আমাদের ক্ষমা করুন, আমাদের পাপ মোচন করুন এবং আমাদের প্রতি দয়া করুন। আপনিই আমাদের অভিভাবক; সুতরাং অবিশ্বাসী সম্প্রদায়ের বিরুদ্ধে আমাদের বিজয় দিন।",
+        "ms": "Ya Tuhan kami, maafkanlah kami, ampunilah kami, dan rahmatilah kami. Engkaulah Pelindung kami; maka berilah kami kemenangan terhadap kaum yang ingkar."
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "2:286"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana wa'fu 'anna waghfir lana warhamna anta mawlana fansurna 'alal-qawmil-kafirin."
+    },
+    {
+      "id": "rabbana-10",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 10,
+      "number": 10,
+      "title": {
+        "en": "Rabbana Dua 10",
+        "ta": "ரப்பனா துஆக்கள் 10",
+        "ml": "റബ്ബനാ ദുആകൾ 10",
+        "ar": "دعاء ربنا 10",
+        "ur": "ربنا کی دعائیں 10",
+        "fr": "invocations Rabbana 10",
+        "tr": "Rabbana duası 10",
+        "id": "Doa Rabbana 10",
+        "bn": "রব্বানা দোয়া 10",
+        "ms": "Doa Rabbana 10"
+      },
+      "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً",
+      "translation": {
+        "en": "Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy.",
+        "ta": "எங்கள் இறைவா! எங்களுக்கு நேர்வழி காட்டிய பிறகு எங்கள் உள்ளங்களை வழிதவறச் செய்யாதே; உன்னிடமிருந்து எங்களுக்கு அருளை வழங்குவாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങൾക്ക് നീ സന്മാർഗം കാണിച്ചുതന്നതിന് ശേഷം ഞങ്ങളുടെ ഹൃദയങ്ങളെ വഴിതെറ്റിക്കരുതേ; നിന്റെ പക്കൽ നിന്നുള്ള കാരുണ്യം ഞങ്ങൾക്ക് നൽകണമേ.",
+        "ar": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً",
+        "ur": "اے ہمارے رب! ہدایت دینے کے بعد ہمارے دلوں کو ٹیڑھا نہ کر، اور اپنے پاس سے ہمیں رحمت عطا فرما۔",
+        "fr": "Notre Seigneur, ne détourne pas nos cœurs après nous avoir guidés et accorde-nous une miséricorde venant de Toi.",
+        "tr": "Rabbimiz! Bizi doğru yola ilettikten sonra kalplerimizi eğriltme ve katından bize rahmet bağışla.",
+        "id": "Ya Tuhan kami, janganlah Engkau jadikan hati kami menyimpang setelah Engkau memberi petunjuk kepada kami, dan anugerahkanlah kepada kami rahmat dari sisi-Mu.",
+        "bn": "হে আমাদের রব, আমাদেরকে হিদায়াত দেওয়ার পর আমাদের অন্তরকে বক্র করে দেবেন না এবং আপনার পক্ষ থেকে আমাদের রহমত দান করুন।",
+        "ms": "Ya Tuhan kami, janganlah Engkau memesongkan hati kami setelah Engkau memberi petunjuk kepada kami, dan kurniakanlah kepada kami rahmat dari sisi-Mu."
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "3:8"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana la tuzigh qulubana ba'da idh hadaytana wa hab lana min ladunka rahmah."
+    },
+    {
+      "id": "rabbana-11",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 11,
+      "number": 11,
+      "title": {
+        "en": "Rabbana Dua 11",
+        "ta": "ரப்பனா துஆக்கள் 11",
+        "ml": "റബ്ബനാ ദുആകൾ 11",
+        "ar": "دعاء ربنا 11",
+        "ur": "ربنا کی دعائیں 11",
+        "fr": "invocations Rabbana 11",
+        "tr": "Rabbana duası 11",
+        "id": "Doa Rabbana 11",
+        "bn": "রব্বানা দোয়া 11",
+        "ms": "Doa Rabbana 11"
+      },
+      "arabic": "رَبَّنَا إِنَّنَا آمَنَّا فَاغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ النَّارِ",
+      "translation": {
+        "en": "Our Lord, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire.",
+        "ta": "எங்கள் இறைவா! நிச்சயமாக நாங்கள் நம்பிக்கை கொண்டோம்; எங்கள் பாவங்களை மன்னித்து, நரக நெருப்பின் வேதனையிலிருந்து எங்களைக் காப்பாற்றுவாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, തീർച്ചയായും ഞങ്ങൾ വിശ്വസിച്ചിരിക്കുന്നു. അതിനാൽ ഞങ്ങളുടെ പാപങ്ങൾ പൊറുത്തുതരുകയും നരകാഗ്നിയുടെ ശിക്ഷയിൽ നിന്ന് ഞങ്ങളെ കാക്കുകയും ചെയ്യണമേ.",
+        "ar": "رَبَّنَا إِنَّنَا آمَنَّا فَاغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ النَّارِ",
+        "ur": "اے ہمارے رب! بے شک ہم ایمان لے آئے ہیں، پس ہمارے گناہ بخش دے اور ہمیں آگ کے عذاب سے بچا۔",
+        "fr": "Notre Seigneur, nous avons certes cru ; pardonne-nous donc nos péchés et protège-nous du châtiment du Feu.",
+        "tr": "Rabbimiz! Gerçekten iman ettik; günahlarımızı bağışla ve bizi Ateş'in azabından koru.",
+        "id": "Ya Tuhan kami, sesungguhnya kami telah beriman, maka ampunilah dosa-dosa kami dan lindungilah kami dari azab neraka.",
+        "bn": "হে আমাদের রব, নিশ্চয়ই আমরা ঈমান এনেছি; তাই আমাদের পাপ ক্ষমা করুন এবং আগুনের শাস্তি থেকে আমাদের রক্ষা করুন।",
+        "ms": "Ya Tuhan kami, sesungguhnya kami telah beriman; maka ampunilah dosa-dosa kami dan lindungilah kami daripada azab neraka."
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "3:16"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana innana amanna faghfir lana dhunubana wa qina 'adhaban-nar."
+    },
+    {
+      "id": "rabbana-12",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 12,
+      "number": 12,
+      "title": {
+        "en": "Rabbana Dua 12",
+        "ta": "ரப்பனா துஆக்கள் 12",
+        "ml": "റബ്ബനാ ദുആകൾ 12",
+        "ar": "دعاء ربنا 12",
+        "ur": "ربنا کی دعائیں 12",
+        "fr": "invocations Rabbana 12",
+        "tr": "Rabbana duası 12",
+        "id": "Doa Rabbana 12",
+        "bn": "রব্বানা দোয়া 12",
+        "ms": "Doa Rabbana 12"
+      },
+      "arabic": "رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "translation": {
+        "en": "Our Lord, forgive us our sins and the excess in our affairs and plant firmly our feet and give us victory over the disbelieving people.",
+        "ta": "எங்கள் இறைவா! எங்கள் பாவங்களையும் எங்கள் செயல்களில் ஏற்பட்ட அளவுமீறல்களையும் மன்னித்து, எங்கள் பாதங்களை உறுதிப்படுத்தி, நிராகரிக்கும் மக்களுக்கு எதிராக எங்களுக்கு வெற்றியளிப்பாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങളുടെ പാപങ്ങളും ഞങ്ങളുടെ കാര്യങ്ങളിലെ അതിരുകടക്കലും പൊറുത്തുതരണമേ; ഞങ്ങളുടെ കാലുകൾ ഉറപ്പിച്ചു നിർത്തി, സത്യനിഷേധികളായ ജനതയ്‌ക്കെതിരെ ഞങ്ങൾക്ക് വിജയം നൽകണമേ.",
+        "ar": "رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+        "ur": "اے ہمارے رب! ہمارے گناہ اور اپنے معاملے میں ہماری زیادتی معاف فرما، ہمارے قدم جما دے اور کافر قوم کے مقابلے میں ہماری مدد فرما۔",
+        "fr": "Notre Seigneur, pardonne-nous nos péchés et nos excès dans nos affaires, affermis nos pas et accorde-nous la victoire sur le peuple mécréant.",
+        "tr": "Rabbimiz! Günahlarımızı ve işlerimizdeki aşırılıklarımızı bağışla, ayaklarımızı sağlamlaştır ve inkârcı topluma karşı bize yardım et.",
+        "id": "Ya Tuhan kami, ampunilah dosa-dosa kami dan tindakan kami yang berlebihan dalam urusan kami, teguhkanlah langkah kami, dan berilah kami kemenangan atas kaum yang ingkar.",
+        "bn": "হে আমাদের রব, আমাদের পাপ এবং আমাদের কাজের সীমালঙ্ঘন ক্ষমা করুন, আমাদের পদক্ষেপ দৃঢ় করুন এবং অবিশ্বাসী সম্প্রদায়ের বিরুদ্ধে আমাদের বিজয় দিন।",
+        "ms": "Ya Tuhan kami, ampunilah dosa-dosa kami dan keterlaluan kami dalam urusan kami, teguhkanlah langkah kami, dan berilah kami kemenangan terhadap kaum yang ingkar."
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "3:147"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana ighfir lana dhunubana wa israfana fi amrina wa thabbit aqdamana wansurna 'alal-qawmil-kafirin."
+    },
+    {
+      "id": "rabbana-13",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 13,
+      "number": 13,
+      "title": {
+        "en": "Rabbana Dua 13",
+        "ta": "ரப்பனா துஆக்கள் 13",
+        "ml": "റബ്ബനാ ദുആകൾ 13",
+        "ar": "دعاء ربنا 13",
+        "ur": "ربنا کی دعائیں 13",
+        "fr": "invocations Rabbana 13",
+        "tr": "Rabbana duası 13",
+        "id": "Doa Rabbana 13",
+        "bn": "রব্বানা দোয়া 13",
+        "ms": "Doa Rabbana 13"
+      },
+      "arabic": "رَبَّنَا مَا خَلَقْتَ هَذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ",
+      "translation": {
+        "en": "Our Lord, You did not create this aimlessly; exalted are You above such a thing; then protect us from the punishment of the Fire.",
+        "ta": "எங்கள் இறைவா! இவற்றை நீ வீணாகப் படைக்கவில்லை. நீ தூயவன்; ஆகவே நரக நெருப்பின் வேதனையிலிருந்து எங்களைக் காப்பாற்றுவாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, നീ ഇതെല്ലാം വ്യർത്ഥമായി സൃഷ്ടിച്ചിട്ടില്ല. നീ പരിശുദ്ധനാകുന്നു; അതിനാൽ നരകശിക്ഷയിൽ നിന്ന് ഞങ്ങളെ കാക്കണമേ.",
+        "ar": "رَبَّنَا مَا خَلَقْتَ هَذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ",
+        "ur": "اے ہمارے رب! تو نے یہ سب بے مقصد پیدا نہیں کیا، تو پاک ہے، پس ہمیں آگ کے عذاب سے بچا۔",
+        "fr": "Notre Seigneur, Tu n'as pas créé tout cela en vain. Gloire à Toi ! Préserve-nous donc du châtiment du Feu.",
+        "tr": "Rabbimiz! Sen bunu boş yere yaratmadın. Seni tenzih ederiz; bizi Ateş'in azabından koru.",
+        "id": "Ya Tuhan kami, tidaklah Engkau menciptakan semua ini dengan sia-sia. Mahasuci Engkau, maka lindungilah kami dari azab neraka.",
+        "bn": "হে আমাদের রব, আপনি এসব অনর্থক সৃষ্টি করেননি। আপনি পবিত্র; তাই আমাদের আগুনের শাস্তি থেকে রক্ষা করুন।",
+        "ms": "Ya Tuhan kami, tidaklah Engkau menciptakan semua ini dengan sia-sia. Maha Suci Engkau; maka lindungilah kami daripada azab neraka."
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "3:191"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana ma khalaqta hadha batilan subhanaka faqina 'adhaban-nar."
+    },
+    {
+      "id": "rabbana-14",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 14,
+      "number": 14,
+      "title": {
+        "en": "Rabbana Dua 14",
+        "ta": "ரப்பனா துஆக்கள் 14",
+        "ml": "റബ്ബനാ ദുആകൾ 14",
+        "ar": "دعاء ربنا 14",
+        "ur": "ربنا کی دعائیں 14",
+        "fr": "invocations Rabbana 14",
+        "tr": "Rabbana duası 14",
+        "id": "Doa Rabbana 14",
+        "bn": "রব্বানা দোয়া 14",
+        "ms": "Doa Rabbana 14"
+      },
+      "arabic": "رَبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ آمِنُوا بِرَبِّكُمْ فَآمَنَّا",
+      "translation": {
+        "en": "Our Lord, indeed we have heard a caller calling to faith, saying, 'Believe in your Lord,' and we have believed.",
+        "ta": "எங்கள் இறைவா! நிச்சயமாக நாங்கள், 'உங்கள் இறைவனை நம்புங்கள்' என்று நம்பிக்கைக்கு அழைக்கும் ஒருவரின் அழைப்பைக் கேட்டோம்; ஆகவே நாங்கள் நம்பிக்கை கொண்டோம்.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, 'നിങ്ങളുടെ രക്ഷിതാവിൽ വിശ്വസിക്കൂ' എന്ന് വിശ്വാസത്തിലേക്ക് വിളിക്കുന്ന ഒരാളുടെ വിളി ഞങ്ങൾ തീർച്ചയായും കേട്ടു; അതിനാൽ ഞങ്ങൾ വിശ്വസിച്ചു.",
+        "ar": "رَبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ آمِنُوا بِرَبِّكُمْ فَآمَنَّا",
+        "ur": "اے ہمارے رب! ہم نے یقیناً ایک پکارنے والے کو ایمان کی طرف پکارتے ہوئے سنا کہ اپنے رب پر ایمان لاؤ، پس ہم ایمان لے آئے۔",
+        "fr": "Notre Seigneur, nous avons entendu un appel à la foi qui disait : « Croyez en votre Seigneur », et nous avons cru.",
+        "tr": "Rabbimiz! 'Rabbinize iman edin' diye imana çağıran bir davetçiyi işittik ve iman ettik.",
+        "id": "Ya Tuhan kami, sesungguhnya kami telah mendengar penyeru yang mengajak kepada iman, 'Berimanlah kepada Tuhanmu,' lalu kami pun beriman.",
+        "bn": "হে আমাদের রব, আমরা নিশ্চয়ই একজন আহ্বানকারীর আহ্বান শুনেছি, যিনি ঈমানের দিকে ডেকে বলেছেন, ‘তোমাদের রবের প্রতি ঈমান আনো’; তাই আমরা ঈমান এনেছি।",
+        "ms": "Ya Tuhan kami, sesungguhnya kami telah mendengar seorang penyeru yang menyeru kepada iman, 'Berimanlah kepada Tuhanmu,' lalu kami pun beriman."
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "3:193"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana innana sami'na munadiyan yunadi lil-imani an aminu bi-rabbikum fa-amanna."
+    },
+    {
+      "id": "rabbana-15",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 15,
+      "number": 15,
+      "title": {
+        "en": "Rabbana Dua 15",
+        "ta": "ரப்பனா துஆக்கள் 15",
+        "ml": "റബ്ബനാ ദുആകൾ 15",
+        "ar": "دعاء ربنا 15",
+        "ur": "ربنا کی دعائیں 15",
+        "fr": "invocations Rabbana 15",
+        "tr": "Rabbana duası 15",
+        "id": "Doa Rabbana 15",
+        "bn": "রব্বানা দোয়া 15",
+        "ms": "Doa Rabbana 15"
+      },
+      "arabic": "رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ",
+      "translation": {
+        "en": "Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die with the righteous.",
+        "ta": "எங்கள் இறைவா! எங்கள் பாவங்களை மன்னித்து, எங்கள் தீமைகளை எங்களிடமிருந்து நீக்கி, நல்லோருடன் எங்களை மரணிக்கச் செய்வாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങളുടെ പാപങ്ങൾ പൊറുത്തുതരുകയും ഞങ്ങളുടെ തിന്മകൾ നീക്കുകയും സജ്ജനങ്ങളോടൊപ്പം ഞങ്ങളെ മരിപ്പിക്കുകയും ചെയ്യണമേ.",
+        "ar": "رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ",
+        "ur": "اے ہمارے رب! ہمارے گناہ بخش دے، ہماری برائیاں ہم سے دور فرما اور ہمیں نیک لوگوں کے ساتھ وفات دے۔",
+        "fr": "Notre Seigneur, pardonne-nous nos péchés, efface nos mauvaises actions et fais-nous mourir avec les justes.",
+        "tr": "Rabbimiz! Günahlarımızı bağışla, kötülüklerimizi sil ve canımızı iyilerle beraber al.",
+        "id": "Ya Tuhan kami, ampunilah dosa-dosa kami, hapuskanlah kesalahan-kesalahan kami, dan wafatkanlah kami bersama orang-orang yang saleh.",
+        "bn": "হে আমাদের রব, আমাদের পাপ ক্ষমা করুন, আমাদের মন্দ কাজগুলো মুছে দিন এবং আমাদের সৎকর্মশীলদের সঙ্গে মৃত্যু দিন।",
+        "ms": "Ya Tuhan kami, ampunilah dosa-dosa kami, hapuskanlah kesalahan-kesalahan kami, dan wafatkanlah kami bersama orang yang soleh."
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "3:193"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana faghfir lana dhunubana wa kaffir 'anna sayyiatina wa tawaffana ma'al-abrar."
+    },
+    {
+      "id": "rabbana-16",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 16,
+      "number": 16,
+      "title": {
+        "en": "Rabbana Dua 16",
+        "ta": "ரப்பனா துஆக்கள் 16",
+        "ml": "റബ്ബനാ ദുആകൾ 16",
+        "ar": "دعاء ربنا 16",
+        "ur": "ربنا کی دعائیں 16",
+        "fr": "invocations Rabbana 16",
+        "tr": "Rabbana duası 16",
+        "id": "Doa Rabbana 16",
+        "bn": "রব্বানা দোয়া 16",
+        "ms": "Doa Rabbana 16"
+      },
+      "arabic": "رَبَّنَا ظَلَمْنَا أَنْفُسَنَا وَإِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+      "translation": {
+        "en": "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.",
+        "ta": "எங்கள் இறைவா! நாங்கள் எங்களுக்கே அநீதி இழைத்துக் கொண்டோம். நீ எங்களை மன்னித்து எங்கள் மீது கருணை காட்டாவிட்டால், நிச்சயமாக இழப்பாளர்களில் ஒருவராகிவிடுவோம்.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങൾ ഞങ്ങളോടുതന്നെ അനീതി ചെയ്തു. നീ ഞങ്ങളോട് പൊറുക്കുകയും കരുണ കാണിക്കുകയും ചെയ്തില്ലെങ്കിൽ, തീർച്ചയായും ഞങ്ങൾ നഷ്ടക്കാരിൽപ്പെടും.",
+        "ur": "اے ہمارے رب! ہم نے اپنی جانوں پر ظلم کیا؛ اگر تو نے ہمیں معاف نہ کیا اور ہم پر رحم نہ فرمایا تو ہم یقیناً نقصان اٹھانے والوں میں ہو جائیں گے۔",
+        "fr": "Notre Seigneur, nous nous sommes fait du tort à nous-mêmes. Si Tu ne nous pardonnes pas et ne nous fais pas miséricorde, nous serons assurément parmi les perdants.",
+        "tr": "Rabbimiz! Kendimize zulmettik. Bizi bağışlamaz ve bize merhamet etmezsen mutlaka ziyana uğrayanlardan oluruz.",
+        "id": "Ya Tuhan kami, kami telah menzalimi diri kami sendiri. Jika Engkau tidak mengampuni kami dan merahmati kami, niscaya kami termasuk orang-orang yang rugi.",
+        "bn": "হে আমাদের রব, আমরা নিজেদের প্রতি জুলুম করেছি। আপনি যদি আমাদের ক্ষমা না করেন এবং আমাদের প্রতি দয়া না করেন, তবে আমরা অবশ্যই ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হব।",
+        "ms": "Wahai Tuhan kami, kami telah menzalimi diri kami sendiri. Jika Engkau tidak mengampuni kami dan merahmati kami, nescaya kami termasuk dalam kalangan orang yang rugi.",
+        "ar": "رَبَّنَا ظَلَمْنَا أَنْفُسَنَا وَإِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "7:23"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana zalamna anfusana wa in lam taghfir lana wa tarhamna lanakunanna minal-khasirin."
+    },
+    {
+      "id": "rabbana-17",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 17,
+      "number": 17,
+      "title": {
+        "en": "Rabbana Dua 17",
+        "ta": "ரப்பனா துஆக்கள் 17",
+        "ml": "റബ്ബനാ ദുആകൾ 17",
+        "ar": "دعاء ربنا 17",
+        "ur": "ربنا کی دعائیں 17",
+        "fr": "invocations Rabbana 17",
+        "tr": "Rabbana duası 17",
+        "id": "Doa Rabbana 17",
+        "bn": "রব্বানা দোয়া 17",
+        "ms": "Doa Rabbana 17"
+      },
+      "arabic": "رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ",
+      "translation": {
+        "en": "Our Lord, do not place us among the wrongdoing people.",
+        "ta": "எங்கள் இறைவா! அநீதியிழைத்த மக்களுடன் எங்களை ஆக்கிவிடாதே.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, അക്രമികളായ ജനതയോടൊപ്പം ഞങ്ങളെ ആക്കരുതേ.",
+        "ur": "اے ہمارے رب! ہمیں ظالم لوگوں کے ساتھ نہ کر۔",
+        "fr": "Notre Seigneur, ne nous place pas parmi les gens injustes.",
+        "tr": "Rabbimiz! Bizi zalim toplumla birlikte kılma.",
+        "id": "Ya Tuhan kami, janganlah Engkau tempatkan kami bersama kaum yang zalim.",
+        "bn": "হে আমাদের রব, আমাদেরকে জালিম সম্প্রদায়ের সঙ্গে রাখবেন না।",
+        "ms": "Wahai Tuhan kami, janganlah Engkau tempatkan kami bersama kaum yang zalim.",
+        "ar": "رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "7:47"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana la taj'alna ma'al-qawmiz-zalimin."
+    },
+    {
+      "id": "rabbana-18",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 18,
+      "number": 18,
+      "title": {
+        "en": "Rabbana Dua 18",
+        "ta": "ரப்பனா துஆக்கள் 18",
+        "ml": "റബ്ബനാ ദുആകൾ 18",
+        "ar": "دعاء ربنا 18",
+        "ur": "ربنا کی دعائیں 18",
+        "fr": "invocations Rabbana 18",
+        "tr": "Rabbana duası 18",
+        "id": "Doa Rabbana 18",
+        "bn": "রব্বানা দোয়া 18",
+        "ms": "Doa Rabbana 18"
+      },
+      "arabic": "رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَأَنْتَ خَيْرُ الْفَاتِحِينَ",
+      "translation": {
+        "en": "Our Lord, decide between us and our people in truth, and You are the best of those who give decision.",
+        "ta": "எங்கள் இறைவா! எங்களுக்கும் எங்கள் மக்களுக்கும் இடையில் உண்மையைக் கொண்டு தீர்ப்பளிப்பாயாக. நீயே மிகச் சிறந்த தீர்ப்பளிப்பவனாவாய்.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങൾക്കും ഞങ്ങളുടെ ജനതയ്ക്കുമിടയിൽ സത്യപ്രകാരം നീ വിധിക്കേണമേ. വിധിക്കുന്നവരിൽ ഏറ്റവും ഉത്തമൻ നീയാകുന്നു.",
+        "ur": "اے ہمارے رب! ہمارے اور ہماری قوم کے درمیان حق کے ساتھ فیصلہ فرما، اور تو سب سے بہتر فیصلہ کرنے والا ہے۔",
+        "fr": "Notre Seigneur, tranche entre nous et notre peuple en toute vérité ; Tu es le meilleur des arbitres.",
+        "tr": "Rabbimiz! Bizimle kavmimiz arasında hak ile hükmet. Sen hükmedenlerin en hayırlısısın.",
+        "id": "Ya Tuhan kami, berilah keputusan antara kami dan kaum kami dengan kebenaran. Engkaulah pemberi keputusan yang terbaik.",
+        "bn": "হে আমাদের রব, আমাদের ও আমাদের সম্প্রদায়ের মধ্যে ন্যায়ের সঙ্গে মীমাংসা করে দিন। আপনিই শ্রেষ্ঠ মীমাংসাকারী।",
+        "ms": "Wahai Tuhan kami, berilah keputusan antara kami dengan kaum kami menurut kebenaran. Engkaulah sebaik-baik pemberi keputusan.",
+        "ar": "رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَأَنْتَ خَيْرُ الْفَاتِحِينَ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "7:89"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana iftah baynana wa bayna qawmina bil-haqqi wa anta khayrul-fatihin."
+    },
+    {
+      "id": "rabbana-19",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 19,
+      "number": 19,
+      "title": {
+        "en": "Rabbana Dua 19",
+        "ta": "ரப்பனா துஆக்கள் 19",
+        "ml": "റബ്ബനാ ദുആകൾ 19",
+        "ar": "دعاء ربنا 19",
+        "ur": "ربنا کی دعائیں 19",
+        "fr": "invocations Rabbana 19",
+        "tr": "Rabbana duası 19",
+        "id": "Doa Rabbana 19",
+        "bn": "রব্বানা দোয়া 19",
+        "ms": "Doa Rabbana 19"
+      },
+      "arabic": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
+      "translation": {
+        "en": "Our Lord, pour upon us patience and let us die as Muslims.",
+        "ta": "எங்கள் இறைவா! எங்கள் மீது பொறுமையைப் பொழிவாயாக; முஸ்லிம்களாக இருக்கும்போதே எங்களை மரணிக்கச் செய்வாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങളുടെ മേൽ ക്ഷമ ചൊരിയേണമേ; മുസ്‌ലിംകളായിരിക്കെ ഞങ്ങളെ മരിപ്പിക്കേണമേ.",
+        "ur": "اے ہمارے رب! ہم پر صبر انڈیل دے اور ہمیں مسلمان ہونے کی حالت میں وفات دے۔",
+        "fr": "Notre Seigneur, répands sur nous la patience et fais-nous mourir en musulmans.",
+        "tr": "Rabbimiz! Üzerimize sabır yağdır ve canımızı Müslümanlar olarak al.",
+        "id": "Ya Tuhan kami, limpahkanlah kesabaran kepada kami dan wafatkanlah kami dalam keadaan muslim.",
+        "bn": "হে আমাদের রব, আমাদের ওপর ধৈর্য ঢেলে দিন এবং মুসলিম অবস্থায় আমাদের মৃত্যু দিন।",
+        "ms": "Wahai Tuhan kami, limpahkanlah kesabaran kepada kami dan wafatkanlah kami dalam keadaan Muslim.",
+        "ar": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "7:126"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana afrigh 'alayna sabran wa tawaffana muslimin."
+    },
+    {
+      "id": "rabbana-20",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 20,
+      "number": 20,
+      "title": {
+        "en": "Rabbana Dua 20",
+        "ta": "ரப்பனா துஆக்கள் 20",
+        "ml": "റബ്ബനാ ദുആകൾ 20",
+        "ar": "دعاء ربنا 20",
+        "ur": "ربنا کی دعائیں 20",
+        "fr": "invocations Rabbana 20",
+        "tr": "Rabbana duası 20",
+        "id": "Doa Rabbana 20",
+        "bn": "রব্বানা দোয়া 20",
+        "ms": "Doa Rabbana 20"
+      },
+      "arabic": "رَبَّنَا اغْفِرْ لِي وَلِأَخِي وَأَدْخِلْنَا فِي رَحْمَتِكَ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ",
+      "translation": {
+        "en": "My Lord, forgive me and my brother and admit us into Your mercy, for You are the most merciful of the merciful.",
+        "ta": "என் இறைவா! என்னையும் என் சகோதரரையும் மன்னித்து, உன் கருணையில் எங்களைப் பிரவேசிக்கச் செய்வாயாக. கருணை காட்டுவோரில் நீயே மிகச் சிறந்தவன்.",
+        "ml": "എന്റെ രക്ഷിതാവേ, എനിക്കും എന്റെ സഹോദരനും പൊറുത്തുതരേണമേ; ഞങ്ങളെ നിന്റെ കാരുണ്യത്തിൽ പ്രവേശിപ്പിക്കേണമേ. കാരുണ്യം കാണിക്കുന്നവരിൽ ഏറ്റവും ഉത്തമൻ നീയാകുന്നു.",
+        "ur": "اے میرے رب! مجھے اور میرے بھائی کو بخش دے اور ہمیں اپنی رحمت میں داخل فرما۔ تو سب رحم کرنے والوں سے بڑھ کر رحم کرنے والا ہے۔",
+        "fr": "Mon Seigneur, pardonne-moi ainsi qu'à mon frère, fais-nous entrer dans Ta miséricorde ; Tu es le plus miséricordieux des miséricordieux.",
+        "tr": "Rabbim! Beni ve kardeşimi bağışla, bizi rahmetine kabul et. Sen merhamet edenlerin en merhametlisisin.",
+        "id": "Ya Tuhanku, ampunilah aku dan saudaraku, masukkanlah kami ke dalam rahmat-Mu. Engkaulah Yang Maha Penyayang di antara para penyayang.",
+        "bn": "হে আমার রব, আমাকে ও আমার ভাইকে ক্ষমা করুন এবং আমাদেরকে আপনার রহমতে প্রবেশ করান। আপনিই দয়াশীলদের মধ্যে সর্বশ্রেষ্ঠ দয়ালু।",
+        "ms": "Wahai Tuhanku, ampunilah aku dan saudaraku, serta masukkanlah kami ke dalam rahmat-Mu. Engkaulah Yang Maha Penyayang antara para penyayang.",
+        "ar": "رَبَّنَا اغْفِرْ لِي وَلِأَخِي وَأَدْخِلْنَا فِي رَحْمَتِكَ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "7:149"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana ighfir li wa li-akhi wa adkhilna fi rahmatika wa anta arhamur-rahimin."
+    },
+    {
+      "id": "rabbana-21",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 21,
+      "number": 21,
+      "title": {
+        "en": "Rabbana Dua 21",
+        "ta": "ரப்பனா துஆக்கள் 21",
+        "ml": "റബ്ബനാ ദുആകൾ 21",
+        "ar": "دعاء ربنا 21",
+        "ur": "ربنا کی دعائیں 21",
+        "fr": "invocations Rabbana 21",
+        "tr": "Rabbana duası 21",
+        "id": "Doa Rabbana 21",
+        "bn": "রব্বানা দোয়া 21",
+        "ms": "Doa Rabbana 21"
+      },
+      "arabic": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلْقَوْمِ الظَّالِمِينَ",
+      "translation": {
+        "en": "Our Lord, do not make us a trial for the wrongdoing people.",
+        "ta": "எங்கள் இறைவா! அநீதியிழைத்த மக்களுக்கு எங்களை ஒரு சோதனையாக ஆக்காதே.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, അക്രമികളായ ജനതയ്ക്ക് ഞങ്ങളെ ഒരു പരീക്ഷണമാക്കരുതേ.",
+        "ur": "اے ہمارے رب! ہمیں ظالم لوگوں کے لیے آزمائش نہ بنا۔",
+        "fr": "Notre Seigneur, ne fais pas de nous une épreuve pour les gens injustes.",
+        "tr": "Rabbimiz! Bizi zalim kavim için bir imtihan vesilesi kılma.",
+        "id": "Ya Tuhan kami, janganlah Engkau jadikan kami sebagai cobaan bagi kaum yang zalim.",
+        "bn": "হে আমাদের রব, জালিম সম্প্রদায়ের জন্য আমাদেরকে পরীক্ষার বিষয় করবেন না।",
+        "ms": "Wahai Tuhan kami, janganlah Engkau jadikan kami sebagai ujian bagi kaum yang zalim.",
+        "ar": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلْقَوْمِ الظَّالِمِينَ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "7:151"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana la taj'alna fitnatan lil-qawmiz-zalimin."
+    },
+    {
+      "id": "rabbana-22",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 22,
+      "number": 22,
+      "title": {
+        "en": "Rabbana Dua 22",
+        "ta": "ரப்பனா துஆக்கள் 22",
+        "ml": "റബ്ബനാ ദുആകൾ 22",
+        "ar": "دعاء ربنا 22",
+        "ur": "ربنا کی دعائیں 22",
+        "fr": "invocations Rabbana 22",
+        "tr": "Rabbana duası 22",
+        "id": "Doa Rabbana 22",
+        "bn": "রব্বানা দোয়া 22",
+        "ms": "Doa Rabbana 22"
+      },
+      "arabic": "رَبَّنَا ظَلَمْنَا أَنْفُسَنَا وَإِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+      "translation": {
+        "en": "Our Lord, we have wronged ourselves. If You do not forgive us and have mercy on us, we will surely be among the losers.",
+        "ta": "எங்கள் இறைவா! நாங்கள் எங்களுக்கே அநீதி இழைத்துக் கொண்டோம். நீ எங்களை மன்னித்து எங்கள் மீது கருணை காட்டாவிட்டால், நிச்சயமாக இழப்பாளர்களில் ஒருவராகிவிடுவோம்.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങൾ ഞങ്ങളോടുതന്നെ അനീതി ചെയ്തു. നീ ഞങ്ങളോട് പൊറുക്കുകയും കരുണ കാണിക്കുകയും ചെയ്തില്ലെങ്കിൽ, തീർച്ചയായും ഞങ്ങൾ നഷ്ടക്കാരിൽപ്പെടും.",
+        "ur": "اے ہمارے رب! ہم نے اپنی جانوں پر ظلم کیا۔ اگر تو نے ہمیں معاف نہ کیا اور ہم پر رحم نہ فرمایا تو ہم یقیناً نقصان اٹھانے والوں میں ہو جائیں گے۔",
+        "fr": "Notre Seigneur, nous nous sommes fait du tort à nous-mêmes. Si Tu ne nous pardonnes pas et ne nous fais pas miséricorde, nous serons assurément parmi les perdants.",
+        "tr": "Rabbimiz! Kendimize zulmettik. Bizi bağışlamaz ve bize merhamet etmezsen mutlaka ziyana uğrayanlardan oluruz.",
+        "id": "Ya Tuhan kami, kami telah menzalimi diri kami sendiri. Jika Engkau tidak mengampuni kami dan merahmati kami, niscaya kami termasuk orang-orang yang rugi.",
+        "bn": "হে আমাদের রব, আমরা নিজেদের প্রতি জুলুম করেছি। আপনি যদি আমাদের ক্ষমা না করেন এবং আমাদের প্রতি দয়া না করেন, তবে আমরা অবশ্যই ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হব।",
+        "ms": "Wahai Tuhan kami, kami telah menzalimi diri kami sendiri. Jika Engkau tidak mengampuni kami dan merahmati kami, nescaya kami termasuk dalam kalangan orang yang rugi.",
+        "ar": "رَبَّنَا ظَلَمْنَا أَنْفُسَنَا وَإِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "7:155"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana zalamna anfusana wa in lam taghfir lana wa tarhamna lanakunanna minal-khasirin."
+    },
+    {
+      "id": "rabbana-23",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 23,
+      "number": 23,
+      "title": {
+        "en": "Rabbana Dua 23",
+        "ta": "ரப்பனா துஆக்கள் 23",
+        "ml": "റബ്ബനാ ദുആകൾ 23",
+        "ar": "دعاء ربنا 23",
+        "ur": "ربنا کی دعائیں 23",
+        "fr": "invocations Rabbana 23",
+        "tr": "Rabbana duası 23",
+        "id": "Doa Rabbana 23",
+        "bn": "রব্বানা দোয়া 23",
+        "ms": "Doa Rabbana 23"
+      },
+      "arabic": "رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ",
+      "translation": {
+        "en": "Our Lord, upon You we have relied, and to You we have returned, and to You is the destination.",
+        "ta": "எங்கள் இறைவா! உன்னையே நாங்கள் நம்பியுள்ளோம்; உன்னிடமே திரும்பியுள்ளோம்; உன்னிடமே இறுதித் திரும்புதல் உள்ளது.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, നിന്നിൽ ഞങ്ങൾ ഭരമേൽപ്പിച്ചിരിക്കുന്നു; നിന്നിലേക്കാണ് ഞങ്ങൾ മടങ്ങിയിരിക്കുന്നത്; നിന്നിലേക്കാണ് മടക്കം.",
+        "ur": "اے ہمارے رب! ہم نے تجھ ہی پر بھروسا کیا، تیری ہی طرف رجوع کیا، اور تیری ہی طرف لوٹ کر جانا ہے۔",
+        "fr": "Notre Seigneur, c'est en Toi que nous plaçons notre confiance, vers Toi que nous revenons, et vers Toi est le retour.",
+        "tr": "Rabbimiz! Sana tevekkül ettik, Sana yöneldik ve dönüş yalnız Sanadır.",
+        "id": "Ya Tuhan kami, hanya kepada-Mu kami bertawakal, kepada-Mu kami kembali, dan kepada-Mulah tempat kembali.",
+        "bn": "হে আমাদের রব, আমরা আপনারই ওপর ভরসা করেছি, আপনারই দিকে ফিরেছি এবং আপনারই কাছে ফিরে যেতে হবে।",
+        "ms": "Wahai Tuhan kami, kepada-Mu kami bertawakal, kepada-Mu kami kembali, dan kepada-Mu tempat kembali.",
+        "ar": "رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "9:128"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana 'alayka tawakkalna wa ilayka anabna wa ilaykal-masir."
+    },
+    {
+      "id": "rabbana-24",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 24,
+      "number": 24,
+      "title": {
+        "en": "Rabbana Dua 24",
+        "ta": "ரப்பனா துஆக்கள் 24",
+        "ml": "റബ്ബനാ ദുആകൾ 24",
+        "ar": "دعاء ربنا 24",
+        "ur": "ربنا کی دعائیں 24",
+        "fr": "invocations Rabbana 24",
+        "tr": "Rabbana duası 24",
+        "id": "Doa Rabbana 24",
+        "bn": "রব্বানা দোয়া 24",
+        "ms": "Doa Rabbana 24"
+      },
+      "arabic": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلْقَوْمِ الظَّالِمِينَ",
+      "translation": {
+        "en": "Our Lord, do not make us a trial for the wrongdoing people.",
+        "ta": "எங்கள் இறைவா! அநீதியிழைத்த மக்களுக்கு எங்களை ஒரு சோதனையாக ஆக்காதே.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, അക്രമികളായ ജനതയ്ക്ക് ഞങ്ങളെ ഒരു പരീക്ഷണമാക്കരുതേ.",
+        "ur": "اے ہمارے رب! ہمیں ظالم لوگوں کے لیے آزمائش نہ بنا۔",
+        "fr": "Notre Seigneur, ne fais pas de nous une épreuve pour les gens injustes.",
+        "tr": "Rabbimiz! Bizi zalim kavim için bir imtihan vesilesi kılma.",
+        "id": "Ya Tuhan kami, janganlah Engkau jadikan kami sebagai cobaan bagi kaum yang zalim.",
+        "bn": "হে আমাদের রব, জালিম সম্প্রদায়ের জন্য আমাদেরকে পরীক্ষার বিষয় করবেন না।",
+        "ms": "Wahai Tuhan kami, janganlah Engkau jadikan kami sebagai ujian bagi kaum yang zalim.",
+        "ar": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلْقَوْمِ الظَّالِمِينَ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "10:85"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana la taj'alna fitnatan lil-qawmiz-zalimin."
+    },
+    {
+      "id": "rabbana-25",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 25,
+      "number": 25,
+      "title": {
+        "en": "Rabbana Dua 25",
+        "ta": "ரப்பனா துஆக்கள் 25",
+        "ml": "റബ്ബനാ ദുആകൾ 25",
+        "ar": "دعاء ربنا 25",
+        "ur": "ربنا کی دعائیں 25",
+        "fr": "invocations Rabbana 25",
+        "tr": "Rabbana duası 25",
+        "id": "Doa Rabbana 25",
+        "bn": "রব্বানা দোয়া 25",
+        "ms": "Doa Rabbana 25"
+      },
+      "arabic": "رَبَّنَا نَجِّنَا مِنَ الْقَوْمِ الظَّالِمِينَ",
+      "translation": {
+        "en": "Our Lord, save us from the wrongdoing people.",
+        "ta": "எங்கள் இறைவா! அநீதியிழைத்த மக்களிடமிருந்து எங்களைக் காப்பாற்றுவாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, അക്രമികളായ ജനതയിൽ നിന്ന് ഞങ്ങളെ രക്ഷിക്കേണമേ.",
+        "ur": "اے ہمارے رب! ہمیں ظالم لوگوں سے نجات دے۔",
+        "fr": "Notre Seigneur, sauve-nous des gens injustes.",
+        "tr": "Rabbimiz! Bizi zalim kavimden kurtar.",
+        "id": "Ya Tuhan kami, selamatkanlah kami dari kaum yang zalim.",
+        "bn": "হে আমাদের রব, জালিম সম্প্রদায়ের হাত থেকে আমাদের রক্ষা করুন।",
+        "ms": "Wahai Tuhan kami, selamatkanlah kami daripada kaum yang zalim.",
+        "ar": "رَبَّنَا نَجِّنَا مِنَ الْقَوْمِ الظَّالِمِينَ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "10:86"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana najjina minal-qawmiz-zalimin."
+    },
+    {
+      "id": "rabbana-26",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 26,
+      "number": 26,
+      "title": {
+        "en": "Rabbana Dua 26",
+        "ta": "ரப்பனா துஆக்கள் 26",
+        "ml": "റബ്ബനാ ദുആകൾ 26",
+        "ar": "دعاء ربنا 26",
+        "ur": "ربنا کی دعائیں 26",
+        "fr": "invocations Rabbana 26",
+        "tr": "Rabbana duası 26",
+        "id": "Doa Rabbana 26",
+        "bn": "রব্বানা দোয়া 26",
+        "ms": "Doa Rabbana 26"
+      },
+      "arabic": "رَبِّ اجْعَلْ هَذَا الْبَلَدَ آمِنًا وَاجْنُبْنِي وَبَنِيَّ أَنْ نَعْبُدَ الْأَصْنَامَ",
+      "translation": {
+        "en": "My Lord, make this city secure and keep me and my sons from worshipping idols.",
+        "ta": "என் இறைவா! இந்த நகரத்தைப் பாதுகாப்பானதாக ஆக்குவாயாக; என்னையும் என் மகன்களையும் சிலைகளை வணங்குவதிலிருந்து விலக்குவாயாக.",
+        "ml": "എന്റെ രക്ഷിതാവേ, ഈ നാടിനെ സുരക്ഷിതമാക്കേണമേ; എന്നെയും എന്റെ പുത്രന്മാരെയും വിഗ്രഹങ്ങളെ ആരാധിക്കുന്നതിൽ നിന്ന് അകറ്റേണമേ.",
+        "ur": "اے میرے رب! اس شہر کو امن والا بنا دے اور مجھے اور میری اولاد کو بتوں کی عبادت سے بچا۔",
+        "fr": "Mon Seigneur, fais de cette cité un lieu sûr et préserve-moi, ainsi que mes fils, de l'adoration des idoles.",
+        "tr": "Rabbim! Bu şehri güvenli kıl; beni ve oğullarımı putlara tapmaktan uzak tut.",
+        "id": "Ya Tuhanku, jadikanlah negeri ini aman dan jauhkanlah aku serta anak-anakku dari menyembah berhala.",
+        "bn": "হে আমার রব, এই নগরীকে নিরাপদ করুন এবং আমাকে ও আমার সন্তানদের মূর্তিপূজা থেকে দূরে রাখুন।",
+        "ms": "Wahai Tuhanku, jadikanlah negeri ini aman dan jauhkanlah aku serta anak-anakku daripada menyembah berhala.",
+        "ar": "رَبِّ اجْعَلْ هَذَا الْبَلَدَ آمِنًا وَاجْنُبْنِي وَبَنِيَّ أَنْ نَعْبُدَ الْأَصْنَامَ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "14:35"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbi ij'al hadhal-balada aminan wa ajnubni wa baniyya an na'budal-asnam."
+    },
+    {
+      "id": "rabbana-27",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 27,
+      "number": 27,
+      "title": {
+        "en": "Rabbana Dua 27",
+        "ta": "ரப்பனா துஆக்கள் 27",
+        "ml": "റബ്ബനാ ദുആകൾ 27",
+        "ar": "دعاء ربنا 27",
+        "ur": "ربنا کی دعائیں 27",
+        "fr": "invocations Rabbana 27",
+        "tr": "Rabbana duası 27",
+        "id": "Doa Rabbana 27",
+        "bn": "রব্বানা দোয়া 27",
+        "ms": "Doa Rabbana 27"
+      },
+      "arabic": "رَبِّ إِنَّهُنَّ أَضْلَلْنَ كَثِيرًا مِنَ النَّاسِ",
+      "translation": {
+        "en": "My Lord, indeed they have led astray a great number of the people.",
+        "ta": "என் இறைவா! நிச்சயமாக அவை மக்களில் பலரை வழிதவறச் செய்துவிட்டன.",
+        "ml": "എന്റെ രക്ഷിതാവേ, അവ ജനങ്ങളിൽ പലരെയും വഴിതെറ്റിച്ചിരിക്കുന്നു.",
+        "ur": "اے میرے رب! بے شک انہوں نے بہت سے لوگوں کو گمراہ کر دیا ہے۔",
+        "fr": "Mon Seigneur, elles ont certes égaré un grand nombre de gens.",
+        "tr": "Rabbim! Gerçekten onlar insanlardan birçoğunu saptırdılar.",
+        "id": "Ya Tuhanku, sesungguhnya berhala-berhala itu telah menyesatkan banyak manusia.",
+        "bn": "হে আমার রব, নিশ্চয়ই তারা বহু মানুষকে পথভ্রষ্ট করেছে।",
+        "ms": "Wahai Tuhanku, sesungguhnya berhala-berhala itu telah menyesatkan ramai manusia.",
+        "ar": "رَبِّ إِنَّهُنَّ أَضْلَلْنَ كَثِيرًا مِنَ النَّاسِ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "14:36"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbi innahunna adlalna kathiran minan-nas."
+    },
+    {
+      "id": "rabbana-28",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 28,
+      "number": 28,
+      "title": {
+        "en": "Rabbana Dua 28",
+        "ta": "ரப்பனா துஆக்கள் 28",
+        "ml": "റബ്ബനാ ദുആകൾ 28",
+        "ar": "دعاء ربنا 28",
+        "ur": "ربنا کی دعائیں 28",
+        "fr": "invocations Rabbana 28",
+        "tr": "Rabbana duası 28",
+        "id": "Doa Rabbana 28",
+        "bn": "রব্বানা দোয়া 28",
+        "ms": "Doa Rabbana 28"
+      },
+      "arabic": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِي رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+      "translation": {
+        "en": "My Lord, make me an establisher of prayer, and many from my descendants. Our Lord, and accept my supplication.",
+        "ta": "என் இறைவா! என்னையும் என் சந்ததியினரில் சிலரையும் தொழுகையை நிலைநாட்டுவோராக்குவாயாக. எங்கள் இறைவா! என் பிரார்த்தனையை ஏற்றுக்கொள்வாயாக.",
+        "ml": "എന്റെ രക്ഷിതാവേ, എന്നെയും എന്റെ സന്തതികളിൽ ചിലരെയും നമസ്കാരം നിലനിർത്തുന്നവരാക്കേണമേ. ഞങ്ങളുടെ രക്ഷിതാവേ, എന്റെ പ്രാർഥന സ്വീകരിക്കേണമേ.",
+        "ur": "اے میرے رب! مجھے اور میری اولاد میں سے بعض کو نماز قائم کرنے والا بنا۔ اے ہمارے رب! میری دعا قبول فرما۔",
+        "fr": "Mon Seigneur, fais de moi et de certains de mes descendants des gens assidus à la prière. Notre Seigneur, accepte ma supplication.",
+        "tr": "Rabbim! Beni ve soyumdan gelenleri namazı dosdoğru kılanlardan eyle. Rabbimiz! Duamı kabul buyur.",
+        "id": "Ya Tuhanku, jadikanlah aku dan sebagian keturunanku orang yang tetap mendirikan salat. Ya Tuhan kami, perkenankanlah doaku.",
+        "bn": "হে আমার রব, আমাকে ও আমার বংশধরদের মধ্য থেকে কাউকে সালাত কায়েমকারী করুন। হে আমাদের রব, আমার প্রার্থনা কবুল করুন।",
+        "ms": "Wahai Tuhanku, jadikanlah aku dan sebahagian keturunanku orang yang mendirikan solat. Wahai Tuhan kami, terimalah doaku.",
+        "ar": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِي رَبَّنَا وَتَقَبَّلْ دُعَاءِ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "14:40"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbi ij'alni muqimas-salati wa min dhurriyyati rabbana wa taqabbal du'a'i."
+    },
+    {
+      "id": "rabbana-29",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 29,
+      "number": 29,
+      "title": {
+        "en": "Rabbana Dua 29",
+        "ta": "ரப்பனா துஆக்கள் 29",
+        "ml": "റബ്ബനാ ദുആകൾ 29",
+        "ar": "دعاء ربنا 29",
+        "ur": "ربنا کی دعائیں 29",
+        "fr": "invocations Rabbana 29",
+        "tr": "Rabbana duası 29",
+        "id": "Doa Rabbana 29",
+        "bn": "রব্বানা দোয়া 29",
+        "ms": "Doa Rabbana 29"
+      },
+      "arabic": "رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ",
+      "translation": {
+        "en": "Our Lord, forgive me and my parents and the believers the Day the account is established.",
+        "ta": "எங்கள் இறைவா! கணக்கு நிலைநாட்டப்படும் நாளில் என்னையும் என் பெற்றோரையும் நம்பிக்கையாளர்களையும் மன்னிப்பாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, വിചാരണ നിലവിൽ വരുന്ന ദിവസം എനിക്കും എന്റെ മാതാപിതാക്കൾക്കും വിശ്വാസികൾക്കും പൊറുത്തുതരേണമേ.",
+        "ur": "اے ہمارے رب! جس دن حساب قائم ہوگا، مجھے، میرے والدین کو اور اہل ایمان کو بخش دینا۔",
+        "fr": "Notre Seigneur, pardonne-moi, à mes parents et aux croyants, le jour où le compte sera établi.",
+        "tr": "Rabbimiz! Hesabın görüleceği gün beni, anne babamı ve müminleri bağışla.",
+        "id": "Ya Tuhan kami, ampunilah aku, kedua orang tuaku, dan orang-orang beriman pada hari perhitungan ditegakkan.",
+        "bn": "হে আমাদের রব, যেদিন হিসাব অনুষ্ঠিত হবে সেদিন আমাকে, আমার পিতা-মাতাকে এবং মুমিনদের ক্ষমা করুন।",
+        "ms": "Wahai Tuhan kami, ampunilah aku, kedua-dua ibu bapaku dan orang yang beriman pada hari perhitungan ditegakkan.",
+        "ar": "رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "14:41"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana ighfir li wa li-walidayya wa lil-mu'minina yawma yaqumul-hisab."
+    },
+    {
+      "id": "rabbana-30",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 30,
+      "number": 30,
+      "title": {
+        "en": "Rabbana Dua 30",
+        "ta": "ரப்பனா துஆக்கள் 30",
+        "ml": "റബ്ബനാ ദുആകൾ 30",
+        "ar": "دعاء ربنا 30",
+        "ur": "ربنا کی دعائیں 30",
+        "fr": "invocations Rabbana 30",
+        "tr": "Rabbana duası 30",
+        "id": "Doa Rabbana 30",
+        "bn": "রব্বানা দোয়া 30",
+        "ms": "Doa Rabbana 30"
+      },
+      "arabic": "رَبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ وَاجْعَلْ لِي مِنْ لَدُنْكَ سُلْطَانًا نَصِيرًا",
+      "translation": {
+        "en": "My Lord, cause me to enter a sound entrance and to exit a sound exit and grant me from Yourself a supporting authority.",
+        "ta": "என் இறைவா! என்னை உண்மையான நுழைவிடத்தில் நுழையச் செய்து, உண்மையான வெளியேற்றத்துடன் வெளியேற்றுவாயாக; உன்னிடமிருந்து எனக்கு உதவும் அதிகாரத்தை வழங்குவாயாக.",
+        "ml": "എന്റെ രക്ഷിതാവേ, സത്യസന്ധമായ പ്രവേശനത്തിലൂടെ എന്നെ പ്രവേശിപ്പിക്കുകയും സത്യസന്ധമായ പുറപ്പെടലിലൂടെ എന്നെ പുറപ്പെടുവിക്കുകയും ചെയ്യേണമേ; നിന്റെ പക്കൽ നിന്ന് സഹായിക്കുന്ന അധികാരം എനിക്ക് നൽകേണമേ.",
+        "ur": "اے میرے رب! مجھے سچائی کے ساتھ داخل فرما اور سچائی کے ساتھ نکال، اور اپنے پاس سے میرے لیے مددگار اقتدار عطا فرما۔",
+        "fr": "Mon Seigneur, fais-moi entrer par une entrée véridique et sortir par une sortie véridique, et accorde-moi de Ta part une autorité secourable.",
+        "tr": "Rabbim! Beni doğrulukla gireceğim bir yere sok, doğrulukla çıkacağım bir yerden çıkar ve katından bana yardımcı bir güç ver.",
+        "id": "Ya Tuhanku, masukkanlah aku dengan cara yang benar dan keluarkanlah aku dengan cara yang benar, serta berilah aku dari sisi-Mu kekuasaan yang menolong.",
+        "bn": "হে আমার রব, আমাকে সত্যতার সঙ্গে প্রবেশ করান এবং সত্যতার সঙ্গে বের করুন; আর আপনার পক্ষ থেকে আমাকে সহায়ক কর্তৃত্ব দান করুন।",
+        "ms": "Wahai Tuhanku, masukkanlah aku dengan cara yang benar dan keluarkanlah aku dengan cara yang benar, serta kurniakanlah kepadaku daripada sisi-Mu kekuasaan yang membantu.",
+        "ar": "رَبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ وَاجْعَلْ لِي مِنْ لَدُنْكَ سُلْطَانًا نَصِيرًا"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "17:80"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbi adkhilni mudkhala sidqin wa akhrijni mukhraja sidqin waj'al li min ladunka sultanan nasira."
+    },
+    {
+      "id": "rabbana-31",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 31,
+      "number": 31,
+      "title": {
+        "en": "Rabbana Dua 31",
+        "ta": "ரப்பனா துஆக்கள் 31",
+        "ml": "റബ്ബനാ ദുആകൾ 31",
+        "ar": "دعاء ربنا 31",
+        "ur": "ربنا کی دعائیں 31",
+        "fr": "invocations Rabbana 31",
+        "tr": "Rabbana duası 31",
+        "id": "Doa Rabbana 31",
+        "bn": "রব্বানা দোয়া 31",
+        "ms": "Doa Rabbana 31"
+      },
+      "arabic": "رَبَّنَا آتِنَا مِنْ لَدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+      "translation": {
+        "en": "Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.",
+        "ta": "எங்கள் இறைவா! உன்னிடமிருந்து எங்களுக்கு அருளை வழங்கி, எங்கள் காரியத்தில் எங்களுக்கு நேர்வழியை ஏற்படுத்துவாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, നിന്റെ പക്കൽ നിന്ന് ഞങ്ങൾക്ക് കാരുണ്യം നൽകുകയും ഞങ്ങളുടെ കാര്യത്തിൽ ശരിയായ മാർഗം ഒരുക്കുകയും ചെയ്യേണമേ.",
+        "ur": "اے ہمارے رب! ہمیں اپنے پاس سے رحمت عطا فرما اور ہمارے معاملے میں ہمارے لیے درست رہنمائی مہیا کر۔",
+        "fr": "Notre Seigneur, accorde-nous une miséricorde venant de Toi et assure-nous une bonne conduite dans notre affaire.",
+        "tr": "Rabbimiz! Bize katından rahmet ver ve işimizde bize doğru yolu hazırla.",
+        "id": "Ya Tuhan kami, anugerahkanlah rahmat kepada kami dari sisi-Mu dan siapkanlah petunjuk yang tepat bagi urusan kami.",
+        "bn": "হে আমাদের রব, আপনার পক্ষ থেকে আমাদেরকে রহমত দান করুন এবং আমাদের কাজের জন্য সঠিক পথের ব্যবস্থা করুন।",
+        "ms": "Wahai Tuhan kami, kurniakanlah rahmat kepada kami daripada sisi-Mu dan sediakanlah petunjuk yang tepat dalam urusan kami.",
+        "ar": "رَبَّنَا آتِنَا مِنْ لَدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "18:10"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana atina min ladunka rahmatan wa hayyi' lana min amrina rashada."
+    },
+    {
+      "id": "rabbana-32",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 32,
+      "number": 32,
+      "title": {
+        "en": "Rabbana Dua 32",
+        "ta": "ரப்பனா துஆக்கள் 32",
+        "ml": "റബ്ബനാ ദുആകൾ 32",
+        "ar": "دعاء ربنا 32",
+        "ur": "ربنا کی دعائیں 32",
+        "fr": "invocations Rabbana 32",
+        "tr": "Rabbana duası 32",
+        "id": "Doa Rabbana 32",
+        "bn": "রব্বানা দোয়া 32",
+        "ms": "Doa Rabbana 32"
+      },
+      "arabic": "رَبِّ زِدْنِي عِلْمًا",
+      "translation": {
+        "en": "My Lord, increase me in knowledge.",
+        "ta": "என் இறைவா! எனக்கு அறிவை அதிகப்படுத்துவாயாக.",
+        "ml": "എന്റെ രക്ഷിതാവേ, എനിക്ക് അറിവ് വർധിപ്പിച്ചുതരേണമേ.",
+        "ur": "اے میرے رب! میرے علم میں اضافہ فرما۔",
+        "fr": "Mon Seigneur, accrois mon savoir.",
+        "tr": "Rabbim! İlmimi artır.",
+        "id": "Ya Tuhanku, tambahkanlah ilmu kepadaku.",
+        "bn": "হে আমার রব, আমার জ্ঞান বৃদ্ধি করুন।",
+        "ms": "Wahai Tuhanku, tambahkanlah ilmuku.",
+        "ar": "رَبِّ زِدْنِي عِلْمًا"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "20:114"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbi zidni 'ilma."
+    },
+    {
+      "id": "rabbana-33",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 33,
+      "number": 33,
+      "title": {
+        "en": "Rabbana Dua 33",
+        "ta": "ரப்பனா துஆக்கள் 33",
+        "ml": "റബ്ബനാ ദുആകൾ 33",
+        "ar": "دعاء ربنا 33",
+        "ur": "ربنا کی دعائیں 33",
+        "fr": "invocations Rabbana 33",
+        "tr": "Rabbana duası 33",
+        "id": "Doa Rabbana 33",
+        "bn": "রব্বানা দোয়া 33",
+        "ms": "Doa Rabbana 33"
+      },
+      "arabic": "رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنْتَ خَيْرُ الْوَارِثِينَ",
+      "translation": {
+        "en": "My Lord, do not leave me alone, and You are the best of inheritors.",
+        "ta": "என் இறைவா! என்னைத் தனியாக விட்டுவிடாதே; வாரிசுகளில் நீயே மிகச் சிறந்தவன்.",
+        "ml": "എന്റെ രക്ഷിതാവേ, എന്നെ ഏകനായി വിട്ടേക്കരുതേ; അനന്തരാവകാശികളിൽ നീയാകുന്നു ഏറ്റവും ഉത്തമൻ.",
+        "ur": "اے میرے رب! مجھے اکیلا نہ چھوڑ، اور تو سب وارثوں سے بہتر ہے۔",
+        "fr": "Mon Seigneur, ne me laisse pas seul ; Tu es le meilleur des héritiers.",
+        "tr": "Rabbim! Beni yalnız bırakma. Sen mirasçıların en hayırlısısın.",
+        "id": "Ya Tuhanku, janganlah Engkau membiarkanku hidup seorang diri; Engkaulah sebaik-baik pewaris.",
+        "bn": "হে আমার রব, আমাকে একা ছেড়ে দেবেন না; আপনিই সর্বোত্তম উত্তরাধিকারী।",
+        "ms": "Wahai Tuhanku, janganlah Engkau membiarkan aku bersendirian; Engkaulah sebaik-baik pewaris.",
+        "ar": "رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنْتَ خَيْرُ الْوَارِثِينَ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "21:89"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbi la tadharni fardan wa anta khayrul-warithin."
+    },
+    {
+      "id": "rabbana-34",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 34,
+      "number": 34,
+      "title": {
+        "en": "Rabbana Dua 34",
+        "ta": "ரப்பனா துஆக்கள் 34",
+        "ml": "റബ്ബനാ ദുആകൾ 34",
+        "ar": "دعاء ربنا 34",
+        "ur": "ربنا کی دعائیں 34",
+        "fr": "invocations Rabbana 34",
+        "tr": "Rabbana duası 34",
+        "id": "Doa Rabbana 34",
+        "bn": "রব্বানা দোয়া 34",
+        "ms": "Doa Rabbana 34"
+      },
+      "arabic": "رَبِّ أَنْزِلْنِي مُنْزَلًا مُبَارَكًا وَأَنْتَ خَيْرُ الْمُنْزِلِينَ",
+      "translation": {
+        "en": "My Lord, let me land at a blessed landing place, and You are the best to accommodate us.",
+        "ta": "என் இறைவா! என்னை அருள்மிக்க இறங்குமிடத்தில் இறங்கச் செய்வாயாக; இறங்கச் செய்வோரில் நீயே மிகச் சிறந்தவன்.",
+        "ml": "എന്റെ രക്ഷിതാവേ, അനുഗ്രഹീതമായ ഒരു സ്ഥലത്ത് എന്നെ ഇറക്കേണമേ; ഇറക്കുന്നതിൽ ഏറ്റവും ഉത്തമൻ നീയാകുന്നു.",
+        "ur": "اے میرے رب! مجھے بابرکت مقام پر اتار، اور تو اتارنے والوں میں سب سے بہتر ہے۔",
+        "fr": "Mon Seigneur, fais-moi débarquer en un lieu béni ; Tu es le meilleur de ceux qui accordent l'hospitalité.",
+        "tr": "Rabbim! Beni mübarek bir yere indir. Sen konuk edenlerin en hayırlısısın.",
+        "id": "Ya Tuhanku, tempatkanlah aku di tempat yang diberkahi. Engkaulah sebaik-baik pemberi tempat.",
+        "bn": "হে আমার রব, আমাকে বরকতময় স্থানে অবতরণ করান; আপনিই শ্রেষ্ঠ অবতরণকারী।",
+        "ms": "Wahai Tuhanku, tempatkanlah aku di tempat yang diberkati; Engkaulah sebaik-baik pemberi tempat.",
+        "ar": "رَبِّ أَنْزِلْنِي مُنْزَلًا مُبَارَكًا وَأَنْتَ خَيْرُ الْمُنْزِلِينَ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "23:29"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbi anzilni munzalan mubarakan wa anta khayrul-munzilin."
+    },
+    {
+      "id": "rabbana-35",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 35,
+      "number": 35,
+      "title": {
+        "en": "Rabbana Dua 35",
+        "ta": "ரப்பனா துஆக்கள் 35",
+        "ml": "റബ്ബനാ ദുആകൾ 35",
+        "ar": "دعاء ربنا 35",
+        "ur": "ربنا کی دعائیں 35",
+        "fr": "invocations Rabbana 35",
+        "tr": "Rabbana duası 35",
+        "id": "Doa Rabbana 35",
+        "bn": "রব্বানা দোয়া 35",
+        "ms": "Doa Rabbana 35"
+      },
+      "arabic": "رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ",
+      "translation": {
+        "en": "My Lord, then do not place me among the wrongdoing people.",
+        "ta": "என் இறைவா! அநீதியிழைத்த மக்களுடன் என்னை ஆக்கிவிடாதே.",
+        "ml": "എന്റെ രക്ഷിതാവേ, അക്രമികളായ ജനതയോടൊപ്പം എന്നെ ആക്കരുതേ.",
+        "ur": "اے میرے رب! مجھے ظالم لوگوں میں شامل نہ فرما۔",
+        "fr": "Mon Seigneur, ne me place pas parmi les gens injustes.",
+        "tr": "Rabbim! Beni zalim topluluğun içinde kılma.",
+        "id": "Ya Tuhanku, janganlah Engkau tempatkan aku di antara kaum yang zalim.",
+        "bn": "হে আমার রব, আমাকে জালিম সম্প্রদায়ের অন্তর্ভুক্ত করবেন না।",
+        "ms": "Wahai Tuhanku, janganlah Engkau tempatkan aku dalam kalangan kaum yang zalim.",
+        "ar": "رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "23:94"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbi fala taj'alni fil-qawmiz-zalimin."
+    },
+    {
+      "id": "rabbana-36",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 36,
+      "number": 36,
+      "title": {
+        "en": "Rabbana Dua 36",
+        "ta": "ரப்பனா துஆக்கள் 36",
+        "ml": "റബ്ബനാ ദുആകൾ 36",
+        "ar": "دعاء ربنا 36",
+        "ur": "ربنا کی دعائیں 36",
+        "fr": "invocations Rabbana 36",
+        "tr": "Rabbana duası 36",
+        "id": "Doa Rabbana 36",
+        "bn": "রব্বানা দোয়া 36",
+        "ms": "Doa Rabbana 36"
+      },
+      "arabic": "رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنْتَ خَيْرُ الرَّاحِمِينَ",
+      "translation": {
+        "en": "Our Lord, we have believed, so forgive us and have mercy upon us, and You are the best of the merciful.",
+        "ta": "எங்கள் இறைவா! நாங்கள் நம்பிக்கை கொண்டோம்; ஆகவே எங்களை மன்னித்து எங்கள் மீது கருணை காட்டுவாயாக. கருணை காட்டுவோரில் நீயே மிகச் சிறந்தவன்.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങൾ വിശ്വസിച്ചിരിക്കുന്നു; അതിനാൽ ഞങ്ങളോട് പൊറുക്കുകയും കരുണ കാണിക്കുകയും ചെയ്യേണമേ. കരുണ കാണിക്കുന്നവരിൽ ഏറ്റവും ഉത്തമൻ നീയാകുന്നു.",
+        "ur": "اے ہمارے رب! ہم ایمان لے آئے، پس ہمیں بخش دے اور ہم پر رحم فرما؛ تو سب رحم کرنے والوں سے بہتر ہے۔",
+        "fr": "Notre Seigneur, nous avons cru ; pardonne-nous et fais-nous miséricorde. Tu es le meilleur des miséricordieux.",
+        "tr": "Rabbimiz! İman ettik; bizi bağışla ve bize merhamet et. Sen merhamet edenlerin en hayırlısısın.",
+        "id": "Ya Tuhan kami, kami telah beriman, maka ampunilah kami dan rahmatilah kami. Engkaulah sebaik-baik pemberi rahmat.",
+        "bn": "হে আমাদের রব, আমরা ঈমান এনেছি; তাই আমাদের ক্ষমা করুন ও আমাদের প্রতি দয়া করুন। আপনিই শ্রেষ্ঠ দয়ালু।",
+        "ms": "Wahai Tuhan kami, kami telah beriman; maka ampunilah kami dan rahmatilah kami. Engkaulah sebaik-baik pemberi rahmat.",
+        "ar": "رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنْتَ خَيْرُ الرَّاحِمِينَ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "23:109"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana amanna faghfir lana warhamna wa anta khayrur-rahimin."
+    },
+    {
+      "id": "rabbana-37",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 37,
+      "number": 37,
+      "title": {
+        "en": "Rabbana Dua 37",
+        "ta": "ரப்பனா துஆக்கள் 37",
+        "ml": "റബ്ബനാ ദുആകൾ 37",
+        "ar": "دعاء ربنا 37",
+        "ur": "ربنا کی دعائیں 37",
+        "fr": "invocations Rabbana 37",
+        "tr": "Rabbana duası 37",
+        "id": "Doa Rabbana 37",
+        "bn": "রব্বানা দোয়া 37",
+        "ms": "Doa Rabbana 37"
+      },
+      "arabic": "رَبِّ اغْفِرْ وَارْحَمْ وَأَنْتَ خَيْرُ الرَّاحِمِينَ",
+      "translation": {
+        "en": "My Lord, forgive and have mercy, and You are the best of the merciful.",
+        "ta": "என் இறைவா! மன்னித்து, கருணை காட்டுவாயாக; கருணை காட்டுவோரில் நீயே மிகச் சிறந்தவன்.",
+        "ml": "എന്റെ രക്ഷിതാവേ, പൊറുത്തുതരേണമേ, കരുണ കാണിക്കേണമേ; കരുണ കാണിക്കുന്നവരിൽ ഏറ്റവും ഉത്തമൻ നീയാകുന്നു.",
+        "ur": "اے میرے رب! بخش دے اور رحم فرما، اور تو سب رحم کرنے والوں سے بہتر ہے۔",
+        "fr": "Mon Seigneur, pardonne et fais miséricorde ; Tu es le meilleur des miséricordieux.",
+        "tr": "Rabbim! Bağışla ve merhamet et. Sen merhamet edenlerin en hayırlısısın.",
+        "id": "Ya Tuhanku, ampunilah dan rahmatilah; Engkaulah sebaik-baik pemberi rahmat.",
+        "bn": "হে আমার রব, ক্ষমা করুন ও দয়া করুন; আপনিই শ্রেষ্ঠ দয়ালু।",
+        "ms": "Wahai Tuhanku, ampunilah dan rahmatilah; Engkaulah sebaik-baik pemberi rahmat.",
+        "ar": "رَبِّ اغْفِرْ وَارْحَمْ وَأَنْتَ خَيْرُ الرَّاحِمِينَ"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "23:118"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbi ighfir warham wa anta khayrur-rahimin."
+    },
+    {
+      "id": "rabbana-38",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 38,
+      "number": 38,
+      "title": {
+        "en": "Rabbana Dua 38",
+        "ta": "ரப்பனா துஆக்கள் 38",
+        "ml": "റബ്ബനാ ദുആകൾ 38",
+        "ar": "دعاء ربنا 38",
+        "ur": "ربنا کی دعائیں 38",
+        "fr": "invocations Rabbana 38",
+        "tr": "Rabbana duası 38",
+        "id": "Doa Rabbana 38",
+        "bn": "রব্বানা দোয়া 38",
+        "ms": "Doa Rabbana 38"
+      },
+      "arabic": "رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ إِنَّ عَذَابَهَا كَانَ غَرَامًا",
+      "translation": {
+        "en": "Our Lord, avert from us the punishment of Hell. Indeed, its punishment is ever adhering.",
+        "ta": "எங்கள் இறைவா! நரகத்தின் வேதனையை எங்களிடமிருந்து அகற்றுவாயாக. நிச்சயமாக அதன் வேதனை நிலைத்திருப்பதாகும்.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, നരകശിക്ഷ ഞങ്ങളിൽ നിന്ന് നീക്കേണമേ. തീർച്ചയായും അതിന്റെ ശിക്ഷ സ്ഥിരമായി നിലനിൽക്കുന്നതാണ്.",
+        "ur": "اے ہمارے رب! ہم سے جہنم کا عذاب پھیر دے؛ بے شک اس کا عذاب چمٹിക്കൊ رہنے والا ہے۔",
+        "fr": "Notre Seigneur, écarte de nous le châtiment de l'Enfer ; son châtiment est certes permanent.",
+        "tr": "Rabbimiz! Cehennem azabını bizden uzaklaştır. Onun azabı gerçekten sürekli ve ayrılmazdır.",
+        "id": "Ya Tuhan kami, jauhkanlah dari kami azab Jahanam. Sungguh, azabnya itu melekat dan kekal.",
+        "bn": "হে আমাদের রব, আমাদের থেকে জাহান্নামের শাস্তি দূর করুন। নিশ্চয়ই তার শাস্তি অবিরাম ও স্থায়ী।",
+        "ms": "Wahai Tuhan kami, jauhkanlah daripada kami azab neraka Jahanam. Sesungguhnya azabnya sentiasa melekat.",
+        "ar": "رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ إِنَّ عَذَابَهَا كَانَ غَرَامًا"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "25:65"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana isrif 'anna 'adhaba jahannama inna 'adhabaha kana gharama."
+    },
+    {
+      "id": "rabbana-39",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 39,
+      "number": 39,
+      "title": {
+        "en": "Rabbana Dua 39",
+        "ta": "ரப்பனா துஆக்கள் 39",
+        "ml": "റബ്ബനാ ദുആകൾ 39",
+        "ar": "دعاء ربنا 39",
+        "ur": "ربنا کی دعائیں 39",
+        "fr": "invocations Rabbana 39",
+        "tr": "Rabbana duası 39",
+        "id": "Doa Rabbana 39",
+        "bn": "রব্বানা দোয়া 39",
+        "ms": "Doa Rabbana 39"
+      },
+      "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "translation": {
+        "en": "Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous.",
+        "ta": "எங்கள் இறைவா! எங்கள் துணைவர்களிடமிருந்தும் சந்ததியினரிடமிருந்தும் எங்கள் கண்களுக்கு மகிழ்ச்சி அளிப்பவர்களை வழங்கி, இறையச்சமுடையோருக்கு எங்களை முன்மாதிரியாக ஆக்குவாயாக.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങളുടെ ഇണകളിൽ നിന്നും സന്തതികളിൽ നിന്നും ഞങ്ങളുടെ കണ്ണുകൾക്ക് കുളിർമ നൽകുന്നവരെ ഞങ്ങൾക്ക് നൽകേണമേ; ഭക്തർക്കു ഞങ്ങളെ മാതൃകയാക്കേണമേ.",
+        "ur": "اے ہمارے رب! ہمیں ہماری بیویوں اور اولاد سے آنکھوں کی ٹھنڈک عطا فرما اور ہمیں پرہیزگاروں کا پیشوا بنا۔",
+        "fr": "Notre Seigneur, accorde-nous, en nos épouses et nos descendants, la joie des yeux, et fais de nous un modèle pour les pieux.",
+        "tr": "Rabbimiz! Eşlerimizi ve çocuklarımızı bize göz aydınlığı kıl ve bizi takva sahiplerine önder yap.",
+        "id": "Ya Tuhan kami, anugerahkanlah kepada kami pasangan dan keturunan sebagai penyejuk hati, serta jadikanlah kami teladan bagi orang-orang bertakwa.",
+        "bn": "হে আমাদের রব, আমাদের স্ত্রী ও সন্তানদেরকে আমাদের চোখের শীতলতা দান করুন এবং আমাদেরকে মুত্তাকিদের নেতা করুন।",
+        "ms": "Wahai Tuhan kami, anugerahkanlah kepada kami pasangan dan keturunan yang menyejukkan mata, serta jadikanlah kami teladan bagi orang yang bertakwa.",
+        "ar": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "25:74"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana hab lana min azwajina wa dhurriyyatina qurrata a'yunin waj'alna lil-muttaqina imama."
+    },
+    {
+      "id": "rabbana-40",
+      "category_id": "rabbana-duas",
+      "subcategory_id": null,
+      "order": 40,
+      "number": 40,
+      "title": {
+        "en": "Rabbana Dua 40",
+        "ta": "ரப்பனா துஆக்கள் 40",
+        "ml": "റബ്ബനാ ദുആകൾ 40",
+        "ar": "دعاء ربنا 40",
+        "ur": "ربنا کی دعائیں 40",
+        "fr": "invocations Rabbana 40",
+        "tr": "Rabbana duası 40",
+        "id": "Doa Rabbana 40",
+        "bn": "রব্বানা দোয়া 40",
+        "ms": "Doa Rabbana 40"
+      },
+      "arabic": "رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِلَّذِينَ آمَنُوا",
+      "translation": {
+        "en": "Our Lord, forgive us and our brothers who preceded us in faith and do not put in our hearts any resentment toward those who have believed.",
+        "ta": "எங்கள் இறைவா! நம்பிக்கையில் எங்களுக்கு முன்பே சென்ற எங்கள் சகோதரர்களை மன்னித்து, நம்பிக்கை கொண்டவர்களிடம் எங்கள் உள்ளங்களில் வெறுப்பை ஏற்படுத்தாதே.",
+        "ml": "ഞങ്ങളുടെ രക്ഷിതാവേ, വിശ്വാസത്തിൽ ഞങ്ങൾക്ക് മുമ്പേ കടന്നുപോയ ഞങ്ങളുടെ സഹോദരങ്ങൾക്ക് പൊറുത്തുതരേണമേ; വിശ്വസിച്ചവരോട് ഞങ്ങളുടെ ഹൃദയങ്ങളിൽ വിദ്വേഷം ഉണ്ടാക്കരുതേ.",
+        "ur": "اے ہمارے رب! ہمیں اور ایمان میں ہم سے پہلے گزر جانے والے ہمارے بھائیوں کو بخش دے، اور ایمان والوں کے لیے ہمارے دلوں میں کوئی کینہ نہ رکھ۔",
+        "fr": "Notre Seigneur, pardonne-nous ainsi qu'à nos frères qui nous ont précédés dans la foi, et ne mets dans nos cœurs aucune rancœur envers ceux qui ont cru.",
+        "tr": "Rabbimiz! Bizi ve imanla bizden önce geçmiş kardeşlerimizi bağışla; iman edenlere karşı kalplerimizde kin bırakma.",
+        "id": "Ya Tuhan kami, ampunilah kami dan saudara-saudara kami yang telah beriman lebih dahulu, dan janganlah Engkau tanamkan kedengkian dalam hati kami terhadap orang-orang beriman.",
+        "bn": "হে আমাদের রব, আমাদেরকে এবং ঈমানে আমাদের আগে অগ্রসর হওয়া ভাইদের ক্ষমা করুন; মুমিনদের প্রতি আমাদের অন্তরে কোনো বিদ্বেষ রাখবেন না।",
+        "ms": "Wahai Tuhan kami, ampunilah kami dan saudara-saudara kami yang lebih dahulu beriman, serta janganlah Engkau jadikan dalam hati kami perasaan dengki terhadap orang yang beriman.",
+        "ar": "رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِلَّذِينَ آمَنُوا"
+      },
+      "reference": {
+        "source": "The Noble Quran",
+        "reference_text": "59:10"
+      },
+      "repetition_count": 1,
+      "transliteration": "Rabbana ighfir lana wa li-ikhwanina alladhina sabaquna bil-imani wa la taj'al fi qulubina ghillan lilladhina amanu."
+    }
+  ]
+}

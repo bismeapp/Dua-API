@@ -1,0 +1,29 @@
+{
+  "id": "good-character",
+  "name": {
+    "en": "Good Character",
+    "ar": "حسن الخلق",
+    "ur": "اخلاق",
+    "fr": "Bon Caractère",
+    "tr": "Güzel Ahlak",
+    "id": "Akhlak Mulia",
+    "bn": "সুন্দর চরিত্র",
+    "ms": "Akhlak Mulia",
+    "ta": "நல்ல ஒழுக்கம்",
+    "ml": "സദ്സ്വഭാവം"
+  },
+  "description": {
+    "en": "Category of duas: Good Character"
+  },
+  "parent_id": null,
+  "order": 34,
+  "theme": {
+    "color": "violet",
+    "gradient": "from-violet-400 to-purple-600",
+    "bg": "bg-violet-50",
+    "border": "border-violet-200",
+    "text": "text-violet-700"
+  },
+  "item_count": 2,
+  "data_file": "duas.json"
+}

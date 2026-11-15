@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0.0",
+  "section_id": "duas",
+  "collections": [
+    {
+      "id": "forty-rabbana",
+      "title": { "en": "40 Rabbana Duas" },
+      "category_id": "rabbana-duas",
+      "metadata_file": "duas/categories/rabbana-duas/metadata.json",
+      "data_file": "duas/categories/rabbana-duas/duas.json",
+      "status": "available",
+      "expected_record_count": 40
+    }
+  ]
+}

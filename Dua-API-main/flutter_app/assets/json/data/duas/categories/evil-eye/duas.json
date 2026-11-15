@@ -1,0 +1,43 @@
+{
+  "schema_version": "3.0.0",
+  "category_id": "evil-eye",
+  "count": 1,
+  "duas": [
+    {
+      "id": "ee-1",
+      "category_id": "evil-eye",
+      "subcategory_id": null,
+      "order": 1,
+      "title": {
+        "en": "Protection from Evil Eye",
+        "ar": "الحماية من العين",
+        "ur": "نظرِ بد سے حفاظت",
+        "fr": "Protection contre le Mauvais Œil",
+        "tr": "Nazardan Korunma",
+        "id": "Perlindungan dari 'Ain",
+        "bn": "নজর থেকে সুরক্ষা",
+        "ms": "Perlindungan dari 'Ain",
+        "ta": "கெட்ட பார்வையிலிருந்து பாதுகாப்பு",
+        "ml": "ദൃഷ്ടിയിൽനിന്ന് സംരക്ഷണം"
+      },
+      "arabic": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لاَمَّةٍ",
+      "translation": {
+        "en": "I seek refuge in the perfect words of Allah from every devil and every poisonous reptile, and from every evil eye.",
+        "ar": "أعوذ بكلمات الله التامة من كل شيطان وهامة ومن كل عين لامة",
+        "ur": "میں اللہ کے کامل کلمات کی پناہ مانگتا ہوں ہر شیطان اور ہر زہریلے جانور سے اور ہر بری نظر سے۔",
+        "fr": "Je cherche refuge dans les paroles parfaites d'Allah contre tout diable et tout reptile venimeux, et contre tout mauvais œil.",
+        "tr": "Allah'ın mükemmel kelimelerine her şeytandan ve her zehirli sürüngenden ve her kötü gözden sığınırım.",
+        "id": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari setiap setan dan setiap reptil berbisa, dan dari setiap mata yang jahat.",
+        "bn": "আমি আল্লাহর পূর্ণাঙ্গ বাক্যসমূহে আশ্রয় চাই প্রতিটি শয়তান এবং প্রতিটি বিষাক্ত সরীসৃপ থেকে এবং প্রতিটি খারাপ দৃষ্টি থেকে।",
+        "ms": "Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari setiap syaitan dan setiap reptilia berbisa, dan dari setiap mata yang jahat.",
+        "ta": "அல்லாஹ்வின் முழுமையான வார்த்தைகளில் ஒவ்வொரு ஷைத்தானிடமிருந்தும் ஒவ்வொரு விஷ ஜந்துவிலிருந்தும் மற்றும் ஒவ்வொரு கெட்ட பார்வையிலிருந்தும் நான் புகலளிக்கிறேன்.",
+        "ml": "അല്ലാഹുവിന്റെ പൂർണമായ വാക്കുകളിൽ എല്ലാ പിശാചിൽനിന്നും എല്ലാ വിഷജന്തുവിൽനിന്നും എല്ലാ ദുർദൃഷ്ടിയിൽനിന്നും ഞാൻ അഭയം തേടുന്നു."
+      },
+      "reference": {
+        "source": "Bukhari",
+        "reference_text": "Bukhari 4/118"
+      },
+      "repetition_count": 3
+    }
+  ]
+}

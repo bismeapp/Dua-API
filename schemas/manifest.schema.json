@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://bismeapp.github.io/Dua-API/schemas/manifest.schema.json",
+  "title": "Bismi Radio data manifest",
+  "type": "object",
+  "required": ["schema_version", "name", "data_format", "supported_languages", "main_sections"],
+  "properties": {
+    "schema_version": { "type": "string" },
+    "name": { "type": "string" },
+    "data_format": { "const": "json" },
+    "default_language": { "type": "string" },
+    "supported_languages": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z]{2,3}$" },
+      "uniqueItems": true
+    },
+    "main_sections": {
+      "type": "array",
+      "minItems": 7,
+      "items": {
+        "type": "object",
+        "required": ["id", "order", "title", "index_file", "status"],
+        "properties": {
+          "id": { "type": "string" },
+          "order": { "type": "integer", "minimum": 1 },
+          "title": { "type": "object", "minProperties": 1 },
+          "index_file": { "type": "string" },
+          "status": { "type": "string" }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": true
+}
